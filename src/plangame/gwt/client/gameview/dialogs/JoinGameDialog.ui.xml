@@ -1,0 +1,25 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+	<ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'
+    xmlns:g='urn:import:com.google.gwt.user.client.ui'
+    xmlns:c='urn:import:plangame.gwt.client.widgets.controls'>
+  
+  <ui:with type="plangame.gwt.client.resource.locale.Lang" field="lang" />
+  
+  <g:HTMLPanel height="400px">
+    <g:Grid width="100%" ui:field="tblPlayer">
+      <g:row>
+        <g:cell width="50%"><ui:text from="{lang.JoinDialog_PlayerName}" />:</g:cell>
+        <g:customCell width="50%"><g:TextBox ui:field="txtPlayerName" /> </g:customCell>
+      </g:row>
+    </g:Grid>
+    <g:HTML> &nbsp; </g:HTML>
+    <g:HorizontalPanel ui:field="pnlJoin" height="300px" width="100%">
+      <c:DataListBox ui:field="lstServers" width="400px" height="250px" />
+      <g:VerticalPanel width="100px">
+        <g:Button ui:field="btnJoin" width="80px"><ui:text from="{lang.JoinDialog_Join}" /></g:Button>
+        <g:Button ui:field="btnRefresh" width="80px"><ui:text from="{lang.JoinDialog_Refresh}" /></g:Button>
+        <g:Button ui:field="btnDisconnect" width="80px"><ui:text from="{lang.JoinDialog_Disconnect}" /></g:Button>
+      </g:VerticalPanel>
+    </g:HorizontalPanel>
+  </g:HTMLPanel>
+</ui:UiBinder>

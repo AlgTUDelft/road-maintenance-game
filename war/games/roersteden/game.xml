@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Game Version="V5" Description="Regio Roersteden">
+  <Infrastructure Filename="infra.xml" />
+  <Tasks Filename="tasks.xml" />
+  <Portfolios Filename="portfolios.xml" />
+  <PaymentMechanism Filename="mech.xml" />
+  
+  <Options>
+    <Duration Value="52w" />
+  </Options>
+</Game>

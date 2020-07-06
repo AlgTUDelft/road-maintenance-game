@@ -1,0 +1,498 @@
+Log started Mon Feb 03 12:38:55 CET 2014
+Types of log messages: Event Info Warning Error Verbose System
+[12:38:55 S Server251755 (Info)] Server started
+[12:45:55 S Server251755 (Event)] Added client 'SM642146' to event map
+[12:45:55 S Server251755 (Info)] Client 'SM642146' connected to the server
+[12:45:56 S Server251755 (Verbose)] Requested game server list
+[12:45:56 C SM642146 (Event)] Started listening
+[12:45:56 C SM642146 (Info)] Successfully connected to main server
+[13:00:10 G Game316635 (Verbose)] Server changed state to 'Initialising'
+[13:00:12 G Game316635 (Info)] Game file 'games/lvo/game.xml' loaded
+[13:00:13 G Game316635 (Info)] Gameserver 'Game316635' now active
+[13:00:13 S Server251755 (Info)] Game server with ID 'Game316635' has been created
+[13:01:02 C null (Verbose)] Changed state to 'Initialising'
+[13:01:03 S Server251755 (Event)] Added client 'GM274708' to event map
+[13:01:03 S Server251755 (Info)] Client 'GM274708' connected to the server
+[13:01:03 C GM274708 (Event)] Started listening
+[13:01:03 C GM274708 (Info)] Successfully connected to main server
+[13:01:05 S Server251755 (Verbose)] Requested game server list
+[13:01:08 C GM274708 (Verbose)] Changed state to 'Initialising'
+[13:01:14 C GM274708 (Info)] Successfully joined game server '[Game316635] Spel LVO dag (0 / 5)'
+[13:01:27 S Server251755 (Event)] Added client 'SP620643' to event map
+[13:01:27 S Server251755 (Info)] Client 'SP620643' connected to the server
+[13:01:27 C SP620643 (Event)] Started listening
+[13:01:27 C SP620643 (Info)] Successfully connected to main server
+[13:01:29 S Server251755 (Verbose)] Requested game server list
+[13:01:45 S Server251755 (Event)] Event 'Join Game' fired for client GM274708
+[13:01:45 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP620643
+[13:01:45 S Server251755 (Event)] Event 'Update Client State Event' fired for client GM274708
+[13:01:45 G Game316635 (Verbose)] Changed state of client 'SP620643' to AwaitingPortfolio
+[13:01:45 C SP620643 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:01:45 C SP620643 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[13:01:46 C GM274708 (Event)] Received event 'Join Game', sender ID: Game316635
+[13:01:46 C GM274708 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:01:46 C SP620643 (Info)] Successfully joined game server '[Game316635] Spel LVO dag (1 / 5)'
+[13:02:02 S Server251755 (Verbose)] Client 'SP620643' tries to reconnect
+[13:02:02 S Server251755 (Verbose)] Client 'SP620643' was not flagged for removal
+[13:02:02 S Server251755 (Event)] Reset event map for client 'SP620643'
+[13:02:02 S Server251755 (Verbose)] Client with ID 'SP620643' has reconnected to the server
+[13:02:02 C SP620643 (Event)] Started listening
+[13:02:02 C SP620643 (Info)] Successfully re-connected to main server
+[13:02:02 C SP620643 (Verbose)] Restoring client state
+[13:02:13 S Server251755 (Event)] Added client 'SP147046' to event map
+[13:02:13 S Server251755 (Info)] Client 'SP147046' connected to the server
+[13:02:13 C SP147046 (Event)] Started listening
+[13:02:13 C SP147046 (Info)] Successfully connected to main server
+[13:02:14 S Server251755 (Verbose)] Requested game server list
+[13:02:50 S Server251755 (Event)] Event 'Join Game' fired for client GM274708
+[13:02:50 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP147046
+[13:02:50 S Server251755 (Event)] Event 'Update Client State Event' fired for client GM274708
+[13:02:50 G Game316635 (Verbose)] Changed state of client 'SP147046' to AwaitingPortfolio
+[13:02:50 C SP147046 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:02:50 C SP147046 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[13:02:51 C GM274708 (Event)] Received event 'Join Game', sender ID: Game316635
+[13:02:51 C GM274708 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:02:51 C SP147046 (Info)] U doet nu mee aan het spel '[Game316635] Spel LVO dag (2 / 5)'
+[13:02:59 S Server251755 (Event)] Added client 'SP145111' to event map
+[13:02:59 S Server251755 (Info)] Client 'SP145111' connected to the server
+[13:02:59 C SP145111 (Event)] Started listening
+[13:02:59 C SP145111 (Info)] Successfully connected to main server
+[13:03:01 S Server251755 (Verbose)] Requested game server list
+[13:03:09 S Server251755 (Event)] Event 'Join Game' fired for client GM274708
+[13:03:09 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP145111
+[13:03:09 S Server251755 (Event)] Event 'Update Client State Event' fired for client GM274708
+[13:03:09 G Game316635 (Verbose)] Changed state of client 'SP145111' to AwaitingPortfolio
+[13:03:10 C SP145111 (Info)] U doet nu mee aan het spel '[Game316635] Spel LVO dag (3 / 5)'
+[13:03:10 C SP145111 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:03:10 C SP145111 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[13:03:10 C GM274708 (Event)] Received event 'Join Game', sender ID: Game316635
+[13:03:10 C GM274708 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:03:14 S Server251755 (Event)] Added client 'SP95942' to event map
+[13:03:14 S Server251755 (Info)] Client 'SP95942' connected to the server
+[13:03:14 C SP95942 (Event)] Started listening
+[13:03:14 C SP95942 (Info)] Successfully connected to main server
+[13:03:15 S Server251755 (Verbose)] Requested game server list
+[13:03:19 S Server251755 (Event)] Event 'Join Game' fired for client GM274708
+[13:03:19 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP95942
+[13:03:19 S Server251755 (Event)] Event 'Update Client State Event' fired for client GM274708
+[13:03:19 G Game316635 (Verbose)] Changed state of client 'SP95942' to AwaitingPortfolio
+[13:03:19 C GM274708 (Event)] Received event 'Join Game', sender ID: Game316635
+[13:03:19 C GM274708 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:03:20 C SP95942 (Info)] U doet nu mee aan het spel '[Game316635] Spel LVO dag (4 / 5)'
+[13:03:20 C SP95942 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:03:20 C SP95942 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[13:03:24 S Server251755 (Event)] Added client 'SP596819' to event map
+[13:03:24 S Server251755 (Info)] Client 'SP596819' connected to the server
+[13:03:24 C SP596819 (Event)] Started listening
+[13:03:24 C SP596819 (Info)] Successfully connected to main server
+[13:03:25 S Server251755 (Verbose)] Requested game server list
+[13:03:28 S Server251755 (Event)] Event 'Join Game' fired for client GM274708
+[13:03:28 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP596819
+[13:03:28 S Server251755 (Event)] Event 'Update Client State Event' fired for client GM274708
+[13:03:28 G Game316635 (Verbose)] Changed state of client 'SP596819' to AwaitingPortfolio
+[13:03:28 C GM274708 (Event)] Received event 'Join Game', sender ID: Game316635
+[13:03:28 C GM274708 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:03:29 C SP596819 (Info)] U doet nu mee aan het spel '[Game316635] Spel LVO dag (5 / 5)'
+[13:03:29 C SP596819 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:03:29 C SP596819 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[13:03:39 S Server251755 (Verbose)] Client 'SP620643' tries to reconnect
+[13:03:39 S Server251755 (Verbose)] Client 'SP620643' was not flagged for removal
+[13:03:39 S Server251755 (Event)] Reset event map for client 'SP620643'
+[13:03:39 S Server251755 (Verbose)] Client with ID 'SP620643' has reconnected to the server
+[13:03:39 C SP620643 (Event)] Started listening
+[13:03:39 C SP620643 (Info)] Successfully re-connected to main server
+[13:03:39 C SP620643 (Verbose)] Restoring client state
+[13:04:02 S Server251755 (Verbose)] Client 'SP620643' tries to reconnect
+[13:04:02 S Server251755 (Verbose)] Client 'SP620643' was not flagged for removal
+[13:04:02 S Server251755 (Event)] Reset event map for client 'SP620643'
+[13:04:02 S Server251755 (Verbose)] Client with ID 'SP620643' has reconnected to the server
+[13:04:02 C SP620643 (Event)] Started listening
+[13:04:02 C SP620643 (Info)] Successfully re-connected to main server
+[13:04:02 C SP620643 (Verbose)] Restoring client state
+[13:04:23 G Game316635 (Error)] There is still at least one player that has no portfolio assigned
+[13:04:25 C GM274708 (Info)] Failed to start the game: There is still at least one player that has no portfolio assigned.
+[13:04:31 S Server251755 (Event)] Event 'Assign Portfolio Event' fired for client SP620643
+[13:04:31 S Server251755 (Event)] Event 'Assign Portfolio Event' fired for client GM274708
+[13:04:31 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP620643
+[13:04:31 S Server251755 (Event)] Event 'Update Client State Event' fired for client GM274708
+[13:04:31 G Game316635 (Verbose)] Changed state of client 'SP620643' to WaitingToStart
+[13:04:31 C GM274708 (Event)] Received event 'Assign Portfolio Event', sender ID: Game316635
+[13:04:31 C GM274708 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:04:31 C SP620643 (Event)] Received event 'Assign Portfolio Event', sender ID: Game316635
+[13:04:32 C SP620643 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:04:32 C SP620643 (Verbose)] Changed client state to 'WaitingToStart'
+[13:04:35 S Server251755 (Event)] Event 'Assign Portfolio Event' fired for client SP147046
+[13:04:35 S Server251755 (Event)] Event 'Assign Portfolio Event' fired for client GM274708
+[13:04:35 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP147046
+[13:04:35 S Server251755 (Event)] Event 'Update Client State Event' fired for client GM274708
+[13:04:35 G Game316635 (Verbose)] Changed state of client 'SP147046' to WaitingToStart
+[13:04:35 C GM274708 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:04:35 C GM274708 (Event)] Received event 'Assign Portfolio Event', sender ID: Game316635
+[13:04:36 C SP147046 (Event)] Received event 'Assign Portfolio Event', sender ID: Game316635
+[13:04:36 C SP147046 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:04:36 C SP147046 (Verbose)] Changed client state to 'WaitingToStart'
+[13:04:39 S Server251755 (Event)] Event 'Assign Portfolio Event' fired for client SP145111
+[13:04:39 S Server251755 (Event)] Event 'Assign Portfolio Event' fired for client GM274708
+[13:04:39 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP145111
+[13:04:39 S Server251755 (Event)] Event 'Update Client State Event' fired for client GM274708
+[13:04:39 G Game316635 (Verbose)] Changed state of client 'SP145111' to WaitingToStart
+[13:04:39 C GM274708 (Event)] Received event 'Assign Portfolio Event', sender ID: Game316635
+[13:04:39 C GM274708 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:04:40 C SP145111 (Event)] Received event 'Assign Portfolio Event', sender ID: Game316635
+[13:04:40 C SP145111 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:04:40 C SP145111 (Verbose)] Changed client state to 'WaitingToStart'
+[13:04:44 S Server251755 (Event)] Event 'Assign Portfolio Event' fired for client SP95942
+[13:04:44 S Server251755 (Event)] Event 'Assign Portfolio Event' fired for client GM274708
+[13:04:44 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP95942
+[13:04:44 S Server251755 (Event)] Event 'Update Client State Event' fired for client GM274708
+[13:04:44 G Game316635 (Verbose)] Changed state of client 'SP95942' to WaitingToStart
+[13:04:44 C GM274708 (Event)] Received event 'Assign Portfolio Event', sender ID: Game316635
+[13:04:44 C GM274708 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:04:44 C SP95942 (Event)] Received event 'Assign Portfolio Event', sender ID: Game316635
+[13:04:44 C SP95942 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:04:44 C SP95942 (Verbose)] Changed client state to 'WaitingToStart'
+[13:04:51 S Server251755 (Event)] Event 'Assign Portfolio Event' fired for client SP596819
+[13:04:51 S Server251755 (Event)] Event 'Assign Portfolio Event' fired for client GM274708
+[13:04:51 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP596819
+[13:04:51 S Server251755 (Event)] Event 'Update Client State Event' fired for client GM274708
+[13:04:51 G Game316635 (Verbose)] Changed state of client 'SP596819' to WaitingToStart
+[13:04:51 C GM274708 (Event)] Received event 'Assign Portfolio Event', sender ID: Game316635
+[13:04:51 C GM274708 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:04:52 C SP596819 (Event)] Received event 'Assign Portfolio Event', sender ID: Game316635
+[13:04:52 C SP596819 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:04:52 C SP596819 (Verbose)] Changed client state to 'WaitingToStart'
+[13:04:54 G Game316635 (Verbose)] Server changed state to 'Starting'
+[13:04:54 S Server251755 (Event)] Event 'Update state event' fired for client GM274708
+[13:04:54 S Server251755 (Event)] Event 'Start game event' fired for client SP145111
+[13:04:54 S Server251755 (Event)] Event 'Start game event' fired for client SP147046
+[13:04:54 S Server251755 (Event)] Event 'Start game event' fired for client SP596819
+[13:04:54 S Server251755 (Event)] Event 'Start game event' fired for client SP620643
+[13:04:54 S Server251755 (Event)] Event 'Start game event' fired for client SP95942
+[13:04:54 S Server251755 (Event)] Event 'Start game event' fired for client GM274708
+[13:04:54 S Server251755 (Event)] Event broadcast notified 6 client(s), sender: Game316635
+[13:04:54 G Game316635 (Verbose)] Server changed state to 'Idle'
+[13:04:54 S Server251755 (Event)] Event 'Update state event' fired for client GM274708
+[13:04:54 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP145111
+[13:04:54 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP147046
+[13:04:54 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP596819
+[13:04:54 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP620643
+[13:04:54 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP95942
+[13:04:54 S Server251755 (Event)] Event 'Update Client State Event' fired for client GM274708
+[13:04:54 G Game316635 (Verbose)] Changed state of client 'SP145111' to Idle
+[13:04:54 G Game316635 (Verbose)] Changed state of client 'SP147046' to Idle
+[13:04:54 G Game316635 (Verbose)] Changed state of client 'SP596819' to Idle
+[13:04:54 G Game316635 (Verbose)] Changed state of client 'SP620643' to Idle
+[13:04:54 G Game316635 (Verbose)] Changed state of client 'SP95942' to Idle
+[13:04:54 C GM274708 (Event)] Received event 'Update state event', sender ID: Game316635
+[13:04:54 C GM274708 (Verbose)] Changed state to 'Starting'
+[13:04:54 C GM274708 (Event)] Received event 'Start game event', sender ID: Game316635
+[13:04:54 C GM274708 (Event)] Received event 'Update state event', sender ID: Game316635
+[13:04:54 C GM274708 (Verbose)] Changed state to 'Idle'
+[13:04:54 C GM274708 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:04:54 C SP147046 (Event)] Received event 'Start game event', sender ID: Game316635
+[13:04:56 C SP147046 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:04:56 C SP147046 (Verbose)] Changed client state to 'Idle'
+[13:04:57 C SP95942 (Event)] Received event 'Start game event', sender ID: Game316635
+[13:04:58 C SP95942 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:04:58 C SP95942 (Verbose)] Changed client state to 'Idle'
+[13:04:59 C SP145111 (Event)] Received event 'Start game event', sender ID: Game316635
+[13:05:00 C SP145111 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:05:00 C SP145111 (Verbose)] Changed client state to 'Idle'
+[13:05:00 C SP620643 (Event)] Received event 'Start game event', sender ID: Game316635
+[13:05:02 C SP620643 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:05:02 C SP620643 (Verbose)] Changed client state to 'Idle'
+[13:05:03 C SP596819 (Event)] Received event 'Start game event', sender ID: Game316635
+[13:05:04 C SP596819 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:05:04 C SP596819 (Verbose)] Changed client state to 'Idle'
+[13:06:55 S Server251755 (Verbose)] Client 'SP596819' tries to reconnect
+[13:06:55 S Server251755 (Verbose)] Client 'SP596819' was not flagged for removal
+[13:06:55 S Server251755 (Event)] Reset event map for client 'SP596819'
+[13:06:55 S Server251755 (Verbose)] Client with ID 'SP596819' has reconnected to the server
+[13:06:55 C SP596819 (Event)] Started listening
+[13:06:55 C SP596819 (Info)] Successfully re-connected to main server
+[13:06:55 C SP596819 (Verbose)] Restoring client state
+[13:06:56 C SP596819 (Verbose)] Changed client state to 'Idle'
+[13:07:13 S Server251755 (Verbose)] Client 'SP620643' tries to reconnect
+[13:07:13 S Server251755 (Verbose)] Client 'SP620643' was not flagged for removal
+[13:07:13 S Server251755 (Event)] Reset event map for client 'SP620643'
+[13:07:13 S Server251755 (Verbose)] Client with ID 'SP620643' has reconnected to the server
+[13:07:14 C SP620643 (Event)] Started listening
+[13:07:14 C SP620643 (Info)] Successfully re-connected to main server
+[13:07:14 C SP620643 (Verbose)] Restoring client state
+[13:07:15 C SP620643 (Verbose)] Changed client state to 'Idle'
+[13:07:43 G Game316635 (Verbose)] Server changed state to 'Starting'
+[13:07:43 S Server251755 (Event)] Event 'Update state event' fired for client GM274708
+[13:07:43 S Server251755 (Event)] Event 'Start game event' fired for client SP145111
+[13:07:43 S Server251755 (Event)] Event 'Start game event' fired for client SP147046
+[13:07:43 S Server251755 (Event)] Event 'Start game event' fired for client SP596819
+[13:07:43 S Server251755 (Event)] Event 'Start game event' fired for client SP620643
+[13:07:43 S Server251755 (Event)] Event 'Start game event' fired for client SP95942
+[13:07:43 S Server251755 (Event)] Event 'Start game event' fired for client GM274708
+[13:07:43 S Server251755 (Event)] Event broadcast notified 6 client(s), sender: Game316635
+[13:07:43 G Game316635 (Verbose)] Server changed state to 'Idle'
+[13:07:43 S Server251755 (Event)] Event 'Update state event' fired for client GM274708
+[13:07:43 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP145111
+[13:07:43 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP147046
+[13:07:43 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP596819
+[13:07:43 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP620643
+[13:07:43 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP95942
+[13:07:43 S Server251755 (Event)] Event 'Update Client State Event' fired for client GM274708
+[13:07:43 G Game316635 (Verbose)] Changed state of client 'SP145111' to Idle
+[13:07:43 G Game316635 (Verbose)] Changed state of client 'SP147046' to Idle
+[13:07:43 G Game316635 (Verbose)] Changed state of client 'SP596819' to Idle
+[13:07:43 G Game316635 (Verbose)] Changed state of client 'SP620643' to Idle
+[13:07:43 G Game316635 (Verbose)] Changed state of client 'SP95942' to Idle
+[13:07:44 C GM274708 (Event)] Received event 'Update state event', sender ID: Game316635
+[13:07:44 C GM274708 (Verbose)] Changed state to 'Starting'
+[13:07:44 C GM274708 (Event)] Received event 'Start game event', sender ID: Game316635
+[13:07:44 C GM274708 (Event)] Received event 'Update state event', sender ID: Game316635
+[13:07:44 C GM274708 (Verbose)] Changed state to 'Idle'
+[13:07:44 C GM274708 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:07:44 C SP620643 (Event)] Received event 'Start game event', sender ID: Game316635
+[13:07:45 C SP620643 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:07:45 C SP620643 (Verbose)] Changed client state to 'Idle'
+[13:07:46 C SP145111 (Event)] Received event 'Start game event', sender ID: Game316635
+[13:07:48 C SP145111 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:07:48 C SP145111 (Verbose)] Changed client state to 'Idle'
+[13:07:48 C SP95942 (Event)] Received event 'Start game event', sender ID: Game316635
+[13:07:50 C SP95942 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:07:50 C SP95942 (Verbose)] Changed client state to 'Idle'
+[13:07:50 C SP596819 (Event)] Received event 'Start game event', sender ID: Game316635
+[13:07:51 C SP596819 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:07:51 C SP596819 (Verbose)] Changed client state to 'Idle'
+[13:07:51 C SP147046 (Event)] Received event 'Start game event', sender ID: Game316635
+[13:07:53 C SP147046 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:07:53 C SP147046 (Verbose)] Changed client state to 'Idle'
+[13:08:10 S Server251755 (Verbose)] Client 'SP620643' tries to reconnect
+[13:08:10 S Server251755 (Verbose)] Client 'SP620643' was not flagged for removal
+[13:08:10 S Server251755 (Event)] Reset event map for client 'SP620643'
+[13:08:11 S Server251755 (Verbose)] Client with ID 'SP620643' has reconnected to the server
+[13:08:11 C SP620643 (Event)] Started listening
+[13:08:11 C SP620643 (Info)] Successfully re-connected to main server
+[13:08:11 C SP620643 (Verbose)] Restoring client state
+[13:08:12 C SP620643 (Verbose)] Changed client state to 'Idle'
+[13:08:25 G Game316635 (Verbose)] Server changed state to 'Starting'
+[13:08:25 S Server251755 (Event)] Event 'Update state event' fired for client GM274708
+[13:08:25 S Server251755 (Event)] Event 'Start game event' fired for client SP145111
+[13:08:25 S Server251755 (Event)] Event 'Start game event' fired for client SP147046
+[13:08:25 S Server251755 (Event)] Event 'Start game event' fired for client SP596819
+[13:08:25 S Server251755 (Event)] Event 'Start game event' fired for client SP620643
+[13:08:25 S Server251755 (Event)] Event 'Start game event' fired for client SP95942
+[13:08:25 S Server251755 (Event)] Event 'Start game event' fired for client GM274708
+[13:08:25 S Server251755 (Event)] Event broadcast notified 6 client(s), sender: Game316635
+[13:08:25 G Game316635 (Verbose)] Server changed state to 'Idle'
+[13:08:25 S Server251755 (Event)] Event 'Update state event' fired for client GM274708
+[13:08:25 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP145111
+[13:08:25 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP147046
+[13:08:25 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP596819
+[13:08:25 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP620643
+[13:08:25 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP95942
+[13:08:25 S Server251755 (Event)] Event 'Update Client State Event' fired for client GM274708
+[13:08:25 G Game316635 (Verbose)] Changed state of client 'SP145111' to Idle
+[13:08:25 G Game316635 (Verbose)] Changed state of client 'SP147046' to Idle
+[13:08:25 G Game316635 (Verbose)] Changed state of client 'SP596819' to Idle
+[13:08:25 G Game316635 (Verbose)] Changed state of client 'SP620643' to Idle
+[13:08:25 G Game316635 (Verbose)] Changed state of client 'SP95942' to Idle
+[13:08:27 C SP620643 (Event)] Received event 'Start game event', sender ID: Game316635
+[13:08:29 C SP620643 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:08:29 C SP620643 (Verbose)] Changed client state to 'Idle'
+[13:08:29 C GM274708 (Event)] Received event 'Update state event', sender ID: Game316635
+[13:08:29 C GM274708 (Verbose)] Changed state to 'Starting'
+[13:08:29 C GM274708 (Event)] Received event 'Start game event', sender ID: Game316635
+[13:08:29 C GM274708 (Event)] Received event 'Update state event', sender ID: Game316635
+[13:08:29 C GM274708 (Verbose)] Changed state to 'Idle'
+[13:08:29 C GM274708 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:08:29 C SP596819 (Event)] Received event 'Start game event', sender ID: Game316635
+[13:08:31 C SP596819 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:08:31 C SP596819 (Verbose)] Changed client state to 'Idle'
+[13:08:31 C SP145111 (Event)] Received event 'Start game event', sender ID: Game316635
+[13:08:33 C SP145111 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:08:33 C SP145111 (Verbose)] Changed client state to 'Idle'
+[13:08:33 C SP95942 (Event)] Received event 'Start game event', sender ID: Game316635
+[13:08:35 C SP95942 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:08:35 C SP95942 (Verbose)] Changed client state to 'Idle'
+[13:08:35 C SP147046 (Event)] Received event 'Start game event', sender ID: Game316635
+[13:08:37 C SP147046 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:08:37 C SP147046 (Verbose)] Changed client state to 'Idle'
+[13:08:45 S Server251755 (Verbose)] Client 'SP620643' tries to reconnect
+[13:08:45 S Server251755 (Verbose)] Client 'SP620643' was not flagged for removal
+[13:08:45 S Server251755 (Event)] Reset event map for client 'SP620643'
+[13:08:45 S Server251755 (Verbose)] Client with ID 'SP620643' has reconnected to the server
+[13:08:46 C SP620643 (Event)] Started listening
+[13:08:46 C SP620643 (Info)] Successfully re-connected to main server
+[13:08:46 C SP620643 (Verbose)] Restoring client state
+[13:08:47 C SP620643 (Verbose)] Changed client state to 'Idle'
+[13:08:55 G Game316635 (Verbose)] Server changed state to 'Starting'
+[13:08:55 S Server251755 (Event)] Event 'Update state event' fired for client GM274708
+[13:08:55 S Server251755 (Event)] Event 'Start game event' fired for client SP145111
+[13:08:55 S Server251755 (Event)] Event 'Start game event' fired for client SP147046
+[13:08:55 S Server251755 (Event)] Event 'Start game event' fired for client SP596819
+[13:08:55 S Server251755 (Event)] Event 'Start game event' fired for client SP620643
+[13:08:55 S Server251755 (Event)] Event 'Start game event' fired for client SP95942
+[13:08:55 S Server251755 (Event)] Event 'Start game event' fired for client GM274708
+[13:08:55 S Server251755 (Event)] Event broadcast notified 6 client(s), sender: Game316635
+[13:08:55 G Game316635 (Verbose)] Server changed state to 'Idle'
+[13:08:55 S Server251755 (Event)] Event 'Update state event' fired for client GM274708
+[13:08:55 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP145111
+[13:08:55 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP147046
+[13:08:55 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP596819
+[13:08:55 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP620643
+[13:08:55 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP95942
+[13:08:55 S Server251755 (Event)] Event 'Update Client State Event' fired for client GM274708
+[13:08:55 G Game316635 (Verbose)] Changed state of client 'SP145111' to Idle
+[13:08:55 G Game316635 (Verbose)] Changed state of client 'SP147046' to Idle
+[13:08:55 G Game316635 (Verbose)] Changed state of client 'SP596819' to Idle
+[13:08:55 G Game316635 (Verbose)] Changed state of client 'SP620643' to Idle
+[13:08:55 G Game316635 (Verbose)] Changed state of client 'SP95942' to Idle
+[13:08:55 C SP596819 (Event)] Received event 'Start game event', sender ID: Game316635
+[13:08:57 C SP596819 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:08:57 C SP596819 (Verbose)] Changed client state to 'Idle'
+[13:08:57 C SP620643 (Event)] Received event 'Start game event', sender ID: Game316635
+[13:08:59 C SP620643 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:08:59 C SP620643 (Verbose)] Changed client state to 'Idle'
+[13:08:59 C GM274708 (Event)] Received event 'Update state event', sender ID: Game316635
+[13:08:59 C GM274708 (Verbose)] Changed state to 'Starting'
+[13:08:59 C GM274708 (Event)] Received event 'Start game event', sender ID: Game316635
+[13:08:59 C GM274708 (Event)] Received event 'Update state event', sender ID: Game316635
+[13:08:59 C GM274708 (Verbose)] Changed state to 'Idle'
+[13:08:59 C GM274708 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:08:59 C SP145111 (Event)] Received event 'Start game event', sender ID: Game316635
+[13:09:01 C SP145111 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:09:01 C SP145111 (Verbose)] Changed client state to 'Idle'
+[13:09:02 C SP95942 (Event)] Received event 'Start game event', sender ID: Game316635
+[13:09:04 C SP95942 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:09:04 C SP95942 (Verbose)] Changed client state to 'Idle'
+[13:09:04 C SP147046 (Event)] Received event 'Start game event', sender ID: Game316635
+[13:09:06 C SP147046 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:09:06 C SP147046 (Verbose)] Changed client state to 'Idle'
+[13:11:29 G Game316635 (Verbose)] Server changed state to 'Planning'
+[13:11:29 S Server251755 (Event)] Event 'Update state event' fired for client GM274708
+[13:11:29 S Server251755 (Event)] Event 'Plan' fired for client SP145111
+[13:11:29 S Server251755 (Event)] Event 'Plan' fired for client SP147046
+[13:11:29 S Server251755 (Event)] Event 'Plan' fired for client SP596819
+[13:11:29 S Server251755 (Event)] Event 'Plan' fired for client SP620643
+[13:11:29 S Server251755 (Event)] Event 'Plan' fired for client SP95942
+[13:11:29 S Server251755 (Event)] Event broadcast notified 5 client(s), sender: Game316635
+[13:11:29 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP145111
+[13:11:29 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP147046
+[13:11:29 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP596819
+[13:11:29 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP620643
+[13:11:29 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP95942
+[13:11:29 S Server251755 (Event)] Event 'Update Client State Event' fired for client GM274708
+[13:11:29 G Game316635 (Verbose)] Changed state of client 'SP145111' to InPlanning
+[13:11:29 G Game316635 (Verbose)] Changed state of client 'SP147046' to InPlanning
+[13:11:29 G Game316635 (Verbose)] Changed state of client 'SP596819' to InPlanning
+[13:11:29 G Game316635 (Verbose)] Changed state of client 'SP620643' to InPlanning
+[13:11:29 G Game316635 (Verbose)] Changed state of client 'SP95942' to InPlanning
+[13:11:29 C GM274708 (Event)] Received event 'Update state event', sender ID: Game316635
+[13:11:29 C GM274708 (Verbose)] Changed state to 'Planning'
+[13:11:29 C SP620643 (Event)] Received event 'Plan', sender ID: Game316635
+[13:11:29 C SP147046 (Event)] Received event 'Plan', sender ID: Game316635
+[13:11:29 C GM274708 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:11:29 C SP145111 (Event)] Received event 'Plan', sender ID: Game316635
+[13:11:29 C SP596819 (Event)] Received event 'Plan', sender ID: Game316635
+[13:11:30 C SP95942 (Event)] Received event 'Plan', sender ID: Game316635
+[13:11:30 C SP95942 (Info)] Een nieuwe planronde is begonnen.
+[13:11:30 C SP95942 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:11:30 C SP95942 (Verbose)] Changed client state to 'InPlanning'
+[13:11:32 C SP145111 (Info)] Een nieuwe planronde is begonnen.
+[13:11:32 C SP145111 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:11:32 C SP145111 (Verbose)] Changed client state to 'InPlanning'
+[13:11:33 C SP147046 (Info)] Een nieuwe planronde is begonnen.
+[13:11:33 C SP147046 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:11:33 C SP147046 (Verbose)] Changed client state to 'InPlanning'
+[13:11:35 C SP620643 (Info)] Een nieuwe planronde is begonnen.
+[13:11:35 C SP620643 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:11:35 C SP620643 (Verbose)] Changed client state to 'InPlanning'
+[13:16:49 C SP620643 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[13:16:50 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP620643
+[13:16:50 S Server251755 (Event)] Event 'Update Client State Event' fired for client GM274708
+[13:16:50 G Game316635 (Verbose)] Changed state of client 'SP620643' to Submitted
+[13:16:50 C GM274708 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:16:50 C SP620643 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:16:50 C SP620643 (Verbose)] Changed client state to 'Submitted'
+[13:17:46 C SP147046 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[13:17:46 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP147046
+[13:17:46 S Server251755 (Event)] Event 'Update Client State Event' fired for client GM274708
+[13:17:46 G Game316635 (Verbose)] Changed state of client 'SP147046' to Submitted
+[13:17:46 C SP147046 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:17:46 C SP147046 (Verbose)] Changed client state to 'Submitted'
+[13:17:46 C GM274708 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:18:37 C SP145111 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[13:18:37 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP145111
+[13:18:37 S Server251755 (Event)] Event 'Update Client State Event' fired for client GM274708
+[13:18:37 G Game316635 (Verbose)] Changed state of client 'SP145111' to Submitted
+[13:18:38 C SP145111 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:18:38 C SP145111 (Verbose)] Changed client state to 'Submitted'
+[13:18:38 C GM274708 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:19:29 C SP95942 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[13:19:29 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP95942
+[13:19:29 S Server251755 (Event)] Event 'Update Client State Event' fired for client GM274708
+[13:19:29 G Game316635 (Verbose)] Changed state of client 'SP95942' to Submitted
+[13:19:29 C GM274708 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:19:30 C SP95942 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:19:30 C SP95942 (Verbose)] Changed client state to 'Submitted'
+[13:19:44 S Server251755 (Verbose)] Client 'SP596819' tries to reconnect
+[13:19:44 S Server251755 (Verbose)] Client 'SP596819' was not flagged for removal
+[13:19:44 S Server251755 (Event)] Reset event map for client 'SP596819'
+[13:19:44 S Server251755 (Verbose)] Client with ID 'SP596819' has reconnected to the server
+[13:19:45 C SP596819 (Event)] Started listening
+[13:19:45 C SP596819 (Info)] Successfully re-connected to main server
+[13:19:45 C SP596819 (Verbose)] Restoring client state
+[13:19:46 C SP596819 (Verbose)] Changed client state to 'InPlanning'
+[13:20:42 C SP596819 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[13:20:42 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP596819
+[13:20:42 S Server251755 (Event)] Event 'Update Client State Event' fired for client GM274708
+[13:20:42 G Game316635 (Verbose)] Changed state of client 'SP596819' to Submitted
+[13:20:42 G Game316635 (Verbose)] Server changed state to 'Accept'
+[13:20:42 S Server251755 (Event)] Event 'Update state event' fired for client GM274708
+[13:20:42 S Server251755 (Event)] Event 'Accept join plan event' fired for client SP145111
+[13:20:42 S Server251755 (Event)] Event 'Accept join plan event' fired for client SP147046
+[13:20:42 S Server251755 (Event)] Event 'Accept join plan event' fired for client SP596819
+[13:20:42 S Server251755 (Event)] Event 'Accept join plan event' fired for client SP620643
+[13:20:42 S Server251755 (Event)] Event 'Accept join plan event' fired for client SP95942
+[13:20:42 S Server251755 (Event)] Event broadcast notified 5 client(s), sender: Game316635
+[13:20:42 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP145111
+[13:20:42 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP147046
+[13:20:42 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP596819
+[13:20:42 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP620643
+[13:20:42 S Server251755 (Event)] Event 'Update Client State Event' fired for client SP95942
+[13:20:42 S Server251755 (Event)] Event 'Update Client State Event' fired for client GM274708
+[13:20:42 G Game316635 (Verbose)] Changed state of client 'SP145111' to Accepting
+[13:20:42 G Game316635 (Verbose)] Changed state of client 'SP147046' to Accepting
+[13:20:42 G Game316635 (Verbose)] Changed state of client 'SP596819' to Accepting
+[13:20:42 G Game316635 (Verbose)] Changed state of client 'SP620643' to Accepting
+[13:20:42 G Game316635 (Verbose)] Changed state of client 'SP95942' to Accepting
+[13:20:42 C SP620643 (Event)] Received event 'Accept join plan event', sender ID: Game316635
+[13:20:44 C SP95942 (Event)] Received event 'Accept join plan event', sender ID: Game316635
+[13:20:47 C SP596819 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:20:47 C SP596819 (Verbose)] Changed client state to 'Submitted'
+[13:20:47 C SP596819 (Event)] Received event 'Accept join plan event', sender ID: Game316635
+[13:20:49 C SP147046 (Event)] Received event 'Accept join plan event', sender ID: Game316635
+[13:20:52 C GM274708 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:20:52 C GM274708 (Event)] Received event 'Update state event', sender ID: Game316635
+[13:20:52 C GM274708 (Verbose)] Changed state to 'Accept'
+[13:20:52 C GM274708 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:20:53 C SP145111 (Event)] Received event 'Accept join plan event', sender ID: Game316635
+[13:21:09 C SP145111 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[13:21:09 C SP145111 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:21:09 C SP145111 (Verbose)] Changed client state to 'Accepting'
+[13:21:09 C SP147046 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[13:21:09 C SP147046 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:21:09 C SP147046 (Verbose)] Changed client state to 'Accepting'
+[13:21:09 C SP596819 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[13:21:09 C SP596819 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:21:09 C SP596819 (Verbose)] Changed client state to 'Accepting'
+[13:21:09 C SP95942 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[13:21:09 C SP95942 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:21:09 C SP95942 (Verbose)] Changed client state to 'Accepting'
+[13:21:09 C SP620643 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[13:21:09 C SP620643 (Event)] Received event 'Update Client State Event', sender ID: Game316635
+[13:21:09 C SP620643 (Verbose)] Changed client state to 'Accepting'
+[13:22:05 S Server251755 (Event)] Event 'Disconnect Event' fired for client SM642146
+[13:22:05 S Server251755 (Event)] Event 'Disconnect Event' fired for client GM274708
+[13:22:05 S Server251755 (Event)] Event 'Disconnect Event' fired for client SP620643
+[13:22:05 S Server251755 (Event)] Event 'Disconnect Event' fired for client SP147046
+[13:22:05 S Server251755 (Event)] Event 'Disconnect Event' fired for client SP145111
+[13:22:05 S Server251755 (Event)] Event 'Disconnect Event' fired for client SP95942
+[13:22:05 S Server251755 (Event)] Event 'Disconnect Event' fired for client SP596819

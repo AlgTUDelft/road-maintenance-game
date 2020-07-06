@@ -1,0 +1,27 @@
+/**
+ * CSS related to the Game Manager view
+ */
+ 
+/** The main tab panel control */
+.tabpanel {
+	height: 400px;
+	width: 800px;
+}
+
+/** The player manager widget */
+.players {
+	height: 320px;
+	width: 780px;
+}
+
+/** The plan widget */
+.plan {
+	width: 760px;
+	height: 300px;
+}
+ 
+/** The map widget */
+.map {
+	width: 400px;
+	height: 300px;
+}

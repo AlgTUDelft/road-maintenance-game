@@ -1,0 +1,1823 @@
+Log started Thu Nov 21 14:55:54 CET 2013
+Types of log messages: Event Info Warning Error Verbose System
+[14:55:54 S Server889530 (Info)] Server started
+[14:57:53 S Server889530 (Event)] Added client 'SM582871' to event map
+[14:57:53 S Server889530 (Info)] Client 'SM582871' connected to the server
+[14:57:53 S Server889530 (Verbose)] Requested game server list
+[14:57:53 C SM582871 (Event)] Started listening
+[14:57:53 C SM582871 (Info)] Successfully connected to main server
+[14:58:06 G Game387554 (Verbose)] Server changed state to 'Initialising'
+[14:58:06 G Game387554 (Info)] Game file 'webapps/game/games/roersteden/game.xml' loaded
+[14:58:06 G Game387554 (Info)] Gameserver 'Game387554' now active
+[14:58:06 S Server889530 (Info)] Game server with ID 'Game387554' has been created
+[14:59:01 S Server889530 (Event)] Added client 'SP563551' to event map
+[14:59:01 S Server889530 (Info)] Client 'SP563551' connected to the server
+[14:59:01 C SP563551 (Event)] Started listening
+[14:59:01 C SP563551 (Info)] Successfully connected to main server
+[14:59:01 S Server889530 (Verbose)] Requested game server list
+[14:59:56 S Server889530 (Event)] Added client 'SP594019' to event map
+[14:59:56 S Server889530 (Info)] Client 'SP594019' connected to the server
+[14:59:56 C SP594019 (Event)] Started listening
+[14:59:56 C SP594019 (Info)] Successfully connected to main server
+[14:59:57 S Server889530 (Verbose)] Requested game server list
+[15:00:32 S Server889530 (Event)] Added client 'SP502823' to event map
+[15:00:32 S Server889530 (Info)] Client 'SP502823' connected to the server
+[15:00:32 C SP502823 (Event)] Started listening
+[15:00:32 C SP502823 (Info)] Successfully connected to main server
+[15:00:33 S Server889530 (Verbose)] Requested game server list
+[15:00:44 S Server889530 (Event)] Added client 'SP396900' to event map
+[15:00:44 S Server889530 (Info)] Client 'SP396900' connected to the server
+[15:00:44 C SP396900 (Event)] Started listening
+[15:00:44 C SP396900 (Info)] Successfully connected to main server
+[15:00:44 S Server889530 (Verbose)] Requested game server list
+[15:01:21 S Server889530 (Event)] Added client 'SP84026' to event map
+[15:01:21 S Server889530 (Info)] Client 'SP84026' connected to the server
+[15:01:21 C SP84026 (Event)] Started listening
+[15:01:21 C SP84026 (Info)] Successfully connected to main server
+[15:01:21 S Server889530 (Verbose)] Requested game server list
+[15:01:43 S Server889530 (Event)] Added client 'SP842714' to event map
+[15:01:43 S Server889530 (Info)] Client 'SP842714' connected to the server
+[15:01:43 C SP842714 (Event)] Started listening
+[15:01:43 C SP842714 (Info)] Successfully connected to main server
+[15:01:43 S Server889530 (Verbose)] Requested game server list
+[15:02:02 S Server889530 (Event)] Added client 'SP845539' to event map
+[15:02:02 S Server889530 (Info)] Client 'SP845539' connected to the server
+[15:02:02 C SP845539 (Event)] Started listening
+[15:02:02 C SP845539 (Info)] Successfully connected to main server
+[15:02:02 S Server889530 (Verbose)] Requested game server list
+[15:15:50 C null (Verbose)] Changed state to 'Initialising'
+[15:15:50 S Server889530 (Event)] Added client 'GM340222' to event map
+[15:15:50 S Server889530 (Info)] Client 'GM340222' connected to the server
+[15:15:50 C GM340222 (Event)] Started listening
+[15:15:50 C GM340222 (Info)] Successfully connected to main server
+[15:15:50 S Server889530 (Verbose)] Requested game server list
+[15:15:51 C GM340222 (Verbose)] Changed state to 'Initialising'
+[15:15:52 C GM340222 (Info)] Successfully joined game server '[Game387554] Regio Roersteden (0 / 5)'
+[15:15:57 S Server889530 (Event)] Added client 'SB999547' to event map
+[15:15:57 S Server889530 (Info)] Client 'SB999547' connected to the server
+[15:15:57 C SB999547 (Event)] Started listening
+[15:15:57 C SB999547 (Info)] Successfully connected to main server
+[15:15:57 S Server889530 (Verbose)] Requested game server list
+[15:15:57 S Server889530 (Event)] Event 'Join Game' fired for client GM340222
+[15:15:57 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP396900
+[15:15:57 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[15:15:57 G Game387554 (Verbose)] Changed state of client 'SP396900' to AwaitingPortfolio
+[15:15:58 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:15:58 C GM340222 (Event)] Received event 'Join Game', sender ID: Game387554
+[15:15:59 C SB999547 (Info)] Successfully joined game server '[Game387554] Regio Roersteden (1 / 5)'
+[15:16:04 S Server889530 (Verbose)] Client 'SP563551' tries to reconnect
+[15:16:04 S Server889530 (Verbose)] Client 'SP563551' was not flagged for removal
+[15:16:04 S Server889530 (Event)] Reset event map for client 'SP563551'
+[15:16:04 S Server889530 (Verbose)] Client with ID 'SP563551' has reconnected to the server
+[15:16:04 C SP563551 (Event)] Started listening
+[15:16:04 C SP563551 (Info)] Successfully re-connected to main server
+[15:16:04 C SP563551 (Verbose)] Restoring client state
+[15:16:04 S Server889530 (Error)] Client with ID 'SP563551' is not in any game
+[15:16:06 C SP563551 (Info)] Het opvragen van de huidige spelstatus is mislukt: Client with ID 'SP563551' is not in any game.
+[15:16:07 S Server889530 (Event)] Event 'Join Game' fired for client SB999547
+[15:16:07 S Server889530 (Event)] Event 'Join Game' fired for client GM340222
+[15:16:07 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP842714
+[15:16:07 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[15:16:07 G Game387554 (Verbose)] Changed state of client 'SP842714' to AwaitingPortfolio
+[15:16:07 C GM340222 (Event)] Received event 'Join Game', sender ID: Game387554
+[15:16:07 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:16:07 C SB999547 (Event)] Received event 'Join Game', sender ID: Game387554
+[15:16:07 C SP396900 (Info)] U doet nu mee aan het spel '[Game387554] Regio Roersteden (1 / 5)'
+[15:16:08 C SP396900 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:16:08 C SP396900 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[15:16:10 S Server889530 (Event)] Event 'Assign Portfolio Event' fired for client SP396900
+[15:16:10 S Server889530 (Event)] Event 'Assign Portfolio Event' fired for client SB999547
+[15:16:10 S Server889530 (Event)] Event 'Assign Portfolio Event' fired for client GM340222
+[15:16:10 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP396900
+[15:16:10 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[15:16:10 G Game387554 (Verbose)] Changed state of client 'SP396900' to WaitingToStart
+[15:16:10 C SP396900 (Event)] Received event 'Assign Portfolio Event', sender ID: Game387554
+[15:16:10 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:16:10 C GM340222 (Event)] Received event 'Assign Portfolio Event', sender ID: Game387554
+[15:16:10 C SP396900 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:16:10 C SP396900 (Verbose)] Changed client state to 'WaitingToStart'
+[15:16:10 C SB999547 (Event)] Received event 'Assign Portfolio Event', sender ID: Game387554
+[15:16:13 C SP842714 (Info)] U doet nu mee aan het spel '[Game387554] Regio Roersteden (2 / 5)'
+[15:16:13 C SP842714 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:16:13 C SP842714 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[15:16:15 S Server889530 (Event)] Event 'Assign Portfolio Event' fired for client SP842714
+[15:16:15 S Server889530 (Event)] Event 'Assign Portfolio Event' fired for client SB999547
+[15:16:15 S Server889530 (Event)] Event 'Assign Portfolio Event' fired for client GM340222
+[15:16:15 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP842714
+[15:16:15 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[15:16:15 G Game387554 (Verbose)] Changed state of client 'SP842714' to WaitingToStart
+[15:16:15 C SP842714 (Event)] Received event 'Assign Portfolio Event', sender ID: Game387554
+[15:16:15 C SP842714 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:16:15 C SP842714 (Verbose)] Changed client state to 'WaitingToStart'
+[15:16:15 C GM340222 (Event)] Received event 'Assign Portfolio Event', sender ID: Game387554
+[15:16:15 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:16:15 C SB999547 (Event)] Received event 'Assign Portfolio Event', sender ID: Game387554
+[15:16:40 S Server889530 (Event)] Event 'Join Game' fired for client SB999547
+[15:16:40 S Server889530 (Event)] Event 'Join Game' fired for client GM340222
+[15:16:40 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP84026
+[15:16:40 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[15:16:40 G Game387554 (Verbose)] Changed state of client 'SP84026' to AwaitingPortfolio
+[15:16:40 C SP84026 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:16:40 C SP84026 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[15:16:40 C GM340222 (Event)] Received event 'Join Game', sender ID: Game387554
+[15:16:40 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:16:40 C SB999547 (Event)] Received event 'Join Game', sender ID: Game387554
+[15:16:44 C SP84026 (Info)] U doet nu mee aan het spel '[Game387554] Regio Roersteden (3 / 5)'
+[15:16:48 S Server889530 (Event)] Added client 'SP189565' to event map
+[15:16:48 S Server889530 (Info)] Client 'SP189565' connected to the server
+[15:16:48 C SP189565 (Event)] Started listening
+[15:16:48 C SP189565 (Info)] Successfully connected to main server
+[15:16:48 S Server889530 (Verbose)] Requested game server list
+[15:16:49 S Server889530 (Event)] Event 'Join Game' fired for client SB999547
+[15:16:49 S Server889530 (Event)] Event 'Join Game' fired for client GM340222
+[15:16:49 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP845539
+[15:16:49 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[15:16:49 G Game387554 (Verbose)] Changed state of client 'SP845539' to AwaitingPortfolio
+[15:16:49 C GM340222 (Event)] Received event 'Join Game', sender ID: Game387554
+[15:16:49 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:16:49 C SB999547 (Event)] Received event 'Join Game', sender ID: Game387554
+[15:16:51 C SP845539 (Info)] U doet nu mee aan het spel '[Game387554] Regio Roersteden (4 / 5)'
+[15:16:52 C SP845539 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:16:52 C SP845539 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[15:17:02 S Server889530 (Event)] Event 'Assign Portfolio Event' fired for client SP84026
+[15:17:02 S Server889530 (Event)] Event 'Assign Portfolio Event' fired for client SB999547
+[15:17:02 S Server889530 (Event)] Event 'Assign Portfolio Event' fired for client GM340222
+[15:17:02 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP84026
+[15:17:02 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[15:17:02 G Game387554 (Verbose)] Changed state of client 'SP84026' to WaitingToStart
+[15:17:02 C SB999547 (Event)] Received event 'Assign Portfolio Event', sender ID: Game387554
+[15:17:02 C SP84026 (Event)] Received event 'Assign Portfolio Event', sender ID: Game387554
+[15:17:02 C GM340222 (Event)] Received event 'Assign Portfolio Event', sender ID: Game387554
+[15:17:02 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:17:02 C SP84026 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:17:02 C SP84026 (Verbose)] Changed client state to 'WaitingToStart'
+[15:17:11 S Server889530 (Event)] Event 'Assign Portfolio Event' fired for client SP845539
+[15:17:11 S Server889530 (Event)] Event 'Assign Portfolio Event' fired for client SB999547
+[15:17:11 S Server889530 (Event)] Event 'Assign Portfolio Event' fired for client GM340222
+[15:17:11 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP845539
+[15:17:11 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[15:17:11 G Game387554 (Verbose)] Changed state of client 'SP845539' to WaitingToStart
+[15:17:11 C SP845539 (Event)] Received event 'Assign Portfolio Event', sender ID: Game387554
+[15:17:11 C SP845539 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:17:11 C SP845539 (Verbose)] Changed client state to 'WaitingToStart'
+[15:17:11 C GM340222 (Event)] Received event 'Assign Portfolio Event', sender ID: Game387554
+[15:17:11 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:17:11 C SB999547 (Event)] Received event 'Assign Portfolio Event', sender ID: Game387554
+[15:17:33 S Server889530 (Event)] Event 'Join Game' fired for client SB999547
+[15:17:33 S Server889530 (Event)] Event 'Join Game' fired for client GM340222
+[15:17:33 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP189565
+[15:17:33 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[15:17:33 G Game387554 (Verbose)] Changed state of client 'SP189565' to AwaitingPortfolio
+[15:17:33 C SB999547 (Event)] Received event 'Join Game', sender ID: Game387554
+[15:17:33 C GM340222 (Event)] Received event 'Join Game', sender ID: Game387554
+[15:17:33 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:17:37 C SP189565 (Info)] U doet nu mee aan het spel '[Game387554] Regio Roersteden (5 / 5)'
+[15:17:37 C SP189565 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:17:37 C SP189565 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[15:17:44 S Server889530 (Event)] Event 'Assign Portfolio Event' fired for client SP189565
+[15:17:44 S Server889530 (Event)] Event 'Assign Portfolio Event' fired for client SB999547
+[15:17:44 S Server889530 (Event)] Event 'Assign Portfolio Event' fired for client GM340222
+[15:17:44 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP189565
+[15:17:44 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[15:17:44 G Game387554 (Verbose)] Changed state of client 'SP189565' to WaitingToStart
+[15:17:44 C SB999547 (Event)] Received event 'Assign Portfolio Event', sender ID: Game387554
+[15:17:44 C GM340222 (Event)] Received event 'Assign Portfolio Event', sender ID: Game387554
+[15:17:44 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:17:44 C SP189565 (Event)] Received event 'Assign Portfolio Event', sender ID: Game387554
+[15:17:44 C SP189565 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:17:44 C SP189565 (Verbose)] Changed client state to 'WaitingToStart'
+[15:17:46 G Game387554 (Verbose)] Server changed state to 'Starting'
+[15:17:46 S Server889530 (Event)] Event 'Update state event' fired for client GM340222
+[15:17:46 S Server889530 (Event)] Event 'Start game event' fired for client SP189565
+[15:17:46 S Server889530 (Event)] Event 'Start game event' fired for client SP396900
+[15:17:46 S Server889530 (Event)] Event 'Start game event' fired for client SP84026
+[15:17:46 S Server889530 (Event)] Event 'Start game event' fired for client SP842714
+[15:17:46 S Server889530 (Event)] Event 'Start game event' fired for client SP845539
+[15:17:46 S Server889530 (Event)] Event 'Start game event' fired for client GM340222
+[15:17:46 S Server889530 (Event)] Event 'Start game event' fired for client SB999547
+[15:17:46 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[15:17:46 G Game387554 (Verbose)] Server changed state to 'Idle'
+[15:17:46 S Server889530 (Event)] Event 'Update state event' fired for client GM340222
+[15:17:46 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP189565
+[15:17:46 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP396900
+[15:17:46 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP84026
+[15:17:46 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP842714
+[15:17:46 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP845539
+[15:17:46 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[15:17:46 G Game387554 (Verbose)] Changed state of client 'SP189565' to Idle
+[15:17:46 G Game387554 (Verbose)] Changed state of client 'SP396900' to Idle
+[15:17:46 G Game387554 (Verbose)] Changed state of client 'SP84026' to Idle
+[15:17:46 G Game387554 (Verbose)] Changed state of client 'SP842714' to Idle
+[15:17:46 G Game387554 (Verbose)] Changed state of client 'SP845539' to Idle
+[15:17:46 C SP845539 (Event)] Received event 'Start game event', sender ID: Game387554
+[15:17:46 C SB999547 (Event)] Received event 'Start game event', sender ID: Game387554
+[15:17:46 C GM340222 (Event)] Received event 'Update state event', sender ID: Game387554
+[15:17:46 C GM340222 (Verbose)] Changed state to 'Starting'
+[15:17:46 C GM340222 (Event)] Received event 'Start game event', sender ID: Game387554
+[15:17:46 C GM340222 (Event)] Received event 'Update state event', sender ID: Game387554
+[15:17:46 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:17:46 C GM340222 (Verbose)] Changed state to 'Idle'
+[15:17:46 C SP396900 (Event)] Received event 'Start game event', sender ID: Game387554
+[15:17:46 C SP84026 (Event)] Received event 'Start game event', sender ID: Game387554
+[15:17:46 C SP842714 (Event)] Received event 'Start game event', sender ID: Game387554
+[15:17:46 C SP189565 (Event)] Received event 'Start game event', sender ID: Game387554
+[15:17:51 C SP84026 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:17:51 C SP84026 (Verbose)] Changed client state to 'Idle'
+[15:17:51 C SP396900 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:17:51 C SP396900 (Verbose)] Changed client state to 'Idle'
+[15:17:51 C SP842714 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:17:51 C SP842714 (Verbose)] Changed client state to 'Idle'
+[15:17:52 C SP189565 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:17:52 C SP189565 (Verbose)] Changed client state to 'Idle'
+[15:17:53 C SP845539 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:17:53 C SP845539 (Verbose)] Changed client state to 'Idle'
+[15:18:48 G Game387554 (Verbose)] Server changed state to 'Planning'
+[15:18:48 S Server889530 (Event)] Event 'Update state event' fired for client GM340222
+[15:18:48 S Server889530 (Event)] Event 'Plan' fired for client SP189565
+[15:18:48 S Server889530 (Event)] Event 'Plan' fired for client SP396900
+[15:18:48 S Server889530 (Event)] Event 'Plan' fired for client SP84026
+[15:18:48 S Server889530 (Event)] Event 'Plan' fired for client SP842714
+[15:18:48 S Server889530 (Event)] Event 'Plan' fired for client SP845539
+[15:18:48 S Server889530 (Event)] Event broadcast notified 5 client(s), sender: Game387554
+[15:18:48 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP189565
+[15:18:48 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP396900
+[15:18:48 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP84026
+[15:18:48 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP842714
+[15:18:48 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP845539
+[15:18:48 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[15:18:48 G Game387554 (Verbose)] Changed state of client 'SP189565' to InPlanning
+[15:18:48 G Game387554 (Verbose)] Changed state of client 'SP396900' to InPlanning
+[15:18:48 G Game387554 (Verbose)] Changed state of client 'SP84026' to InPlanning
+[15:18:48 G Game387554 (Verbose)] Changed state of client 'SP842714' to InPlanning
+[15:18:48 G Game387554 (Verbose)] Changed state of client 'SP845539' to InPlanning
+[15:18:48 C SP189565 (Event)] Received event 'Plan', sender ID: Game387554
+[15:18:48 C SP842714 (Event)] Received event 'Plan', sender ID: Game387554
+[15:18:48 C SP84026 (Event)] Received event 'Plan', sender ID: Game387554
+[15:18:48 C GM340222 (Verbose)] Changed state to 'Planning'
+[15:18:48 C GM340222 (Event)] Received event 'Update state event', sender ID: Game387554
+[15:18:48 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:18:48 C SP845539 (Event)] Received event 'Plan', sender ID: Game387554
+[15:18:48 C SP396900 (Event)] Received event 'Plan', sender ID: Game387554
+[15:18:53 C SP396900 (Info)] Een nieuwe planronde is begonnen.
+[15:18:53 C SP396900 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:18:53 C SP396900 (Verbose)] Changed client state to 'InPlanning'
+[15:18:53 C SP189565 (Info)] Een nieuwe planronde is begonnen.
+[15:18:53 C SP189565 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:18:53 C SP189565 (Verbose)] Changed client state to 'InPlanning'
+[15:18:53 C SP845539 (Info)] Een nieuwe planronde is begonnen.
+[15:18:54 C SP845539 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:18:54 C SP845539 (Verbose)] Changed client state to 'InPlanning'
+[15:18:54 C SP84026 (Info)] Een nieuwe planronde is begonnen.
+[15:18:54 C SP84026 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:18:54 C SP84026 (Verbose)] Changed client state to 'InPlanning'
+[15:18:58 C SP842714 (Info)] Een nieuwe planronde is begonnen.
+[15:18:58 C SP842714 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:18:58 C SP842714 (Verbose)] Changed client state to 'InPlanning'
+[15:22:07 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:22:07 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:22:51 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:22:51 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:24:01 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:24:01 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:27:42 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:27:42 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:29:21 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:29:21 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:29:39 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:29:39 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:31:10 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:31:10 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:31:12 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:31:12 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:32:39 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:32:39 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:32:43 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:32:43 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:33:05 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:33:05 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:33:18 C SP842714 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[15:33:19 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP842714
+[15:33:19 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[15:33:19 G Game387554 (Verbose)] Changed state of client 'SP842714' to Submitted
+[15:33:19 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:33:19 C SP842714 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:33:19 C SP842714 (Verbose)] Changed client state to 'Submitted'
+[15:34:11 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:34:11 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:34:16 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:34:16 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:34:25 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:34:26 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:34:54 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:34:54 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:35:09 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:35:09 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:35:38 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:35:38 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:35:44 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:35:44 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:36:31 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:36:31 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:37:24 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:37:24 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:37:25 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:37:25 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:37:42 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:37:43 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:37:56 C SP845539 (Info)] U kunt geen projected meer toevoegen, alle projecten van uw portfolio zijn gepland.
+[15:38:22 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:38:23 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:38:36 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:38:36 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:38:42 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:38:42 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:39:00 S Server889530 (Verbose)] Client 'SP845539' tries to reconnect
+[15:39:00 S Server889530 (Verbose)] Client 'SP845539' was not flagged for removal
+[15:39:00 S Server889530 (Event)] Reset event map for client 'SP845539'
+[15:39:00 S Server889530 (Verbose)] Client with ID 'SP845539' has reconnected to the server
+[15:39:00 C SP845539 (Info)] Successfully re-connected to main server
+[15:39:00 C SP845539 (Event)] Started listening
+[15:39:00 C SP845539 (Verbose)] Restoring client state
+[15:39:06 C SP845539 (Verbose)] Changed client state to 'InPlanning'
+[15:39:12 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:39:12 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:39:24 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:39:24 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:39:38 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:39:38 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:39:40 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:39:40 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:39:48 C SP84026 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[15:39:48 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP84026
+[15:39:48 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[15:39:48 G Game387554 (Verbose)] Changed state of client 'SP84026' to Submitted
+[15:39:48 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:39:48 C SP84026 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:39:48 C SP84026 (Verbose)] Changed client state to 'Submitted'
+[15:39:56 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:39:56 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:40:22 C SP189565 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[15:40:22 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP189565
+[15:40:22 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[15:40:22 G Game387554 (Verbose)] Changed state of client 'SP189565' to Submitted
+[15:40:22 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:40:23 C SP189565 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:40:23 C SP189565 (Verbose)] Changed client state to 'Submitted'
+[15:40:28 C SP396900 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[15:40:28 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP396900
+[15:40:28 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[15:40:28 G Game387554 (Verbose)] Changed state of client 'SP396900' to Submitted
+[15:40:28 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:40:28 C SP396900 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:40:28 C SP396900 (Verbose)] Changed client state to 'Submitted'
+[15:40:40 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:40:41 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:40:45 C SP845539 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[15:40:46 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP845539
+[15:40:46 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[15:40:46 G Game387554 (Verbose)] Changed state of client 'SP845539' to Submitted
+[15:40:46 G Game387554 (Verbose)] Server changed state to 'Accept'
+[15:40:46 S Server889530 (Event)] Event 'Update state event' fired for client GM340222
+[15:40:46 S Server889530 (Event)] Event 'Accept join plan event' fired for client SP189565
+[15:40:46 S Server889530 (Event)] Event 'Accept join plan event' fired for client SP396900
+[15:40:46 S Server889530 (Event)] Event 'Accept join plan event' fired for client SP84026
+[15:40:46 S Server889530 (Event)] Event 'Accept join plan event' fired for client SP842714
+[15:40:46 S Server889530 (Event)] Event 'Accept join plan event' fired for client SP845539
+[15:40:46 S Server889530 (Event)] Event 'Accept join plan event' fired for client SB999547
+[15:40:46 S Server889530 (Event)] Event broadcast notified 6 client(s), sender: Game387554
+[15:40:46 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP189565
+[15:40:46 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP396900
+[15:40:46 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP84026
+[15:40:46 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP842714
+[15:40:46 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP845539
+[15:40:46 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[15:40:46 G Game387554 (Verbose)] Changed state of client 'SP189565' to Accepting
+[15:40:46 G Game387554 (Verbose)] Changed state of client 'SP396900' to Accepting
+[15:40:46 G Game387554 (Verbose)] Changed state of client 'SP84026' to Accepting
+[15:40:46 G Game387554 (Verbose)] Changed state of client 'SP842714' to Accepting
+[15:40:46 G Game387554 (Verbose)] Changed state of client 'SP845539' to Accepting
+[15:40:46 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:40:46 C SP396900 (Event)] Received event 'Accept join plan event', sender ID: Game387554
+[15:40:46 C SP842714 (Event)] Received event 'Accept join plan event', sender ID: Game387554
+[15:40:46 C SP84026 (Event)] Received event 'Accept join plan event', sender ID: Game387554
+[15:40:46 C SP189565 (Event)] Received event 'Accept join plan event', sender ID: Game387554
+[15:40:46 C SP845539 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:40:46 C SP845539 (Verbose)] Changed client state to 'Submitted'
+[15:40:46 C SP845539 (Event)] Received event 'Accept join plan event', sender ID: Game387554
+[15:40:49 C GM340222 (Event)] Received event 'Update state event', sender ID: Game387554
+[15:40:49 C GM340222 (Verbose)] Changed state to 'Accept'
+[15:40:49 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:40:49 C SB999547 (Event)] Received event 'Accept join plan event', sender ID: Game387554
+[15:41:41 C SP396900 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:41:41 C SP396900 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[15:41:41 C SP396900 (Verbose)] Changed client state to 'Accepting'
+[15:41:42 C SP845539 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[15:41:42 C SP845539 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:41:42 C SP845539 (Verbose)] Changed client state to 'Accepting'
+[15:41:44 C SP842714 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[15:41:44 C SP842714 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:41:44 C SP842714 (Verbose)] Changed client state to 'Accepting'
+[15:41:46 C SP189565 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[15:41:46 C SP189565 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:41:46 C SP189565 (Verbose)] Changed client state to 'Accepting'
+[15:42:08 C SP84026 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[15:42:08 C SP84026 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:42:08 C SP84026 (Verbose)] Changed client state to 'Accepting'
+[15:42:16 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP842714
+[15:42:16 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[15:42:16 G Game387554 (Verbose)] Changed state of client 'SP842714' to Declined
+[15:42:16 S Server889530 (Event)] Event 'Plan accepted/declined event' fired for client SP189565
+[15:42:16 S Server889530 (Event)] Event 'Plan accepted/declined event' fired for client SP396900
+[15:42:16 S Server889530 (Event)] Event 'Plan accepted/declined event' fired for client SP84026
+[15:42:16 S Server889530 (Event)] Event 'Plan accepted/declined event' fired for client SP842714
+[15:42:16 S Server889530 (Event)] Event 'Plan accepted/declined event' fired for client SP845539
+[15:42:16 S Server889530 (Event)] Event 'Plan accepted/declined event' fired for client GM340222
+[15:42:16 S Server889530 (Event)] Event broadcast notified 6 client(s), sender: Game387554
+[15:42:16 G Game387554 (Verbose)] Server changed state to 'Planning'
+[15:42:16 S Server889530 (Event)] Event 'Update state event' fired for client GM340222
+[15:42:16 S Server889530 (Event)] Event 'Plan' fired for client SP189565
+[15:42:16 S Server889530 (Event)] Event 'Plan' fired for client SP396900
+[15:42:16 S Server889530 (Event)] Event 'Plan' fired for client SP84026
+[15:42:16 S Server889530 (Event)] Event 'Plan' fired for client SP842714
+[15:42:16 S Server889530 (Event)] Event 'Plan' fired for client SP845539
+[15:42:16 S Server889530 (Event)] Event broadcast notified 5 client(s), sender: Game387554
+[15:42:16 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP189565
+[15:42:16 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP396900
+[15:42:16 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP84026
+[15:42:16 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP842714
+[15:42:16 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP845539
+[15:42:16 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[15:42:16 G Game387554 (Verbose)] Changed state of client 'SP189565' to InPlanning
+[15:42:16 G Game387554 (Verbose)] Changed state of client 'SP396900' to InPlanning
+[15:42:16 G Game387554 (Verbose)] Changed state of client 'SP84026' to InPlanning
+[15:42:16 G Game387554 (Verbose)] Changed state of client 'SP842714' to InPlanning
+[15:42:16 G Game387554 (Verbose)] Changed state of client 'SP845539' to InPlanning
+[15:42:16 C GM340222 (Event)] Received event 'Plan accepted/declined event', sender ID: Game387554
+[15:42:16 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:42:16 C GM340222 (Event)] Received event 'Update state event', sender ID: Game387554
+[15:42:16 C GM340222 (Verbose)] Changed state to 'Planning'
+[15:42:16 C SP396900 (Event)] Received event 'Plan accepted/declined event', sender ID: Game387554
+[15:42:16 C SP845539 (Event)] Received event 'Plan accepted/declined event', sender ID: Game387554
+[15:42:16 C SP84026 (Event)] Received event 'Plan accepted/declined event', sender ID: Game387554
+[15:42:16 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:42:16 C SP842714 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:42:16 C SP842714 (Verbose)] Changed client state to 'Declined'
+[15:42:16 C SP842714 (Event)] Received event 'Plan accepted/declined event', sender ID: Game387554
+[15:42:16 C SP189565 (Event)] Received event 'Plan accepted/declined event', sender ID: Game387554
+[15:42:18 C SP189565 (Event)] Received event 'Plan', sender ID: Game387554
+[15:42:18 C SP189565 (Info)] Het gezamenlijke plan was niet geaccepteerd, u moet a.u.b. een nieuw plan indienen.
+[15:42:19 C SP842714 (Info)] Het gezamenlijke plan was niet geaccepteerd, u moet a.u.b. een nieuw plan indienen.
+[15:42:19 C SP842714 (Event)] Received event 'Plan', sender ID: Game387554
+[15:42:19 C SP845539 (Info)] Het gezamenlijke plan was niet geaccepteerd, u moet a.u.b. een nieuw plan indienen.
+[15:42:19 C SP845539 (Event)] Received event 'Plan', sender ID: Game387554
+[15:42:19 C SP396900 (Info)] Het gezamenlijke plan was niet geaccepteerd, u moet a.u.b. een nieuw plan indienen.
+[15:42:19 C SP396900 (Event)] Received event 'Plan', sender ID: Game387554
+[15:42:19 C SP84026 (Info)] Het gezamenlijke plan was niet geaccepteerd, u moet a.u.b. een nieuw plan indienen.
+[15:42:20 C SP84026 (Event)] Received event 'Plan', sender ID: Game387554
+[15:42:21 C SP189565 (Info)] Een nieuwe planronde is begonnen.
+[15:42:21 C SP189565 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:42:21 C SP189565 (Verbose)] Changed client state to 'InPlanning'
+[15:42:21 C SP396900 (Info)] Een nieuwe planronde is begonnen.
+[15:42:21 C SP396900 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:42:21 C SP396900 (Verbose)] Changed client state to 'InPlanning'
+[15:42:22 C SP845539 (Info)] Een nieuwe planronde is begonnen.
+[15:42:22 C SP845539 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:42:22 C SP845539 (Verbose)] Changed client state to 'InPlanning'
+[15:42:23 C SP842714 (Info)] Een nieuwe planronde is begonnen.
+[15:42:23 C SP842714 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:42:23 C SP842714 (Verbose)] Changed client state to 'InPlanning'
+[15:42:24 C SP84026 (Info)] Een nieuwe planronde is begonnen.
+[15:42:24 C SP84026 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:42:24 C SP84026 (Verbose)] Changed client state to 'InPlanning'
+[15:46:28 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:46:28 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:47:12 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:47:12 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:47:46 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:47:46 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:48:25 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:48:25 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:48:51 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:48:51 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:49:22 C SP189565 (Info)] U kunt geen projected meer toevoegen, alle projecten van uw portfolio zijn gepland.
+[15:50:08 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:50:08 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:50:16 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:50:17 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:51:06 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:51:07 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:52:08 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:52:08 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:54:45 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:54:45 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:55:22 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:55:22 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:55:57 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:55:57 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:56:00 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:56:01 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:56:06 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:56:06 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:56:50 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:56:50 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:57:14 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:57:15 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:57:43 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:57:43 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:57:45 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:57:45 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:57:50 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:57:50 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:58:10 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:58:10 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:58:15 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:58:15 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:58:19 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:58:20 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:58:25 S Server889530 (Verbose)] Client 'SP845539' tries to reconnect
+[15:58:25 S Server889530 (Verbose)] Client 'SP845539' was not flagged for removal
+[15:58:25 S Server889530 (Event)] Reset event map for client 'SP845539'
+[15:58:25 S Server889530 (Verbose)] Client with ID 'SP845539' has reconnected to the server
+[15:58:25 C SP845539 (Event)] Started listening
+[15:58:25 C SP845539 (Info)] Successfully re-connected to main server
+[15:58:25 C SP845539 (Verbose)] Restoring client state
+[15:58:37 C SP845539 (Verbose)] Changed client state to 'InPlanning'
+[15:58:38 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:58:38 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:59:22 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:59:22 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:59:33 S Server889530 (Verbose)] Client 'SP845539' tries to reconnect
+[15:59:33 S Server889530 (Verbose)] Client 'SP845539' was not flagged for removal
+[15:59:33 S Server889530 (Event)] Reset event map for client 'SP845539'
+[15:59:33 S Server889530 (Verbose)] Client with ID 'SP845539' has reconnected to the server
+[15:59:33 C SP845539 (Event)] Started listening
+[15:59:33 C SP845539 (Info)] Successfully re-connected to main server
+[15:59:33 C SP845539 (Verbose)] Restoring client state
+[15:59:40 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[15:59:40 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[15:59:44 C SP396900 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[15:59:45 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP396900
+[15:59:45 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[15:59:45 G Game387554 (Verbose)] Changed state of client 'SP396900' to Submitted
+[15:59:45 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:59:45 C SP396900 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[15:59:45 C SP396900 (Verbose)] Changed client state to 'Submitted'
+[15:59:45 C SP845539 (Verbose)] Changed client state to 'InPlanning'
+[16:00:10 C SP84026 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[16:00:10 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP84026
+[16:00:10 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[16:00:10 G Game387554 (Verbose)] Changed state of client 'SP84026' to Submitted
+[16:00:10 C SP84026 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:00:10 C SP84026 (Verbose)] Changed client state to 'Submitted'
+[16:00:10 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:00:26 C SP845539 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[16:00:27 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP845539
+[16:00:27 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[16:00:27 G Game387554 (Verbose)] Changed state of client 'SP845539' to Submitted
+[16:00:27 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:00:27 C SP845539 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:00:27 C SP845539 (Verbose)] Changed client state to 'Submitted'
+[16:00:31 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[16:00:31 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[16:00:34 C SP842714 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[16:00:34 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP842714
+[16:00:34 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[16:00:34 G Game387554 (Verbose)] Changed state of client 'SP842714' to Submitted
+[16:00:35 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:00:35 C SP842714 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:00:35 C SP842714 (Verbose)] Changed client state to 'Submitted'
+[16:00:46 C SP189565 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[16:00:46 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP189565
+[16:00:46 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[16:00:46 G Game387554 (Verbose)] Changed state of client 'SP189565' to Submitted
+[16:00:46 G Game387554 (Verbose)] Server changed state to 'Accept'
+[16:00:46 S Server889530 (Event)] Event 'Update state event' fired for client GM340222
+[16:00:46 S Server889530 (Event)] Event 'Accept join plan event' fired for client SP189565
+[16:00:46 S Server889530 (Event)] Event 'Accept join plan event' fired for client SP396900
+[16:00:46 S Server889530 (Event)] Event 'Accept join plan event' fired for client SP84026
+[16:00:46 S Server889530 (Event)] Event 'Accept join plan event' fired for client SP842714
+[16:00:46 S Server889530 (Event)] Event 'Accept join plan event' fired for client SP845539
+[16:00:46 S Server889530 (Event)] Event 'Accept join plan event' fired for client SB999547
+[16:00:46 S Server889530 (Event)] Event broadcast notified 6 client(s), sender: Game387554
+[16:00:46 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP189565
+[16:00:46 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP396900
+[16:00:46 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP84026
+[16:00:46 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP842714
+[16:00:46 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP845539
+[16:00:46 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[16:00:46 G Game387554 (Verbose)] Changed state of client 'SP189565' to Accepting
+[16:00:46 G Game387554 (Verbose)] Changed state of client 'SP396900' to Accepting
+[16:00:46 G Game387554 (Verbose)] Changed state of client 'SP84026' to Accepting
+[16:00:46 G Game387554 (Verbose)] Changed state of client 'SP842714' to Accepting
+[16:00:46 G Game387554 (Verbose)] Changed state of client 'SP845539' to Accepting
+[16:00:46 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:00:46 C GM340222 (Event)] Received event 'Update state event', sender ID: Game387554
+[16:00:46 C GM340222 (Verbose)] Changed state to 'Accept'
+[16:00:46 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:00:47 C SP84026 (Event)] Received event 'Accept join plan event', sender ID: Game387554
+[16:00:47 C SP396900 (Event)] Received event 'Accept join plan event', sender ID: Game387554
+[16:00:47 C SP189565 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:00:47 C SP189565 (Verbose)] Changed client state to 'Submitted'
+[16:00:47 C SP189565 (Event)] Received event 'Accept join plan event', sender ID: Game387554
+[16:00:47 C SP842714 (Event)] Received event 'Accept join plan event', sender ID: Game387554
+[16:00:47 C SP845539 (Event)] Received event 'Accept join plan event', sender ID: Game387554
+[16:00:49 C SB999547 (Event)] Received event 'Accept join plan event', sender ID: Game387554
+[16:01:12 C SP396900 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[16:01:12 C SP396900 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:01:12 C SP396900 (Verbose)] Changed client state to 'Accepting'
+[16:01:19 C SP842714 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[16:01:19 C SP842714 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:01:19 C SP842714 (Verbose)] Changed client state to 'Accepting'
+[16:01:39 C SP845539 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[16:01:39 C SP845539 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:01:39 C SP845539 (Verbose)] Changed client state to 'Accepting'
+[16:02:03 C SP189565 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[16:02:03 C SP189565 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:02:03 C SP189565 (Verbose)] Changed client state to 'Accepting'
+[16:03:10 C SP84026 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[16:03:10 C SP84026 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:03:10 C SP84026 (Verbose)] Changed client state to 'Accepting'
+[16:03:11 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP396900
+[16:03:11 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[16:03:11 G Game387554 (Verbose)] Changed state of client 'SP396900' to Declined
+[16:03:11 S Server889530 (Event)] Event 'Plan accepted/declined event' fired for client SP189565
+[16:03:11 S Server889530 (Event)] Event 'Plan accepted/declined event' fired for client SP396900
+[16:03:11 S Server889530 (Event)] Event 'Plan accepted/declined event' fired for client SP84026
+[16:03:11 S Server889530 (Event)] Event 'Plan accepted/declined event' fired for client SP842714
+[16:03:11 S Server889530 (Event)] Event 'Plan accepted/declined event' fired for client SP845539
+[16:03:11 S Server889530 (Event)] Event 'Plan accepted/declined event' fired for client GM340222
+[16:03:11 S Server889530 (Event)] Event broadcast notified 6 client(s), sender: Game387554
+[16:03:11 G Game387554 (Verbose)] Server changed state to 'Planning'
+[16:03:11 S Server889530 (Event)] Event 'Update state event' fired for client GM340222
+[16:03:11 S Server889530 (Event)] Event 'Plan' fired for client SP189565
+[16:03:11 S Server889530 (Event)] Event 'Plan' fired for client SP396900
+[16:03:11 S Server889530 (Event)] Event 'Plan' fired for client SP84026
+[16:03:11 S Server889530 (Event)] Event 'Plan' fired for client SP842714
+[16:03:11 S Server889530 (Event)] Event 'Plan' fired for client SP845539
+[16:03:11 S Server889530 (Event)] Event broadcast notified 5 client(s), sender: Game387554
+[16:03:11 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP189565
+[16:03:11 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP396900
+[16:03:11 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP84026
+[16:03:11 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP842714
+[16:03:11 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP845539
+[16:03:11 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[16:03:11 G Game387554 (Verbose)] Changed state of client 'SP189565' to InPlanning
+[16:03:11 G Game387554 (Verbose)] Changed state of client 'SP396900' to InPlanning
+[16:03:11 G Game387554 (Verbose)] Changed state of client 'SP84026' to InPlanning
+[16:03:11 G Game387554 (Verbose)] Changed state of client 'SP842714' to InPlanning
+[16:03:11 G Game387554 (Verbose)] Changed state of client 'SP845539' to InPlanning
+[16:03:11 C SP396900 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:03:11 C SP396900 (Verbose)] Changed client state to 'Declined'
+[16:03:11 C SP396900 (Event)] Received event 'Plan accepted/declined event', sender ID: Game387554
+[16:03:11 C SP189565 (Event)] Received event 'Plan accepted/declined event', sender ID: Game387554
+[16:03:11 C SP845539 (Event)] Received event 'Plan accepted/declined event', sender ID: Game387554
+[16:03:11 C SP84026 (Event)] Received event 'Plan accepted/declined event', sender ID: Game387554
+[16:03:11 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:03:11 C GM340222 (Event)] Received event 'Plan accepted/declined event', sender ID: Game387554
+[16:03:11 C GM340222 (Verbose)] Changed state to 'Planning'
+[16:03:11 C GM340222 (Event)] Received event 'Update state event', sender ID: Game387554
+[16:03:11 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:03:11 C SP842714 (Event)] Received event 'Plan accepted/declined event', sender ID: Game387554
+[16:03:13 C SP842714 (Info)] Het gezamenlijke plan was niet geaccepteerd, u moet a.u.b. een nieuw plan indienen.
+[16:03:13 C SP842714 (Event)] Received event 'Plan', sender ID: Game387554
+[16:03:13 C SP84026 (Info)] Het gezamenlijke plan was niet geaccepteerd, u moet a.u.b. een nieuw plan indienen.
+[16:03:13 C SP84026 (Event)] Received event 'Plan', sender ID: Game387554
+[16:03:14 C SP396900 (Info)] Het gezamenlijke plan was niet geaccepteerd, u moet a.u.b. een nieuw plan indienen.
+[16:03:14 C SP189565 (Info)] Het gezamenlijke plan was niet geaccepteerd, u moet a.u.b. een nieuw plan indienen.
+[16:03:14 C SP189565 (Event)] Received event 'Plan', sender ID: Game387554
+[16:03:14 C SP396900 (Event)] Received event 'Plan', sender ID: Game387554
+[16:03:14 C SP842714 (Info)] Een nieuwe planronde is begonnen.
+[16:03:14 C SP842714 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:03:14 C SP842714 (Verbose)] Changed client state to 'InPlanning'
+[16:03:14 C SP84026 (Info)] Een nieuwe planronde is begonnen.
+[16:03:14 C SP84026 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:03:14 C SP84026 (Verbose)] Changed client state to 'InPlanning'
+[16:03:15 C SP845539 (Info)] Het gezamenlijke plan was niet geaccepteerd, u moet a.u.b. een nieuw plan indienen.
+[16:03:15 C SP845539 (Event)] Received event 'Plan', sender ID: Game387554
+[16:03:16 C SP845539 (Info)] Een nieuwe planronde is begonnen.
+[16:03:16 C SP845539 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:03:16 C SP189565 (Info)] Een nieuwe planronde is begonnen.
+[16:03:16 C SP845539 (Verbose)] Changed client state to 'InPlanning'
+[16:03:16 C SP189565 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:03:16 C SP189565 (Verbose)] Changed client state to 'InPlanning'
+[16:03:16 C SP396900 (Info)] Een nieuwe planronde is begonnen.
+[16:03:16 C SP396900 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:03:16 C SP396900 (Verbose)] Changed client state to 'InPlanning'
+[16:05:52 S Server889530 (Verbose)] Client 'SP845539' tries to reconnect
+[16:05:52 S Server889530 (Verbose)] Client 'SP845539' was not flagged for removal
+[16:05:52 S Server889530 (Event)] Reset event map for client 'SP845539'
+[16:05:52 S Server889530 (Verbose)] Client with ID 'SP845539' has reconnected to the server
+[16:05:52 C SP845539 (Event)] Started listening
+[16:05:52 C SP845539 (Info)] Successfully re-connected to main server
+[16:05:52 C SP845539 (Verbose)] Restoring client state
+[16:06:05 C SP845539 (Verbose)] Changed client state to 'InPlanning'
+[16:11:11 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[16:11:11 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[16:11:56 S Server889530 (Verbose)] Client 'SP845539' tries to reconnect
+[16:11:56 S Server889530 (Verbose)] Client 'SP845539' was not flagged for removal
+[16:11:56 S Server889530 (Event)] Reset event map for client 'SP845539'
+[16:11:56 S Server889530 (Verbose)] Client with ID 'SP845539' has reconnected to the server
+[16:11:56 C SP845539 (Event)] Started listening
+[16:11:56 C SP845539 (Info)] Successfully re-connected to main server
+[16:11:56 C SP845539 (Verbose)] Restoring client state
+[16:12:08 C SP845539 (Verbose)] Changed client state to 'InPlanning'
+[16:12:56 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[16:12:56 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[16:14:13 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[16:14:13 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[16:14:28 S Server889530 (Verbose)] Client 'SP845539' tries to reconnect
+[16:14:28 S Server889530 (Verbose)] Client 'SP845539' was not flagged for removal
+[16:14:28 S Server889530 (Event)] Reset event map for client 'SP845539'
+[16:14:28 S Server889530 (Verbose)] Client with ID 'SP845539' has reconnected to the server
+[16:14:28 C SP845539 (Event)] Started listening
+[16:14:28 C SP845539 (Info)] Successfully re-connected to main server
+[16:14:28 C SP845539 (Verbose)] Restoring client state
+[16:14:40 C SP845539 (Verbose)] Changed client state to 'InPlanning'
+[16:15:08 S Server889530 (Verbose)] Client 'SP845539' tries to reconnect
+[16:15:08 S Server889530 (Verbose)] Client 'SP845539' was not flagged for removal
+[16:15:08 S Server889530 (Event)] Reset event map for client 'SP845539'
+[16:15:08 S Server889530 (Verbose)] Client with ID 'SP845539' has reconnected to the server
+[16:15:08 C SP845539 (Event)] Started listening
+[16:15:08 C SP845539 (Info)] Successfully re-connected to main server
+[16:15:08 C SP845539 (Verbose)] Restoring client state
+[16:15:20 C SP845539 (Verbose)] Changed client state to 'InPlanning'
+[16:15:32 C SP189565 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[16:15:33 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP189565
+[16:15:33 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[16:15:33 G Game387554 (Verbose)] Changed state of client 'SP189565' to Submitted
+[16:15:33 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:15:33 C SP189565 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:15:33 C SP189565 (Verbose)] Changed client state to 'Submitted'
+[16:15:59 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[16:15:59 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[16:16:03 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[16:16:03 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[16:16:11 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[16:16:11 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[16:16:16 C SP842714 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[16:16:17 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP842714
+[16:16:17 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[16:16:17 G Game387554 (Verbose)] Changed state of client 'SP842714' to Submitted
+[16:16:17 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:16:17 C SP842714 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:16:17 C SP842714 (Verbose)] Changed client state to 'Submitted'
+[16:16:28 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[16:16:28 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[16:16:45 C SP396900 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[16:16:45 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP396900
+[16:16:45 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[16:16:45 G Game387554 (Verbose)] Changed state of client 'SP396900' to Submitted
+[16:16:46 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:16:46 C SP396900 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:16:46 C SP396900 (Verbose)] Changed client state to 'Submitted'
+[16:17:04 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[16:17:04 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[16:17:08 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[16:17:09 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[16:17:11 C SP84026 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[16:17:12 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP84026
+[16:17:12 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[16:17:12 G Game387554 (Verbose)] Changed state of client 'SP84026' to Submitted
+[16:17:12 C SP84026 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:17:12 C SP84026 (Verbose)] Changed client state to 'Submitted'
+[16:17:12 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:17:40 S Server889530 (Event)] Event 'Plan change event' fired for client SB999547
+[16:17:40 C SB999547 (Event)] Received event 'Plan change event', sender ID: Game387554
+[16:17:43 C SP845539 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[16:17:44 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP845539
+[16:17:44 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[16:17:44 G Game387554 (Verbose)] Changed state of client 'SP845539' to Submitted
+[16:17:44 G Game387554 (Verbose)] Server changed state to 'Accept'
+[16:17:44 S Server889530 (Event)] Event 'Update state event' fired for client GM340222
+[16:17:44 S Server889530 (Event)] Event 'Accept join plan event' fired for client SP189565
+[16:17:44 S Server889530 (Event)] Event 'Accept join plan event' fired for client SP396900
+[16:17:44 S Server889530 (Event)] Event 'Accept join plan event' fired for client SP84026
+[16:17:44 S Server889530 (Event)] Event 'Accept join plan event' fired for client SP842714
+[16:17:44 S Server889530 (Event)] Event 'Accept join plan event' fired for client SP845539
+[16:17:44 S Server889530 (Event)] Event 'Accept join plan event' fired for client SB999547
+[16:17:44 S Server889530 (Event)] Event broadcast notified 6 client(s), sender: Game387554
+[16:17:44 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP189565
+[16:17:44 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP396900
+[16:17:44 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP84026
+[16:17:44 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP842714
+[16:17:44 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP845539
+[16:17:44 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[16:17:44 G Game387554 (Verbose)] Changed state of client 'SP189565' to Accepting
+[16:17:44 G Game387554 (Verbose)] Changed state of client 'SP396900' to Accepting
+[16:17:44 G Game387554 (Verbose)] Changed state of client 'SP84026' to Accepting
+[16:17:44 G Game387554 (Verbose)] Changed state of client 'SP842714' to Accepting
+[16:17:44 G Game387554 (Verbose)] Changed state of client 'SP845539' to Accepting
+[16:17:44 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:17:44 C GM340222 (Event)] Received event 'Update state event', sender ID: Game387554
+[16:17:44 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:17:44 C GM340222 (Verbose)] Changed state to 'Accept'
+[16:17:44 C SP842714 (Event)] Received event 'Accept join plan event', sender ID: Game387554
+[16:17:44 C SP189565 (Event)] Received event 'Accept join plan event', sender ID: Game387554
+[16:17:44 C SP396900 (Event)] Received event 'Accept join plan event', sender ID: Game387554
+[16:17:44 C SP84026 (Event)] Received event 'Accept join plan event', sender ID: Game387554
+[16:17:44 C SP845539 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:17:44 C SP845539 (Verbose)] Changed client state to 'Submitted'
+[16:17:44 C SP845539 (Event)] Received event 'Accept join plan event', sender ID: Game387554
+[16:17:46 C SB999547 (Event)] Received event 'Accept join plan event', sender ID: Game387554
+[16:17:58 C SP842714 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[16:17:58 C SP842714 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:17:58 C SP842714 (Verbose)] Changed client state to 'Accepting'
+[16:17:58 C SP396900 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[16:17:58 C SP396900 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:17:58 C SP396900 (Verbose)] Changed client state to 'Accepting'
+[16:17:59 C SP189565 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[16:17:59 C SP189565 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:17:59 C SP189565 (Verbose)] Changed client state to 'Accepting'
+[16:17:59 C SP84026 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[16:17:59 C SP84026 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:17:59 C SP84026 (Verbose)] Changed client state to 'Accepting'
+[16:18:00 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP842714
+[16:18:00 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[16:18:00 G Game387554 (Verbose)] Changed state of client 'SP842714' to Accepted
+[16:18:01 C SP842714 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:18:01 C SP842714 (Verbose)] Changed client state to 'Accepted'
+[16:18:01 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:18:03 C SP845539 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[16:18:03 C SP845539 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:18:03 C SP845539 (Verbose)] Changed client state to 'Accepting'
+[16:18:05 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP84026
+[16:18:05 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[16:18:05 G Game387554 (Verbose)] Changed state of client 'SP84026' to Accepted
+[16:18:05 C SP84026 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:18:05 C SP84026 (Verbose)] Changed client state to 'Accepted'
+[16:18:05 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:18:18 S Server889530 (Verbose)] Client 'SP396900' tries to reconnect
+[16:18:18 S Server889530 (Verbose)] Client 'SP396900' was not flagged for removal
+[16:18:18 S Server889530 (Event)] Reset event map for client 'SP396900'
+[16:18:18 S Server889530 (Verbose)] Client with ID 'SP396900' has reconnected to the server
+[16:18:18 C SP396900 (Event)] Started listening
+[16:18:18 C SP396900 (Info)] Successfully re-connected to main server
+[16:18:18 C SP396900 (Verbose)] Restoring client state
+[16:18:27 C SP396900 (Verbose)] Changed client state to 'Accepting'
+[16:18:35 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP396900
+[16:18:35 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[16:18:35 G Game387554 (Verbose)] Changed state of client 'SP396900' to Accepted
+[16:18:35 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:18:36 C SP396900 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:18:36 C SP396900 (Verbose)] Changed client state to 'Accepted'
+[16:18:56 S Server889530 (Verbose)] Client 'SP189565' tries to reconnect
+[16:18:56 S Server889530 (Verbose)] Client 'SP189565' was not flagged for removal
+[16:18:56 S Server889530 (Event)] Reset event map for client 'SP189565'
+[16:18:56 S Server889530 (Verbose)] Client with ID 'SP189565' has reconnected to the server
+[16:18:56 C SP189565 (Event)] Started listening
+[16:18:56 C SP189565 (Info)] Successfully re-connected to main server
+[16:18:56 C SP189565 (Verbose)] Restoring client state
+[16:18:56 S Server889530 (Verbose)] Client 'SP845539' tries to reconnect
+[16:18:56 S Server889530 (Verbose)] Client 'SP845539' was not flagged for removal
+[16:18:56 S Server889530 (Event)] Reset event map for client 'SP845539'
+[16:18:56 S Server889530 (Verbose)] Client with ID 'SP845539' has reconnected to the server
+[16:18:56 C SP845539 (Event)] Started listening
+[16:18:56 C SP845539 (Info)] Successfully re-connected to main server
+[16:18:56 C SP845539 (Verbose)] Restoring client state
+[16:19:05 C SP189565 (Verbose)] Changed client state to 'Accepting'
+[16:19:09 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP845539
+[16:19:09 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[16:19:09 G Game387554 (Verbose)] Changed state of client 'SP845539' to Accepted
+[16:19:09 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:19:09 C SP845539 (Verbose)] Changed client state to 'Accepting'
+[16:19:10 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP189565
+[16:19:10 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[16:19:10 G Game387554 (Verbose)] Changed state of client 'SP189565' to Accepted
+[16:19:10 S Server889530 (Event)] Event 'Plan accepted/declined event' fired for client SP189565
+[16:19:10 S Server889530 (Event)] Event 'Plan accepted/declined event' fired for client SP396900
+[16:19:10 S Server889530 (Event)] Event 'Plan accepted/declined event' fired for client SP84026
+[16:19:10 S Server889530 (Event)] Event 'Plan accepted/declined event' fired for client SP842714
+[16:19:10 S Server889530 (Event)] Event 'Plan accepted/declined event' fired for client SP845539
+[16:19:10 S Server889530 (Event)] Event 'Plan accepted/declined event' fired for client GM340222
+[16:19:10 S Server889530 (Event)] Event broadcast notified 6 client(s), sender: Game387554
+[16:19:10 G Game387554 (Verbose)] Server changed state to 'Idle'
+[16:19:10 S Server889530 (Event)] Event 'Update state event' fired for client GM340222
+[16:19:10 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP189565
+[16:19:10 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP396900
+[16:19:10 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP84026
+[16:19:10 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP842714
+[16:19:10 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP845539
+[16:19:10 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[16:19:10 G Game387554 (Verbose)] Changed state of client 'SP189565' to Idle
+[16:19:10 G Game387554 (Verbose)] Changed state of client 'SP396900' to Idle
+[16:19:10 G Game387554 (Verbose)] Changed state of client 'SP84026' to Idle
+[16:19:10 G Game387554 (Verbose)] Changed state of client 'SP842714' to Idle
+[16:19:10 G Game387554 (Verbose)] Changed state of client 'SP845539' to Idle
+[16:19:10 C GM340222 (Event)] Received event 'Plan accepted/declined event', sender ID: Game387554
+[16:19:10 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:19:10 C GM340222 (Event)] Received event 'Update state event', sender ID: Game387554
+[16:19:10 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:19:10 C GM340222 (Verbose)] Changed state to 'Idle'
+[16:19:10 C SP189565 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:19:10 C SP189565 (Verbose)] Changed client state to 'Accepted'
+[16:19:10 C SP842714 (Event)] Received event 'Plan accepted/declined event', sender ID: Game387554
+[16:19:10 C SP189565 (Event)] Received event 'Plan accepted/declined event', sender ID: Game387554
+[16:19:10 C SP396900 (Event)] Received event 'Plan accepted/declined event', sender ID: Game387554
+[16:19:10 C SP84026 (Event)] Received event 'Plan accepted/declined event', sender ID: Game387554
+[16:19:11 C SP189565 (Info)] Alle spelers hebben het gezamenlijke plan geaccepteerd!
+[16:19:11 C SP189565 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:19:12 C SP189565 (Verbose)] Changed client state to 'Idle'
+[16:19:13 C SP845539 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:19:13 C SP845539 (Verbose)] Changed client state to 'Accepted'
+[16:19:13 C SP845539 (Event)] Received event 'Plan accepted/declined event', sender ID: Game387554
+[16:19:13 C SP84026 (Info)] Alle spelers hebben het gezamenlijke plan geaccepteerd!
+[16:19:13 C SP84026 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:19:13 C SP84026 (Verbose)] Changed client state to 'Idle'
+[16:19:14 C SP842714 (Info)] Alle spelers hebben het gezamenlijke plan geaccepteerd!
+[16:19:14 C SP842714 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:19:14 C SP842714 (Verbose)] Changed client state to 'Idle'
+[16:19:15 C SP845539 (Info)] Alle spelers hebben het gezamenlijke plan geaccepteerd!
+[16:19:15 C SP845539 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:19:15 C SP845539 (Verbose)] Changed client state to 'Idle'
+[16:19:16 S Server889530 (Verbose)] Client 'SB999547' tries to reconnect
+[16:19:16 S Server889530 (Verbose)] Client 'SB999547' was not flagged for removal
+[16:19:16 S Server889530 (Event)] Reset event map for client 'SB999547'
+[16:19:16 S Server889530 (Verbose)] Client with ID 'SB999547' has reconnected to the server
+[16:19:16 C SB999547 (Event)] Started listening
+[16:19:16 C SB999547 (Info)] Successfully re-connected to main server
+[16:19:16 C SB999547 (Verbose)] Restoring client state
+[16:21:10 C SP396900 (Info)] Alle spelers hebben het gezamenlijke plan geaccepteerd!
+[16:21:10 C SP396900 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:21:10 C SP396900 (Verbose)] Changed client state to 'Idle'
+[16:22:03 G Game387554 (Verbose)] Server changed state to 'Executing'
+[16:22:03 S Server889530 (Event)] Event 'Update state event' fired for client GM340222
+[16:22:03 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP189565
+[16:22:03 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP396900
+[16:22:03 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP84026
+[16:22:03 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP842714
+[16:22:03 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP845539
+[16:22:03 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[16:22:03 G Game387554 (Verbose)] Changed state of client 'SP189565' to Executing
+[16:22:03 G Game387554 (Verbose)] Changed state of client 'SP396900' to Executing
+[16:22:03 G Game387554 (Verbose)] Changed state of client 'SP84026' to Executing
+[16:22:03 G Game387554 (Verbose)] Changed state of client 'SP842714' to Executing
+[16:22:03 G Game387554 (Verbose)] Changed state of client 'SP845539' to Executing
+[16:22:03 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:22:03 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:22:03 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:22:03 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:22:03 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:22:03 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:22:03 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:22:03 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:22:03 C SP842714 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:22:03 C SP842714 (Verbose)] Changed client state to 'Executing'
+[16:22:03 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:03 C SP189565 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:22:03 C SP189565 (Verbose)] Changed client state to 'Executing'
+[16:22:03 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:03 C SP845539 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:22:03 C SP845539 (Verbose)] Changed client state to 'Executing'
+[16:22:03 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:04 C SP396900 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:22:04 C SP396900 (Verbose)] Changed client state to 'Executing'
+[16:22:04 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:04 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:04 C GM340222 (Event)] Received event 'Update state event', sender ID: Game387554
+[16:22:04 C GM340222 (Verbose)] Changed state to 'Executing'
+[16:22:04 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:04 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:22:04 C SP84026 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:22:04 C SP84026 (Verbose)] Changed client state to 'Executing'
+[16:22:04 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:04 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:22:04 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:22:04 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:22:04 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:22:04 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:22:04 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:22:04 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:22:04 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:22:04 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:04 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:04 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:05 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:05 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:05 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:05 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:05 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:22:05 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:22:05 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:22:05 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:22:05 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:22:05 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:22:05 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:22:05 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:22:05 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:05 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:05 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:05 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:05 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:06 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:06 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:06 S Server889530 (Event)] Event 'Process delay pending methods event' fired for client GM340222
+[16:22:06 C GM340222 (Event)] Received event 'Process delay pending methods event', sender ID: Game387554
+[16:22:27 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:22:27 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:22:27 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:22:27 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:22:27 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:22:27 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:22:27 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:22:27 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:22:27 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:27 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:27 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:27 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:27 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:28 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:28 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:28 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:22:28 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:22:28 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:22:28 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:22:28 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:22:28 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:22:28 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:22:28 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:22:28 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:28 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:29 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:29 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:29 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:29 S Server889530 (Event)] Event 'Process delay pending methods event' fired for client GM340222
+[16:22:29 C GM340222 (Event)] Received event 'Process delay pending methods event', sender ID: Game387554
+[16:22:29 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:37 C SP84026 (Info)] Helaas is zojuist bekend geworden dat uw project 'B12-C: SNELLER KLAAR' is uitgelopen.
+[16:22:38 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:22:40 C SP84026 (Info)] Het project 'B12-C: SNELLER KLAAR' is succesvol afgerond.
+[16:23:18 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:23:18 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:23:18 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:23:18 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:23:18 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:23:18 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:23:18 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:23:18 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:23:18 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:18 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:18 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:18 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:18 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:18 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:18 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:19 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:23:19 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:23:19 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:23:19 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:23:19 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:23:19 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:23:19 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:23:19 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:23:19 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:19 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:19 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:19 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:19 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:19 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:20 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:23:20 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:23:20 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:23:20 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:23:20 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:23:20 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:23:20 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:23:20 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:23:20 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:20 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:20 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:20 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:20 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:20 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:21 S Server889530 (Event)] Event 'Process delay pending methods event' fired for client GM340222
+[16:23:21 C GM340222 (Event)] Received event 'Process delay pending methods event', sender ID: Game387554
+[16:23:22 C SP396900 (Info)] Het project 'B1-B: SNELLER KLAAR' is succesvol afgerond.
+[16:23:22 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:22 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:50 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:23:50 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:23:50 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:23:50 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:23:50 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:23:50 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:23:50 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:23:50 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:23:50 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:50 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:51 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:51 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:51 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:51 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:51 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:23:51 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:23:51 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:23:51 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:23:51 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:23:51 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:23:51 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:23:51 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:23:51 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:51 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:52 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:23:52 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:23:52 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:23:52 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:23:52 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:23:52 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:23:52 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:23:52 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:23:53 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:53 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:53 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:53 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:53 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:53 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:53 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:23:53 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:23:53 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:23:53 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:23:53 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:23:53 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:23:53 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:23:53 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:23:53 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:53 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:53 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:54 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:54 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:23:54 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:23:54 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:23:54 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:23:54 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:23:54 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:23:54 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:23:54 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:23:54 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:54 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:55 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:55 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:23:55 S Server889530 (Event)] Event 'Process delay pending methods event' fired for client GM340222
+[16:23:55 C GM340222 (Event)] Received event 'Process delay pending methods event', sender ID: Game387554
+[16:24:01 C SP845539 (Info)] Het project 'B14-A: MINDER HINDER' is succesvol afgerond.
+[16:24:01 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:01 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:01 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:01 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:04 C SP842714 (Info)] Het project 'B11-A: BEPERKTE RISICO'S' is succesvol afgerond.
+[16:24:04 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:06 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:06 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:06 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:06 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:10 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:24:10 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:24:10 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:24:10 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:24:10 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:24:10 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:24:10 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:24:10 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:24:10 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:10 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:10 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:10 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:10 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:10 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:11 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:24:11 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:24:11 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:24:11 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:24:11 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:24:11 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:24:11 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:24:11 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:24:11 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:11 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:11 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:11 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:12 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:12 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:24:12 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:24:12 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:24:12 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:24:12 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:24:12 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:24:12 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:24:12 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:24:12 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:12 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:12 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:12 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:12 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:13 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:24:13 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:24:13 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:24:13 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:24:13 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:24:13 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:24:13 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:24:13 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:24:13 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:13 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:14 C SP189565 (Info)] Helaas is zojuist bekend geworden dat uw project 'B13-A: GOEDKOPER' is uitgelopen.
+[16:24:14 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:14 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:14 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:14 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:14 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:14 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:14 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:24:14 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:24:14 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:24:14 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:24:14 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:24:14 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:24:14 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:24:14 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:24:14 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:14 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:14 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:14 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:15 C SP84026 (Info)] Helaas is zojuist bekend geworden dat uw project 'B12-A: SNELLER KLAAR' is uitgelopen.
+[16:24:15 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:24:15 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:24:15 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:24:15 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:24:15 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:24:15 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:24:15 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:24:15 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:24:15 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:15 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:15 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:15 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:15 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:15 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:16 C SP396900 (Info)] Het project 'B15-A: BEPERKTE RISICO'S' is succesvol afgerond.
+[16:24:16 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:24:16 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:24:16 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:24:16 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:24:16 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:24:16 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:24:16 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:24:16 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:24:16 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:16 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:16 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:16 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:16 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:16 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:16 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:16 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:17 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:24:17 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:24:17 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:24:17 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:24:17 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:24:17 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:24:17 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:24:17 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:24:17 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:17 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:17 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:17 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:18 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:18 S Server889530 (Event)] Event 'Process delay pending methods event' fired for client GM340222
+[16:24:18 C GM340222 (Event)] Received event 'Process delay pending methods event', sender ID: Game387554
+[16:24:23 C SP84026 (Info)] Het project 'B12-A: SNELLER KLAAR' is succesvol afgerond.
+[16:24:23 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:23 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:23 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:23 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:23 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:27 C SP189565 (Info)] Het project 'B13-A: GOEDKOPER' is succesvol afgerond.
+[16:24:27 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:28 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:28 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:29 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:29 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:29 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:29 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:29 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:30 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:24:30 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:24:30 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:24:30 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:24:30 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:24:30 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:24:30 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:24:30 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:24:30 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:30 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:30 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:30 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:30 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:30 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:30 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:31 S Server889530 (Event)] Event 'Process delay pending methods event' fired for client GM340222
+[16:24:31 C GM340222 (Event)] Received event 'Process delay pending methods event', sender ID: Game387554
+[16:24:33 C SP189565 (Info)] Het project 'B13-B: SNELLER KLAAR' is succesvol afgerond.
+[16:24:41 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:24:41 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:24:41 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:24:41 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:24:41 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:24:41 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:24:41 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:24:41 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:24:42 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:42 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:42 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:42 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:42 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:42 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:42 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:42 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:24:42 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:24:42 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:24:42 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:24:42 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:24:42 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:24:42 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:24:42 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:24:43 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:43 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:43 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:43 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:43 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:43 S Server889530 (Event)] Event 'Process delay pending methods event' fired for client GM340222
+[16:24:44 C GM340222 (Event)] Received event 'Process delay pending methods event', sender ID: Game387554
+[16:24:45 C SP842714 (Info)] Het project 'B11-C: BEPERKTE RISICO'S' is succesvol afgerond.
+[16:24:45 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:24:49 C SP845539 (Info)] Het project 'B14-C: MINDER HINDER' is succesvol afgerond.
+[16:24:49 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:01 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:25:01 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:25:01 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:25:01 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:25:01 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:25:01 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:25:01 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:25:01 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:25:01 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:01 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:01 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:01 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:01 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:01 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:01 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:02 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:25:02 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:25:02 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:25:02 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:25:02 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:25:02 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:25:02 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:25:02 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:25:02 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:02 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:03 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:03 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:03 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:25:03 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:25:03 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:25:03 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:25:03 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:25:03 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:25:03 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:25:03 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:25:03 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:03 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:03 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:03 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:03 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:03 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:03 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:03 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:04 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:25:04 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:25:04 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:25:04 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:25:04 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:25:04 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:25:04 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:25:04 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:25:04 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:04 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:04 C SP84026 (Info)] Het project 'B1-C: GOEDKOPER' is succesvol afgerond.
+[16:25:04 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:04 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:04 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:04 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:05 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:05 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:05 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:05 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:25:05 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:25:05 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:25:05 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:25:05 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:25:05 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:25:05 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:25:05 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:25:05 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:05 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:05 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:05 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:05 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:05 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:05 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:06 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:25:06 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:25:06 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:25:06 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:25:06 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:25:06 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:25:06 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:25:06 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:25:06 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:06 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:06 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:06 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:06 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:06 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:06 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:07 S Server889530 (Event)] Event 'Process delay pending methods event' fired for client GM340222
+[16:25:07 C GM340222 (Event)] Received event 'Process delay pending methods event', sender ID: Game387554
+[16:25:18 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:25:18 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:25:18 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:25:18 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:25:18 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:25:18 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:25:18 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:25:18 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:25:18 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:19 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:19 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:19 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:19 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:19 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:19 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:19 S Server889530 (Event)] Event 'Process delay pending methods event' fired for client GM340222
+[16:25:19 C GM340222 (Event)] Received event 'Process delay pending methods event', sender ID: Game387554
+[16:25:26 C SP842714 (Info)] Helaas is zojuist bekend geworden dat uw project 'B1-D: SNELLER KLAAR' is uitgelopen.
+[16:25:35 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:25:35 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:25:35 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:25:35 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:25:35 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:25:35 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:25:35 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:25:35 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:25:35 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:35 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:35 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:35 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:35 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:35 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:35 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:36 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:25:36 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:25:36 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:25:36 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:25:36 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:25:36 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:25:36 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:25:36 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:25:36 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:36 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:37 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:25:37 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:25:37 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:25:37 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:25:37 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:25:37 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:25:37 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:25:37 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:25:37 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:37 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:37 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:37 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:37 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:37 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:37 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:38 S Server889530 (Event)] Event 'Process delay pending methods event' fired for client GM340222
+[16:25:38 C GM340222 (Event)] Received event 'Process delay pending methods event', sender ID: Game387554
+[16:25:39 C SP842714 (Info)] Het project 'B1-D: SNELLER KLAAR' is succesvol afgerond.
+[16:25:39 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:40 C SP396900 (Info)] Het project 'B15-B: BEPERKTE RISICO'S' is succesvol afgerond.
+[16:25:40 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:40 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:43 C SP845539 (Info)] Helaas is zojuist bekend geworden dat uw project 'B1-A: SNELLER KLAAR' is uitgelopen.
+[16:25:43 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:43 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:45 C SP845539 (Info)] Het project 'B1-A: SNELLER KLAAR' is succesvol afgerond.
+[16:25:54 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:25:54 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:25:54 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:25:54 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:25:54 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:25:54 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:25:54 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:25:54 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:25:55 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:55 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:55 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:55 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:55 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:55 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:55 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:55 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:25:55 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:25:55 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:25:55 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:25:55 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:25:55 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:25:55 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:25:55 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:25:56 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:56 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:56 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:56 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:56 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:56 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:56 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:25:56 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:25:56 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:25:56 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:25:56 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:25:56 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:25:56 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:25:56 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:25:57 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:57 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:57 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:57 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:57 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:57 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:25:57 S Server889530 (Event)] Event 'Process delay pending methods event' fired for client GM340222
+[16:25:58 C GM340222 (Event)] Received event 'Process delay pending methods event', sender ID: Game387554
+[16:26:00 C SP84026 (Info)] Helaas is zojuist bekend geworden dat uw project 'B12-B: SNELLER KLAAR' is uitgelopen.
+[16:26:01 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:01 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:02 C SP84026 (Info)] Het project 'B12-B: SNELLER KLAAR' is succesvol afgerond.
+[16:26:12 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:26:12 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:26:12 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:26:12 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:26:12 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:26:12 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:26:12 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:26:12 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:26:12 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:12 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:12 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:12 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:12 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:12 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:12 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:13 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:26:13 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:26:13 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:26:13 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:26:13 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:26:13 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:26:13 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:26:13 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:26:13 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:13 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:13 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:13 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:14 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:14 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:26:14 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:26:14 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:26:14 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:26:14 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:26:14 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:26:14 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:26:14 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:26:14 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:14 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:14 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:14 C SP189565 (Info)] Het project 'B1-E: SNELLER KLAAR' is succesvol afgerond.
+[16:26:14 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:14 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:14 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:14 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:15 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:15 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:15 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:26:15 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:26:15 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:26:15 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:26:15 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:26:15 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:26:15 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:26:15 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:26:15 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:15 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:15 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:15 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:15 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:15 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:16 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:16 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:26:16 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:26:16 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:26:16 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:26:16 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:26:16 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:26:16 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:26:16 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:26:16 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:16 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:16 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:16 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:16 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:16 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:17 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:17 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:26:17 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:26:17 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:26:17 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:26:17 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:26:17 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:26:17 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:26:17 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:26:17 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:17 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:17 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:17 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:17 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:17 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:17 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:18 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:26:18 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:26:18 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:26:18 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:26:18 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:26:18 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:26:18 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:26:18 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:26:18 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:18 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:18 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:18 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:18 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:18 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:19 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:19 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:26:19 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:26:19 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:26:19 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:26:19 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:26:19 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:26:19 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:26:19 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:26:19 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:19 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:19 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:19 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:19 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:20 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:20 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:26:20 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:26:20 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:26:20 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:26:20 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:26:20 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:26:20 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:26:20 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:26:20 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:20 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:20 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:20 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:20 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:20 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:21 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:26:21 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:26:21 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:26:21 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:26:21 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:26:21 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:26:21 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:26:21 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:26:21 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:21 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:21 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:21 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:22 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:22 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:22 S Server889530 (Event)] Event 'Process delay pending methods event' fired for client GM340222
+[16:26:22 C GM340222 (Event)] Received event 'Process delay pending methods event', sender ID: Game387554
+[16:26:35 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:26:35 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:26:35 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:26:35 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:26:35 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:26:35 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:26:35 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:26:35 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:26:35 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:35 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:35 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:35 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:35 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:35 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:36 S Server889530 (Event)] Event 'Process delay pending methods event' fired for client GM340222
+[16:26:36 C GM340222 (Event)] Received event 'Process delay pending methods event', sender ID: Game387554
+[16:26:38 C SP396900 (Info)] Het project 'B15-C: BEPERKTE RISICO'S' is succesvol afgerond.
+[16:26:39 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:39 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:39 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:39 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:40 C SP189565 (Info)] Het project 'B13-C: GOEDKOPER' is succesvol afgerond.
+[16:26:48 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:26:48 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:26:48 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:26:48 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:26:48 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:26:48 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:26:48 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:26:48 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:26:48 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:48 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:48 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:48 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:48 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:48 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:48 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:26:49 S Server889530 (Event)] Event 'Process delay pending methods event' fired for client GM340222
+[16:26:49 C GM340222 (Event)] Received event 'Process delay pending methods event', sender ID: Game387554
+[16:26:59 C SP842714 (Info)] Het project 'B11-B: MINDER HINDER' is succesvol afgerond.
+[16:27:04 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:27:04 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:27:04 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:27:04 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:27:04 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:27:04 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:27:04 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:27:04 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:27:05 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:27:05 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:27:05 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:27:05 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:27:05 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:27:05 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:27:05 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:27:05 S Server889530 (Event)] Event 'Execute Results' fired for client SP189565
+[16:27:05 S Server889530 (Event)] Event 'Execute Results' fired for client SP396900
+[16:27:05 S Server889530 (Event)] Event 'Execute Results' fired for client SP84026
+[16:27:05 S Server889530 (Event)] Event 'Execute Results' fired for client SP842714
+[16:27:05 S Server889530 (Event)] Event 'Execute Results' fired for client SP845539
+[16:27:05 S Server889530 (Event)] Event 'Execute Results' fired for client GM340222
+[16:27:05 S Server889530 (Event)] Event 'Execute Results' fired for client SB999547
+[16:27:05 S Server889530 (Event)] Event broadcast notified 7 client(s), sender: Game387554
+[16:27:06 C SP84026 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:27:06 C SB999547 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:27:06 C GM340222 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:27:06 C SP189565 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:27:06 C SP842714 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:27:06 C SP396900 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:27:06 G Game387554 (Verbose)] Server changed state to 'Finished'
+[16:27:06 S Server889530 (Event)] Event 'Update state event' fired for client GM340222
+[16:27:06 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP189565
+[16:27:06 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP396900
+[16:27:06 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP84026
+[16:27:06 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP842714
+[16:27:06 S Server889530 (Event)] Event 'Update Client State Event' fired for client SP845539
+[16:27:06 S Server889530 (Event)] Event 'Update Client State Event' fired for client GM340222
+[16:27:06 G Game387554 (Verbose)] Changed state of client 'SP189565' to Finished
+[16:27:06 G Game387554 (Verbose)] Changed state of client 'SP396900' to Finished
+[16:27:06 G Game387554 (Verbose)] Changed state of client 'SP84026' to Finished
+[16:27:06 G Game387554 (Verbose)] Changed state of client 'SP842714' to Finished
+[16:27:06 G Game387554 (Verbose)] Changed state of client 'SP845539' to Finished
+[16:27:06 C SP842714 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:27:06 C SP842714 (Verbose)] Changed client state to 'Finished'
+[16:27:06 C SP396900 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:27:07 C SP396900 (Verbose)] Changed client state to 'Finished'
+[16:27:07 C GM340222 (Event)] Received event 'Update state event', sender ID: Game387554
+[16:27:07 C GM340222 (Verbose)] Changed state to 'Finished'
+[16:27:07 C GM340222 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:27:07 C SP84026 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:27:07 C SP84026 (Verbose)] Changed client state to 'Finished'
+[16:27:07 C SP189565 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:27:07 C SP189565 (Verbose)] Changed client state to 'Finished'
+[16:27:10 C SP845539 (Info)] Het project 'B14-B: MINDER HINDER' is succesvol afgerond.
+[16:27:10 C SP845539 (Event)] Received event 'Execute Results', sender ID: Game387554
+[16:27:10 C SP845539 (Event)] Received event 'Update Client State Event', sender ID: Game387554
+[16:27:10 C SP845539 (Verbose)] Changed client state to 'Finished'
+[16:37:37 S Server889530 (Event)] Event 'Disconnect Event' fired for client SM582871
+[16:37:37 S Server889530 (Event)] Event 'Disconnect Event' fired for client SP563551
+[16:37:37 S Server889530 (Event)] Event 'Disconnect Event' fired for client SP594019
+[16:37:37 S Server889530 (Event)] Event 'Disconnect Event' fired for client SP502823
+[16:37:37 S Server889530 (Event)] Event 'Disconnect Event' fired for client SP396900
+[16:37:37 S Server889530 (Event)] Event 'Disconnect Event' fired for client SP84026
+[16:37:37 S Server889530 (Event)] Event 'Disconnect Event' fired for client SP842714
+[16:37:37 S Server889530 (Event)] Event 'Disconnect Event' fired for client SP845539
+[16:37:37 S Server889530 (Event)] Event 'Disconnect Event' fired for client GM340222
+[16:37:37 S Server889530 (Event)] Event 'Disconnect Event' fired for client SB999547
+[16:37:37 S Server889530 (Event)] Event 'Disconnect Event' fired for client SP189565

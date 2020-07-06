@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tasks>
+  <Task ID="T1" Desc="B1-A (T1)" AssetID="B1-A" LongDesc="Er is op de verharding 0,1 km Langscheuren, 1 km Langsonvlakheid, 7,3 km Stroefheid, 7,2 km Dwarshelling, dat moet worden geasfalteerd. En er zijn 6 Rijdekken,  die moeten worden vervangen." Payment="2317000.0000" TTLClass="10000" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:300444.4444" TTLImpact="10000" QualityImpact="5.5000" Duration="9w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:251100.0000" TTLImpact="8000" QualityImpact="5.5000" Duration="10w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:429111.1111" TTLImpact="11000" QualityImpact="3.8500" Duration="9w" DelayDuration="4w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="MEESTE KWALITEIT" CostFunction="Constant:212500.0000" TTLImpact="10000" QualityImpact="7.1500" Duration="10w" DelayDuration="2w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T2" Desc="B1-B (T2)" AssetID="B1-B" LongDesc="Er is op de verharding 0,1 km Langscheuren, 1 km Langsonvlakheid, 7,3 km Stroefheid, 7,2 km Dwarshelling, dat moet worden geasfalteerd. En er zijn 6 Rijdekken,  die moeten worden vervangen." Payment="2317000.0000" TTLClass="10000" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:300444.4444" TTLImpact="10000" QualityImpact="5.5000" Duration="9w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:251100.0000" TTLImpact="8000" QualityImpact="5.5000" Duration="10w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:429111.1111" TTLImpact="11000" QualityImpact="3.8500" Duration="9w" DelayDuration="4w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:212500.0000" TTLImpact="10000" QualityImpact="7.1500" Duration="10w" DelayDuration="2w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T3" Desc="B1-C (T3)" AssetID="B1-C" LongDesc="Er is op de verharding 0,1 km Langscheuren, 1 km Langsonvlakheid, 7,3 km Stroefheid, 7,2 km Dwarshelling, dat moet worden geasfalteerd. En er zijn 6 Rijdekken,  die moeten worden vervangen." Payment="2317000.0000" TTLClass="10000" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:300444.4444" TTLImpact="10000" QualityImpact="5.5000" Duration="9w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:251100.0000" TTLImpact="8000" QualityImpact="5.5000" Duration="10w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:429111.1111" TTLImpact="11000" QualityImpact="3.8500" Duration="9w" DelayDuration="4w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:212500.0000" TTLImpact="10000" QualityImpact="7.1500" Duration="10w" DelayDuration="2w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T4" Desc="B1-D (T4)" AssetID="B1-D" LongDesc="Er is op de verharding 0,1 km Langscheuren, 1 km Langsonvlakheid, 7,3 km Stroefheid, 7,2 km Dwarshelling, dat moet worden geasfalteerd. En er zijn 6 Rijdekken,  die moeten worden vervangen." Payment="2317000.0000" TTLClass="10000" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:300444.4444" TTLImpact="10000" QualityImpact="5.5000" Duration="9w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:251100.0000" TTLImpact="8000" QualityImpact="5.5000" Duration="10w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:429111.1111" TTLImpact="11000" QualityImpact="3.8500" Duration="9w" DelayDuration="4w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:212500.0000" TTLImpact="10000" QualityImpact="7.1500" Duration="10w" DelayDuration="2w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T5" Desc="B1-E (T5)" AssetID="B1-E" LongDesc="Er is op de verharding 0,1 km Langscheuren, 1 km Langsonvlakheid, 7,3 km Stroefheid, 7,2 km Dwarshelling, dat moet worden geasfalteerd. En er zijn 6 Rijdekken,  die moeten worden vervangen." Payment="2317000.0000" TTLClass="10000" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:300444.4444" TTLImpact="10000" QualityImpact="5.5000" Duration="9w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:251100.0000" TTLImpact="8000" QualityImpact="5.5000" Duration="10w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:429111.1111" TTLImpact="11000" QualityImpact="3.8500" Duration="9w" DelayDuration="4w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:212500.0000" TTLImpact="10000" QualityImpact="7.1500" Duration="10w" DelayDuration="2w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T6" Desc="B2-A (T6)" AssetID="B2-A" LongDesc="Er is op de verharding 0,7 km Rafeling, 1,4 km Dwarsscheuren, 9,5 km Rijspoordiepte, 0,8 km Langscheuren, 0,7 km Stroefheid, 0,2 km Dwarshelling, dat moet worden geasfalteerd. En er zijn 3 Staalconserveringen, 15 Voegovergangen,  die moeten worden vervangen." Payment="4204000.0000" TTLClass="1700" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:613250.0000" TTLImpact="1700" QualityImpact="6.4877" Duration="8w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:506222.2222" TTLImpact="1360" QualityImpact="6.4877" Duration="9w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:875875.0000" TTLImpact="1870" QualityImpact="4.5414" Duration="8w" DelayDuration="4w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="MEESTE KWALITEIT" CostFunction="Constant:428333.3333" TTLImpact="1700" QualityImpact="8.4340" Duration="9w" DelayDuration="2w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T7" Desc="B2-B (T7)" AssetID="B2-B" LongDesc="Er is op de verharding 2,1 km Dwarsscheuren, 0,9 km Langscheuren, 1 km Langsonvlakheid, dat moet worden geasfalteerd. En er zijn 23 Rijdekken,  die moeten worden vervangen." Payment="948000.0000" TTLClass="2000" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:369000.0000" TTLImpact="2000" QualityImpact="6.6585" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:342666.6667" TTLImpact="1600" QualityImpact="6.6585" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:526666.6667" TTLImpact="2200" QualityImpact="4.6610" Duration="3w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="MEESTE KWALITEIT" CostFunction="Constant:290000.0000" TTLImpact="2000" QualityImpact="8.6561" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T8" Desc="B3-A (T8)" AssetID="B3-A" LongDesc="Er is op de verharding 0,7 km Rafeling, 1,4 km Dwarsscheuren, 9,5 km Rijspoordiepte, 0,8 km Langscheuren, 0,7 km Stroefheid, 0,2 km Dwarshelling, dat moet worden geasfalteerd. En er zijn 3 Staalconserveringen, 15 Voegovergangen,  die moeten worden vervangen." Payment="4204000.0000" TTLClass="1700" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:613250.0000" TTLImpact="1700" QualityImpact="6.4877" Duration="8w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:506222.2222" TTLImpact="1360" QualityImpact="6.4877" Duration="9w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:875875.0000" TTLImpact="1870" QualityImpact="4.5414" Duration="8w" DelayDuration="4w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:428333.3333" TTLImpact="1700" QualityImpact="8.4340" Duration="9w" DelayDuration="2w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T9" Desc="B3-B (T9)" AssetID="B3-B" LongDesc="Er is op de verharding 2,1 km Dwarsscheuren, 0,9 km Langscheuren, 1 km Langsonvlakheid, dat moet worden geasfalteerd. En er zijn 23 Rijdekken,  die moeten worden vervangen." Payment="948000.0000" TTLClass="2000" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:369000.0000" TTLImpact="2000" QualityImpact="6.6585" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:342666.6667" TTLImpact="1600" QualityImpact="6.6585" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:526666.6667" TTLImpact="2200" QualityImpact="4.6610" Duration="3w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:290000.0000" TTLImpact="2000" QualityImpact="8.6561" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T10" Desc="B4-A (T10)" AssetID="B4-A" LongDesc="Er is op de verharding 0,7 km Rafeling, 1,4 km Dwarsscheuren, 9,5 km Rijspoordiepte, 0,8 km Langscheuren, 0,7 km Stroefheid, 0,2 km Dwarshelling, dat moet worden geasfalteerd. En er zijn 3 Staalconserveringen, 15 Voegovergangen,  die moeten worden vervangen." Payment="4204000.0000" TTLClass="1700" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:613250.0000" TTLImpact="1700" QualityImpact="6.4877" Duration="8w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:506222.2222" TTLImpact="1360" QualityImpact="6.4877" Duration="9w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:875875.0000" TTLImpact="1870" QualityImpact="4.5414" Duration="8w" DelayDuration="4w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:428333.3333" TTLImpact="1700" QualityImpact="8.4340" Duration="9w" DelayDuration="2w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T11" Desc="B4-B (T11)" AssetID="B4-B" LongDesc="Er is op de verharding 2,1 km Dwarsscheuren, 0,9 km Langscheuren, 1 km Langsonvlakheid, dat moet worden geasfalteerd. En er zijn 23 Rijdekken,  die moeten worden vervangen." Payment="948000.0000" TTLClass="2000" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:369000.0000" TTLImpact="2000" QualityImpact="6.6585" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:342666.6667" TTLImpact="1600" QualityImpact="6.6585" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:526666.6667" TTLImpact="2200" QualityImpact="4.6610" Duration="3w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:290000.0000" TTLImpact="2000" QualityImpact="8.6561" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T12" Desc="B5-A (T12)" AssetID="B5-A" LongDesc="Er is op de verharding 0,7 km Rafeling, 1,4 km Dwarsscheuren, 9,5 km Rijspoordiepte, 0,8 km Langscheuren, 0,7 km Stroefheid, 0,2 km Dwarshelling, dat moet worden geasfalteerd. En er zijn 3 Staalconserveringen, 15 Voegovergangen,  die moeten worden vervangen." Payment="4204000.0000" TTLClass="1700" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:613250.0000" TTLImpact="1700" QualityImpact="6.4877" Duration="8w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:506222.2222" TTLImpact="1360" QualityImpact="6.4877" Duration="9w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:875875.0000" TTLImpact="1870" QualityImpact="4.5414" Duration="8w" DelayDuration="4w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:428333.3333" TTLImpact="1700" QualityImpact="8.4340" Duration="9w" DelayDuration="2w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T13" Desc="B5-B (T13)" AssetID="B5-B" LongDesc="Er is op de verharding 2,1 km Dwarsscheuren, 0,9 km Langscheuren, 1 km Langsonvlakheid, dat moet worden geasfalteerd. En er zijn 23 Rijdekken,  die moeten worden vervangen." Payment="948000.0000" TTLClass="2000" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:369000.0000" TTLImpact="2000" QualityImpact="6.6585" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:342666.6667" TTLImpact="1600" QualityImpact="6.6585" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:526666.6667" TTLImpact="2200" QualityImpact="4.6610" Duration="3w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:290000.0000" TTLImpact="2000" QualityImpact="8.6561" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T14" Desc="B6-A (T14)" AssetID="B6-A" LongDesc="Er is op de verharding 0,7 km Rafeling, 1,4 km Dwarsscheuren, 9,5 km Rijspoordiepte, 0,8 km Langscheuren, 0,7 km Stroefheid, 0,2 km Dwarshelling, dat moet worden geasfalteerd. En er zijn 3 Staalconserveringen, 15 Voegovergangen,  die moeten worden vervangen." Payment="4204000.0000" TTLClass="1700" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:613250.0000" TTLImpact="1700" QualityImpact="6.4877" Duration="8w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:506222.2222" TTLImpact="1360" QualityImpact="6.4877" Duration="9w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:875875.0000" TTLImpact="1870" QualityImpact="4.5414" Duration="8w" DelayDuration="4w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:428333.3333" TTLImpact="1700" QualityImpact="8.4340" Duration="9w" DelayDuration="2w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T15" Desc="B6-B (T15)" AssetID="B6-B" LongDesc="Er is op de verharding 2,1 km Dwarsscheuren, 0,9 km Langscheuren, 1 km Langsonvlakheid, dat moet worden geasfalteerd. En er zijn 23 Rijdekken,  die moeten worden vervangen." Payment="948000.0000" TTLClass="2000" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:369000.0000" TTLImpact="2000" QualityImpact="6.6585" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:342666.6667" TTLImpact="1600" QualityImpact="6.6585" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:526666.6667" TTLImpact="2200" QualityImpact="4.6610" Duration="3w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:290000.0000" TTLImpact="2000" QualityImpact="8.6561" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T16" Desc="B11-A (T16)" AssetID="B11-A" LongDesc="Er is op de verharding 1,9 km Rafeling, 1,1 km Dwarsscheuren, 0,4 km Rijspoordiepte, 1,7 km Langscheuren, 0,8 km Langsonvlakheid, dat moet worden geasfalteerd. " Payment="580000.0000" TTLClass="900" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:169250.0000" TTLImpact="900" QualityImpact="6.6585" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:157250.0000" TTLImpact="720" QualityImpact="6.6585" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:241750.0000" TTLImpact="990" QualityImpact="4.6610" Duration="4w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="MEESTE KWALITEIT" CostFunction="Constant:133000.0000" TTLImpact="900" QualityImpact="8.6561" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T17" Desc="B11-B (T17)" AssetID="B11-B" LongDesc="Er is op de verharding 6,6 km Rafeling, 1,6 km Dwarsscheuren, 11 km Rijspoordiepte, 0,7 km Langscheuren, 2,9 km Langsonvlakheid, 0,1 km Stroefheid, 0,1 km Dwarshelling, dat moet worden geasfalteerd. " Payment="3361000.0000" TTLClass="3800" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:301769.2308" TTLImpact="3800" QualityImpact="6.5806" Duration="13w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:260214.2857" TTLImpact="3040" QualityImpact="6.5806" Duration="14w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:430923.0769" TTLImpact="4180" QualityImpact="4.6064" Duration="13w" DelayDuration="4w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="MEESTE KWALITEIT" CostFunction="Constant:220214.2857" TTLImpact="3800" QualityImpact="8.5548" Duration="14w" DelayDuration="2w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T18" Desc="B11-C (T18)" AssetID="B11-C" LongDesc="Er is op de verharding 0,6 km Dwarsscheuren, 0,9 km Rijspoordiepte, 1,9 km Langscheuren, 4,4 km Langsonvlakheid, 0,4 km Dwarshelling, dat moet worden geasfalteerd. " Payment="1344000.0000" TTLClass="1400" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:313600.0000" TTLImpact="1400" QualityImpact="6.6585" Duration="5w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:242666.6667" TTLImpact="1120" QualityImpact="6.6585" Duration="6w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:448000.0000" TTLImpact="1540" QualityImpact="4.6610" Duration="5w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="MEESTE KWALITEIT" CostFunction="Constant:205333.3333" TTLImpact="1400" QualityImpact="8.6561" Duration="6w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T19" Desc="B12-A (T19)" AssetID="B12-A" LongDesc="Er is op de verharding 1,9 km Rafeling, 1,1 km Dwarsscheuren, 0,4 km Rijspoordiepte, 1,7 km Langscheuren, 0,8 km Langsonvlakheid, dat moet worden geasfalteerd. " Payment="580000.0000" TTLClass="900" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:169250.0000" TTLImpact="900" QualityImpact="6.6585" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:157250.0000" TTLImpact="720" QualityImpact="6.6585" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:241750.0000" TTLImpact="990" QualityImpact="4.6610" Duration="4w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:133000.0000" TTLImpact="900" QualityImpact="8.6561" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T20" Desc="B12-B (T20)" AssetID="B12-B" LongDesc="Er is op de verharding 6,6 km Rafeling, 1,6 km Dwarsscheuren, 11 km Rijspoordiepte, 0,7 km Langscheuren, 2,9 km Langsonvlakheid, 0,1 km Stroefheid, 0,1 km Dwarshelling, dat moet worden geasfalteerd. " Payment="3361000.0000" TTLClass="3800" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:301769.2308" TTLImpact="3800" QualityImpact="6.5806" Duration="13w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:260214.2857" TTLImpact="3040" QualityImpact="6.5806" Duration="14w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:430923.0769" TTLImpact="4180" QualityImpact="4.6064" Duration="13w" DelayDuration="4w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:220214.2857" TTLImpact="3800" QualityImpact="8.5548" Duration="14w" DelayDuration="2w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T21" Desc="B12-C (T21)" AssetID="B12-C" LongDesc="Er is op de verharding 0,6 km Dwarsscheuren, 0,9 km Rijspoordiepte, 1,9 km Langscheuren, 4,4 km Langsonvlakheid, 0,4 km Dwarshelling, dat moet worden geasfalteerd. " Payment="1344000.0000" TTLClass="1400" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:313600.0000" TTLImpact="1400" QualityImpact="6.6585" Duration="5w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:242666.6667" TTLImpact="1120" QualityImpact="6.6585" Duration="6w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:448000.0000" TTLImpact="1540" QualityImpact="4.6610" Duration="5w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:205333.3333" TTLImpact="1400" QualityImpact="8.6561" Duration="6w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T22" Desc="B13-A (T22)" AssetID="B13-A" LongDesc="Er is op de verharding 1,9 km Rafeling, 1,1 km Dwarsscheuren, 0,4 km Rijspoordiepte, 1,7 km Langscheuren, 0,8 km Langsonvlakheid, dat moet worden geasfalteerd. " Payment="580000.0000" TTLClass="900" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:169250.0000" TTLImpact="900" QualityImpact="6.6585" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:157250.0000" TTLImpact="720" QualityImpact="6.6585" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:241750.0000" TTLImpact="990" QualityImpact="4.6610" Duration="4w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:133000.0000" TTLImpact="900" QualityImpact="8.6561" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T23" Desc="B13-B (T23)" AssetID="B13-B" LongDesc="Er is op de verharding 6,6 km Rafeling, 1,6 km Dwarsscheuren, 11 km Rijspoordiepte, 0,7 km Langscheuren, 2,9 km Langsonvlakheid, 0,1 km Stroefheid, 0,1 km Dwarshelling, dat moet worden geasfalteerd. " Payment="3361000.0000" TTLClass="3800" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:301769.2308" TTLImpact="3800" QualityImpact="6.5806" Duration="13w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:260214.2857" TTLImpact="3040" QualityImpact="6.5806" Duration="14w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:430923.0769" TTLImpact="4180" QualityImpact="4.6064" Duration="13w" DelayDuration="4w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:220214.2857" TTLImpact="3800" QualityImpact="8.5548" Duration="14w" DelayDuration="2w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T24" Desc="B13-C (T24)" AssetID="B13-C" LongDesc="Er is op de verharding 0,6 km Dwarsscheuren, 0,9 km Rijspoordiepte, 1,9 km Langscheuren, 4,4 km Langsonvlakheid, 0,4 km Dwarshelling, dat moet worden geasfalteerd. " Payment="1344000.0000" TTLClass="1400" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:313600.0000" TTLImpact="1400" QualityImpact="6.6585" Duration="5w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:242666.6667" TTLImpact="1120" QualityImpact="6.6585" Duration="6w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:448000.0000" TTLImpact="1540" QualityImpact="4.6610" Duration="5w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:205333.3333" TTLImpact="1400" QualityImpact="8.6561" Duration="6w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T25" Desc="B14-A (T25)" AssetID="B14-A" LongDesc="Er is op de verharding 1,9 km Rafeling, 1,1 km Dwarsscheuren, 0,4 km Rijspoordiepte, 1,7 km Langscheuren, 0,8 km Langsonvlakheid, dat moet worden geasfalteerd. " Payment="580000.0000" TTLClass="900" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:169250.0000" TTLImpact="900" QualityImpact="6.6585" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:157250.0000" TTLImpact="720" QualityImpact="6.6585" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:241750.0000" TTLImpact="990" QualityImpact="4.6610" Duration="4w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:133000.0000" TTLImpact="900" QualityImpact="8.6561" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T26" Desc="B14-B (T26)" AssetID="B14-B" LongDesc="Er is op de verharding 6,6 km Rafeling, 1,6 km Dwarsscheuren, 11 km Rijspoordiepte, 0,7 km Langscheuren, 2,9 km Langsonvlakheid, 0,1 km Stroefheid, 0,1 km Dwarshelling, dat moet worden geasfalteerd. " Payment="3361000.0000" TTLClass="3800" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:301769.2308" TTLImpact="3800" QualityImpact="6.5806" Duration="13w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:260214.2857" TTLImpact="3040" QualityImpact="6.5806" Duration="14w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:430923.0769" TTLImpact="4180" QualityImpact="4.6064" Duration="13w" DelayDuration="4w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:220214.2857" TTLImpact="3800" QualityImpact="8.5548" Duration="14w" DelayDuration="2w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T27" Desc="B14-C (T27)" AssetID="B14-C" LongDesc="Er is op de verharding 0,6 km Dwarsscheuren, 0,9 km Rijspoordiepte, 1,9 km Langscheuren, 4,4 km Langsonvlakheid, 0,4 km Dwarshelling, dat moet worden geasfalteerd. " Payment="1344000.0000" TTLClass="1400" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:313600.0000" TTLImpact="1400" QualityImpact="6.6585" Duration="5w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:242666.6667" TTLImpact="1120" QualityImpact="6.6585" Duration="6w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:448000.0000" TTLImpact="1540" QualityImpact="4.6610" Duration="5w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:205333.3333" TTLImpact="1400" QualityImpact="8.6561" Duration="6w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T28" Desc="B15-A (T28)" AssetID="B15-A" LongDesc="Er is op de verharding 1,9 km Rafeling, 1,1 km Dwarsscheuren, 0,4 km Rijspoordiepte, 1,7 km Langscheuren, 0,8 km Langsonvlakheid, dat moet worden geasfalteerd. " Payment="580000.0000" TTLClass="900" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:169250.0000" TTLImpact="900" QualityImpact="6.6585" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:157250.0000" TTLImpact="720" QualityImpact="6.6585" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:241750.0000" TTLImpact="990" QualityImpact="4.6610" Duration="4w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:133000.0000" TTLImpact="900" QualityImpact="8.6561" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T29" Desc="B15-B (T29)" AssetID="B15-B" LongDesc="Er is op de verharding 6,6 km Rafeling, 1,6 km Dwarsscheuren, 11 km Rijspoordiepte, 0,7 km Langscheuren, 2,9 km Langsonvlakheid, 0,1 km Stroefheid, 0,1 km Dwarshelling, dat moet worden geasfalteerd. " Payment="3361000.0000" TTLClass="3800" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:301769.2308" TTLImpact="3800" QualityImpact="6.5806" Duration="13w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:260214.2857" TTLImpact="3040" QualityImpact="6.5806" Duration="14w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:430923.0769" TTLImpact="4180" QualityImpact="4.6064" Duration="13w" DelayDuration="4w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:220214.2857" TTLImpact="3800" QualityImpact="8.5548" Duration="14w" DelayDuration="2w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T30" Desc="B15-C (T30)" AssetID="B15-C" LongDesc="Er is op de verharding 0,6 km Dwarsscheuren, 0,9 km Rijspoordiepte, 1,9 km Langscheuren, 4,4 km Langsonvlakheid, 0,4 km Dwarshelling, dat moet worden geasfalteerd. " Payment="1344000.0000" TTLClass="1400" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:313600.0000" TTLImpact="1400" QualityImpact="6.6585" Duration="5w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:242666.6667" TTLImpact="1120" QualityImpact="6.6585" Duration="6w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:448000.0000" TTLImpact="1540" QualityImpact="4.6610" Duration="5w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:205333.3333" TTLImpact="1400" QualityImpact="8.6561" Duration="6w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T31" Desc="B21-A (T31)" AssetID="B21-A" LongDesc="Er is op de verharding 1,4 km Dwarsscheuren, 1,5 km Langscheuren, 1,2 km Dwarshelling, dat moet worden geasfalteerd. " Payment="367000.0000" TTLClass="100" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:143000.0000" TTLImpact="100" QualityImpact="6.3728" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:132666.6667" TTLImpact="80" QualityImpact="6.3728" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:204000.0000" TTLImpact="110" QualityImpact="4.4610" Duration="3w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="MEESTE KWALITEIT" CostFunction="Constant:112333.3333" TTLImpact="100" QualityImpact="8.2847" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T32" Desc="B21-B (T32)" AssetID="B21-B" LongDesc="Er is op de verharding 0,7 km Rafeling, 1,6 km Dwarsscheuren, 1,6 km Langscheuren, 0,7 km Stroefheid, 7,5 km Dwarshelling, dat moet worden geasfalteerd. " Payment="2291000.0000" TTLClass="1000" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:381857.1429" TTLImpact="1000" QualityImpact="5.6318" Duration="7w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:310250.0000" TTLImpact="800" QualityImpact="5.6318" Duration="8w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:545428.5714" TTLImpact="1100" QualityImpact="3.9422" Duration="7w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="MEESTE KWALITEIT" CostFunction="Constant:262500.0000" TTLImpact="1000" QualityImpact="7.3213" Duration="8w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T33" Desc="B22-A (T33)" AssetID="B22-A" LongDesc="Er is op de verharding 1,4 km Dwarsscheuren, 1,5 km Langscheuren, 1,2 km Dwarshelling, dat moet worden geasfalteerd. " Payment="367000.0000" TTLClass="100" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:143000.0000" TTLImpact="100" QualityImpact="6.3728" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:132666.6667" TTLImpact="80" QualityImpact="6.3728" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:204000.0000" TTLImpact="110" QualityImpact="4.4610" Duration="3w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:112333.3333" TTLImpact="100" QualityImpact="8.2847" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T34" Desc="B22-B (T34)" AssetID="B22-B" LongDesc="Er is op de verharding 0,7 km Rafeling, 1,6 km Dwarsscheuren, 1,6 km Langscheuren, 0,7 km Stroefheid, 7,5 km Dwarshelling, dat moet worden geasfalteerd. " Payment="2291000.0000" TTLClass="1000" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:381857.1429" TTLImpact="1000" QualityImpact="5.6318" Duration="7w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:310250.0000" TTLImpact="800" QualityImpact="5.6318" Duration="8w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:545428.5714" TTLImpact="1100" QualityImpact="3.9422" Duration="7w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:262500.0000" TTLImpact="1000" QualityImpact="7.3213" Duration="8w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T35" Desc="B23-A (T35)" AssetID="B23-A" LongDesc="Er is op de verharding 1,4 km Dwarsscheuren, 1,5 km Langscheuren, 1,2 km Dwarshelling, dat moet worden geasfalteerd. " Payment="367000.0000" TTLClass="100" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:143000.0000" TTLImpact="100" QualityImpact="6.3728" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:132666.6667" TTLImpact="80" QualityImpact="6.3728" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:204000.0000" TTLImpact="110" QualityImpact="4.4610" Duration="3w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:112333.3333" TTLImpact="100" QualityImpact="8.2847" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T36" Desc="B23-B (T36)" AssetID="B23-B" LongDesc="Er is op de verharding 0,7 km Rafeling, 1,6 km Dwarsscheuren, 1,6 km Langscheuren, 0,7 km Stroefheid, 7,5 km Dwarshelling, dat moet worden geasfalteerd. " Payment="2291000.0000" TTLClass="1000" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:381857.1429" TTLImpact="1000" QualityImpact="5.6318" Duration="7w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:310250.0000" TTLImpact="800" QualityImpact="5.6318" Duration="8w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:545428.5714" TTLImpact="1100" QualityImpact="3.9422" Duration="7w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:262500.0000" TTLImpact="1000" QualityImpact="7.3213" Duration="8w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T37" Desc="B24-A (T37)" AssetID="B24-A" LongDesc="Er is op de verharding 1,4 km Dwarsscheuren, 1,5 km Langscheuren, 1,2 km Dwarshelling, dat moet worden geasfalteerd. " Payment="367000.0000" TTLClass="100" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:143000.0000" TTLImpact="100" QualityImpact="6.3728" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:132666.6667" TTLImpact="80" QualityImpact="6.3728" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:204000.0000" TTLImpact="110" QualityImpact="4.4610" Duration="3w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:112333.3333" TTLImpact="100" QualityImpact="8.2847" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T38" Desc="B24-B (T38)" AssetID="B24-B" LongDesc="Er is op de verharding 0,7 km Rafeling, 1,6 km Dwarsscheuren, 1,6 km Langscheuren, 0,7 km Stroefheid, 7,5 km Dwarshelling, dat moet worden geasfalteerd. " Payment="2291000.0000" TTLClass="1000" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:381857.1429" TTLImpact="1000" QualityImpact="5.6318" Duration="7w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:310250.0000" TTLImpact="800" QualityImpact="5.6318" Duration="8w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:545428.5714" TTLImpact="1100" QualityImpact="3.9422" Duration="7w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:262500.0000" TTLImpact="1000" QualityImpact="7.3213" Duration="8w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T39" Desc="B25-A (T39)" AssetID="B25-A" LongDesc="Er is op de verharding 1,4 km Dwarsscheuren, 1,5 km Langscheuren, 1,2 km Dwarshelling, dat moet worden geasfalteerd. " Payment="367000.0000" TTLClass="100" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:143000.0000" TTLImpact="100" QualityImpact="6.3728" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:132666.6667" TTLImpact="80" QualityImpact="6.3728" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:204000.0000" TTLImpact="110" QualityImpact="4.4610" Duration="3w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:112333.3333" TTLImpact="100" QualityImpact="8.2847" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T40" Desc="B25-B (T40)" AssetID="B25-B" LongDesc="Er is op de verharding 0,7 km Rafeling, 1,6 km Dwarsscheuren, 1,6 km Langscheuren, 0,7 km Stroefheid, 7,5 km Dwarshelling, dat moet worden geasfalteerd. " Payment="2291000.0000" TTLClass="1000" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:381857.1429" TTLImpact="1000" QualityImpact="5.6318" Duration="7w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:310250.0000" TTLImpact="800" QualityImpact="5.6318" Duration="8w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:545428.5714" TTLImpact="1100" QualityImpact="3.9422" Duration="7w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:262500.0000" TTLImpact="1000" QualityImpact="7.3213" Duration="8w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T41" Desc="M1-A (T41)" AssetID="M1-A" LongDesc="Er is op de verharding 0,5 km Dwarsscheuren, 0,6 km Langscheuren, 0,7 km Langsonvlakheid, 4,2 km Stroefheid, dat moet worden geasfalteerd. En er zijn 5 Voegovergangen,  die moeten worden vervangen." Payment="1355000.0000" TTLClass="1400" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:395250.0000" TTLImpact="1400" QualityImpact="6.4629" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:367000.0000" TTLImpact="1120" QualityImpact="6.4629" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:564500.0000" TTLImpact="1540" QualityImpact="4.5240" Duration="4w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="MEESTE KWALITEIT" CostFunction="Constant:310500.0000" TTLImpact="1400" QualityImpact="8.4018" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T42" Desc="M2-A (T42)" AssetID="M2-A" LongDesc="Er is op de verharding 0,5 km Dwarsscheuren, 0,6 km Langscheuren, 0,7 km Langsonvlakheid, 4,2 km Stroefheid, dat moet worden geasfalteerd. En er zijn 5 Voegovergangen,  die moeten worden vervangen." Payment="1355000.0000" TTLClass="1400" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:395250.0000" TTLImpact="1400" QualityImpact="6.4629" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:367000.0000" TTLImpact="1120" QualityImpact="6.4629" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:564500.0000" TTLImpact="1540" QualityImpact="4.5240" Duration="4w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:310500.0000" TTLImpact="1400" QualityImpact="8.4018" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T43" Desc="M3-A (T43)" AssetID="M3-A" LongDesc="Er is op de verharding 0,5 km Dwarsscheuren, 0,6 km Langscheuren, 0,7 km Langsonvlakheid, 4,2 km Stroefheid, dat moet worden geasfalteerd. En er zijn 5 Voegovergangen,  die moeten worden vervangen." Payment="1355000.0000" TTLClass="1400" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:395250.0000" TTLImpact="1400" QualityImpact="6.4629" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:367000.0000" TTLImpact="1120" QualityImpact="6.4629" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:564500.0000" TTLImpact="1540" QualityImpact="4.5240" Duration="4w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:310500.0000" TTLImpact="1400" QualityImpact="8.4018" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T44" Desc="M4-A (T44)" AssetID="M4-A" LongDesc="Er is op de verharding 0,5 km Dwarsscheuren, 0,6 km Langscheuren, 0,7 km Langsonvlakheid, 4,2 km Stroefheid, dat moet worden geasfalteerd. En er zijn 5 Voegovergangen,  die moeten worden vervangen." Payment="1355000.0000" TTLClass="1400" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:395250.0000" TTLImpact="1400" QualityImpact="6.4629" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:367000.0000" TTLImpact="1120" QualityImpact="6.4629" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:564500.0000" TTLImpact="1540" QualityImpact="4.5240" Duration="4w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:310500.0000" TTLImpact="1400" QualityImpact="8.4018" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T45" Desc="M5-A (T45)" AssetID="M5-A" LongDesc="Er is op de verharding 0,5 km Dwarsscheuren, 0,6 km Langscheuren, 0,7 km Langsonvlakheid, 4,2 km Stroefheid, dat moet worden geasfalteerd. En er zijn 5 Voegovergangen,  die moeten worden vervangen." Payment="1355000.0000" TTLClass="1400" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAAL" CostFunction="Constant:395250.0000" TTLImpact="1400" QualityImpact="6.4629" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="MINSTE VVU" CostFunction="Constant:367000.0000" TTLImpact="1120" QualityImpact="6.4629" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="MINSTE KOSTEN" CostFunction="Constant:564500.0000" TTLImpact="1540" QualityImpact="4.5240" Duration="4w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="HOOGSTE KWALITEIT" CostFunction="Constant:310500.0000" TTLImpact="1400" QualityImpact="8.4018" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+  </Task>
+</Tasks>

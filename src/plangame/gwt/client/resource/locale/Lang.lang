@@ -1,0 +1,559 @@
+#! General terms
+Week = Week
+Weeks = Week(s)
+Task = Task
+Tasks = Task(s)
+Method = Method
+Methods = Method(s)
+Unassigned = <Unassigned>
+
+#! General notifications
+NoTaskSelected = There is no task selected
+SelectTask = Please select a task
+NoMethodSelected = There is no method selected
+SelectMethod = Please select a method
+NoServerSelecetd = There is no game server selected
+SelectServer = Please select a game server
+NoClientSelected = Please select a client
+SelectClient = Please select a client
+NoPlayerSelected = Please select a player
+SelectPlayer = Please select a player
+NoPortfolioSelected = There is no portfolio selected
+SelectPortfolio = Please select a portfolio
+
+#! Plan modifications
+#@ {0} The method {1} The reason for failure
+PlanTaskFail = Failed to add method ''{0}'' to the plan: {1}
+#@ {0} The method {1} The reason for failure
+UnplanTaskFail = Failed to remove method ''{0}'' from the plan: {1}
+#@ {0} The task {1} The reason for failure
+ChangeTaskFail = Failed to change the method for task ''{0}'': {1}
+
+#! Plan errors
+#$ PlanError_
+#@ {0} The method
+AlreadyDelayed = The delay status for method ''{0}'' is already set.
+#@ {0} The old method {1} The new method
+DifferentTasks = The tasks of methods ''{0}'' and ''{1}'' differ.
+#@ {0} The method
+Executed = Method ''{0}'' is already under execution or has been completed.
+#@ {0} Method 1 {1} Method 2
+Overlap = Methods ''{0}'' and ''{1}'' overlap in their regular durations.
+#@ {0} The method
+PlanInPast = Method ''{0}'' cannot be planned in the past.
+#@ {0} The new method {1} The planned method
+TaskAlreadyPlanned = Method ''{1}'' is already planned for the task associated with method ''{0}''.
+#@ {0} The method
+UnableToComplete = Method ''{0}'' cannot be completed within the plan period. 
+
+#! RPC Callback handling
+#$ RPC_
+DialogTitle = Please wait...
+Refresh = Please refresh your browser and try again (this could cause some changes to be lost).
+
+#! Locale formats
+#$ Format_
+Currency = $ #,###,##0.00
+CurrencyK = $ #,##0 K
+BigInt = #,##0
+IntK = #,##0 K
+Rank = #th
+Weeks = 0 week(s)
+
+#! =====[ Client View ]=====
+#$ Client_
+#! Client RPC calls
+Connecting = Connecting to server...
+ConnectFail = Failed to connect to server
+ReconnectFail = Failed to reconnect to server
+Disconnect = Disconnect
+Disconnected = You have successfully disconnected from the server
+#@ {0} The reason for disconnecting the client
+Kicked = You have been disconnected, reason: {0}.
+DisconnectFail = Failed to disconnect from server
+DisconnectText = You have been disconnected, refresh to reconnect
+LogFailed = Failed to log the message
+UnloadNotifyFail = Failed to notify server of close
+ListenFail = Failed to listen for events
+RetrievingServers = Retrieving active server list...
+RetrieveServersFail = Failed to retrieve active server list
+DisconnectSelf = you requested to disconnect
+DisconnectKick = the server manager has disconnected you
+DisconnectRestart = the game server is restarting
+DisconnectEnd = the game server is shutting down
+
+
+#! =====[ Game View ]=====
+#$ GV_
+#! RPC Commands
+JoiningGame = Joining the game...
+JoinGameFail = Failed to join the game
+Joined = Successfully joined game server ''{0}''
+RestoringState = Restoring the client state...
+RestoreStateFail = Failed to retrieve server state information
+
+#! Game events
+GameStart = The game is starting!
+GameRestart = The game server is restarting, the game will reset after you close this dialog
+GameEnd = The game server is ending this game
+
+#! =====[ Game Manager ]=====
+#$ GM_
+#! The window title
+WindowTitle = Game Manager
+
+#! UI text
+TabClients = Players
+TabPlanning = Planning
+StartGame = Start game
+StartPlanning = Start planning
+StartExecution = Start execution
+StopExecute = Stop execution
+ChangeGameState = Set game state
+ChangeClientState = Set client state
+
+#! RPC Commands
+RetrievingPortfolios = Retrieving portfolios...
+RetrievePortfoliosFailed = Failed to retrieve portfolio list from game server
+AssignPortfolio = Assign portfolio
+AssigningPortfolio = Assigning portfolio...
+AssignPortfolioFail = Failed to assign portfolio
+StartingGame = Starting the game...
+StartGameFail = Failed to start the game
+StartingPlanning = Starting plan round...
+StartPlanningFail = Failed to start plan round
+ExecutingPlan = Executing the current plan...
+ExecutePlanFail = Failed to execute the current plan round
+StoppingExecution = Stopping execution...
+StopExecutionFail = Failed to stop the execution
+SubmittingPending = Submitting completed/delayed methods...
+SubmitPendingFail = Failed to submit completed/delayed methods
+ChangingGameState = Setting game state
+ChangeGameStateFail = Failed to set the game state
+ChangingClientState = Setting client state
+ChangeClientStateFail = Failed to set the client state
+
+#! State help titles and texts
+StateInitialisingTitle = Initialising
+StateInitialising = The game is initialising...
+StateStartingTitle = Start of the game
+StateStarting = Players are connecting to the game, you can start the game with the 'Start game' button. When the game starts, players cannot connect anymore.
+StateIdleTitle = Idle
+StateIdle = <TODO help text>
+StatePlanningTitle = Planning phase
+StatePlanning = Players are making new plans, please wait for them to submit their plans.
+StateAcceptTitle = Accept phase
+StateAccept = All players have to accept or decline the new joint plan, please wait for all players to respond.
+StateExecutingTitle = Execute phase
+StateExecuting = The game is currently being executed.
+StateFinishedTitle = Execution complete
+StateFinished = All tasks have been completed.
+
+#! =====[ Score board ]=====
+#$ SB_
+#! The window title
+WindowTitle = Score Board
+
+#! =====[ Service Provider ]=====
+#$ SP_
+#! The window title
+WindowTitle = Service Provider
+
+#! UI text
+FinanceTab = Financial overview 
+TrafficTab = Traffic Time Lost
+MechanismTab = Mechanism Payments
+PlotsTab = TTL Timeline
+OptionsTab = Options
+
+#! Commands
+AddMethod = Add task
+ChangeMethod = Edit task method
+MoveMethod = Move task
+RemoveMethod = Remove method
+SubmitPlan = Submit plan
+AcceptPlan = Accept plan
+DeclinePlan = Decline plan
+RequestTaskSuggestion = Task suggestion
+RequestPlanSuggestion = Plan suggestion
+
+#! Notifications
+AllTasksPlanned = There are no more tasks to add, all tasks of the portfolio have been planned.
+Reassigned = The server is reassigning a new client to this view
+PlanContainsErrors = The current plan cannot be submitted, it contains the following errors:
+SubmitConfirm = Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted.
+SubmitConfirmUnplanned = You have not planned all tasks of your portfolio, are you sure you want to submit the plan? After submitting you cannot make any more changes, until all players have submitted.
+MethodDelayed = Unfortunately we have just received word that your task ''{0}'' has been delayed.
+MethodCompleted = Task ''{0}'' has been completed.
+MethodEditExecuting = You can no longer change/move task ''{0}'' because it has been executed or is currently executing.
+MethodRemoveExecuting = You can no longer remove task ''{0}'' because it has been executed or is currently executing.
+MethodSuggestExecuting = You can no longer request a suggestion for task ''{0}'' because it has been executed or is currently executing.
+MethodEditNotMine = You cannot change/move task ''{0}'' because it belongs to another player.
+MethodRemoveNotMine = You cannot remove task ''{0}'' because it belongs to another player.
+MethodSuggestNotMine = You cannot request a suggestion for task ''{0}'' because it belongs to another player.
+
+#! RPC Commands
+StartingPlanning = A new plan round is starting.
+AllPlansSubmitted = All players have submitted their plans, please accept or decline the joint plan.
+JointPlanAccept = All players have accepted the joint plan!
+JointPlanDecline = The joint plan was not accepted, please submit a new plan.
+RoundComplete = The round has been executed.
+SubmittingPlan = Submitting plan to server...
+SubmitFail = Failed to submit plan to game server.
+AcceptFail = Failed to accept/decline the joint plan.
+RequestingSuggestion = Requesting suggestion from server...
+RequestSuggestionFail = Failed to retrieve a suggestion from the game server.
+UpdatingProfile = Updating profile...
+UpdateProfileFail = Failed to update the player profile.
+ChangePlanFail = Failed to notify server of plan change.
+AckReassignFail = Failed to acknowledge change of client to the server
+
+#! State titles
+StateInitialisingTitle = Initialising
+StateAwaitingPortfolioTitle = Awaiting portfolio
+StateWaitingToStartTitle = Waiting for start
+StateIdleTitle = Idle
+StateInPlanningTitle = Planning
+StateSubmittedTitle = Plan submitted
+StateAcceptingTitle = Accept/decline joint plan
+StateAcceptedTitle = Accepted joint plan
+StateDeclinedTitle = Declined joint plan
+StateExecutingTitle = Execute phase
+StateFinishedTitle = Execution complete
+StateReconnectingTitle = Reconnecting
+StateDisconnectedTitle = Disconnected
+
+#! State help texts
+StateInitialising = The client is initialising...
+StateAwaitingPortfolio = Waiting for the Game Manager to assign a portfolio.
+StateWaitingToStart = Players are connecting to the game, please wait for the game to start.
+StateIdle = <TODO help text>
+StateInPlanning = Someone has requested a new planning round, please make your plan and submit it to the server. After the plan has been submitted you will have to accept or decline the new joint plan.
+StateSubmitted = You have successfully submitted your plan, please wait until the other players have done so as well.
+StateAccepting = Please accept or decline the joint plan. If all players accept, the joint plan can be executed. If at least one player declines, a new plan round will be started.
+StateAccepted = You have accepted the newly proposed joint plan, please wait until all players have responded.
+StateDeclined = You have declined the newly proposed joint plan, please wait until all players have responded.
+StateExecuting = The game is currently being executed.
+StateFinished = All tasks have been completed! See your results in the score bar or tables.
+StateReconnecting = Reconnecting to the game server... Please wait while the game data is reloaded.
+StateDisconnected = You have been disconnected from the game, press refresh to reconnect to a game.
+
+
+#! =====[ Server Manager ]=====
+#$ SM_
+#! RPC calls 
+CreatingGame = Creating game server...
+CreateGameFail = Failed to create the game server
+RestartingGame = Restarting game server...
+RestartGameFail = Failed to restart game server
+EndingGame = Ending game server...
+EndGameFail = Failed to end game server
+Kicking = Disconnecting client...
+KickFail = Failed to disconnect client
+KickingAll = Disconnecting all clients...
+KickedAll = Successful, disconnected {0} client(s)
+KickAllFail = Failed to disconnect clients
+RetrievingClients = Retrieving client list
+RetrieveClientsFail = Failed to retrieve client list
+ReassignClient = Re-assigning the client
+ReassigningFailed = Failed to reassign the client
+
+#! UI Labels
+TabServers = Game Servers
+TabClients = Clients
+
+#! UI Commands
+RefreshServers = Refresh server list
+CreateServer = Create game server
+RestartServer = Restart server
+EndServer = End server
+RefreshClients = Refresh client list
+AssignClient = Assign client
+Kick = Disconnect client
+KickAll = Disconnect all clients
+
+#! UI Notifications / dialogs
+NoActiveServer = No active game server currently running
+ConfirmRestart = Are you sure you want to restart the selected game server? Any game in progress will be terminated.
+ConfirmEnd = Are you sure you want to end the selected game server? Any game in progress will be terminated.
+AssignInGame = The client that is to be replaced cannot be in a game
+AssignInvalidType = The client to assign must be a Service Provider 
+
+#! =====[ Widgets ]=====
+#$ W_
+#! The browser does not support the canvas element
+NoCanvasSupport = Sorry your browser does not support the Canvas element!
+
+#! Score bar widget
+#$ W_Score_
+#@ {0} Best case {1} Delta
+Profits = My profits: {0} (- {1})
+#@ {0} Best case {1} Delta
+TTLOverall = Total network TTL: {0} (+ {1})
+#@ {0} Best case {1} Delta
+TTLMine = Caused by me: {0} (+ {1})
+
+#! Finance widget
+#$ W_Finance_
+TableTitle = Profits
+RowRevenue = Revenue
+RowCost = Cost
+RowTTLCost = TTL cost
+RowProfitExRisk = Profit (ex. risk)
+RowIfDelayed = If delayed:
+RowDelayCost = Delay cost
+RowTTLDelayCost = TTL delay cost
+RowProfits = Profit (inc. risk)
+ColTotal = Totals
+OtherPlayer = The selected task belongs to another player, its financial information is unknown.
+
+#! TTL Widget
+#$ W_TTL_
+ShowPayments = Show network payments
+TableTitle = TTL Overview
+TotalCell = Totals
+RowIndividual = Individual
+RowNetworkBest = Network best
+RowNetworkWorst = Network worst
+RowTotalNoDelay = Total (ex. risk)
+RowIfDelayed = If delayed:
+RowTotalDelay = Total (inc. risk)
+OtherPlayer = The selected task belongs to another player, its TTL information is unknown.
+
+#! Mechanism Payments Widget
+#$ W_Mech_
+TableTitle = Payments
+TotalCell = Totals
+RowIndividual = Individual
+RowNetworkBest = Network best
+RowNetworkWorst = Network worst
+RowTotalNoDelay = Total (ex. risk)
+RowIfDelayed = If delayed:
+RowTotalDelay = Total (inc. risk)
+
+#! TTL Timeline widget
+#$ W_Timeline_
+PlotIdle = Idle
+PlotIndividual = Indivual
+PlotNetworkBest = Network best-case
+PlotNetworkWorst = Network worst-case
+XCaption = Week
+YCaptionAbs = TTL (absolute)
+YCaptionRel = TTL (relative to normal)
+
+#! Service Provider options widget
+#$ W_SPOptions_
+TTLRelative = Display relative traffic time losses
+TTLOnMap = Display network TTL distribution on map
+
+#! Score manager widget
+#$ W_SCMGR_
+SB_ColPlayerName = Player name
+SB_ColPortfolio = Portfolio
+SB_ColProfits = Profits
+SB_ColProfitRank = Rank
+SB_ColTTL = TTL
+SB_ColTTLRank = Rank
+
+#! Player manager widget
+#$ W_PMGR_
+NoPlayers = No players have joined the game yet
+ColPlayerID = ID
+ColPlayerName = Name
+ColPlayerPortfolio = Portfolio
+ColPlayerStatus = Status
+NoPlayerName = <not set>
+
+#! Client manager widget
+#$ W_CMGR_
+NoClients = No clients connected to the server
+ColClientID = ID
+ColClientType = Client type
+ColClientGame = Game 
+ColClientPlayername = Player name
+NoPlayerName = <not set>
+NotInGame = <not in game>
+
+#! Server manager widgets
+#$ W_SMGR_
+NoServers = There are no active game servers
+ColServerID = ID
+ColServerName = Server name
+ColServerPlayers = Players
+ColServerDesc = Description
+
+#! General dialog texts
+#$ Dialog_
+Done = Done
+OK = OK
+Cancel = Cancel
+
+#! Start game dialog
+#$ StartGameDialog_
+Title = The game is starting
+WelcomeTitle = Welcome {0}
+ColourLabel = Portfolio colour:
+MapLabel = Your tasks:
+OK = Let''s begin!
+
+#! End game dialog
+#$ EndGameDialog_
+Title = The game has finished
+ResultsTitle = The game has ended! The results are:
+ProfitTitle = Profit scores:
+TTLTitle = Traffic Time Loss scores:
+NetworkTTLTitle = Total network TTL:
+
+#! The delay dialog
+#$ DelayDialog_
+Title = Delay tasks
+Delay = Delay the following task(s):
+DoneContinue = Continue execution
+
+#! Re-assing client dialog
+#$ ReassignDialog_
+Title = Re-assign client
+Client = Client to replace:
+SameClients = Cannot assign to the same client, please select a different client
+
+#! Assign portfolio dialog
+#$ PortfolioDialog_
+Title = Assign portfolio
+
+#! Start execution dialog
+#$ ExecuteDialog_
+Title = Start execution
+Mode = Execution mode
+Sleep = Sleep between rounds (msec)
+NoMode = Please select an execution mode
+InvalidSleep = Please specify a valid number of milliseconds to sleep between execution rounds
+ConfirmLargeSleep = Setting a large value for the round sleep can make the interface look non-responsive. Do you want to continue with this value?
+
+#! Change State dialogs
+#$ StateDialog_
+Title = Change state
+SelectState = Select new state
+NoStateSelected = Please select a new  state
+
+#! The method dialog
+#$ MethodDialog_
+AddTask = Add task
+EditTask = Edit task
+StepTask = Step 1 >> Select the task to add
+StepMethod = Step 2 >> Select the method
+StepTime = Step 3 >> Plan the method
+StepConfirm = Step 4 >> Confirm
+NextStep = Next step >>
+PrevStep = << Previous step
+#@ The value text in the task panel {0} The task name
+TaskStepValue = Chosen task: {0}
+#@ The title in the task step {0} The task name
+TaskNameTitle = Task description: {0}
+#@ The value text in the method panel {0} The method name
+MethodStepValue = Chosen method: {0}
+#@ The title in the method step {0} The method name
+MethodNameTitle = Method description: {0}
+#@ The value text in the plan panel {0} The week number
+PlanStepValue = Chosen week: {0}
+CostTitle = Method overview
+Duration = Duration
+DelayProbability = Delay risk
+DelayDuration = Delay duration
+IfDelayed = If delayed
+Revenue = Task revenue
+Penalty = Penalty if not done
+TTLClass = TTL category
+Cost = Maintenance cost
+ProfitExRisk = Total profit (ex. risk)
+DelayCost = Cost if delayed
+ProfitIncRisk = Total profit (inc. risk)
+TTLImpactAvg = Average Traffic Time Loss increase
+TTLTitle = Traffic Time Losses
+TTLIndividual = Individual
+TTLNetworkBest = Network best-case
+TTLNetworkWorst = Network worst-case
+TotalTTLExRisk = Total (ex. risk)
+TotalTTLPaymentExRisk = Payment (ex. risk) 
+TTLIndividualDelay = Individual
+TTLNetworkBestDelay = Network best-case
+TTLNetworkWorstDelay = Network worst-case
+TotalTTLIncRisk = Total (inc. risk)
+TotalTTLPaymentIncRisk = Payment (inc. risk)
+ConfirmMethodTitle = Planning choices
+ConfirmTask = Chosen task 
+ConfirmMethod = Chosen method
+ConfirmTime = Chosen time
+ConfirmCostTitle = Expected profit
+ConfirmTTLTitle = Expected TTL
+ConfirmRegular = Regular
+ConfirmDelayed = If delayed
+ConfirmTotal = Total
+ConfirmPayment = Network payments
+
+#! New game dialog
+#$ NewGameDialog_
+Title = Create new game server
+GameID = ID
+GameName = Name
+GameDesc = Description
+GameFile = Definition file
+GameMaxPlayers = Maximum number of players
+CreateGame = Create game server
+DefaultGameIDPrefix = Game
+DefaultGameName = Game Server
+DefaultGameDesc = Serious planning game
+#@ The message when an invalid ID is specified {0} The invalid ID
+InvalidID = The specified game ID ''{0}'' is invalid
+NoGameFile = Please specify the game definition file to load 
+PlayerNumberInvalid = The maximum number of clients must be a numeric value.
+PlayerNumberOutOfRange = The maximum number of clients must be a positive integer or -1 to match the number of portfolios in the game file.
+
+#! Join game server dialog
+#$ JoinDialog_
+Title = Choose game to join
+PlayerName = Player name
+InvalidPlayerName = The chosen player name is invalid, please choose a different name and try again.
+Join = Join
+Refresh = Refresh
+Disconnect = Disconnect
+
+#! Request suggestion dialog
+#$ RequestSuggestionDialog_
+TaskTitle = Request task suggestion
+PlanTitle = Request plan suggestion
+TaskDesc = With this dialog you can request a planning suggestion for the specified task, based on your preferences. Note that any current planned method for the task will be replaced.
+PlanDesc = With this dialog you can request a planning suggestion for the entire plan, based on your preferences. The current plan will be replaced by the suggestion.
+SelectTask = Select task
+CostWeight = Cost weight
+QualityWeight = Quality weight
+TTLWeight = TTL weight
+TaskSuggestionFailed = Failed to provide a plan suggestion for the current task because it cannot be fitted in the current plan. 
+
+#! Score & results widgets
+#$ Score_
+MaintenanceCost = Maintenance Cost
+TTL = Traffic Time Lost
+Quality = Quality
+PlannedTask = Task
+PlannedMethod = Planned Method
+Regular = Regular
+Delay = If delayed
+Individual = Individual
+Network = Network
+Total = Total
+QualityDemand = Demand
+QualityResult = Result
+
+#! Task info widget
+#$ TaskInfo_
+Asset = Asset
+Revenue = Revenue
+IdleTTL = Average TTL per veh.
+QualityDemand = Quality demand
+MethodDuration = Duration
+MethodCost = Cost
+MethodDelayDuration = Delay duration
+MethodDelayRisk = Delay probability
+MethodDelayCost = Delay cost
+MethodTTL = TTL increase
+MethodQualityImpact = Quality impact

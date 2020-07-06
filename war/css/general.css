@@ -1,0 +1,20 @@
+html, body {
+	padding: 0px;
+	spacing: 0px;
+	margin: 0px;
+	height: 98%;
+}
+
+table, tr, th, td {
+	border-collapse: collapse;
+}
+
+.pfPanel {
+	height: 100%;
+	width: 100%;
+}
+
+/* For debugging purpose */
+.border {
+	/* border: 1px solid red; */
+}

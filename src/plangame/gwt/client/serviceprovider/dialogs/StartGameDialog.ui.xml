@@ -1,0 +1,32 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+	<ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'
+    xmlns:g='urn:import:com.google.gwt.user.client.ui'
+    xmlns:c="urn:import:plangame.gwt.client.widgets.controls"
+    xmlns:m="urn:import:plangame.gwt.client.widgets.map">
+ 
+    <ui:with type="plangame.gwt.client.resource.ClientResource" field="res"></ui:with>
+    <ui:with type="plangame.gwt.client.resource.locale.Lang" field="lang" />
+    
+    <g:VerticalPanel ui:field="pnlMain" styleName="{res.startdialogcss.mainpanel}">
+      <!-- Title panel -->
+      <g:HorizontalPanel ui:field="pnlTitle" styleName="{res.startdialogcss.titlepanel}">
+        <g:Label ui:field="lblWelcomeTitle" styleName="{res.startdialogcss.welcometitle}" />
+        <g:Label ui:field="lblColour" styleName="{res.startdialogcss.colourlabel}" text="{lang.StartGameDialog_ColourLabel}" />
+        <g:HTMLPanel ui:field="pnlColour" styleName="{res.startdialogcss.colourdiv}" />
+      </g:HorizontalPanel>
+      
+      <!--  Content pane -->
+      <g:HorizontalPanel ui:field="pnlInfo" styleName="{res.startdialogcss.infopanel}">
+        <g:Label ui:field="lblWelcomeText" styleName="{res.startdialogcss.welcometext}" />
+        <g:VerticalPanel>
+          <g:Label ui:field="lblMap" styleName="{res.startdialogcss.maplabel}" text="{lang.StartGameDialog_MapLabel}" />
+          <m:MapWidget ui:field="wdMap" styleName="{res.startdialogcss.map}" />
+        </g:VerticalPanel>
+      </g:HorizontalPanel>
+    
+      <!-- Control panel -->
+      <g:HorizontalPanel styleName="{res.startdialogcss.buttonpanel}">
+        <g:Button ui:field="btnStart" text="{lang.StartGameDialog_OK}" styleName="{res.startdialogcss.startbutton}" />
+      </g:HorizontalPanel>
+    </g:VerticalPanel>
+</ui:UiBinder>

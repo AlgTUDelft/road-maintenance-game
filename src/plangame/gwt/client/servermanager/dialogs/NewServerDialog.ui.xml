@@ -1,0 +1,22 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+	<ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'
+    xmlns:g='urn:import:com.google.gwt.user.client.ui'>
+    
+    <ui:with type="plangame.gwt.client.resource.locale.Lang" field="lang" />
+    
+    <g:VerticalPanel styleName="dgNewServer">
+      <g:Label><ui:text from="{lang.NewGameDialog_GameID}" /></g:Label>
+      <g:TextBox ui:field="txtGameID"></g:TextBox>
+      <g:Label><ui:text from="{lang.NewGameDialog_GameName}" /></g:Label>
+      <g:TextBox ui:field="txtGameName"></g:TextBox>
+      <g:Label><ui:text from="{lang.NewGameDialog_GameDesc}" /></g:Label>
+      <g:TextBox ui:field="txtGameDesc"></g:TextBox>
+      <g:Label><ui:text from="{lang.NewGameDialog_GameFile}" /></g:Label>
+      <g:TextBox ui:field="txtGameFile"></g:TextBox>
+      <g:Label><ui:text from="{lang.NewGameDialog_GameMaxPlayers}" /></g:Label>
+      <g:TextBox ui:field="txtMaxClients"></g:TextBox>
+      
+      <g:Button ui:field="btnOK"><ui:text from="{lang.NewGameDialog_CreateGame}" /></g:Button>
+      <g:Button ui:field="btnCancel"><ui:text from="{lang.Dialog_Cancel}" /></g:Button>
+    </g:VerticalPanel>
+</ui:UiBinder>

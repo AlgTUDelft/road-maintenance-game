@@ -1,0 +1,33 @@
+Log started Mon Feb 03 12:24:36 CET 2014
+Types of log messages: Event Info Warning Error Verbose System
+[12:24:36 S Server413793 (Info)] Server started
+[12:34:32 S Server413793 (Event)] Added client 'SM53666' to event map
+[12:34:32 S Server413793 (Info)] Client 'SM53666' connected to the server
+[12:34:32 C SM53666 (Event)] Started listening
+[12:34:32 C SM53666 (Info)] Successfully connected to main server
+[12:34:32 S Server413793 (Verbose)] Requested game server list
+[12:36:16 G Game482108 (Verbose)] Server changed state to 'Initialising'
+[12:36:16 G Game482108 (Error)] Failed to load game file 'webapss/game/games/lvo/game.xml'
+[12:36:22 C SM53666 (Info)] Failed to create the game server: XML file '/host/Users/Joris/Desktop/Almende/Maintenance Planning Game GWT/war/webapss/game/games/lvo/game.xml' not found!.
+[12:36:33 G Game224215 (Verbose)] Server changed state to 'Initialising'
+[12:36:33 G Game224215 (Error)] Failed to load game file 'game/lvo/game.xml'
+[12:36:35 C SM53666 (Info)] Failed to create the game server: XML file '/host/Users/Joris/Desktop/Almende/Maintenance Planning Game GWT/war/game/lvo/game.xml' not found!.
+[12:36:41 G Game731010 (Verbose)] Server changed state to 'Initialising'
+[12:36:42 G Game731010 (Info)] Game file 'games/lvo/game.xml' loaded
+[12:36:42 G Game731010 (Info)] Gameserver 'Game731010' now active
+[12:36:42 S Server413793 (Info)] Game server with ID 'Game731010' has been created
+[12:37:10 C null (Verbose)] Changed state to 'Initialising'
+[12:37:12 S Server413793 (Event)] Added client 'GM714685' to event map
+[12:37:12 S Server413793 (Info)] Client 'GM714685' connected to the server
+[12:37:12 C GM714685 (Event)] Started listening
+[12:37:12 C GM714685 (Info)] Successfully connected to main server
+[12:37:13 S Server413793 (Verbose)] Requested game server list
+[12:37:17 C GM714685 (Verbose)] Changed state to 'Initialising'
+[12:37:18 C GM714685 (Info)] Successfully joined game server '[Game731010] Spel LVO dag (0 / 5)'
+[12:37:36 S Server413793 (Event)] Added client 'SP236491' to event map
+[12:37:36 S Server413793 (Info)] Client 'SP236491' connected to the server
+[12:37:36 C SP236491 (Event)] Started listening
+[12:37:36 C SP236491 (Info)] Successfully connected to main server
+[12:38:21 S Server413793 (Event)] Event 'Disconnect Event' fired for client SM53666
+[12:38:21 S Server413793 (Event)] Event 'Disconnect Event' fired for client GM714685
+[12:38:21 S Server413793 (Event)] Event 'Disconnect Event' fired for client SP236491

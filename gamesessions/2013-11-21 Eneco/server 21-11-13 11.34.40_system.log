@@ -1,0 +1,2126 @@
+Log started Thu Nov 21 11:34:40 CET 2013
+Types of log messages: Event Info Warning Error Verbose System
+[11:34:40 S Server760523 (Info)] Server started
+[11:43:19 S Server760523 (Event)] Added client 'SM668917' to event map
+[11:43:19 S Server760523 (Info)] Client 'SM668917' connected to the server
+[11:43:19 S Server760523 (Verbose)] Requested game server list
+[11:43:19 C SM668917 (Event)] Started listening
+[11:43:19 C SM668917 (Info)] Successfully connected to main server
+[11:43:41 G Game365111 (Verbose)] Server changed state to 'Initialising'
+[11:43:41 G Game365111 (Info)] Game file 'webapps/game/games/roersteden/game.xml' loaded
+[11:43:41 G Game365111 (Info)] Gameserver 'Game365111' now active
+[11:43:41 S Server760523 (Info)] Game server with ID 'Game365111' has been created
+[11:43:45 C null (Verbose)] Changed state to 'Initialising'
+[11:43:45 S Server760523 (Event)] Added client 'GM306391' to event map
+[11:43:45 S Server760523 (Info)] Client 'GM306391' connected to the server
+[11:43:45 C GM306391 (Info)] Successfully connected to main server
+[11:43:45 C GM306391 (Event)] Started listening
+[11:43:45 S Server760523 (Verbose)] Requested game server list
+[11:43:46 C GM306391 (Verbose)] Changed state to 'Initialising'
+[11:43:46 C GM306391 (Info)] Successfully joined game server '[Game365111] Regio Roersteden (0 / 5)'
+[11:43:52 S Server760523 (Event)] Added client 'SB720095' to event map
+[11:43:52 S Server760523 (Info)] Client 'SB720095' connected to the server
+[11:43:52 C SB720095 (Event)] Started listening
+[11:43:52 C SB720095 (Info)] Successfully connected to main server
+[11:43:52 S Server760523 (Verbose)] Requested game server list
+[11:43:53 C SB720095 (Info)] Successfully joined game server '[Game365111] Regio Roersteden (0 / 5)'
+[11:46:01 S Server760523 (Event)] Added client 'SP124279' to event map
+[11:46:01 S Server760523 (Info)] Client 'SP124279' connected to the server
+[11:46:01 C SP124279 (Event)] Started listening
+[11:46:01 C SP124279 (Info)] Successfully connected to main server
+[11:46:01 S Server760523 (Verbose)] Requested game server list
+[11:47:19 S Server760523 (Event)] Added client 'SP219166' to event map
+[11:47:19 S Server760523 (Info)] Client 'SP219166' connected to the server
+[11:47:19 C SP219166 (Event)] Started listening
+[11:47:19 C SP219166 (Info)] Successfully connected to main server
+[11:47:19 S Server760523 (Verbose)] Requested game server list
+[11:48:51 S Server760523 (Event)] Added client 'SP319600' to event map
+[11:48:51 S Server760523 (Info)] Client 'SP319600' connected to the server
+[11:48:51 C SP319600 (Event)] Started listening
+[11:48:51 C SP319600 (Info)] Successfully connected to main server
+[11:48:52 S Server760523 (Verbose)] Requested game server list
+[11:50:15 S Server760523 (Event)] Added client 'SP403798' to event map
+[11:50:15 S Server760523 (Info)] Client 'SP403798' connected to the server
+[11:50:15 C SP403798 (Event)] Started listening
+[11:50:15 C SP403798 (Info)] Successfully connected to main server
+[11:50:16 S Server760523 (Verbose)] Requested game server list
+[11:50:45 S Server760523 (Event)] Added client 'SP23008' to event map
+[11:50:45 S Server760523 (Info)] Client 'SP23008' connected to the server
+[11:50:45 C SP23008 (Event)] Started listening
+[11:50:45 C SP23008 (Info)] Successfully connected to main server
+[11:50:45 S Server760523 (Verbose)] Requested game server list
+[12:20:09 S Server760523 (Event)] Added client 'SP222825' to event map
+[12:20:09 S Server760523 (Info)] Client 'SP222825' connected to the server
+[12:20:09 C SP222825 (Event)] Started listening
+[12:20:09 C SP222825 (Info)] Successfully connected to main server
+[12:20:09 S Server760523 (Verbose)] Requested game server list
+[12:20:25 S Server760523 (Event)] Event 'Join Game' fired for client SB720095
+[12:20:25 S Server760523 (Event)] Event 'Join Game' fired for client GM306391
+[12:20:25 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP319600
+[12:20:25 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[12:20:25 G Game365111 (Verbose)] Changed state of client 'SP319600' to AwaitingPortfolio
+[12:20:25 C SB720095 (Event)] Received event 'Join Game', sender ID: Game365111
+[12:20:25 C GM306391 (Event)] Received event 'Join Game', sender ID: Game365111
+[12:20:25 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:20:30 C SP319600 (Info)] U doet nu mee aan het spel '[Game365111] Regio Roersteden (1 / 5)'
+[12:20:30 C SP319600 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:20:30 C SP319600 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[12:20:36 S Server760523 (Event)] Event 'Assign Portfolio Event' fired for client SP319600
+[12:20:36 S Server760523 (Event)] Event 'Assign Portfolio Event' fired for client SB720095
+[12:20:36 S Server760523 (Event)] Event 'Assign Portfolio Event' fired for client GM306391
+[12:20:36 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP319600
+[12:20:36 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[12:20:36 G Game365111 (Verbose)] Changed state of client 'SP319600' to WaitingToStart
+[12:20:36 C SB720095 (Event)] Received event 'Assign Portfolio Event', sender ID: Game365111
+[12:20:36 C SP319600 (Event)] Received event 'Assign Portfolio Event', sender ID: Game365111
+[12:20:36 C GM306391 (Event)] Received event 'Assign Portfolio Event', sender ID: Game365111
+[12:20:36 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:20:36 C SP319600 (Verbose)] Changed client state to 'WaitingToStart'
+[12:20:36 C SP319600 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:20:50 S Server760523 (Event)] Event 'Join Game' fired for client SB720095
+[12:20:50 S Server760523 (Event)] Event 'Join Game' fired for client GM306391
+[12:20:50 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP219166
+[12:20:50 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[12:20:50 G Game365111 (Verbose)] Changed state of client 'SP219166' to AwaitingPortfolio
+[12:20:50 C GM306391 (Event)] Received event 'Join Game', sender ID: Game365111
+[12:20:50 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:20:50 C SB720095 (Event)] Received event 'Join Game', sender ID: Game365111
+[12:20:55 S Server760523 (Event)] Event 'Assign Portfolio Event' fired for client SP219166
+[12:20:55 S Server760523 (Event)] Event 'Assign Portfolio Event' fired for client SB720095
+[12:20:55 S Server760523 (Event)] Event 'Assign Portfolio Event' fired for client GM306391
+[12:20:55 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP219166
+[12:20:55 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[12:20:55 G Game365111 (Verbose)] Changed state of client 'SP219166' to WaitingToStart
+[12:20:56 C GM306391 (Event)] Received event 'Assign Portfolio Event', sender ID: Game365111
+[12:20:56 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:20:56 C SB720095 (Event)] Received event 'Assign Portfolio Event', sender ID: Game365111
+[12:20:58 C SP219166 (Info)] U doet nu mee aan het spel '[Game365111] Regio Roersteden (2 / 5)'
+[12:20:58 C SP219166 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:20:58 C SP219166 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[12:20:58 C SP219166 (Event)] Received event 'Assign Portfolio Event', sender ID: Game365111
+[12:20:58 C SP219166 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:20:58 C SP219166 (Verbose)] Changed client state to 'WaitingToStart'
+[12:21:42 S Server760523 (Event)] Event 'Join Game' fired for client SB720095
+[12:21:42 S Server760523 (Event)] Event 'Join Game' fired for client GM306391
+[12:21:42 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP23008
+[12:21:42 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[12:21:42 G Game365111 (Verbose)] Changed state of client 'SP23008' to AwaitingPortfolio
+[12:21:42 C SP23008 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:21:42 C SP23008 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[12:21:42 C GM306391 (Event)] Received event 'Join Game', sender ID: Game365111
+[12:21:42 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:21:42 C SB720095 (Event)] Received event 'Join Game', sender ID: Game365111
+[12:21:44 C SP23008 (Info)] U doet nu mee aan het spel '[Game365111] Regio Roersteden (3 / 5)'
+[12:21:55 S Server760523 (Event)] Event 'Assign Portfolio Event' fired for client SP23008
+[12:21:55 S Server760523 (Event)] Event 'Assign Portfolio Event' fired for client SB720095
+[12:21:55 S Server760523 (Event)] Event 'Assign Portfolio Event' fired for client GM306391
+[12:21:55 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP23008
+[12:21:55 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[12:21:55 G Game365111 (Verbose)] Changed state of client 'SP23008' to WaitingToStart
+[12:21:55 C SP23008 (Event)] Received event 'Assign Portfolio Event', sender ID: Game365111
+[12:21:55 C SP23008 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:21:55 C SP23008 (Verbose)] Changed client state to 'WaitingToStart'
+[12:21:55 C GM306391 (Event)] Received event 'Assign Portfolio Event', sender ID: Game365111
+[12:21:55 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:21:55 C SB720095 (Event)] Received event 'Assign Portfolio Event', sender ID: Game365111
+[12:21:59 S Server760523 (Event)] Event 'Join Game' fired for client SB720095
+[12:21:59 S Server760523 (Event)] Event 'Join Game' fired for client GM306391
+[12:21:59 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP222825
+[12:21:59 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[12:21:59 G Game365111 (Verbose)] Changed state of client 'SP222825' to AwaitingPortfolio
+[12:21:59 C GM306391 (Event)] Received event 'Join Game', sender ID: Game365111
+[12:21:59 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:21:59 C SB720095 (Event)] Received event 'Join Game', sender ID: Game365111
+[12:22:03 C SP222825 (Info)] U doet nu mee aan het spel '[Game365111] Regio Roersteden (4 / 5)'
+[12:22:03 C SP222825 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:22:03 C SP222825 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[12:22:05 S Server760523 (Event)] Event 'Assign Portfolio Event' fired for client SP222825
+[12:22:05 S Server760523 (Event)] Event 'Assign Portfolio Event' fired for client SB720095
+[12:22:05 S Server760523 (Event)] Event 'Assign Portfolio Event' fired for client GM306391
+[12:22:05 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP222825
+[12:22:05 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[12:22:05 G Game365111 (Verbose)] Changed state of client 'SP222825' to WaitingToStart
+[12:22:05 C SB720095 (Event)] Received event 'Assign Portfolio Event', sender ID: Game365111
+[12:22:05 C GM306391 (Event)] Received event 'Assign Portfolio Event', sender ID: Game365111
+[12:22:05 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:22:05 C SP222825 (Event)] Received event 'Assign Portfolio Event', sender ID: Game365111
+[12:22:05 C SP222825 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:22:05 C SP222825 (Verbose)] Changed client state to 'WaitingToStart'
+[12:22:22 S Server760523 (Event)] Event 'Join Game' fired for client SB720095
+[12:22:22 S Server760523 (Event)] Event 'Join Game' fired for client GM306391
+[12:22:22 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP403798
+[12:22:22 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[12:22:22 G Game365111 (Verbose)] Changed state of client 'SP403798' to AwaitingPortfolio
+[12:22:22 C SP403798 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:22:22 C SP403798 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[12:22:22 C GM306391 (Event)] Received event 'Join Game', sender ID: Game365111
+[12:22:22 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:22:22 C SB720095 (Event)] Received event 'Join Game', sender ID: Game365111
+[12:22:23 C SP403798 (Info)] U doet nu mee aan het spel '[Game365111] Regio Roersteden (5 / 5)'
+[12:22:36 S Server760523 (Event)] Event 'Assign Portfolio Event' fired for client SP403798
+[12:22:36 S Server760523 (Event)] Event 'Assign Portfolio Event' fired for client SB720095
+[12:22:36 S Server760523 (Event)] Event 'Assign Portfolio Event' fired for client GM306391
+[12:22:36 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP403798
+[12:22:36 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[12:22:36 G Game365111 (Verbose)] Changed state of client 'SP403798' to WaitingToStart
+[12:22:37 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:22:37 C GM306391 (Event)] Received event 'Assign Portfolio Event', sender ID: Game365111
+[12:22:37 C SB720095 (Event)] Received event 'Assign Portfolio Event', sender ID: Game365111
+[12:22:37 C SP403798 (Event)] Received event 'Assign Portfolio Event', sender ID: Game365111
+[12:22:37 C SP403798 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:22:37 C SP403798 (Verbose)] Changed client state to 'WaitingToStart'
+[12:23:04 G Game365111 (Verbose)] Server changed state to 'Starting'
+[12:23:04 S Server760523 (Event)] Event 'Update state event' fired for client GM306391
+[12:23:04 S Server760523 (Event)] Event 'Start game event' fired for client SP219166
+[12:23:04 S Server760523 (Event)] Event 'Start game event' fired for client SP222825
+[12:23:04 S Server760523 (Event)] Event 'Start game event' fired for client SP23008
+[12:23:04 S Server760523 (Event)] Event 'Start game event' fired for client SP319600
+[12:23:04 S Server760523 (Event)] Event 'Start game event' fired for client SP403798
+[12:23:04 S Server760523 (Event)] Event 'Start game event' fired for client GM306391
+[12:23:04 S Server760523 (Event)] Event 'Start game event' fired for client SB720095
+[12:23:04 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[12:23:04 G Game365111 (Verbose)] Server changed state to 'Idle'
+[12:23:04 S Server760523 (Event)] Event 'Update state event' fired for client GM306391
+[12:23:04 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP219166
+[12:23:04 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP222825
+[12:23:04 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP23008
+[12:23:04 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP319600
+[12:23:04 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP403798
+[12:23:04 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[12:23:04 G Game365111 (Verbose)] Changed state of client 'SP219166' to Idle
+[12:23:04 G Game365111 (Verbose)] Changed state of client 'SP222825' to Idle
+[12:23:04 G Game365111 (Verbose)] Changed state of client 'SP23008' to Idle
+[12:23:04 G Game365111 (Verbose)] Changed state of client 'SP319600' to Idle
+[12:23:04 G Game365111 (Verbose)] Changed state of client 'SP403798' to Idle
+[12:23:05 C SP219166 (Event)] Received event 'Start game event', sender ID: Game365111
+[12:23:05 C SP222825 (Event)] Received event 'Start game event', sender ID: Game365111
+[12:23:05 C SP403798 (Event)] Received event 'Start game event', sender ID: Game365111
+[12:23:05 C SP319600 (Event)] Received event 'Start game event', sender ID: Game365111
+[12:23:05 C SB720095 (Event)] Received event 'Start game event', sender ID: Game365111
+[12:23:05 C SP23008 (Event)] Received event 'Start game event', sender ID: Game365111
+[12:23:05 C GM306391 (Event)] Received event 'Update state event', sender ID: Game365111
+[12:23:05 C GM306391 (Verbose)] Changed state to 'Starting'
+[12:23:05 C GM306391 (Verbose)] Changed state to 'Idle'
+[12:23:05 C GM306391 (Event)] Received event 'Start game event', sender ID: Game365111
+[12:23:05 C GM306391 (Event)] Received event 'Update state event', sender ID: Game365111
+[12:23:05 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:23:09 C SP222825 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:23:10 C SP222825 (Verbose)] Changed client state to 'Idle'
+[12:23:10 C SP219166 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:23:10 C SP219166 (Verbose)] Changed client state to 'Idle'
+[12:23:10 C SP319600 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:23:10 C SP319600 (Verbose)] Changed client state to 'Idle'
+[12:23:10 C SP23008 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:23:10 C SP23008 (Verbose)] Changed client state to 'Idle'
+[12:23:11 C SP403798 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:23:11 C SP403798 (Verbose)] Changed client state to 'Idle'
+[12:23:42 G Game365111 (Verbose)] Server changed state to 'Planning'
+[12:23:42 S Server760523 (Event)] Event 'Update state event' fired for client GM306391
+[12:23:42 S Server760523 (Event)] Event 'Plan' fired for client SP219166
+[12:23:42 S Server760523 (Event)] Event 'Plan' fired for client SP222825
+[12:23:42 S Server760523 (Event)] Event 'Plan' fired for client SP23008
+[12:23:42 S Server760523 (Event)] Event 'Plan' fired for client SP319600
+[12:23:42 S Server760523 (Event)] Event 'Plan' fired for client SP403798
+[12:23:42 S Server760523 (Event)] Event broadcast notified 5 client(s), sender: Game365111
+[12:23:42 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP219166
+[12:23:42 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP222825
+[12:23:42 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP23008
+[12:23:42 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP319600
+[12:23:42 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP403798
+[12:23:42 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[12:23:42 G Game365111 (Verbose)] Changed state of client 'SP219166' to InPlanning
+[12:23:42 G Game365111 (Verbose)] Changed state of client 'SP222825' to InPlanning
+[12:23:42 G Game365111 (Verbose)] Changed state of client 'SP23008' to InPlanning
+[12:23:42 G Game365111 (Verbose)] Changed state of client 'SP319600' to InPlanning
+[12:23:42 G Game365111 (Verbose)] Changed state of client 'SP403798' to InPlanning
+[12:23:42 C SP23008 (Event)] Received event 'Plan', sender ID: Game365111
+[12:23:42 C GM306391 (Event)] Received event 'Update state event', sender ID: Game365111
+[12:23:42 C GM306391 (Verbose)] Changed state to 'Planning'
+[12:23:42 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:23:42 C SP222825 (Event)] Received event 'Plan', sender ID: Game365111
+[12:23:42 C SP403798 (Event)] Received event 'Plan', sender ID: Game365111
+[12:23:43 C SP219166 (Event)] Received event 'Plan', sender ID: Game365111
+[12:23:43 C SP319600 (Event)] Received event 'Plan', sender ID: Game365111
+[12:23:47 C SP222825 (Info)] Een nieuwe planronde is begonnen.
+[12:23:47 C SP219166 (Info)] Een nieuwe planronde is begonnen.
+[12:23:47 C SP219166 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:23:47 C SP219166 (Verbose)] Changed client state to 'InPlanning'
+[12:23:47 C SP222825 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:23:47 C SP222825 (Verbose)] Changed client state to 'InPlanning'
+[12:23:47 C SP319600 (Info)] Een nieuwe planronde is begonnen.
+[12:23:47 C SP319600 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:23:47 C SP319600 (Verbose)] Changed client state to 'InPlanning'
+[12:23:50 C SP23008 (Info)] Een nieuwe planronde is begonnen.
+[12:23:50 C SP23008 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:23:50 C SP23008 (Verbose)] Changed client state to 'InPlanning'
+[12:23:51 C SP403798 (Info)] Een nieuwe planronde is begonnen.
+[12:23:51 C SP403798 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:23:51 C SP403798 (Verbose)] Changed client state to 'InPlanning'
+[12:28:30 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:28:30 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:29:34 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:29:34 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:30:58 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:30:58 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:31:41 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:31:41 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:31:50 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:31:50 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:31:54 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:31:54 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:32:10 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:32:10 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:32:51 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:32:51 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:33:24 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:33:24 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:33:50 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:33:50 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:34:06 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:34:06 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:34:32 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:34:32 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:34:42 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:34:42 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:35:20 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:35:20 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:35:21 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:35:21 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:35:34 C SP23008 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[12:35:34 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP23008
+[12:35:34 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[12:35:34 G Game365111 (Verbose)] Changed state of client 'SP23008' to Submitted
+[12:35:34 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:35:34 C SP23008 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:35:34 C SP23008 (Verbose)] Changed client state to 'Submitted'
+[12:36:03 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:36:03 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:36:33 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:36:34 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:36:42 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:36:42 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:37:20 C SP319600 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[12:37:20 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP319600
+[12:37:20 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[12:37:20 G Game365111 (Verbose)] Changed state of client 'SP319600' to Submitted
+[12:37:20 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:37:20 C SP319600 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:37:20 C SP319600 (Verbose)] Changed client state to 'Submitted'
+[12:38:32 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:38:32 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:39:20 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:39:20 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:39:36 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:39:36 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:41:07 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:41:07 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:41:53 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:41:53 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:42:21 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:42:21 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:42:50 C SP219166 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[12:42:50 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP219166
+[12:42:50 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[12:42:50 G Game365111 (Verbose)] Changed state of client 'SP219166' to Submitted
+[12:42:50 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:42:50 C SP219166 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:42:50 C SP219166 (Verbose)] Changed client state to 'Submitted'
+[12:43:46 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:43:46 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:44:32 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:44:32 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:44:51 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:44:51 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:45:03 C SP403798 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[12:45:03 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP403798
+[12:45:03 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[12:45:03 G Game365111 (Verbose)] Changed state of client 'SP403798' to Submitted
+[12:45:03 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:45:03 C SP403798 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:45:03 C SP403798 (Verbose)] Changed client state to 'Submitted'
+[12:45:36 C SP222825 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[12:45:36 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP222825
+[12:45:36 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[12:45:36 G Game365111 (Verbose)] Changed state of client 'SP222825' to Submitted
+[12:45:36 G Game365111 (Verbose)] Server changed state to 'Accept'
+[12:45:36 S Server760523 (Event)] Event 'Update state event' fired for client GM306391
+[12:45:36 S Server760523 (Event)] Event 'Accept join plan event' fired for client SP219166
+[12:45:36 S Server760523 (Event)] Event 'Accept join plan event' fired for client SP222825
+[12:45:36 S Server760523 (Event)] Event 'Accept join plan event' fired for client SP23008
+[12:45:36 S Server760523 (Event)] Event 'Accept join plan event' fired for client SP319600
+[12:45:36 S Server760523 (Event)] Event 'Accept join plan event' fired for client SP403798
+[12:45:36 S Server760523 (Event)] Event 'Accept join plan event' fired for client SB720095
+[12:45:36 S Server760523 (Event)] Event broadcast notified 6 client(s), sender: Game365111
+[12:45:36 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP219166
+[12:45:36 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP222825
+[12:45:36 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP23008
+[12:45:36 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP319600
+[12:45:36 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP403798
+[12:45:36 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[12:45:36 G Game365111 (Verbose)] Changed state of client 'SP219166' to Accepting
+[12:45:36 G Game365111 (Verbose)] Changed state of client 'SP222825' to Accepting
+[12:45:36 G Game365111 (Verbose)] Changed state of client 'SP23008' to Accepting
+[12:45:36 G Game365111 (Verbose)] Changed state of client 'SP319600' to Accepting
+[12:45:36 G Game365111 (Verbose)] Changed state of client 'SP403798' to Accepting
+[12:45:37 C SP222825 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:45:37 C SP222825 (Verbose)] Changed client state to 'Submitted'
+[12:45:37 C SP222825 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[12:45:37 C SP219166 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[12:45:37 C SP403798 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[12:45:38 C SP319600 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[12:45:39 C GM306391 (Event)] Received event 'Update state event', sender ID: Game365111
+[12:45:39 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:45:39 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:45:39 C GM306391 (Verbose)] Changed state to 'Accept'
+[12:45:40 C SB720095 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[12:45:58 C SP23008 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[12:47:03 C SP319600 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[12:47:03 C SP319600 (Verbose)] Changed client state to 'Accepting'
+[12:47:03 C SP319600 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:47:05 C SP219166 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[12:47:05 C SP219166 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:47:05 C SP219166 (Verbose)] Changed client state to 'Accepting'
+[12:47:19 C SP222825 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[12:47:19 C SP222825 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:47:19 C SP222825 (Verbose)] Changed client state to 'Accepting'
+[12:47:19 C SP23008 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[12:47:19 C SP23008 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:47:19 C SP23008 (Verbose)] Changed client state to 'Accepting'
+[12:47:19 C SP403798 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[12:47:19 C SP403798 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:47:19 C SP403798 (Verbose)] Changed client state to 'Accepting'
+[12:47:43 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP219166
+[12:47:43 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[12:47:43 G Game365111 (Verbose)] Changed state of client 'SP219166' to Declined
+[12:47:43 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client SP219166
+[12:47:43 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client SP222825
+[12:47:43 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client SP23008
+[12:47:43 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client SP319600
+[12:47:43 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client SP403798
+[12:47:43 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client GM306391
+[12:47:43 S Server760523 (Event)] Event broadcast notified 6 client(s), sender: Game365111
+[12:47:43 G Game365111 (Verbose)] Server changed state to 'Planning'
+[12:47:43 S Server760523 (Event)] Event 'Update state event' fired for client GM306391
+[12:47:43 S Server760523 (Event)] Event 'Plan' fired for client SP219166
+[12:47:43 S Server760523 (Event)] Event 'Plan' fired for client SP222825
+[12:47:43 S Server760523 (Event)] Event 'Plan' fired for client SP23008
+[12:47:43 S Server760523 (Event)] Event 'Plan' fired for client SP319600
+[12:47:43 S Server760523 (Event)] Event 'Plan' fired for client SP403798
+[12:47:43 S Server760523 (Event)] Event broadcast notified 5 client(s), sender: Game365111
+[12:47:43 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP219166
+[12:47:43 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP222825
+[12:47:43 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP23008
+[12:47:43 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP319600
+[12:47:43 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP403798
+[12:47:43 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[12:47:43 G Game365111 (Verbose)] Changed state of client 'SP219166' to InPlanning
+[12:47:43 G Game365111 (Verbose)] Changed state of client 'SP222825' to InPlanning
+[12:47:43 G Game365111 (Verbose)] Changed state of client 'SP23008' to InPlanning
+[12:47:43 G Game365111 (Verbose)] Changed state of client 'SP319600' to InPlanning
+[12:47:43 G Game365111 (Verbose)] Changed state of client 'SP403798' to InPlanning
+[12:47:43 C SP23008 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[12:47:43 C SP403798 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[12:47:43 C SP222825 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[12:47:43 C SP219166 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:47:43 C SP219166 (Verbose)] Changed client state to 'Declined'
+[12:47:43 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:47:43 C GM306391 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[12:47:43 C GM306391 (Event)] Received event 'Update state event', sender ID: Game365111
+[12:47:43 C GM306391 (Verbose)] Changed state to 'Planning'
+[12:47:43 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:47:43 C SP219166 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[12:47:43 C SP319600 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[12:47:46 C SP222825 (Info)] Het gezamenlijke plan was niet geaccepteerd, u moet a.u.b. een nieuw plan indienen.
+[12:47:46 C SP222825 (Event)] Received event 'Plan', sender ID: Game365111
+[12:47:46 C SP319600 (Info)] Het gezamenlijke plan was niet geaccepteerd, u moet a.u.b. een nieuw plan indienen.
+[12:47:47 C SP319600 (Event)] Received event 'Plan', sender ID: Game365111
+[12:47:47 C SP403798 (Info)] Het gezamenlijke plan was niet geaccepteerd, u moet a.u.b. een nieuw plan indienen.
+[12:47:47 C SP403798 (Event)] Received event 'Plan', sender ID: Game365111
+[12:47:47 C SP23008 (Info)] Het gezamenlijke plan was niet geaccepteerd, u moet a.u.b. een nieuw plan indienen.
+[12:47:47 C SP23008 (Event)] Received event 'Plan', sender ID: Game365111
+[12:47:47 C SP219166 (Info)] Het gezamenlijke plan was niet geaccepteerd, u moet a.u.b. een nieuw plan indienen.
+[12:47:47 C SP219166 (Event)] Received event 'Plan', sender ID: Game365111
+[12:47:48 C SP403798 (Info)] Een nieuwe planronde is begonnen.
+[12:47:48 C SP403798 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:47:48 C SP403798 (Verbose)] Changed client state to 'InPlanning'
+[12:47:50 C SP319600 (Info)] Een nieuwe planronde is begonnen.
+[12:47:50 C SP319600 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:47:50 C SP319600 (Verbose)] Changed client state to 'InPlanning'
+[12:47:51 C SP219166 (Info)] Een nieuwe planronde is begonnen.
+[12:47:51 C SP219166 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:47:51 C SP219166 (Verbose)] Changed client state to 'InPlanning'
+[12:47:51 C SP222825 (Info)] Een nieuwe planronde is begonnen.
+[12:47:51 C SP222825 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:47:51 C SP222825 (Verbose)] Changed client state to 'InPlanning'
+[12:47:51 C SP23008 (Info)] Een nieuwe planronde is begonnen.
+[12:47:51 C SP23008 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:47:51 C SP23008 (Verbose)] Changed client state to 'InPlanning'
+[12:49:37 S Server760523 (Event)] Added client 'SP933852' to event map
+[12:49:37 S Server760523 (Info)] Client 'SP933852' connected to the server
+[12:49:37 C SP933852 (Event)] Started listening
+[12:49:37 C SP933852 (Info)] Successfully connected to main server
+[12:49:37 S Server760523 (Verbose)] Requested game server list
+[12:50:05 C SP933852 (Info)] De door u gekozen spelersnaam is niet geldig, kies a.u.b. een andere naam.
+[12:50:31 C SP403798 (Info)] Er is geen alternatief geselecteerd
+[12:51:15 S Server760523 (Event)] Added client 'SP742068' to event map
+[12:51:15 S Server760523 (Info)] Client 'SP742068' connected to the server
+[12:51:16 C SP742068 (Event)] Started listening
+[12:51:16 C SP742068 (Info)] Successfully connected to main server
+[12:51:16 S Server760523 (Verbose)] Requested game server list
+[12:51:19 S Server760523 (Event)] Added client 'SP844388' to event map
+[12:51:19 S Server760523 (Info)] Client 'SP844388' connected to the server
+[12:51:19 C SP844388 (Event)] Started listening
+[12:51:19 C SP844388 (Info)] Successfully connected to main server
+[12:51:19 S Server760523 (Verbose)] Requested game server list
+[12:51:35 S Server760523 (Verbose)] Client '' tries to reconnect
+[12:51:35 S Server760523 (Verbose)] Session with client '' is expired
+[12:51:36 S Server760523 (Event)] Added client 'SP677323' to event map
+[12:51:36 S Server760523 (Info)] Client 'SP677323' connected to the server
+[12:51:36 C SP677323 (Event)] Started listening
+[12:51:36 C SP677323 (Info)] Successfully connected to main server
+[12:51:36 S Server760523 (Verbose)] Requested game server list
+[12:51:48 S Server760523 (Verbose)] Client 'S' tries to reconnect
+[12:51:48 S Server760523 (Verbose)] Session with client 'S' is expired
+[12:51:48 S Server760523 (Event)] Added client 'SP653502' to event map
+[12:51:48 S Server760523 (Info)] Client 'SP653502' connected to the server
+[12:51:48 C SP653502 (Event)] Started listening
+[12:51:48 C SP653502 (Info)] Successfully connected to main server
+[12:51:48 S Server760523 (Verbose)] Requested game server list
+[12:52:05 S Server760523 (Verbose)] Client 'SP319600' tries to reconnect
+[12:52:05 S Server760523 (Verbose)] Client 'SP319600' was not flagged for removal
+[12:52:05 S Server760523 (Event)] Reset event map for client 'SP319600'
+[12:52:05 S Server760523 (Verbose)] Client with ID 'SP319600' has reconnected to the server
+[12:52:05 C SP319600 (Event)] Started listening
+[12:52:05 C SP319600 (Info)] Successfully re-connected to main server
+[12:52:05 C SP319600 (Verbose)] Restoring client state
+[12:52:15 C SP319600 (Verbose)] Changed client state to 'InPlanning'
+[12:53:07 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:53:07 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:53:22 C SP403798 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[12:53:23 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP403798
+[12:53:23 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[12:53:23 G Game365111 (Verbose)] Changed state of client 'SP403798' to Submitted
+[12:53:23 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:53:23 C SP403798 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[12:53:23 C SP403798 (Verbose)] Changed client state to 'Submitted'
+[12:57:47 S Server760523 (Verbose)] Client 'SB720095' tries to reconnect
+[12:57:47 S Server760523 (Verbose)] Client 'SB720095' was not flagged for removal
+[12:57:47 S Server760523 (Event)] Reset event map for client 'SB720095'
+[12:57:47 S Server760523 (Verbose)] Client with ID 'SB720095' has reconnected to the server
+[12:57:47 C SB720095 (Info)] Successfully re-connected to main server
+[12:57:47 C SB720095 (Event)] Started listening
+[12:57:47 C SB720095 (Verbose)] Restoring client state
+[12:58:28 C SP319600 (Info)] Er is geen alternatief geselecteerd
+[12:58:55 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:58:55 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:59:32 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:59:32 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[12:59:40 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[12:59:40 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[13:02:05 C SP222825 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[13:02:06 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP222825
+[13:02:06 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:02:06 G Game365111 (Verbose)] Changed state of client 'SP222825' to Submitted
+[13:02:06 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:02:06 C SP222825 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:02:06 C SP222825 (Verbose)] Changed client state to 'Submitted'
+[13:03:49 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[13:03:49 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[13:04:27 C SP23008 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[13:04:28 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP23008
+[13:04:28 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:04:28 G Game365111 (Verbose)] Changed state of client 'SP23008' to Submitted
+[13:04:28 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:04:28 C SP23008 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:04:28 C SP23008 (Verbose)] Changed client state to 'Submitted'
+[13:04:43 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[13:04:43 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[13:05:05 C SP319600 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[13:05:06 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP319600
+[13:05:06 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:05:06 G Game365111 (Verbose)] Changed state of client 'SP319600' to Submitted
+[13:05:06 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:05:06 C SP319600 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:05:06 C SP319600 (Verbose)] Changed client state to 'Submitted'
+[13:05:35 C SP219166 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[13:05:35 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP219166
+[13:05:35 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:05:35 G Game365111 (Verbose)] Changed state of client 'SP219166' to Submitted
+[13:05:35 G Game365111 (Verbose)] Server changed state to 'Accept'
+[13:05:35 S Server760523 (Event)] Event 'Update state event' fired for client GM306391
+[13:05:35 S Server760523 (Event)] Event 'Accept join plan event' fired for client SP219166
+[13:05:35 S Server760523 (Event)] Event 'Accept join plan event' fired for client SP222825
+[13:05:35 S Server760523 (Event)] Event 'Accept join plan event' fired for client SP23008
+[13:05:35 S Server760523 (Event)] Event 'Accept join plan event' fired for client SP319600
+[13:05:35 S Server760523 (Event)] Event 'Accept join plan event' fired for client SP403798
+[13:05:35 S Server760523 (Event)] Event 'Accept join plan event' fired for client SB720095
+[13:05:35 S Server760523 (Event)] Event broadcast notified 6 client(s), sender: Game365111
+[13:05:35 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP219166
+[13:05:35 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP222825
+[13:05:35 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP23008
+[13:05:35 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP319600
+[13:05:35 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP403798
+[13:05:35 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:05:35 G Game365111 (Verbose)] Changed state of client 'SP219166' to Accepting
+[13:05:35 G Game365111 (Verbose)] Changed state of client 'SP222825' to Accepting
+[13:05:35 G Game365111 (Verbose)] Changed state of client 'SP23008' to Accepting
+[13:05:35 G Game365111 (Verbose)] Changed state of client 'SP319600' to Accepting
+[13:05:35 G Game365111 (Verbose)] Changed state of client 'SP403798' to Accepting
+[13:05:35 C SP23008 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[13:05:35 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:05:35 C GM306391 (Event)] Received event 'Update state event', sender ID: Game365111
+[13:05:35 C GM306391 (Verbose)] Changed state to 'Accept'
+[13:05:35 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:05:35 C SP219166 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:05:35 C SP219166 (Verbose)] Changed client state to 'Submitted'
+[13:05:35 C SP219166 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[13:05:36 C SP319600 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[13:05:36 C SP403798 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[13:05:36 C SP222825 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[13:05:37 C SB720095 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[13:05:52 C SP319600 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[13:05:52 C SP319600 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:05:52 C SP319600 (Verbose)] Changed client state to 'Accepting'
+[13:05:57 C SP222825 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[13:05:57 C SP222825 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:05:57 C SP222825 (Verbose)] Changed client state to 'Accepting'
+[13:05:58 C SP219166 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[13:05:58 C SP219166 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:05:58 C SP219166 (Verbose)] Changed client state to 'Accepting'
+[13:06:16 C SP23008 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[13:06:16 C SP23008 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:06:16 C SP23008 (Verbose)] Changed client state to 'Accepting'
+[13:06:29 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP23008
+[13:06:29 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:06:29 G Game365111 (Verbose)] Changed state of client 'SP23008' to Declined
+[13:06:29 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client SP219166
+[13:06:29 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client SP222825
+[13:06:29 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client SP23008
+[13:06:29 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client SP319600
+[13:06:29 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client SP403798
+[13:06:29 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client GM306391
+[13:06:29 S Server760523 (Event)] Event broadcast notified 6 client(s), sender: Game365111
+[13:06:29 G Game365111 (Verbose)] Server changed state to 'Planning'
+[13:06:29 S Server760523 (Event)] Event 'Update state event' fired for client GM306391
+[13:06:29 S Server760523 (Event)] Event 'Plan' fired for client SP219166
+[13:06:29 S Server760523 (Event)] Event 'Plan' fired for client SP222825
+[13:06:29 S Server760523 (Event)] Event 'Plan' fired for client SP23008
+[13:06:29 S Server760523 (Event)] Event 'Plan' fired for client SP319600
+[13:06:29 S Server760523 (Event)] Event 'Plan' fired for client SP403798
+[13:06:29 S Server760523 (Event)] Event broadcast notified 5 client(s), sender: Game365111
+[13:06:29 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP219166
+[13:06:29 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP222825
+[13:06:29 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP23008
+[13:06:29 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP319600
+[13:06:29 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP403798
+[13:06:29 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:06:29 G Game365111 (Verbose)] Changed state of client 'SP219166' to InPlanning
+[13:06:29 G Game365111 (Verbose)] Changed state of client 'SP222825' to InPlanning
+[13:06:29 G Game365111 (Verbose)] Changed state of client 'SP23008' to InPlanning
+[13:06:29 G Game365111 (Verbose)] Changed state of client 'SP319600' to InPlanning
+[13:06:29 G Game365111 (Verbose)] Changed state of client 'SP403798' to InPlanning
+[13:06:29 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:06:29 C GM306391 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[13:06:29 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:06:29 C GM306391 (Event)] Received event 'Update state event', sender ID: Game365111
+[13:06:29 C GM306391 (Verbose)] Changed state to 'Planning'
+[13:06:29 C SP219166 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[13:06:29 C SP222825 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[13:06:29 C SP23008 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:06:29 C SP23008 (Verbose)] Changed client state to 'Declined'
+[13:06:29 C SP23008 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[13:06:29 C SP319600 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[13:06:31 C SP23008 (Info)] Het gezamenlijke plan was niet geaccepteerd, u moet a.u.b. een nieuw plan indienen.
+[13:06:31 C SP23008 (Event)] Received event 'Plan', sender ID: Game365111
+[13:06:32 C SP319600 (Info)] Het gezamenlijke plan was niet geaccepteerd, u moet a.u.b. een nieuw plan indienen.
+[13:06:32 C SP319600 (Event)] Received event 'Plan', sender ID: Game365111
+[13:06:32 C SP222825 (Info)] Het gezamenlijke plan was niet geaccepteerd, u moet a.u.b. een nieuw plan indienen.
+[13:06:32 C SP222825 (Event)] Received event 'Plan', sender ID: Game365111
+[13:06:33 C SP219166 (Info)] Het gezamenlijke plan was niet geaccepteerd, u moet a.u.b. een nieuw plan indienen.
+[13:06:34 C SP219166 (Event)] Received event 'Plan', sender ID: Game365111
+[13:06:35 C SP23008 (Info)] Een nieuwe planronde is begonnen.
+[13:06:35 C SP23008 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:06:35 C SP23008 (Verbose)] Changed client state to 'InPlanning'
+[13:06:36 C SP219166 (Info)] Een nieuwe planronde is begonnen.
+[13:06:36 C SP219166 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:06:36 C SP219166 (Verbose)] Changed client state to 'InPlanning'
+[13:06:36 C SP319600 (Info)] Een nieuwe planronde is begonnen.
+[13:06:36 C SP319600 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:06:36 C SP319600 (Verbose)] Changed client state to 'InPlanning'
+[13:06:37 C SP222825 (Info)] Een nieuwe planronde is begonnen.
+[13:06:37 C SP222825 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:06:37 C SP222825 (Verbose)] Changed client state to 'InPlanning'
+[13:08:08 C SP403798 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[13:08:08 C SP403798 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:08:08 C SP403798 (Verbose)] Changed client state to 'Accepting'
+[13:08:08 C SP403798 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[13:08:09 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[13:08:09 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[13:08:13 C SP403798 (Info)] Het gezamenlijke plan was niet geaccepteerd, u moet a.u.b. een nieuw plan indienen.
+[13:08:13 C SP403798 (Event)] Received event 'Plan', sender ID: Game365111
+[13:08:16 C SP403798 (Info)] Een nieuwe planronde is begonnen.
+[13:08:16 C SP403798 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:08:16 C SP403798 (Verbose)] Changed client state to 'InPlanning'
+[13:08:24 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[13:08:24 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[13:08:36 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[13:08:36 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[13:10:00 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[13:10:00 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[13:10:20 C SP219166 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[13:10:20 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP219166
+[13:10:20 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:10:20 G Game365111 (Verbose)] Changed state of client 'SP219166' to Submitted
+[13:10:20 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:10:20 C SP219166 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:10:20 C SP219166 (Verbose)] Changed client state to 'Submitted'
+[13:10:48 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[13:10:49 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[13:11:49 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[13:11:49 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[13:12:47 C SP319600 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[13:12:48 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP319600
+[13:12:48 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:12:48 G Game365111 (Verbose)] Changed state of client 'SP319600' to Submitted
+[13:12:48 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:12:48 C SP319600 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:12:48 C SP319600 (Verbose)] Changed client state to 'Submitted'
+[13:13:20 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[13:13:20 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[13:13:41 C SP222825 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[13:13:42 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP222825
+[13:13:42 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:13:42 G Game365111 (Verbose)] Changed state of client 'SP222825' to Submitted
+[13:13:42 C SP403798 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[13:13:42 C SP222825 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:13:42 C SP222825 (Verbose)] Changed client state to 'Submitted'
+[13:13:42 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:13:43 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP403798
+[13:13:43 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:13:43 G Game365111 (Verbose)] Changed state of client 'SP403798' to Submitted
+[13:13:43 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:13:43 C SP403798 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:13:43 C SP403798 (Verbose)] Changed client state to 'Submitted'
+[13:14:23 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[13:14:23 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[13:14:30 C SP23008 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[13:14:31 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP23008
+[13:14:31 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:14:31 G Game365111 (Verbose)] Changed state of client 'SP23008' to Submitted
+[13:14:31 G Game365111 (Verbose)] Server changed state to 'Accept'
+[13:14:31 S Server760523 (Event)] Event 'Update state event' fired for client GM306391
+[13:14:31 S Server760523 (Event)] Event 'Accept join plan event' fired for client SP219166
+[13:14:31 S Server760523 (Event)] Event 'Accept join plan event' fired for client SP222825
+[13:14:31 S Server760523 (Event)] Event 'Accept join plan event' fired for client SP23008
+[13:14:31 S Server760523 (Event)] Event 'Accept join plan event' fired for client SP319600
+[13:14:31 S Server760523 (Event)] Event 'Accept join plan event' fired for client SP403798
+[13:14:31 S Server760523 (Event)] Event 'Accept join plan event' fired for client SB720095
+[13:14:31 S Server760523 (Event)] Event broadcast notified 6 client(s), sender: Game365111
+[13:14:31 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP219166
+[13:14:31 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP222825
+[13:14:31 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP23008
+[13:14:31 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP319600
+[13:14:31 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP403798
+[13:14:31 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:14:31 G Game365111 (Verbose)] Changed state of client 'SP219166' to Accepting
+[13:14:31 G Game365111 (Verbose)] Changed state of client 'SP222825' to Accepting
+[13:14:31 G Game365111 (Verbose)] Changed state of client 'SP23008' to Accepting
+[13:14:31 G Game365111 (Verbose)] Changed state of client 'SP319600' to Accepting
+[13:14:31 G Game365111 (Verbose)] Changed state of client 'SP403798' to Accepting
+[13:14:31 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:14:31 C GM306391 (Event)] Received event 'Update state event', sender ID: Game365111
+[13:14:31 C GM306391 (Verbose)] Changed state to 'Accept'
+[13:14:31 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:14:31 C SP403798 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[13:14:31 C SP219166 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[13:14:31 C SP23008 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:14:31 C SP222825 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[13:14:31 C SP23008 (Verbose)] Changed client state to 'Submitted'
+[13:14:31 C SP23008 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[13:14:31 C SP319600 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[13:14:34 C SB720095 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[13:14:46 C SP23008 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[13:14:46 C SP23008 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:14:46 C SP23008 (Verbose)] Changed client state to 'Accepting'
+[13:14:47 C SP319600 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[13:14:47 C SP319600 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:14:47 C SP319600 (Verbose)] Changed client state to 'Accepting'
+[13:15:02 C SP219166 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[13:15:02 C SP219166 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:15:02 C SP219166 (Verbose)] Changed client state to 'Accepting'
+[13:15:59 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP319600
+[13:15:59 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:15:59 G Game365111 (Verbose)] Changed state of client 'SP319600' to Declined
+[13:15:59 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client SP219166
+[13:15:59 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client SP222825
+[13:15:59 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client SP23008
+[13:15:59 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client SP319600
+[13:15:59 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client SP403798
+[13:15:59 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client GM306391
+[13:15:59 S Server760523 (Event)] Event broadcast notified 6 client(s), sender: Game365111
+[13:15:59 G Game365111 (Verbose)] Server changed state to 'Planning'
+[13:15:59 S Server760523 (Event)] Event 'Update state event' fired for client GM306391
+[13:15:59 S Server760523 (Event)] Event 'Plan' fired for client SP219166
+[13:15:59 S Server760523 (Event)] Event 'Plan' fired for client SP222825
+[13:15:59 S Server760523 (Event)] Event 'Plan' fired for client SP23008
+[13:15:59 S Server760523 (Event)] Event 'Plan' fired for client SP319600
+[13:15:59 S Server760523 (Event)] Event 'Plan' fired for client SP403798
+[13:15:59 S Server760523 (Event)] Event broadcast notified 5 client(s), sender: Game365111
+[13:15:59 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP219166
+[13:15:59 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP222825
+[13:15:59 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP23008
+[13:15:59 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP319600
+[13:15:59 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP403798
+[13:15:59 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:15:59 G Game365111 (Verbose)] Changed state of client 'SP219166' to InPlanning
+[13:15:59 G Game365111 (Verbose)] Changed state of client 'SP222825' to InPlanning
+[13:15:59 G Game365111 (Verbose)] Changed state of client 'SP23008' to InPlanning
+[13:15:59 G Game365111 (Verbose)] Changed state of client 'SP319600' to InPlanning
+[13:15:59 G Game365111 (Verbose)] Changed state of client 'SP403798' to InPlanning
+[13:15:59 C SP319600 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:15:59 C SP319600 (Verbose)] Changed client state to 'Declined'
+[13:15:59 C SP319600 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[13:16:00 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:16:00 C GM306391 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[13:16:00 C GM306391 (Verbose)] Changed state to 'Planning'
+[13:16:00 C GM306391 (Event)] Received event 'Update state event', sender ID: Game365111
+[13:16:00 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:16:00 C SP23008 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[13:16:00 C SP219166 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[13:16:01 C SP319600 (Info)] Het gezamenlijke plan was niet geaccepteerd, u moet a.u.b. een nieuw plan indienen.
+[13:16:01 C SP319600 (Event)] Received event 'Plan', sender ID: Game365111
+[13:16:01 C SP23008 (Info)] Het gezamenlijke plan was niet geaccepteerd, u moet a.u.b. een nieuw plan indienen.
+[13:16:01 C SP23008 (Event)] Received event 'Plan', sender ID: Game365111
+[13:16:02 C SP319600 (Info)] Een nieuwe planronde is begonnen.
+[13:16:02 C SP319600 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:16:02 C SP319600 (Verbose)] Changed client state to 'InPlanning'
+[13:16:02 C SP222825 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[13:16:02 C SP222825 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:16:02 C SP222825 (Verbose)] Changed client state to 'Accepting'
+[13:16:02 C SP222825 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[13:16:03 C SP23008 (Info)] Een nieuwe planronde is begonnen.
+[13:16:03 C SP23008 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:16:03 C SP23008 (Verbose)] Changed client state to 'InPlanning'
+[13:16:03 C SP219166 (Info)] Het gezamenlijke plan was niet geaccepteerd, u moet a.u.b. een nieuw plan indienen.
+[13:16:03 C SP219166 (Event)] Received event 'Plan', sender ID: Game365111
+[13:16:06 C SP219166 (Info)] Een nieuwe planronde is begonnen.
+[13:16:06 C SP219166 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:16:06 C SP219166 (Verbose)] Changed client state to 'InPlanning'
+[13:16:07 C SP403798 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[13:16:07 C SP403798 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:16:07 C SP403798 (Verbose)] Changed client state to 'Accepting'
+[13:16:08 C SP403798 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[13:16:11 C SP403798 (Info)] Het gezamenlijke plan was niet geaccepteerd, u moet a.u.b. een nieuw plan indienen.
+[13:16:11 C SP403798 (Event)] Received event 'Plan', sender ID: Game365111
+[13:16:13 C SP403798 (Info)] Een nieuwe planronde is begonnen.
+[13:16:14 C SP403798 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:16:14 C SP403798 (Verbose)] Changed client state to 'InPlanning'
+[13:16:43 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[13:16:43 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[13:16:47 C SP222825 (Info)] Het gezamenlijke plan was niet geaccepteerd, u moet a.u.b. een nieuw plan indienen.
+[13:16:47 C SP222825 (Event)] Received event 'Plan', sender ID: Game365111
+[13:16:49 C SP222825 (Info)] Een nieuwe planronde is begonnen.
+[13:16:49 C SP222825 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:16:49 C SP222825 (Verbose)] Changed client state to 'InPlanning'
+[13:17:35 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[13:17:35 S Server760523 (Verbose)] Client 'SB720095' tries to reconnect
+[13:17:35 S Server760523 (Verbose)] Client 'SB720095' was not flagged for removal
+[13:17:35 S Server760523 (Event)] Reset event map for client 'SB720095'
+[13:17:35 S Server760523 (Verbose)] Client with ID 'SB720095' has reconnected to the server
+[13:17:35 C SB720095 (Event)] Started listening
+[13:17:35 C SB720095 (Info)] Successfully re-connected to main server
+[13:17:35 C SB720095 (Verbose)] Restoring client state
+[13:18:08 S Server760523 (Verbose)] Client 'SP403798' tries to reconnect
+[13:18:08 S Server760523 (Verbose)] Client 'SP403798' was not flagged for removal
+[13:18:08 S Server760523 (Event)] Reset event map for client 'SP403798'
+[13:18:08 S Server760523 (Verbose)] Client with ID 'SP403798' has reconnected to the server
+[13:18:08 C SP403798 (Event)] Started listening
+[13:18:08 C SP403798 (Info)] Successfully re-connected to main server
+[13:18:08 C SP403798 (Verbose)] Restoring client state
+[13:18:10 S Server760523 (Verbose)] Client 'SP23008' tries to reconnect
+[13:18:10 S Server760523 (Verbose)] Client 'SP23008' was not flagged for removal
+[13:18:10 S Server760523 (Event)] Reset event map for client 'SP23008'
+[13:18:10 S Server760523 (Verbose)] Client with ID 'SP23008' has reconnected to the server
+[13:18:11 C SP23008 (Event)] Started listening
+[13:18:11 C SP23008 (Info)] Successfully re-connected to main server
+[13:18:11 C SP23008 (Verbose)] Restoring client state
+[13:18:20 C SP23008 (Verbose)] Changed client state to 'InPlanning'
+[13:18:21 C SP403798 (Verbose)] Changed client state to 'InPlanning'
+[13:18:22 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[13:18:22 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[13:18:42 C SP219166 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[13:18:42 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP219166
+[13:18:42 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:18:42 G Game365111 (Verbose)] Changed state of client 'SP219166' to Submitted
+[13:18:43 C SP219166 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:18:43 C SP219166 (Verbose)] Changed client state to 'Submitted'
+[13:18:43 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:19:12 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[13:19:12 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[13:19:21 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[13:19:21 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[13:19:47 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[13:19:47 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[13:20:13 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[13:20:13 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[13:20:34 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[13:20:34 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[13:20:56 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[13:20:56 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[13:21:05 C SP403798 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[13:21:05 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP403798
+[13:21:05 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:21:05 G Game365111 (Verbose)] Changed state of client 'SP403798' to Submitted
+[13:21:05 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:21:06 C SP403798 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:21:06 C SP403798 (Verbose)] Changed client state to 'Submitted'
+[13:21:18 C SP222825 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[13:21:19 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP222825
+[13:21:19 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:21:19 G Game365111 (Verbose)] Changed state of client 'SP222825' to Submitted
+[13:21:19 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[13:21:19 C SP222825 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:21:19 C SP222825 (Verbose)] Changed client state to 'Submitted'
+[13:21:19 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:21:19 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[13:21:23 C SP23008 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[13:21:24 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP23008
+[13:21:24 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:21:24 G Game365111 (Verbose)] Changed state of client 'SP23008' to Submitted
+[13:21:24 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:21:24 C SP23008 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:21:24 C SP23008 (Verbose)] Changed client state to 'Submitted'
+[13:21:36 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[13:21:37 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[13:21:49 C SP319600 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[13:21:50 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP319600
+[13:21:50 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:21:50 G Game365111 (Verbose)] Changed state of client 'SP319600' to Submitted
+[13:21:50 G Game365111 (Verbose)] Server changed state to 'Accept'
+[13:21:50 S Server760523 (Event)] Event 'Update state event' fired for client GM306391
+[13:21:50 S Server760523 (Event)] Event 'Accept join plan event' fired for client SP219166
+[13:21:50 S Server760523 (Event)] Event 'Accept join plan event' fired for client SP222825
+[13:21:50 S Server760523 (Event)] Event 'Accept join plan event' fired for client SP23008
+[13:21:50 S Server760523 (Event)] Event 'Accept join plan event' fired for client SP319600
+[13:21:50 S Server760523 (Event)] Event 'Accept join plan event' fired for client SP403798
+[13:21:50 S Server760523 (Event)] Event 'Accept join plan event' fired for client SB720095
+[13:21:50 S Server760523 (Event)] Event broadcast notified 6 client(s), sender: Game365111
+[13:21:50 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP219166
+[13:21:50 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP222825
+[13:21:50 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP23008
+[13:21:50 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP319600
+[13:21:50 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP403798
+[13:21:50 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:21:50 G Game365111 (Verbose)] Changed state of client 'SP219166' to Accepting
+[13:21:50 G Game365111 (Verbose)] Changed state of client 'SP222825' to Accepting
+[13:21:50 G Game365111 (Verbose)] Changed state of client 'SP23008' to Accepting
+[13:21:50 G Game365111 (Verbose)] Changed state of client 'SP319600' to Accepting
+[13:21:50 G Game365111 (Verbose)] Changed state of client 'SP403798' to Accepting
+[13:21:50 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:21:50 C GM306391 (Event)] Received event 'Update state event', sender ID: Game365111
+[13:21:50 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:21:50 C GM306391 (Verbose)] Changed state to 'Accept'
+[13:21:50 C SP403798 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[13:21:50 C SP222825 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[13:21:50 C SP219166 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[13:21:50 C SP319600 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:21:50 C SP319600 (Verbose)] Changed client state to 'Submitted'
+[13:21:50 C SP319600 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[13:21:50 C SP23008 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[13:21:53 C SB720095 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[13:22:02 C SP219166 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[13:22:02 C SP219166 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:22:02 C SP219166 (Verbose)] Changed client state to 'Accepting'
+[13:22:05 C SP319600 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[13:22:05 C SP319600 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:22:05 C SP319600 (Verbose)] Changed client state to 'Accepting'
+[13:22:05 C SP222825 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[13:22:05 C SP222825 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:22:05 C SP222825 (Verbose)] Changed client state to 'Accepting'
+[13:22:08 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP222825
+[13:22:08 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:22:08 G Game365111 (Verbose)] Changed state of client 'SP222825' to Accepted
+[13:22:08 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:22:08 C SP222825 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:22:08 C SP222825 (Verbose)] Changed client state to 'Accepted'
+[13:22:09 C SP23008 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[13:22:09 C SP23008 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:22:09 C SP23008 (Verbose)] Changed client state to 'Accepting'
+[13:22:10 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP23008
+[13:22:10 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:22:10 G Game365111 (Verbose)] Changed state of client 'SP23008' to Accepted
+[13:22:10 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:22:10 C SP23008 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:22:10 C SP23008 (Verbose)] Changed client state to 'Accepted'
+[13:22:11 C SP403798 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[13:22:11 C SP403798 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:22:11 C SP403798 (Verbose)] Changed client state to 'Accepting'
+[13:22:14 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP319600
+[13:22:14 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:22:14 G Game365111 (Verbose)] Changed state of client 'SP319600' to Accepted
+[13:22:15 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP403798
+[13:22:15 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:22:15 G Game365111 (Verbose)] Changed state of client 'SP403798' to Accepted
+[13:22:15 C SP403798 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:22:15 C SP403798 (Verbose)] Changed client state to 'Accepted'
+[13:22:15 C SP319600 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:22:15 C SP319600 (Verbose)] Changed client state to 'Accepted'
+[13:22:15 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:22:15 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:22:15 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP219166
+[13:22:15 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:22:15 G Game365111 (Verbose)] Changed state of client 'SP219166' to Accepted
+[13:22:15 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client SP219166
+[13:22:15 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client SP222825
+[13:22:15 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client SP23008
+[13:22:15 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client SP319600
+[13:22:15 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client SP403798
+[13:22:15 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client GM306391
+[13:22:15 S Server760523 (Event)] Event broadcast notified 6 client(s), sender: Game365111
+[13:22:15 G Game365111 (Verbose)] Server changed state to 'Idle'
+[13:22:15 S Server760523 (Event)] Event 'Update state event' fired for client GM306391
+[13:22:15 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP219166
+[13:22:15 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP222825
+[13:22:15 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP23008
+[13:22:15 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP319600
+[13:22:15 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP403798
+[13:22:15 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:22:15 G Game365111 (Verbose)] Changed state of client 'SP219166' to Idle
+[13:22:15 G Game365111 (Verbose)] Changed state of client 'SP222825' to Idle
+[13:22:15 G Game365111 (Verbose)] Changed state of client 'SP23008' to Idle
+[13:22:15 G Game365111 (Verbose)] Changed state of client 'SP319600' to Idle
+[13:22:15 G Game365111 (Verbose)] Changed state of client 'SP403798' to Idle
+[13:22:15 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:22:15 C GM306391 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[13:22:15 C GM306391 (Verbose)] Changed state to 'Idle'
+[13:22:15 C GM306391 (Event)] Received event 'Update state event', sender ID: Game365111
+[13:22:15 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:22:15 C SP319600 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[13:22:15 C SP219166 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:22:15 C SP219166 (Verbose)] Changed client state to 'Accepted'
+[13:22:15 C SP219166 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[13:22:15 C SP23008 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[13:22:15 C SP403798 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[13:22:15 C SP222825 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[13:22:17 C SP319600 (Info)] Alle spelers hebben het gezamenlijke plan geaccepteerd!
+[13:22:17 C SP319600 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:22:17 C SP319600 (Verbose)] Changed client state to 'Idle'
+[13:22:18 C SP219166 (Info)] Alle spelers hebben het gezamenlijke plan geaccepteerd!
+[13:22:18 C SP219166 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:22:18 C SP219166 (Verbose)] Changed client state to 'Idle'
+[13:22:22 C SP23008 (Info)] Alle spelers hebben het gezamenlijke plan geaccepteerd!
+[13:22:22 C SP23008 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:22:22 C SP23008 (Verbose)] Changed client state to 'Idle'
+[13:22:23 C SP403798 (Info)] Alle spelers hebben het gezamenlijke plan geaccepteerd!
+[13:22:23 C SP403798 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:22:23 C SP403798 (Verbose)] Changed client state to 'Idle'
+[13:22:46 C SP222825 (Info)] Alle spelers hebben het gezamenlijke plan geaccepteerd!
+[13:22:46 C SP222825 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:22:46 C SP222825 (Verbose)] Changed client state to 'Idle'
+[13:24:28 G Game365111 (Verbose)] Server changed state to 'Executing'
+[13:24:28 S Server760523 (Event)] Event 'Update state event' fired for client GM306391
+[13:24:28 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP219166
+[13:24:28 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP222825
+[13:24:28 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP23008
+[13:24:28 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP319600
+[13:24:28 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP403798
+[13:24:28 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:24:28 G Game365111 (Verbose)] Changed state of client 'SP219166' to Executing
+[13:24:28 G Game365111 (Verbose)] Changed state of client 'SP222825' to Executing
+[13:24:28 G Game365111 (Verbose)] Changed state of client 'SP23008' to Executing
+[13:24:28 G Game365111 (Verbose)] Changed state of client 'SP319600' to Executing
+[13:24:28 G Game365111 (Verbose)] Changed state of client 'SP403798' to Executing
+[13:24:28 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:24:28 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:24:28 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:24:28 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:24:28 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:24:28 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:24:28 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:24:28 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:24:28 C SP219166 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:24:28 C SP219166 (Verbose)] Changed client state to 'Executing'
+[13:24:28 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:28 C SP403798 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:24:28 C SP222825 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:24:28 C SP222825 (Verbose)] Changed client state to 'Executing'
+[13:24:28 C SP403798 (Verbose)] Changed client state to 'Executing'
+[13:24:28 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:28 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:28 C SP23008 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:24:28 C SP23008 (Verbose)] Changed client state to 'Executing'
+[13:24:28 C SP319600 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:24:28 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:28 C SP319600 (Verbose)] Changed client state to 'Executing'
+[13:24:28 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:28 C GM306391 (Event)] Received event 'Update state event', sender ID: Game365111
+[13:24:28 C GM306391 (Verbose)] Changed state to 'Executing'
+[13:24:28 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:28 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:24:28 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:29 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:24:29 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:24:29 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:24:29 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:24:29 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:24:29 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:24:29 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:24:29 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:24:29 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:29 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:29 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:29 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:29 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:30 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:30 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:30 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:24:30 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:24:30 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:24:30 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:24:30 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:24:30 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:24:30 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:24:30 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:24:30 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:30 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:30 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:30 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:30 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:30 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:30 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:31 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:24:31 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:24:31 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:24:31 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:24:31 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:24:31 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:24:31 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:24:31 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:24:31 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:31 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:31 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:31 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:31 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:31 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:31 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:24:32 S Server760523 (Event)] Event 'Process delay pending methods event' fired for client GM306391
+[13:24:32 C GM306391 (Event)] Received event 'Process delay pending methods event', sender ID: Game365111
+[13:25:03 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:25:03 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:25:03 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:25:03 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:25:03 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:25:03 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:25:03 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:25:03 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:25:04 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:04 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:04 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:04 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:04 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:04 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:04 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:04 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:25:04 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:25:04 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:25:04 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:25:04 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:25:04 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:25:04 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:25:04 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:25:05 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:05 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:05 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:25:05 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:25:05 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:25:05 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:25:05 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:25:05 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:25:05 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:25:05 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:25:06 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:06 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:06 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:06 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:06 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:06 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:06 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:06 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:06 S Server760523 (Event)] Event 'Process delay pending methods event' fired for client GM306391
+[13:25:07 C GM306391 (Event)] Received event 'Process delay pending methods event', sender ID: Game365111
+[13:25:19 C SP23008 (Info)] Het project 'B15-C: GOEDKOPER' is succesvol afgerond.
+[13:25:19 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:19 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:33 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:25:33 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:25:33 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:25:33 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:25:33 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:25:33 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:25:33 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:25:33 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:25:33 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:33 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:33 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:34 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:34 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:34 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:34 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:25:34 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:25:34 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:25:34 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:25:34 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:25:34 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:25:34 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:25:34 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:25:34 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:34 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:34 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:35 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:35 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:35 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:25:35 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:25:35 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:25:35 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:25:35 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:25:35 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:25:35 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:25:35 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:25:35 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:35 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:35 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:36 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:36 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:25:36 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:25:36 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:25:36 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:25:36 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:25:36 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:25:36 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:25:36 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:25:36 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:37 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:37 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:37 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:37 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:25:37 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:25:37 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:25:37 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:25:37 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:25:37 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:25:37 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:25:37 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:25:38 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:38 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:38 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:38 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:38 S Server760523 (Event)] Event 'Process delay pending methods event' fired for client GM306391
+[13:25:38 C GM306391 (Event)] Received event 'Process delay pending methods event', sender ID: Game365111
+[13:25:39 C SP219166 (Info)] Helaas is zojuist bekend geworden dat uw project 'B11-A: GOEDKOPER' is uitgelopen.
+[13:25:39 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:40 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:40 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:40 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:42 C SP222825 (Info)] Het project 'B1-C: BEPERKTE RISICO'S' is succesvol afgerond.
+[13:25:42 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:42 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:42 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:25:44 C SP219166 (Info)] Het project 'B11-A: GOEDKOPER' is succesvol afgerond.
+[13:26:27 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:26:27 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:26:27 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:26:27 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:26:27 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:26:27 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:26:27 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:26:27 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:26:27 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:27 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:27 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:27 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:27 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:27 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:28 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:26:28 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:26:28 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:26:28 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:26:28 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:26:28 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:26:28 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:26:28 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:26:28 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:28 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:28 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:29 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:29 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:29 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:26:29 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:26:29 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:26:29 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:26:29 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:26:29 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:26:29 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:26:29 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:26:29 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:29 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:29 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:29 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:29 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:30 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:26:30 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:26:30 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:26:30 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:26:30 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:26:30 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:26:30 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:26:30 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:26:30 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:30 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:30 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:30 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:30 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:31 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:26:31 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:26:31 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:26:31 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:26:31 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:26:31 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:26:31 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:26:31 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:26:31 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:31 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:31 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:31 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:31 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:32 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:26:32 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:26:32 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:26:32 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:26:32 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:26:32 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:26:32 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:26:32 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:26:32 C SP319600 (Info)] Helaas is zojuist bekend geworden dat uw project 'B13-B: GOEDKOPER' is uitgelopen.
+[13:26:32 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:32 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:32 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:32 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:32 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:32 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:32 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:32 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:32 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:33 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:26:33 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:26:33 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:26:33 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:26:33 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:26:33 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:26:33 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:26:33 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:26:33 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:33 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:33 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:33 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:34 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:34 C SP319600 (Info)] Het project 'B13-B: GOEDKOPER' is succesvol afgerond.
+[13:26:34 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:34 S Server760523 (Event)] Event 'Process delay pending methods event' fired for client GM306391
+[13:26:34 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:34 C GM306391 (Event)] Received event 'Process delay pending methods event', sender ID: Game365111
+[13:26:35 C SP403798 (Info)] Helaas is zojuist bekend geworden dat uw project 'B14-C: GOEDKOPER' is uitgelopen.
+[13:26:35 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:35 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:43 C SP403798 (Info)] Het project 'B14-C: GOEDKOPER' is succesvol afgerond.
+[13:26:44 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:45 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:46 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:46 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:46 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:46 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:47 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:47 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:47 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:47 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:47 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:26:47 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:12 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:27:12 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:27:12 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:27:12 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:27:12 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:27:12 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:27:12 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:27:12 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:27:13 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:13 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:13 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:13 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:13 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:13 S Server760523 (Event)] Event 'Process delay pending methods event' fired for client GM306391
+[13:27:13 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:13 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:13 C GM306391 (Event)] Received event 'Process delay pending methods event', sender ID: Game365111
+[13:27:26 C SP403798 (Info)] Helaas is zojuist bekend geworden dat uw project 'B14-B: GOEDKOPER' is uitgelopen.
+[13:27:35 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:27:35 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:27:35 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:27:35 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:27:35 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:27:35 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:27:35 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:27:35 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:27:36 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:36 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:36 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:36 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:36 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:36 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:36 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:36 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:27:36 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:27:36 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:27:36 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:27:36 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:27:36 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:27:36 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:27:36 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:27:37 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:37 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:37 S Server760523 (Event)] Event 'Process delay pending methods event' fired for client GM306391
+[13:27:38 C GM306391 (Event)] Received event 'Process delay pending methods event', sender ID: Game365111
+[13:27:38 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:38 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:38 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:45 C SP222825 (Info)] Helaas is zojuist bekend geworden dat uw project 'B12-A: GOEDKOPER' is uitgelopen.
+[13:27:46 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:53 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:27:53 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:27:53 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:27:53 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:27:53 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:27:53 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:27:53 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:27:53 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:27:54 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:54 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:54 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:54 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:54 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:54 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:54 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:27:54 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:27:54 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:27:54 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:27:54 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:27:54 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:27:54 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:27:54 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:27:55 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:55 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:55 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:55 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:55 C SP23008 (Info)] Het project 'B1-B: GOEDKOPER' is succesvol afgerond.
+[13:27:55 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:55 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:55 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:55 S Server760523 (Event)] Event 'Process delay pending methods event' fired for client GM306391
+[13:27:56 C GM306391 (Event)] Received event 'Process delay pending methods event', sender ID: Game365111
+[13:27:56 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:57 C SP219166 (Info)] Helaas is zojuist bekend geworden dat uw project 'B1-D: SNELLER KLAAR' is uitgelopen.
+[13:27:57 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:27:58 C SP403798 (Info)] Het project 'B14-B: GOEDKOPER' is succesvol afgerond.
+[13:28:14 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:28:14 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:28:14 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:28:14 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:28:14 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:28:14 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:28:14 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:28:14 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:28:14 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:28:14 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:28:14 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:28:14 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:28:14 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:28:14 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:28:14 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:28:18 C SP219166 (Info)] Het project 'B1-D: SNELLER KLAAR' is succesvol afgerond.
+[13:28:19 C SP222825 (Info)] Het project 'B12-A: GOEDKOPER' is succesvol afgerond.
+[13:28:20 C SP319600 (Info)] Helaas is zojuist bekend geworden dat uw project 'B13-A: GOEDKOPER' is uitgelopen.
+[13:28:24 C GM306391 (Info)] Failed to execute the current plan round
+
+- Methods 'B13-A: GOEDKOPER' and 'B1-E: BEPERKTE RISICO'S' overlap in their regular durations.
+[13:28:42 G Game365111 (Verbose)] Server changed state to 'Planning'
+[13:28:42 S Server760523 (Event)] Event 'Update state event' fired for client GM306391
+[13:28:42 S Server760523 (Event)] Event 'Plan' fired for client SP219166
+[13:28:42 S Server760523 (Event)] Event 'Plan' fired for client SP222825
+[13:28:42 S Server760523 (Event)] Event 'Plan' fired for client SP23008
+[13:28:42 S Server760523 (Event)] Event 'Plan' fired for client SP319600
+[13:28:42 S Server760523 (Event)] Event 'Plan' fired for client SP403798
+[13:28:42 S Server760523 (Event)] Event broadcast notified 5 client(s), sender: Game365111
+[13:28:42 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP219166
+[13:28:42 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP222825
+[13:28:42 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP23008
+[13:28:42 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP319600
+[13:28:42 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP403798
+[13:28:42 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:28:42 G Game365111 (Verbose)] Changed state of client 'SP219166' to InPlanning
+[13:28:42 G Game365111 (Verbose)] Changed state of client 'SP222825' to InPlanning
+[13:28:42 G Game365111 (Verbose)] Changed state of client 'SP23008' to InPlanning
+[13:28:42 G Game365111 (Verbose)] Changed state of client 'SP319600' to InPlanning
+[13:28:42 G Game365111 (Verbose)] Changed state of client 'SP403798' to InPlanning
+[13:28:42 C SP23008 (Event)] Received event 'Plan', sender ID: Game365111
+[13:28:42 C SP403798 (Event)] Received event 'Plan', sender ID: Game365111
+[13:28:42 C SP319600 (Event)] Received event 'Plan', sender ID: Game365111
+[13:28:42 C SP219166 (Event)] Received event 'Plan', sender ID: Game365111
+[13:28:42 C GM306391 (Event)] Received event 'Update state event', sender ID: Game365111
+[13:28:42 C GM306391 (Verbose)] Changed state to 'Planning'
+[13:28:42 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:28:42 C SP222825 (Event)] Received event 'Plan', sender ID: Game365111
+[13:28:44 C SP23008 (Info)] Een nieuwe planronde is begonnen.
+[13:28:44 C SP23008 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:28:44 C SP23008 (Verbose)] Changed client state to 'InPlanning'
+[13:28:44 C SP319600 (Info)] Een nieuwe planronde is begonnen.
+[13:28:44 C SP319600 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:28:44 C SP319600 (Verbose)] Changed client state to 'InPlanning'
+[13:28:45 C SP219166 (Info)] Een nieuwe planronde is begonnen.
+[13:28:45 C SP219166 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:28:45 C SP219166 (Verbose)] Changed client state to 'InPlanning'
+[13:28:47 C SP222825 (Info)] Een nieuwe planronde is begonnen.
+[13:28:47 C SP222825 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:28:47 C SP222825 (Verbose)] Changed client state to 'InPlanning'
+[13:28:48 C SP403798 (Info)] Een nieuwe planronde is begonnen.
+[13:28:48 C SP403798 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:28:48 C SP403798 (Verbose)] Changed client state to 'InPlanning'
+[13:28:50 C SP219166 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[13:28:50 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP219166
+[13:28:50 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:28:50 G Game365111 (Verbose)] Changed state of client 'SP219166' to Submitted
+[13:28:50 C SP219166 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:28:50 C SP219166 (Verbose)] Changed client state to 'Submitted'
+[13:28:51 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:28:56 C SP222825 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[13:28:57 C SP23008 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[13:28:57 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP222825
+[13:28:57 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:28:57 G Game365111 (Verbose)] Changed state of client 'SP222825' to Submitted
+[13:28:57 C SP222825 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:28:57 C SP222825 (Verbose)] Changed client state to 'Submitted'
+[13:28:57 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP23008
+[13:28:57 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:28:57 G Game365111 (Verbose)] Changed state of client 'SP23008' to Submitted
+[13:28:57 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:28:57 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:28:57 C SP23008 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:28:57 C SP23008 (Verbose)] Changed client state to 'Submitted'
+[13:29:06 C SP403798 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[13:29:06 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP403798
+[13:29:06 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:29:06 G Game365111 (Verbose)] Changed state of client 'SP403798' to Submitted
+[13:29:06 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:29:06 C SP403798 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:29:06 C SP403798 (Verbose)] Changed client state to 'Submitted'
+[13:29:25 S Server760523 (Event)] Event 'Plan change event' fired for client SB720095
+[13:29:26 C SB720095 (Event)] Received event 'Plan change event', sender ID: Game365111
+[13:29:33 C SP319600 (Info)] Weet u zeker van dat u het huidige plan wilt indienen? Nadat u deze heeft ingediend kunt u geen wijzigen meer doorvoeren totdat alle spelers hun plannen hebben ingediend. => yes
+[13:29:33 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP319600
+[13:29:33 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:29:33 G Game365111 (Verbose)] Changed state of client 'SP319600' to Submitted
+[13:29:33 G Game365111 (Verbose)] Server changed state to 'Accept'
+[13:29:33 S Server760523 (Event)] Event 'Update state event' fired for client GM306391
+[13:29:33 S Server760523 (Event)] Event 'Accept join plan event' fired for client SP219166
+[13:29:33 S Server760523 (Event)] Event 'Accept join plan event' fired for client SP222825
+[13:29:33 S Server760523 (Event)] Event 'Accept join plan event' fired for client SP23008
+[13:29:33 S Server760523 (Event)] Event 'Accept join plan event' fired for client SP319600
+[13:29:33 S Server760523 (Event)] Event 'Accept join plan event' fired for client SP403798
+[13:29:33 S Server760523 (Event)] Event 'Accept join plan event' fired for client SB720095
+[13:29:33 S Server760523 (Event)] Event broadcast notified 6 client(s), sender: Game365111
+[13:29:33 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP219166
+[13:29:33 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP222825
+[13:29:33 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP23008
+[13:29:33 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP319600
+[13:29:33 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP403798
+[13:29:33 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:29:33 G Game365111 (Verbose)] Changed state of client 'SP219166' to Accepting
+[13:29:33 G Game365111 (Verbose)] Changed state of client 'SP222825' to Accepting
+[13:29:33 G Game365111 (Verbose)] Changed state of client 'SP23008' to Accepting
+[13:29:33 G Game365111 (Verbose)] Changed state of client 'SP319600' to Accepting
+[13:29:33 G Game365111 (Verbose)] Changed state of client 'SP403798' to Accepting
+[13:29:33 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:29:33 C GM306391 (Event)] Received event 'Update state event', sender ID: Game365111
+[13:29:33 C GM306391 (Verbose)] Changed state to 'Accept'
+[13:29:33 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:29:34 C SP219166 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[13:29:34 C SP222825 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[13:29:34 C SP319600 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:29:34 C SP319600 (Verbose)] Changed client state to 'Submitted'
+[13:29:34 C SP319600 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[13:29:34 C SP23008 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[13:29:34 C SP403798 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[13:29:34 C SB720095 (Event)] Received event 'Accept join plan event', sender ID: Game365111
+[13:29:45 C SP219166 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[13:29:45 C SP219166 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:29:45 C SP219166 (Verbose)] Changed client state to 'Accepting'
+[13:29:47 C SP222825 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[13:29:47 C SP222825 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:29:47 C SP222825 (Verbose)] Changed client state to 'Accepting'
+[13:29:47 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP219166
+[13:29:47 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:29:47 G Game365111 (Verbose)] Changed state of client 'SP219166' to Accepted
+[13:29:47 C SP219166 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:29:47 C SP219166 (Verbose)] Changed client state to 'Accepted'
+[13:29:47 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:29:47 C SP23008 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[13:29:47 C SP23008 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:29:47 C SP23008 (Verbose)] Changed client state to 'Accepting'
+[13:29:48 C SP319600 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[13:29:48 C SP319600 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:29:48 C SP319600 (Verbose)] Changed client state to 'Accepting'
+[13:29:49 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP23008
+[13:29:49 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:29:49 G Game365111 (Verbose)] Changed state of client 'SP23008' to Accepted
+[13:29:49 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:29:49 C SP23008 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:29:49 C SP23008 (Verbose)] Changed client state to 'Accepted'
+[13:29:49 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP319600
+[13:29:49 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:29:49 G Game365111 (Verbose)] Changed state of client 'SP319600' to Accepted
+[13:29:49 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:29:49 C SP319600 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:29:49 C SP319600 (Verbose)] Changed client state to 'Accepted'
+[13:29:52 C SP403798 (Info)] Alle spelers hebben hun plan ingediend, wilt u astublieft het gezamenlijke plan accepteren of annuleren.
+[13:29:52 C SP403798 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:29:52 C SP403798 (Verbose)] Changed client state to 'Accepting'
+[13:30:02 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP222825
+[13:30:02 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:30:02 G Game365111 (Verbose)] Changed state of client 'SP222825' to Accepted
+[13:30:03 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:30:03 C SP222825 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:30:03 C SP222825 (Verbose)] Changed client state to 'Accepted'
+[13:30:37 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP403798
+[13:30:37 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:30:37 G Game365111 (Verbose)] Changed state of client 'SP403798' to Accepted
+[13:30:37 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client SP219166
+[13:30:37 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client SP222825
+[13:30:37 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client SP23008
+[13:30:37 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client SP319600
+[13:30:37 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client SP403798
+[13:30:37 S Server760523 (Event)] Event 'Plan accepted/declined event' fired for client GM306391
+[13:30:37 S Server760523 (Event)] Event broadcast notified 6 client(s), sender: Game365111
+[13:30:37 G Game365111 (Verbose)] Server changed state to 'Idle'
+[13:30:37 S Server760523 (Event)] Event 'Update state event' fired for client GM306391
+[13:30:37 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP219166
+[13:30:37 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP222825
+[13:30:37 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP23008
+[13:30:37 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP319600
+[13:30:37 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP403798
+[13:30:37 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:30:37 G Game365111 (Verbose)] Changed state of client 'SP219166' to Idle
+[13:30:37 G Game365111 (Verbose)] Changed state of client 'SP222825' to Idle
+[13:30:37 G Game365111 (Verbose)] Changed state of client 'SP23008' to Idle
+[13:30:37 G Game365111 (Verbose)] Changed state of client 'SP319600' to Idle
+[13:30:37 G Game365111 (Verbose)] Changed state of client 'SP403798' to Idle
+[13:30:37 C SP319600 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[13:30:37 C SP222825 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[13:30:37 C SP403798 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:30:37 C SP403798 (Verbose)] Changed client state to 'Accepted'
+[13:30:37 C SP403798 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[13:30:37 C SP219166 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[13:30:37 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:30:37 C GM306391 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[13:30:37 C GM306391 (Verbose)] Changed state to 'Idle'
+[13:30:37 C GM306391 (Event)] Received event 'Update state event', sender ID: Game365111
+[13:30:37 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:30:37 C SP23008 (Event)] Received event 'Plan accepted/declined event', sender ID: Game365111
+[13:30:38 C SP23008 (Info)] Alle spelers hebben het gezamenlijke plan geaccepteerd!
+[13:30:38 C SP23008 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:30:38 C SP23008 (Verbose)] Changed client state to 'Idle'
+[13:30:40 C SP319600 (Info)] Alle spelers hebben het gezamenlijke plan geaccepteerd!
+[13:30:40 C SP319600 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:30:40 C SP319600 (Verbose)] Changed client state to 'Idle'
+[13:30:40 C SP222825 (Info)] Alle spelers hebben het gezamenlijke plan geaccepteerd!
+[13:30:40 C SP222825 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:30:40 C SP222825 (Verbose)] Changed client state to 'Idle'
+[13:30:40 C SP403798 (Info)] Alle spelers hebben het gezamenlijke plan geaccepteerd!
+[13:30:40 C SP403798 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:30:40 C SP403798 (Verbose)] Changed client state to 'Idle'
+[13:30:40 C SP219166 (Info)] Alle spelers hebben het gezamenlijke plan geaccepteerd!
+[13:30:40 C SP219166 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:30:40 C SP219166 (Verbose)] Changed client state to 'Idle'
+[13:30:42 G Game365111 (Verbose)] Server changed state to 'Executing'
+[13:30:42 S Server760523 (Event)] Event 'Update state event' fired for client GM306391
+[13:30:42 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP219166
+[13:30:42 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP222825
+[13:30:42 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP23008
+[13:30:42 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP319600
+[13:30:42 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP403798
+[13:30:42 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:30:42 G Game365111 (Verbose)] Changed state of client 'SP219166' to Executing
+[13:30:42 G Game365111 (Verbose)] Changed state of client 'SP222825' to Executing
+[13:30:42 G Game365111 (Verbose)] Changed state of client 'SP23008' to Executing
+[13:30:42 G Game365111 (Verbose)] Changed state of client 'SP319600' to Executing
+[13:30:42 G Game365111 (Verbose)] Changed state of client 'SP403798' to Executing
+[13:30:42 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:30:42 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:30:42 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:30:42 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:30:42 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:30:42 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:30:42 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:30:42 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:30:42 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:42 C SP219166 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:30:42 C GM306391 (Event)] Received event 'Update state event', sender ID: Game365111
+[13:30:42 C GM306391 (Verbose)] Changed state to 'Executing'
+[13:30:42 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:30:42 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:42 C SP219166 (Verbose)] Changed client state to 'Executing'
+[13:30:42 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:43 C SP222825 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:30:43 C SP319600 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:30:43 C SP319600 (Verbose)] Changed client state to 'Executing'
+[13:30:43 C SP222825 (Verbose)] Changed client state to 'Executing'
+[13:30:43 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:43 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:43 C SP403798 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:30:43 C SP403798 (Verbose)] Changed client state to 'Executing'
+[13:30:43 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:43 C SP23008 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:30:43 C SP23008 (Verbose)] Changed client state to 'Executing'
+[13:30:43 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:43 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:30:43 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:30:43 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:30:43 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:30:43 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:30:43 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:30:43 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:30:43 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:30:43 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:44 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:44 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:44 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:44 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:44 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:44 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:44 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:30:44 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:30:44 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:30:44 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:30:44 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:30:44 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:30:44 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:30:44 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:30:44 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:44 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:45 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:45 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:45 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:45 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:45 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:45 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:30:45 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:30:45 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:30:45 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:30:45 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:30:45 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:30:45 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:30:45 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:30:45 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:46 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:46 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:46 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:46 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:46 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:46 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:46 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:30:46 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:30:46 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:30:46 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:30:46 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:30:46 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:30:46 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:30:46 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:30:47 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:47 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:47 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:47 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:47 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:47 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:47 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:30:47 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:30:47 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:30:47 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:30:47 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:30:47 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:30:47 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:30:47 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:30:48 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:48 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:48 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:48 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:48 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:48 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:48 C SP319600 (Info)] Het project 'B13-A: GOEDKOPER' is succesvol afgerond.
+[13:30:48 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:48 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:30:48 S Server760523 (Event)] Event 'Process delay pending methods event' fired for client GM306391
+[13:30:49 C GM306391 (Event)] Received event 'Process delay pending methods event', sender ID: Game365111
+[13:31:15 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:31:15 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:31:15 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:31:15 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:31:15 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:31:15 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:31:15 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:31:15 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:31:15 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:15 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:15 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:15 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:15 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:15 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:16 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:16 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:31:16 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:31:16 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:31:16 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:31:16 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:31:16 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:31:16 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:31:16 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:31:16 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:16 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:17 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:31:17 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:31:17 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:31:17 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:31:17 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:31:17 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:31:17 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:31:17 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:31:17 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:17 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:17 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:17 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:17 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:17 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:18 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:18 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:18 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:31:18 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:31:18 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:31:18 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:31:18 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:31:18 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:31:18 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:31:18 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:31:18 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:18 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:18 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:18 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:18 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:19 S Server760523 (Event)] Event 'Process delay pending methods event' fired for client GM306391
+[13:31:19 C GM306391 (Event)] Received event 'Process delay pending methods event', sender ID: Game365111
+[13:31:20 C SP222825 (Info)] Het project 'B12-C: MINDER HINDER' is succesvol afgerond.
+[13:31:20 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:20 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:20 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:21 C SP403798 (Info)] Het project 'B14-A: GOEDKOPER' is succesvol afgerond.
+[13:31:21 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:21 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:21 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:29 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:31:29 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:31:29 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:31:29 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:31:29 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:31:29 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:31:29 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:31:29 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:31:29 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:29 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:29 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:29 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:29 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:29 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:29 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:30 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:31:30 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:31:30 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:31:30 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:31:30 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:31:30 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:31:30 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:31:30 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:31:30 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:30 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:30 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:31 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:31 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:31 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:31 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:31:31 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:31:31 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:31:31 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:31:31 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:31:31 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:31:31 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:31:31 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:31:31 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:31 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:31 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:31 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:31 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:31 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:32 S Server760523 (Event)] Event 'Process delay pending methods event' fired for client GM306391
+[13:31:32 C GM306391 (Event)] Received event 'Process delay pending methods event', sender ID: Game365111
+[13:31:32 C SP23008 (Info)] Het project 'B15-A: GOEDKOPER' is succesvol afgerond.
+[13:31:32 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:32 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:35 C SP319600 (Info)] Het project 'B1-E: BEPERKTE RISICO'S' is succesvol afgerond.
+[13:31:43 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:31:43 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:31:43 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:31:43 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:31:43 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:31:43 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:31:43 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:31:43 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:31:44 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:44 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:44 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:44 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:44 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:44 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:44 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:44 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:31:44 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:31:44 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:31:44 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:31:44 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:31:44 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:31:44 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:31:44 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:31:45 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:45 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:45 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:45 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:45 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:45 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:31:45 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:31:45 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:31:45 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:31:45 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:31:45 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:31:45 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:31:45 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:31:46 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:46 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:46 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:46 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:46 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:46 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:46 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:47 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:31:47 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:31:47 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:31:47 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:31:47 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:31:47 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:31:47 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:31:47 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:31:47 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:47 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:47 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:47 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:47 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:47 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:47 C SP219166 (Info)] Het project 'B11-B: GOEDKOPER' is succesvol afgerond.
+[13:31:48 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:31:48 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:31:48 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:31:48 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:31:48 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:31:48 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:31:48 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:31:48 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:31:48 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:48 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:48 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:48 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:48 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:48 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:48 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:48 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:48 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:48 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:49 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:31:49 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:31:49 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:31:49 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:31:49 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:31:49 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:31:49 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:31:49 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:31:49 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:49 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:49 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:49 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:49 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:49 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:49 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:50 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:31:50 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:31:50 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:31:50 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:31:50 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:31:50 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:31:50 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:31:50 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:31:50 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:50 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:50 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:50 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:50 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:50 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:50 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:51 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:31:51 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:31:51 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:31:51 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:31:51 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:31:51 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:31:51 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:31:51 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:31:51 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:51 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:51 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:51 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:51 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:51 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:52 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:31:52 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:31:52 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:31:52 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:31:52 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:31:52 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:31:52 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:31:52 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:31:52 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:52 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:52 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:52 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:52 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:52 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:53 S Server760523 (Event)] Event 'Process delay pending methods event' fired for client GM306391
+[13:31:53 C GM306391 (Event)] Received event 'Process delay pending methods event', sender ID: Game365111
+[13:31:55 C SP222825 (Info)] Het project 'B12-B: BEPERKTE RISICO'S' is succesvol afgerond.
+[13:31:55 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:31:55 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:08 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:32:08 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:32:08 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:32:08 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:32:08 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:32:08 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:32:08 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:32:08 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:32:09 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:09 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:09 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:09 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:09 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:09 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:09 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:09 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:32:09 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:32:09 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:32:09 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:32:09 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:32:09 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:32:09 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:32:09 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:32:10 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:10 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:10 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:10 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:10 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:10 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:10 S Server760523 (Event)] Event 'Process delay pending methods event' fired for client GM306391
+[13:32:11 C GM306391 (Event)] Received event 'Process delay pending methods event', sender ID: Game365111
+[13:32:36 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:32:36 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:32:36 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:32:36 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:32:36 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:32:36 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:32:36 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:32:36 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:32:36 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:36 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:36 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:36 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:36 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:36 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:37 S Server760523 (Event)] Event 'Execute Results' fired for client SP219166
+[13:32:37 S Server760523 (Event)] Event 'Execute Results' fired for client SP222825
+[13:32:37 S Server760523 (Event)] Event 'Execute Results' fired for client SP23008
+[13:32:37 S Server760523 (Event)] Event 'Execute Results' fired for client SP319600
+[13:32:37 S Server760523 (Event)] Event 'Execute Results' fired for client SP403798
+[13:32:37 S Server760523 (Event)] Event 'Execute Results' fired for client GM306391
+[13:32:37 S Server760523 (Event)] Event 'Execute Results' fired for client SB720095
+[13:32:37 S Server760523 (Event)] Event broadcast notified 7 client(s), sender: Game365111
+[13:32:37 C GM306391 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:37 C SB720095 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:37 C SP222825 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:38 G Game365111 (Verbose)] Server changed state to 'Finished'
+[13:32:38 S Server760523 (Event)] Event 'Update state event' fired for client GM306391
+[13:32:38 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP219166
+[13:32:38 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP222825
+[13:32:38 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP23008
+[13:32:38 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP319600
+[13:32:38 S Server760523 (Event)] Event 'Update Client State Event' fired for client SP403798
+[13:32:38 S Server760523 (Event)] Event 'Update Client State Event' fired for client GM306391
+[13:32:38 G Game365111 (Verbose)] Changed state of client 'SP219166' to Finished
+[13:32:38 G Game365111 (Verbose)] Changed state of client 'SP222825' to Finished
+[13:32:38 G Game365111 (Verbose)] Changed state of client 'SP23008' to Finished
+[13:32:38 G Game365111 (Verbose)] Changed state of client 'SP319600' to Finished
+[13:32:38 G Game365111 (Verbose)] Changed state of client 'SP403798' to Finished
+[13:32:38 C SP222825 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:32:38 C SP222825 (Verbose)] Changed client state to 'Finished'
+[13:32:38 C SP23008 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:38 C GM306391 (Event)] Received event 'Update state event', sender ID: Game365111
+[13:32:38 C GM306391 (Verbose)] Changed state to 'Finished'
+[13:32:38 C GM306391 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:32:38 C SP23008 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:32:38 C SP23008 (Verbose)] Changed client state to 'Finished'
+[13:32:40 C SP319600 (Info)] Het project 'B13-C: GOEDKOPER' is succesvol afgerond.
+[13:32:41 C SP319600 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:41 C SP319600 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:32:41 C SP319600 (Verbose)] Changed client state to 'Finished'
+[13:32:41 C SP219166 (Info)] Het project 'B11-C: GOEDKOPER' is succesvol afgerond.
+[13:32:41 C SP219166 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:41 C SP219166 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:32:41 C SP219166 (Verbose)] Changed client state to 'Finished'
+[13:32:43 C SP403798 (Info)] Het project 'B1-A: GOEDKOPER' is succesvol afgerond.
+[13:32:43 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:43 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:45 C SP403798 (Event)] Received event 'Execute Results', sender ID: Game365111
+[13:32:45 C SP403798 (Event)] Received event 'Update Client State Event', sender ID: Game365111
+[13:32:45 C SP403798 (Verbose)] Changed client state to 'Finished'
+[13:47:30 S Server760523 (Event)] Event 'Disconnect Event' fired for client SM668917
+[13:47:30 S Server760523 (Event)] Event 'Disconnect Event' fired for client GM306391
+[13:47:30 S Server760523 (Event)] Event 'Disconnect Event' fired for client SB720095
+[13:47:30 S Server760523 (Event)] Event 'Disconnect Event' fired for client SP124279
+[13:47:30 S Server760523 (Event)] Event 'Disconnect Event' fired for client SP219166
+[13:47:30 S Server760523 (Event)] Event 'Disconnect Event' fired for client SP319600
+[13:47:30 S Server760523 (Event)] Event 'Disconnect Event' fired for client SP403798
+[13:47:30 S Server760523 (Event)] Event 'Disconnect Event' fired for client SP23008
+[13:47:30 S Server760523 (Event)] Event 'Disconnect Event' fired for client SP222825
+[13:47:30 S Server760523 (Event)] Event 'Disconnect Event' fired for client SP933852
+[13:47:30 S Server760523 (Event)] Event 'Disconnect Event' fired for client SP742068
+[13:47:30 S Server760523 (Event)] Event 'Disconnect Event' fired for client SP844388
+[13:47:30 S Server760523 (Event)] Event 'Disconnect Event' fired for client SP677323
+[13:47:30 S Server760523 (Event)] Event 'Disconnect Event' fired for client SP653502

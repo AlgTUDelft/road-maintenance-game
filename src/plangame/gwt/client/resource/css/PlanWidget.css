@@ -1,0 +1,84 @@
+/* Task widget in the plan */
+.task {
+	border: 2px solid #a0a0a0;
+	cursor: pointer;
+	opacity: 0.9;
+}
+
+/** task widget that is selected in the UI */
+.taskselected {
+	border: 2px solid red;
+}
+
+/* Info part, displayed in the regular duration */ 
+.taskinfo {
+	cursor: pointer;
+	font-size: xx-small;
+}
+
+/** Task delay part */
+.taskdelay {
+	cursor: pointer;
+	font-size: xx-small;
+	border-left: 1px solid grey;
+	text-align: center;
+}
+
+/** Pending task delay */
+.taskdelay-pending {
+	opacity: 0.5;
+}
+
+/** Task as planned */
+.taskdelay-asplanned {
+	color: green;
+	text-decoration: line-through;
+	opacity: 0.2;
+}
+
+/** Delayed task */
+.taskdelay-delayed {
+	opacity: 0.8;
+	color: red;
+}
+
+/** The plan grid */
+.plangrid {
+	background-color: #e0e0e0;
+}
+
+.plangrid td {
+	border: 1px solid grey;
+	text-align: center;
+}
+
+/** Player name labels */
+.playerlabel {
+	text-align: right;
+	vertical-align: middle;
+	font-weight: bold;
+}
+
+/* Legend for week numbers */
+.weeklegend {
+	text-align: right;
+	font-style: italic;
+}
+
+/* week numbers */
+.weeklabel td {
+	text-align: right;
+	background-color: #ffffff;
+	font-size: xx-small;
+}
+
+/** The marker that shows the current week */
+.weekmarker {
+	background-color: orange;
+	opacity: 0.4;
+}
+
+/** The week marker when executing */
+.weekmarker-executing {
+	background-color: #ff8020;
+}

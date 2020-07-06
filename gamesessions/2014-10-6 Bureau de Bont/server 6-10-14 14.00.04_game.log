@@ -1,0 +1,110 @@
+Log started Mon Oct 06 14:00:04 CEST 2014
+Types of log messages: Game Result Gameplay
+[14:00:20 G Game61902 (Game)] Created trace file 'C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\game\traces\Game61902_6-10-14 14.00.20.log'
+[14:00:25 G Game61902 (Game)] Gamemanager 'GM495253' joined the game!
+[14:00:25 C GM495253 (Game)] Joined the game
+[14:01:00 G Game61902 (Game)] Player 'SP476387' joined the game
+[14:01:00 G Game61902 (Game)] Service Provider client 'SP476387' joined the game!
+[14:01:00 C SP476387 (Game)] Joined the game
+[14:01:29 G Game61902 (Game)] Player 'SP236249' joined the game
+[14:01:29 G Game61902 (Game)] Service Provider client 'SP236249' joined the game!
+[14:01:29 C SP236249 (Game)] Joined the game
+[14:01:39 G Game61902 (Game)] Player 'SP762036' joined the game
+[14:01:39 G Game61902 (Game)] Service Provider client 'SP762036' joined the game!
+[14:01:39 C SP762036 (Game)] Joined the game
+[14:01:47 G Game61902 (Game)] Player 'SP221588' joined the game
+[14:01:47 G Game61902 (Game)] Service Provider client 'SP221588' joined the game!
+[14:01:47 C SP221588 (Game)] Joined the game
+[14:01:47 G Game61902 (Game)] Score board 'SB85134' is now monitoring the game!
+[14:01:47 C SB85134 (Game)] Joined the game
+[14:01:58 G Game61902 (Game)] Assigned portfolio 'Rood' to player 'SP476387'
+[14:02:03 G Game61902 (Game)] Assigned portfolio 'Zwart' to player 'SP236249'
+[14:02:10 G Game61902 (Game)] Assigned portfolio 'Blauw' to player 'SP762036'
+[14:02:13 G Game61902 (Game)] Assigned portfolio 'Roze' to player 'SP221588'
+[14:02:45 G Game61902 (Game)] Player 'SP231520' joined the game
+[14:02:45 G Game61902 (Game)] Service Provider client 'SP231520' joined the game!
+[14:02:45 C SP231520 (Game)] Joined the game
+[14:02:55 G Game61902 (Game)] Assigned portfolio 'Wit' to player 'SP231520'
+[14:02:56 G Game61902 (Game)] The game is ready to start!
+[14:04:07 G Game61902 (Game)] Starting a new plan round
+[14:28:26 G Game61902 (Game)] Player SP762036 has submitted his plan
+[14:28:41 G Game61902 (Game)] Forced client 'SP476387' state to change to 'Submitted' (from 'InPlanning')
+[14:28:54 G Game61902 (Game)] Player SP221588 has submitted his plan
+[14:29:20 G Game61902 (Game)] Player SP236249 has submitted his plan
+[14:29:40 G Game61902 (Game)] Player SP231520 has submitted his plan
+[14:29:40 G Game61902 (Game)] All players have submitted their plans, starting accept/decline round
+[14:34:37 G Game61902 (Game)] All players have responded to the joint plan, the plan has been declined
+[14:57:12 G Game61902 (Game)] Player SP236249 has submitted his plan
+[14:57:15 G Game61902 (Game)] Player SP762036 has submitted his plan
+[14:57:36 G Game61902 (Game)] Player SP221588 has submitted his plan
+[14:57:39 G Game61902 (Game)] Player SP231520 has submitted his plan
+[14:57:56 G Game61902 (Game)] All players have submitted their plans, starting accept/decline round
+[14:57:56 G Game61902 (Game)] Forced client 'SP476387' state to change to 'Submitted' (from 'InPlanning')
+[15:00:06 G Game61902 (Game)] Forced game state to change to 'Planning' (from 'Accept')
+[15:07:34 G Game61902 (Game)] Player SP236249 has submitted his plan
+[15:07:36 G Game61902 (Game)] Player SP762036 has submitted his plan
+[15:07:45 G Game61902 (Game)] Player SP231520 has submitted his plan
+[15:08:14 G Game61902 (Game)] Player SP476387 has submitted his plan
+[15:09:00 G Game61902 (Game)] Player SP221588 has submitted his plan
+[15:09:00 G Game61902 (Game)] All players have submitted their plans, starting accept/decline round
+[15:09:42 G Game61902 (Game)] All players have responded to the joint plan, the plan has been declined
+[15:11:25 G Game61902 (Game)] Player SP231520 has submitted his plan
+[15:12:34 G Game61902 (Game)] Player SP762036 has submitted his plan
+[15:12:38 G Game61902 (Game)] Player SP236249 has submitted his plan
+[15:13:37 G Game61902 (Game)] Player SP476387 has submitted his plan
+[15:13:53 G Game61902 (Game)] Player SP221588 has submitted his plan
+[15:13:53 G Game61902 (Game)] All players have submitted their plans, starting accept/decline round
+[15:14:47 G Game61902 (Game)] All players have responded to the joint plan, the plan has been accepted
+[15:16:20 G Game61902 (Game)] Starting execution of the joint plan!
+[15:16:20 G Game61902 (Game)] Joint plan has been executed in week week 2
+[15:16:21 G Game61902 (Game)] Joint plan has been executed in week week 3
+[15:16:22 G Game61902 (Game)] Joint plan has been executed in week week 4
+[15:16:23 G Game61902 (Game)] Joint plan has been executed in week week 5
+[15:16:24 G Game61902 (Game)] Joint plan has been executed in week week 6
+[15:17:42 G Game61902 (Game)] Joint plan has been executed in week week 7
+[15:17:56 G Game61902 (Game)] Joint plan has been executed in week week 8
+[15:17:57 G Game61902 (Game)] Joint plan has been executed in week week 9
+[15:17:58 G Game61902 (Game)] Joint plan has been executed in week week 10
+[15:17:59 G Game61902 (Game)] Joint plan has been executed in week week 11
+[15:18:00 G Game61902 (Game)] Joint plan has been executed in week week 12
+[15:18:01 G Game61902 (Game)] Joint plan has been executed in week week 13
+[15:18:02 G Game61902 (Game)] Joint plan has been executed in week week 14
+[15:18:03 G Game61902 (Game)] Joint plan has been executed in week week 15
+[15:18:24 G Game61902 (Game)] Joint plan has been executed in week week 16
+[15:18:25 G Game61902 (Game)] Joint plan has been executed in week week 17
+[15:18:45 G Game61902 (Game)] Joint plan has been executed in week week 18
+[15:18:46 G Game61902 (Game)] Joint plan has been executed in week week 19
+[15:18:47 G Game61902 (Game)] Joint plan has been executed in week week 20
+[15:18:48 G Game61902 (Game)] Joint plan has been executed in week week 21
+[15:18:49 G Game61902 (Game)] Joint plan has been executed in week week 22
+[15:18:50 G Game61902 (Game)] Joint plan has been executed in week week 23
+[15:18:51 G Game61902 (Game)] Joint plan has been executed in week week 24
+[15:19:20 G Game61902 (Game)] Joint plan has been executed in week week 25
+[15:19:21 G Game61902 (Game)] Joint plan has been executed in week week 26
+[15:19:23 G Game61902 (Game)] Joint plan has been executed in week week 27
+[15:19:24 G Game61902 (Game)] Joint plan has been executed in week week 28
+[15:19:25 G Game61902 (Game)] Joint plan has been executed in week week 29
+[15:19:26 G Game61902 (Game)] Joint plan has been executed in week week 30
+[15:19:48 G Game61902 (Game)] Joint plan has been executed in week week 31
+[15:19:49 G Game61902 (Game)] Joint plan has been executed in week week 32
+[15:19:50 G Game61902 (Game)] Joint plan has been executed in week week 33
+[15:20:42 G Game61902 (Game)] Joint plan has been executed in week week 34
+[15:20:43 G Game61902 (Game)] Joint plan has been executed in week week 35
+[15:20:44 G Game61902 (Game)] Joint plan has been executed in week week 36
+[15:20:45 G Game61902 (Game)] Joint plan has been executed in week week 37
+[15:20:46 G Game61902 (Game)] Joint plan has been executed in week week 38
+[15:20:47 G Game61902 (Game)] Joint plan has been executed in week week 39
+[15:20:48 G Game61902 (Game)] Joint plan has been executed in week week 40
+[15:20:49 G Game61902 (Game)] Joint plan has been executed in week week 41
+[15:21:26 G Game61902 (Game)] Joint plan has been executed in week week 42
+[15:21:27 G Game61902 (Game)] Joint plan has been executed in week week 43
+[15:21:28 G Game61902 (Game)] Joint plan has been executed in week week 44
+[15:21:50 G Game61902 (Game)] Joint plan has been executed in week week 45
+[15:21:51 G Game61902 (Game)] Joint plan has been executed in week week 46
+[15:22:17 G Game61902 (Game)] Joint plan has been executed in week week 47
+[15:22:18 G Game61902 (Game)] Joint plan has been executed in week week 48
+[15:22:19 G Game61902 (Game)] Joint plan has been executed in week week 49
+[15:22:20 G Game61902 (Game)] Joint plan has been executed in week week 50
+[15:22:36 G Game61902 (Game)] Joint plan has been executed in week week 51
+[15:22:37 G Game61902 (Game)] Joint plan has been executed in week week 52
+[15:22:38 G Game61902 (Game)] The game has been finished!

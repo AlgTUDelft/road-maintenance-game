@@ -1,0 +1,18 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui"
+  xmlns:ctrl="urn:import:plangame.gwt.client.widgets.controller" 
+  xmlns:help="urn:import:plangame.gwt.client.widgets.help" 
+  xmlns:map="urn:import:plangame.gwt.client.widgets.map"
+  xmlns:plan="urn:import:plangame.gwt.client.widgets.plan"
+  xmlns:pmgr="urn:import:plangame.gwt.client.widgets.playermanager" xmlns:s="urn:import:plangame.gwt.client.widgets.scoretable">
+
+  
+  <ui:with type="plangame.gwt.client.resource.SBResource" field="res" />  
+  <ui:with type="plangame.gwt.client.resource.locale.Lang" field="lang"></ui:with>
+  
+  <g:VerticalPanel styleName="{res.sbcss.mainpanel}">
+    <s:ScoreTableWidget ui:field="tblScores" width="800px" height="480px" />
+  </g:VerticalPanel>
+  
+</ui:UiBinder> 

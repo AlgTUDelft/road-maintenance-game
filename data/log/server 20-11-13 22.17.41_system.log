@@ -1,0 +1,1349 @@
+Log started Wed Nov 20 22:17:41 CET 2013
+Types of log messages: Event Info Warning Error Verbose System
+[22:17:41 S Server240319 (Info)] Server started
+[22:18:03 S Server240319 (Verbose)] Client 'SM18178' tries to reconnect
+[22:18:03 S Server240319 (Verbose)] Session with client 'SM18178' is expired
+[22:18:03 S Server240319 (Event)] Added client 'SM266179' to event map
+[22:18:03 S Server240319 (Info)] Client 'SM266179' connected to the server
+[22:18:03 C SM266179 (Event)] Started listening
+[22:18:03 C SM266179 (Info)] Successfully connected to main server
+[22:18:03 S Server240319 (Verbose)] Requested game server list
+[22:18:23 G Game404691 (Verbose)] Server changed state to 'Initialising'
+[22:18:23 G Game404691 (Info)] Game file 'games/roersteden/game.xml' loaded
+[22:18:23 G Game404691 (Info)] Gameserver 'Game404691' now active
+[22:18:23 S Server240319 (Info)] Game server with ID 'Game404691' has been created
+[22:18:28 C null (Verbose)] Changed state to 'Initialising'
+[22:18:28 S Server240319 (Verbose)] Client 'GM682414' tries to reconnect
+[22:18:28 S Server240319 (Verbose)] Session with client 'GM682414' is expired
+[22:18:29 S Server240319 (Event)] Added client 'GM886688' to event map
+[22:18:29 S Server240319 (Info)] Client 'GM886688' connected to the server
+[22:18:29 C GM886688 (Event)] Started listening
+[22:18:29 C GM886688 (Info)] Successfully connected to main server
+[22:18:29 S Server240319 (Verbose)] Requested game server list
+[22:18:30 C GM886688 (Verbose)] Changed state to 'Initialising'
+[22:18:34 S Server240319 (Verbose)] Client 'SB220927' tries to reconnect
+[22:18:34 S Server240319 (Verbose)] Session with client 'SB220927' is expired
+[22:18:35 S Server240319 (Event)] Added client 'SB791998' to event map
+[22:18:35 S Server240319 (Info)] Client 'SB791998' connected to the server
+[22:18:35 C SB791998 (Event)] Started listening
+[22:18:35 C SB791998 (Info)] Successfully connected to main server
+[22:18:35 S Server240319 (Verbose)] Requested game server list
+[22:18:40 C SB791998 (Info)] Successfully joined game server '[Game404691] Spel LVO dag (0 / 5)'
+[22:18:42 C GM886688 (Info)] Successfully joined game server '[Game404691] Spel LVO dag (0 / 5)'
+[22:18:49 S Server240319 (Verbose)] Client 'SP461780' tries to reconnect
+[22:18:49 S Server240319 (Verbose)] Session with client 'SP461780' is expired
+[22:18:49 S Server240319 (Event)] Added client 'SP633212' to event map
+[22:18:49 S Server240319 (Info)] Client 'SP633212' connected to the server
+[22:18:52 C SP633212 (Event)] Started listening
+[22:18:52 C SP633212 (Info)] Successfully connected to main server
+[22:18:52 S Server240319 (Verbose)] Requested game server list
+[22:18:56 S Server240319 (Verbose)] Client 'SP382376' tries to reconnect
+[22:18:56 S Server240319 (Verbose)] Session with client 'SP382376' is expired
+[22:18:56 S Server240319 (Verbose)] Client 'SP255224' tries to reconnect
+[22:18:56 S Server240319 (Verbose)] Session with client 'SP255224' is expired
+[22:18:56 S Server240319 (Verbose)] Client 'SP401519' tries to reconnect
+[22:18:56 S Server240319 (Verbose)] Session with client 'SP401519' is expired
+[22:18:56 S Server240319 (Event)] Added client 'SP873789' to event map
+[22:18:56 S Server240319 (Info)] Client 'SP873789' connected to the server
+[22:18:57 S Server240319 (Event)] Added client 'SP526093' to event map
+[22:18:57 S Server240319 (Info)] Client 'SP526093' connected to the server
+[22:18:58 S Server240319 (Event)] Added client 'SP822139' to event map
+[22:18:58 S Server240319 (Info)] Client 'SP822139' connected to the server
+[22:18:58 C SP873789 (Info)] Successfully connected to main server
+[22:18:58 C SP873789 (Event)] Started listening
+[22:18:58 S Server240319 (Verbose)] Requested game server list
+[22:19:00 C SP526093 (Info)] Successfully connected to main server
+[22:19:00 C SP526093 (Event)] Started listening
+[22:19:00 S Server240319 (Verbose)] Requested game server list
+[22:19:00 S Server240319 (Verbose)] Client 'SP305725' tries to reconnect
+[22:19:00 S Server240319 (Verbose)] Session with client 'SP305725' is expired
+[22:19:00 C SP822139 (Event)] Started listening
+[22:19:00 C SP822139 (Info)] Successfully connected to main server
+[22:19:00 S Server240319 (Verbose)] Requested game server list
+[22:19:00 S Server240319 (Event)] Added client 'SP887686' to event map
+[22:19:00 S Server240319 (Info)] Client 'SP887686' connected to the server
+[22:19:00 C SP887686 (Event)] Started listening
+[22:19:00 C SP887686 (Info)] Successfully connected to main server
+[22:19:00 S Server240319 (Verbose)] Requested game server list
+[22:19:07 S Server240319 (Event)] Event 'Join Game' fired for client SB791998
+[22:19:07 S Server240319 (Event)] Event 'Join Game' fired for client GM886688
+[22:19:07 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP633212
+[22:19:07 S Server240319 (Event)] Event 'Update Client State Event' fired for client GM886688
+[22:19:07 G Game404691 (Verbose)] Changed state of client 'SP633212' to AwaitingPortfolio
+[22:19:08 C SB791998 (Event)] Received event 'Join Game', sender ID: Game404691
+[22:19:08 C SP633212 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:19:08 C SP633212 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[22:19:08 C GM886688 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:19:08 C GM886688 (Event)] Received event 'Join Game', sender ID: Game404691
+[22:19:08 C SP633212 (Info)] Successfully joined game server '[Game404691] Spel LVO dag (1 / 5)'
+[22:19:12 S Server240319 (Event)] Event 'Join Game' fired for client SB791998
+[22:19:12 S Server240319 (Event)] Event 'Join Game' fired for client GM886688
+[22:19:12 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP873789
+[22:19:12 S Server240319 (Event)] Event 'Update Client State Event' fired for client GM886688
+[22:19:12 G Game404691 (Verbose)] Changed state of client 'SP873789' to AwaitingPortfolio
+[22:19:12 C GM886688 (Event)] Received event 'Join Game', sender ID: Game404691
+[22:19:12 C SP873789 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:19:12 C GM886688 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:19:12 C SP873789 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[22:19:12 C SB791998 (Event)] Received event 'Join Game', sender ID: Game404691
+[22:19:13 C SP873789 (Info)] Successfully joined game server '[Game404691] Spel LVO dag (2 / 5)'
+[22:19:15 S Server240319 (Event)] Event 'Join Game' fired for client SB791998
+[22:19:15 S Server240319 (Event)] Event 'Join Game' fired for client GM886688
+[22:19:15 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP526093
+[22:19:15 S Server240319 (Event)] Event 'Update Client State Event' fired for client GM886688
+[22:19:15 G Game404691 (Verbose)] Changed state of client 'SP526093' to AwaitingPortfolio
+[22:19:15 C SB791998 (Event)] Received event 'Join Game', sender ID: Game404691
+[22:19:16 C SP526093 (Info)] Successfully joined game server '[Game404691] Spel LVO dag (3 / 5)'
+[22:19:16 C SP526093 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:19:16 C SP526093 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[22:19:16 C GM886688 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:19:16 C GM886688 (Event)] Received event 'Join Game', sender ID: Game404691
+[22:19:17 S Server240319 (Event)] Event 'Join Game' fired for client SB791998
+[22:19:17 S Server240319 (Event)] Event 'Join Game' fired for client GM886688
+[22:19:17 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP822139
+[22:19:17 S Server240319 (Event)] Event 'Update Client State Event' fired for client GM886688
+[22:19:17 G Game404691 (Verbose)] Changed state of client 'SP822139' to AwaitingPortfolio
+[22:19:18 C SB791998 (Event)] Received event 'Join Game', sender ID: Game404691
+[22:19:18 C SP822139 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:19:18 C SP822139 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[22:19:18 C GM886688 (Event)] Received event 'Join Game', sender ID: Game404691
+[22:19:18 C GM886688 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:19:19 C SP822139 (Info)] Successfully joined game server '[Game404691] Spel LVO dag (4 / 5)'
+[22:19:20 S Server240319 (Event)] Event 'Join Game' fired for client SB791998
+[22:19:20 S Server240319 (Event)] Event 'Join Game' fired for client GM886688
+[22:19:20 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP887686
+[22:19:20 S Server240319 (Event)] Event 'Update Client State Event' fired for client GM886688
+[22:19:20 G Game404691 (Verbose)] Changed state of client 'SP887686' to AwaitingPortfolio
+[22:19:20 C SB791998 (Event)] Received event 'Join Game', sender ID: Game404691
+[22:19:21 C SP887686 (Info)] Successfully joined game server '[Game404691] Spel LVO dag (5 / 5)'
+[22:19:21 C SP887686 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:19:21 C SP887686 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[22:19:21 C GM886688 (Event)] Received event 'Join Game', sender ID: Game404691
+[22:19:21 C GM886688 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:19:25 S Server240319 (Event)] Event 'Assign Portfolio Event' fired for client SP633212
+[22:19:25 S Server240319 (Event)] Event 'Assign Portfolio Event' fired for client SB791998
+[22:19:25 S Server240319 (Event)] Event 'Assign Portfolio Event' fired for client GM886688
+[22:19:25 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP633212
+[22:19:25 S Server240319 (Event)] Event 'Update Client State Event' fired for client GM886688
+[22:19:25 G Game404691 (Verbose)] Changed state of client 'SP633212' to WaitingToStart
+[22:19:26 C GM886688 (Event)] Received event 'Assign Portfolio Event', sender ID: Game404691
+[22:19:26 C GM886688 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:19:26 C SP633212 (Event)] Received event 'Assign Portfolio Event', sender ID: Game404691
+[22:19:26 C SP633212 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:19:26 C SP633212 (Verbose)] Changed client state to 'WaitingToStart'
+[22:19:27 C SB791998 (Event)] Received event 'Assign Portfolio Event', sender ID: Game404691
+[22:19:29 S Server240319 (Event)] Event 'Assign Portfolio Event' fired for client SP873789
+[22:19:29 S Server240319 (Event)] Event 'Assign Portfolio Event' fired for client SB791998
+[22:19:29 S Server240319 (Event)] Event 'Assign Portfolio Event' fired for client GM886688
+[22:19:29 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP873789
+[22:19:29 S Server240319 (Event)] Event 'Update Client State Event' fired for client GM886688
+[22:19:29 G Game404691 (Verbose)] Changed state of client 'SP873789' to WaitingToStart
+[22:19:29 C GM886688 (Event)] Received event 'Assign Portfolio Event', sender ID: Game404691
+[22:19:29 C GM886688 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:19:29 C SP873789 (Event)] Received event 'Assign Portfolio Event', sender ID: Game404691
+[22:19:29 C SP873789 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:19:29 C SP873789 (Verbose)] Changed client state to 'WaitingToStart'
+[22:19:29 C SB791998 (Event)] Received event 'Assign Portfolio Event', sender ID: Game404691
+[22:19:31 S Server240319 (Event)] Event 'Assign Portfolio Event' fired for client SP526093
+[22:19:31 S Server240319 (Event)] Event 'Assign Portfolio Event' fired for client SB791998
+[22:19:31 S Server240319 (Event)] Event 'Assign Portfolio Event' fired for client GM886688
+[22:19:31 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP526093
+[22:19:31 S Server240319 (Event)] Event 'Update Client State Event' fired for client GM886688
+[22:19:31 G Game404691 (Verbose)] Changed state of client 'SP526093' to WaitingToStart
+[22:19:32 C GM886688 (Event)] Received event 'Assign Portfolio Event', sender ID: Game404691
+[22:19:32 C GM886688 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:19:32 C SB791998 (Event)] Received event 'Assign Portfolio Event', sender ID: Game404691
+[22:19:32 C SP526093 (Event)] Received event 'Assign Portfolio Event', sender ID: Game404691
+[22:19:32 C SP526093 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:19:32 C SP526093 (Verbose)] Changed client state to 'WaitingToStart'
+[22:19:35 S Server240319 (Event)] Event 'Assign Portfolio Event' fired for client SP822139
+[22:19:35 S Server240319 (Event)] Event 'Assign Portfolio Event' fired for client SB791998
+[22:19:35 S Server240319 (Event)] Event 'Assign Portfolio Event' fired for client GM886688
+[22:19:35 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP822139
+[22:19:35 S Server240319 (Event)] Event 'Update Client State Event' fired for client GM886688
+[22:19:35 G Game404691 (Verbose)] Changed state of client 'SP822139' to WaitingToStart
+[22:19:35 C GM886688 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:19:35 C GM886688 (Event)] Received event 'Assign Portfolio Event', sender ID: Game404691
+[22:19:36 C SB791998 (Event)] Received event 'Assign Portfolio Event', sender ID: Game404691
+[22:19:36 C SP822139 (Event)] Received event 'Assign Portfolio Event', sender ID: Game404691
+[22:19:36 C SP822139 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:19:36 C SP822139 (Verbose)] Changed client state to 'WaitingToStart'
+[22:19:38 S Server240319 (Event)] Event 'Assign Portfolio Event' fired for client SP887686
+[22:19:38 S Server240319 (Event)] Event 'Assign Portfolio Event' fired for client SB791998
+[22:19:38 S Server240319 (Event)] Event 'Assign Portfolio Event' fired for client GM886688
+[22:19:38 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP887686
+[22:19:38 S Server240319 (Event)] Event 'Update Client State Event' fired for client GM886688
+[22:19:38 G Game404691 (Verbose)] Changed state of client 'SP887686' to WaitingToStart
+[22:19:38 C GM886688 (Event)] Received event 'Assign Portfolio Event', sender ID: Game404691
+[22:19:38 C GM886688 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:19:39 C SP887686 (Event)] Received event 'Assign Portfolio Event', sender ID: Game404691
+[22:19:39 C SP887686 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:19:39 C SP887686 (Verbose)] Changed client state to 'WaitingToStart'
+[22:19:39 G Game404691 (Verbose)] Server changed state to 'Starting'
+[22:19:39 S Server240319 (Event)] Event 'Update state event' fired for client GM886688
+[22:19:39 S Server240319 (Event)] Event 'Start game event' fired for client SP526093
+[22:19:39 S Server240319 (Event)] Event 'Start game event' fired for client SP633212
+[22:19:39 S Server240319 (Event)] Event 'Start game event' fired for client SP822139
+[22:19:39 S Server240319 (Event)] Event 'Start game event' fired for client SP873789
+[22:19:39 S Server240319 (Event)] Event 'Start game event' fired for client SP887686
+[22:19:39 S Server240319 (Event)] Event 'Start game event' fired for client GM886688
+[22:19:39 S Server240319 (Event)] Event 'Start game event' fired for client SB791998
+[22:19:39 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:19:39 G Game404691 (Verbose)] Server changed state to 'Idle'
+[22:19:39 S Server240319 (Event)] Event 'Update state event' fired for client GM886688
+[22:19:39 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP526093
+[22:19:39 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP633212
+[22:19:39 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP822139
+[22:19:39 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP873789
+[22:19:39 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP887686
+[22:19:39 S Server240319 (Event)] Event 'Update Client State Event' fired for client GM886688
+[22:19:39 G Game404691 (Verbose)] Changed state of client 'SP526093' to Idle
+[22:19:39 G Game404691 (Verbose)] Changed state of client 'SP633212' to Idle
+[22:19:39 G Game404691 (Verbose)] Changed state of client 'SP822139' to Idle
+[22:19:39 G Game404691 (Verbose)] Changed state of client 'SP873789' to Idle
+[22:19:39 G Game404691 (Verbose)] Changed state of client 'SP887686' to Idle
+[22:19:42 C SP873789 (Event)] Received event 'Start game event', sender ID: Game404691
+[22:19:43 C SP633212 (Event)] Received event 'Start game event', sender ID: Game404691
+[22:19:43 C SP633212 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:19:43 C SP633212 (Verbose)] Changed client state to 'Idle'
+[22:19:43 C SB791998 (Event)] Received event 'Assign Portfolio Event', sender ID: Game404691
+[22:19:43 C SB791998 (Event)] Received event 'Start game event', sender ID: Game404691
+[22:19:46 C SP873789 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:19:48 C SP873789 (Verbose)] Changed client state to 'Idle'
+[22:19:48 C GM886688 (Event)] Received event 'Update state event', sender ID: Game404691
+[22:19:48 C GM886688 (Verbose)] Changed state to 'Starting'
+[22:19:48 C GM886688 (Event)] Received event 'Start game event', sender ID: Game404691
+[22:19:48 C GM886688 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:19:48 C GM886688 (Verbose)] Changed state to 'Idle'
+[22:19:48 C GM886688 (Event)] Received event 'Update state event', sender ID: Game404691
+[22:19:48 C SP822139 (Event)] Received event 'Start game event', sender ID: Game404691
+[22:19:48 C SP822139 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:19:48 C SP822139 (Verbose)] Changed client state to 'Idle'
+[22:19:48 C SP887686 (Event)] Received event 'Start game event', sender ID: Game404691
+[22:19:48 C SP887686 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:19:48 C SP887686 (Verbose)] Changed client state to 'Idle'
+[22:19:48 C SP526093 (Event)] Received event 'Start game event', sender ID: Game404691
+[22:19:48 C SP526093 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:19:48 C SP526093 (Verbose)] Changed client state to 'Idle'
+[22:20:24 G Game404691 (Verbose)] Server changed state to 'Planning'
+[22:20:24 S Server240319 (Event)] Event 'Update state event' fired for client GM886688
+[22:20:24 S Server240319 (Event)] Event 'Plan' fired for client SP526093
+[22:20:24 S Server240319 (Event)] Event 'Plan' fired for client SP633212
+[22:20:24 S Server240319 (Event)] Event 'Plan' fired for client SP822139
+[22:20:24 S Server240319 (Event)] Event 'Plan' fired for client SP873789
+[22:20:24 S Server240319 (Event)] Event 'Plan' fired for client SP887686
+[22:20:24 S Server240319 (Event)] Event broadcast notified 5 client(s), sender: Game404691
+[22:20:24 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP526093
+[22:20:24 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP633212
+[22:20:24 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP822139
+[22:20:24 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP873789
+[22:20:24 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP887686
+[22:20:24 S Server240319 (Event)] Event 'Update Client State Event' fired for client GM886688
+[22:20:24 G Game404691 (Verbose)] Changed state of client 'SP526093' to InPlanning
+[22:20:24 G Game404691 (Verbose)] Changed state of client 'SP633212' to InPlanning
+[22:20:24 G Game404691 (Verbose)] Changed state of client 'SP822139' to InPlanning
+[22:20:24 G Game404691 (Verbose)] Changed state of client 'SP873789' to InPlanning
+[22:20:24 G Game404691 (Verbose)] Changed state of client 'SP887686' to InPlanning
+[22:20:24 C SP633212 (Event)] Received event 'Plan', sender ID: Game404691
+[22:20:24 C GM886688 (Event)] Received event 'Update state event', sender ID: Game404691
+[22:20:24 C GM886688 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:20:24 C GM886688 (Verbose)] Changed state to 'Planning'
+[22:20:24 C SP526093 (Event)] Received event 'Plan', sender ID: Game404691
+[22:20:24 C SP887686 (Event)] Received event 'Plan', sender ID: Game404691
+[22:20:24 C SP822139 (Event)] Received event 'Plan', sender ID: Game404691
+[22:20:24 C SP873789 (Event)] Received event 'Plan', sender ID: Game404691
+[22:20:26 C SP873789 (Info)] A new plan round is starting.
+[22:20:26 C SP873789 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:20:26 C SP873789 (Verbose)] Changed client state to 'InPlanning'
+[22:20:29 C SP822139 (Info)] A new plan round is starting.
+[22:20:29 C SP822139 (Verbose)] Changed client state to 'InPlanning'
+[22:20:29 C SP822139 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:20:29 C SP887686 (Info)] A new plan round is starting.
+[22:20:29 C SP887686 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:20:29 C SP887686 (Verbose)] Changed client state to 'InPlanning'
+[22:20:29 C SP526093 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:20:29 C SP526093 (Info)] A new plan round is starting.
+[22:20:29 C SP526093 (Verbose)] Changed client state to 'InPlanning'
+[22:20:29 C SP633212 (Verbose)] Changed client state to 'InPlanning'
+[22:20:29 C SP633212 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:20:29 C SP633212 (Info)] A new plan round is starting.
+[22:20:40 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:20:40 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:20:45 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:20:45 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:20:46 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:20:48 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:20:55 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:20:55 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:20:58 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:20:58 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:21:07 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:21:07 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:21:09 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:21:10 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:21:11 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:21:11 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:21:13 C SP633212 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[22:21:13 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP633212
+[22:21:13 S Server240319 (Event)] Event 'Update Client State Event' fired for client GM886688
+[22:21:13 G Game404691 (Verbose)] Changed state of client 'SP633212' to Submitted
+[22:21:13 C SP633212 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:21:13 C SP633212 (Verbose)] Changed client state to 'Submitted'
+[22:21:13 C GM886688 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:21:22 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:21:22 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:21:23 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:21:23 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:21:31 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:21:32 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:21:34 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:21:35 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:21:41 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:21:41 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:21:45 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:21:45 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:21:52 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:21:53 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:21:54 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:21:54 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:21:56 C SP873789 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[22:21:56 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP873789
+[22:21:56 S Server240319 (Event)] Event 'Update Client State Event' fired for client GM886688
+[22:21:56 G Game404691 (Verbose)] Changed state of client 'SP873789' to Submitted
+[22:21:56 C SP873789 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:21:56 C SP873789 (Verbose)] Changed client state to 'Submitted'
+[22:21:56 C GM886688 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:22:07 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:22:07 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:22:10 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:22:10 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:22:16 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:22:16 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:22:18 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:22:18 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:22:27 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:22:27 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:22:28 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:22:30 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:22:36 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:22:36 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:22:39 C SP526093 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[22:22:39 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP526093
+[22:22:39 S Server240319 (Event)] Event 'Update Client State Event' fired for client GM886688
+[22:22:39 G Game404691 (Verbose)] Changed state of client 'SP526093' to Submitted
+[22:22:39 C SP526093 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:22:39 C SP526093 (Verbose)] Changed client state to 'Submitted'
+[22:22:39 C GM886688 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:22:47 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:22:47 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:22:48 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:22:50 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:22:54 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:22:54 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:22:55 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:22:56 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:23:03 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:23:03 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:23:06 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:23:06 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:23:10 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:23:10 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:23:13 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:23:13 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:23:14 C SP822139 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[22:23:14 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP822139
+[22:23:14 S Server240319 (Event)] Event 'Update Client State Event' fired for client GM886688
+[22:23:14 G Game404691 (Verbose)] Changed state of client 'SP822139' to Submitted
+[22:23:15 C SP822139 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:23:15 C SP822139 (Verbose)] Changed client state to 'Submitted'
+[22:23:15 C GM886688 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:23:21 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:23:22 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:23:25 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:23:25 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:23:30 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:23:31 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:23:32 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:23:33 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:23:38 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:23:38 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:23:50 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:23:50 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:23:54 S Server240319 (Event)] Event 'Plan change event' fired for client SB791998
+[22:23:55 C SB791998 (Event)] Received event 'Plan change event', sender ID: Game404691
+[22:23:56 C SP887686 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[22:23:56 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP887686
+[22:23:56 S Server240319 (Event)] Event 'Update Client State Event' fired for client GM886688
+[22:23:56 G Game404691 (Verbose)] Changed state of client 'SP887686' to Submitted
+[22:23:56 G Game404691 (Verbose)] Server changed state to 'Accept'
+[22:23:56 S Server240319 (Event)] Event 'Update state event' fired for client GM886688
+[22:23:56 S Server240319 (Event)] Event 'Accept join plan event' fired for client SP526093
+[22:23:56 S Server240319 (Event)] Event 'Accept join plan event' fired for client SP633212
+[22:23:56 S Server240319 (Event)] Event 'Accept join plan event' fired for client SP822139
+[22:23:56 S Server240319 (Event)] Event 'Accept join plan event' fired for client SP873789
+[22:23:56 S Server240319 (Event)] Event 'Accept join plan event' fired for client SP887686
+[22:23:56 S Server240319 (Event)] Event 'Accept join plan event' fired for client SB791998
+[22:23:56 S Server240319 (Event)] Event broadcast notified 6 client(s), sender: Game404691
+[22:23:56 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP526093
+[22:23:56 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP633212
+[22:23:56 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP822139
+[22:23:56 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP873789
+[22:23:56 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP887686
+[22:23:56 S Server240319 (Event)] Event 'Update Client State Event' fired for client GM886688
+[22:23:56 G Game404691 (Verbose)] Changed state of client 'SP526093' to Accepting
+[22:23:56 G Game404691 (Verbose)] Changed state of client 'SP633212' to Accepting
+[22:23:56 G Game404691 (Verbose)] Changed state of client 'SP822139' to Accepting
+[22:23:56 G Game404691 (Verbose)] Changed state of client 'SP873789' to Accepting
+[22:23:56 G Game404691 (Verbose)] Changed state of client 'SP887686' to Accepting
+[22:23:57 C SB791998 (Event)] Received event 'Accept join plan event', sender ID: Game404691
+[22:24:06 C SP887686 (Verbose)] Changed client state to 'Submitted'
+[22:24:06 C SP887686 (Event)] Received event 'Accept join plan event', sender ID: Game404691
+[22:24:06 C SP887686 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:06 C SP526093 (Event)] Received event 'Accept join plan event', sender ID: Game404691
+[22:24:06 C SP873789 (Event)] Received event 'Accept join plan event', sender ID: Game404691
+[22:24:06 C SP822139 (Event)] Received event 'Accept join plan event', sender ID: Game404691
+[22:24:06 C GM886688 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:06 C GM886688 (Event)] Received event 'Update state event', sender ID: Game404691
+[22:24:06 C GM886688 (Verbose)] Changed state to 'Accept'
+[22:24:06 C GM886688 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:06 C SP633212 (Event)] Received event 'Accept join plan event', sender ID: Game404691
+[22:24:07 C SP633212 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[22:24:07 C SP633212 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:07 C SP633212 (Verbose)] Changed client state to 'Accepting'
+[22:24:10 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP633212
+[22:24:10 S Server240319 (Event)] Event 'Update Client State Event' fired for client GM886688
+[22:24:10 G Game404691 (Verbose)] Changed state of client 'SP633212' to Accepted
+[22:24:10 C SP633212 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:10 C SP633212 (Verbose)] Changed client state to 'Accepted'
+[22:24:11 C GM886688 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:20 C SP822139 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[22:24:20 C SP822139 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:20 C SP822139 (Verbose)] Changed client state to 'Accepting'
+[22:24:20 C SP873789 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[22:24:20 C SP873789 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:20 C SP873789 (Verbose)] Changed client state to 'Accepting'
+[22:24:20 C SP526093 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[22:24:20 C SP526093 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:20 C SP526093 (Verbose)] Changed client state to 'Accepting'
+[22:24:21 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP822139
+[22:24:21 S Server240319 (Event)] Event 'Update Client State Event' fired for client GM886688
+[22:24:21 G Game404691 (Verbose)] Changed state of client 'SP822139' to Accepted
+[22:24:21 C SP822139 (Verbose)] Changed client state to 'Accepted'
+[22:24:21 C SP822139 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:22 C GM886688 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:22 C SP887686 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[22:24:22 C SP887686 (Verbose)] Changed client state to 'Accepting'
+[22:24:22 C SP887686 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:24 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP526093
+[22:24:24 S Server240319 (Event)] Event 'Update Client State Event' fired for client GM886688
+[22:24:24 G Game404691 (Verbose)] Changed state of client 'SP526093' to Accepted
+[22:24:24 C SP526093 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:24 C SP526093 (Verbose)] Changed client state to 'Accepted'
+[22:24:25 C GM886688 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:25 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP887686
+[22:24:25 S Server240319 (Event)] Event 'Update Client State Event' fired for client GM886688
+[22:24:25 G Game404691 (Verbose)] Changed state of client 'SP887686' to Accepted
+[22:24:25 C SP887686 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:25 C SP887686 (Verbose)] Changed client state to 'Accepted'
+[22:24:26 C GM886688 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:26 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP873789
+[22:24:26 S Server240319 (Event)] Event 'Update Client State Event' fired for client GM886688
+[22:24:26 G Game404691 (Verbose)] Changed state of client 'SP873789' to Accepted
+[22:24:26 S Server240319 (Event)] Event 'Plan accepted/declined event' fired for client SP526093
+[22:24:26 S Server240319 (Event)] Event 'Plan accepted/declined event' fired for client SP633212
+[22:24:26 S Server240319 (Event)] Event 'Plan accepted/declined event' fired for client SP822139
+[22:24:26 S Server240319 (Event)] Event 'Plan accepted/declined event' fired for client SP873789
+[22:24:26 S Server240319 (Event)] Event 'Plan accepted/declined event' fired for client SP887686
+[22:24:26 S Server240319 (Event)] Event 'Plan accepted/declined event' fired for client GM886688
+[22:24:26 S Server240319 (Event)] Event broadcast notified 6 client(s), sender: Game404691
+[22:24:26 G Game404691 (Verbose)] Server changed state to 'Idle'
+[22:24:26 S Server240319 (Event)] Event 'Update state event' fired for client GM886688
+[22:24:26 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP526093
+[22:24:26 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP633212
+[22:24:26 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP822139
+[22:24:26 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP873789
+[22:24:26 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP887686
+[22:24:26 S Server240319 (Event)] Event 'Update Client State Event' fired for client GM886688
+[22:24:26 G Game404691 (Verbose)] Changed state of client 'SP526093' to Idle
+[22:24:26 G Game404691 (Verbose)] Changed state of client 'SP633212' to Idle
+[22:24:26 G Game404691 (Verbose)] Changed state of client 'SP822139' to Idle
+[22:24:26 G Game404691 (Verbose)] Changed state of client 'SP873789' to Idle
+[22:24:26 G Game404691 (Verbose)] Changed state of client 'SP887686' to Idle
+[22:24:26 C SP873789 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:26 C SP873789 (Verbose)] Changed client state to 'Accepted'
+[22:24:26 C SP873789 (Event)] Received event 'Plan accepted/declined event', sender ID: Game404691
+[22:24:26 C SP526093 (Event)] Received event 'Plan accepted/declined event', sender ID: Game404691
+[22:24:26 C SP633212 (Event)] Received event 'Plan accepted/declined event', sender ID: Game404691
+[22:24:26 C SP822139 (Event)] Received event 'Plan accepted/declined event', sender ID: Game404691
+[22:24:26 C SP887686 (Event)] Received event 'Plan accepted/declined event', sender ID: Game404691
+[22:24:27 C GM886688 (Event)] Received event 'Plan accepted/declined event', sender ID: Game404691
+[22:24:27 C GM886688 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:27 C GM886688 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:27 C GM886688 (Verbose)] Changed state to 'Idle'
+[22:24:27 C GM886688 (Event)] Received event 'Update state event', sender ID: Game404691
+[22:24:27 C SP887686 (Info)] All players have accepted the joint plan!
+[22:24:27 C SP887686 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:27 C SP887686 (Verbose)] Changed client state to 'Idle'
+[22:24:31 C SP822139 (Info)] All players have accepted the joint plan!
+[22:24:31 C SP822139 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:31 C SP822139 (Verbose)] Changed client state to 'Idle'
+[22:24:32 C SP633212 (Info)] All players have accepted the joint plan!
+[22:24:32 C SP633212 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:32 C SP633212 (Verbose)] Changed client state to 'Idle'
+[22:24:32 C SP526093 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:32 C SP526093 (Info)] All players have accepted the joint plan!
+[22:24:32 C SP526093 (Verbose)] Changed client state to 'Idle'
+[22:24:32 C SP873789 (Info)] All players have accepted the joint plan!
+[22:24:32 C SP873789 (Verbose)] Changed client state to 'Idle'
+[22:24:32 C SP873789 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:40 G Game404691 (Verbose)] Server changed state to 'Executing'
+[22:24:40 S Server240319 (Event)] Event 'Update state event' fired for client GM886688
+[22:24:40 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP526093
+[22:24:40 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP633212
+[22:24:40 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP822139
+[22:24:40 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP873789
+[22:24:40 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP887686
+[22:24:40 S Server240319 (Event)] Event 'Update Client State Event' fired for client GM886688
+[22:24:40 G Game404691 (Verbose)] Changed state of client 'SP526093' to Executing
+[22:24:40 G Game404691 (Verbose)] Changed state of client 'SP633212' to Executing
+[22:24:40 G Game404691 (Verbose)] Changed state of client 'SP822139' to Executing
+[22:24:40 G Game404691 (Verbose)] Changed state of client 'SP873789' to Executing
+[22:24:40 G Game404691 (Verbose)] Changed state of client 'SP887686' to Executing
+[22:24:40 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:40 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:40 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:40 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:40 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:40 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:40 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:40 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:40 C SP526093 (Verbose)] Changed client state to 'Executing'
+[22:24:40 C SP526093 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:40 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:40 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:40 C SP633212 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:40 C SP633212 (Verbose)] Changed client state to 'Executing'
+[22:24:40 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:40 C GM886688 (Event)] Received event 'Update state event', sender ID: Game404691
+[22:24:40 C GM886688 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:40 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:40 C GM886688 (Verbose)] Changed state to 'Executing'
+[22:24:40 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:40 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:40 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:40 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:40 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:40 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:40 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:40 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:41 C SP873789 (Verbose)] Changed client state to 'Executing'
+[22:24:41 C SP873789 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:41 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:41 C SP887686 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:41 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:41 C SP887686 (Verbose)] Changed client state to 'Executing'
+[22:24:41 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:41 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:41 C SP822139 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:24:41 C SP822139 (Verbose)] Changed client state to 'Executing'
+[22:24:41 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:41 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:41 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:41 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:41 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:41 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:41 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:41 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:41 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:41 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:41 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:41 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:41 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:41 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:41 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:41 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:41 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:41 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:41 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:41 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:41 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:41 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:41 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:41 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:41 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:41 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:42 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:42 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:42 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:42 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:42 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:42 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:42 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:42 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:42 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:42 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:42 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:42 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:42 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:42 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:42 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:42 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:42 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:42 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:42 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:42 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:42 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:42 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:43 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:43 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:43 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:43 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:43 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:43 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:43 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:43 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:43 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:43 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:43 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:43 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:43 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:43 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:43 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:43 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:43 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:43 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:43 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:43 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:43 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:43 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:43 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:43 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:43 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:43 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:43 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:43 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:43 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:43 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:43 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:44 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:44 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:44 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:44 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:44 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:44 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:44 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:44 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:44 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:44 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:44 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:44 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:44 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:44 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:44 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:44 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:44 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:44 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:45 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:45 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:45 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:45 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:45 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:45 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:45 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:45 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:45 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:45 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:45 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:45 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:45 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:45 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:45 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:45 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:46 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:46 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:46 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:46 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:46 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:46 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:46 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:46 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:46 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:46 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:46 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:46 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:46 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:46 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:46 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:46 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:46 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:47 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:47 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:47 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:47 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:47 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:47 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:47 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:47 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:47 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:47 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:47 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:47 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:47 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:47 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:47 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:47 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:47 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:47 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:47 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:47 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:47 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:47 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:47 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:48 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:48 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:48 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:48 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:48 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:48 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:48 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:48 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:48 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:48 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:48 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:48 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:48 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:48 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:48 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:48 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:49 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:49 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:49 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:49 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:49 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:49 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:49 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:49 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:49 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:49 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:49 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:49 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:49 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:49 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:49 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:49 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:50 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:50 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:50 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:50 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:50 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:50 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:50 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:50 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:50 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:50 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:50 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:50 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:50 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:50 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:50 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:50 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:51 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:51 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:51 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:51 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:51 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:51 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:51 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:51 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:51 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:51 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:51 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:51 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:51 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:51 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:51 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:51 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:51 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:51 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:52 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:52 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:52 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:52 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:52 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:52 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:52 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:52 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SP822139 (Info)] Unfortunately we have just received word that your task 'B15-B: SNELLER KLAAR' has been delayed.
+[22:24:52 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:52 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:52 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:52 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:52 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:52 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:52 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:52 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:52 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:52 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:53 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:53 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:53 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:53 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:53 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:53 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:53 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:53 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:53 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:53 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:53 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:53 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:53 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:53 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:53 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:53 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:53 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:53 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:53 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:54 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:54 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:54 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:54 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:54 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:54 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:54 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:54 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:54 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:54 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:54 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:54 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:54 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:54 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:54 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:54 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:54 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:54 C SP822139 (Info)] Task 'B15-B: SNELLER KLAAR' has been completed.
+[22:24:54 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:54 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:54 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:54 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:54 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:54 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:54 C SP822139 (Info)] Unfortunately we have just received word that your task 'B15-C: MINDER HINDER' has been delayed.
+[22:24:54 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:54 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:54 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:54 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:54 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:54 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:54 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:55 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:55 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:55 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:55 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:55 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:55 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:55 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:55 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:55 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:55 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:55 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:55 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:55 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:55 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:55 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:55 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:55 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:55 C SP822139 (Info)] Task 'B15-C: MINDER HINDER' has been completed.
+[22:24:55 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:56 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:56 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:56 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:56 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:56 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:56 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:56 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:56 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:56 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:56 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:56 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:56 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:56 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:56 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:56 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:56 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:56 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:56 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:56 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:56 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:56 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:56 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:56 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:56 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:56 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:56 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:57 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:57 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:57 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:57 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:57 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:57 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:57 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:57 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:57 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:57 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:57 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:57 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:57 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:57 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:57 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:57 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:57 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:58 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:58 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:58 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:58 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:58 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:58 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:58 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:58 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:58 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:58 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:58 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:58 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:58 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:58 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:58 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:58 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:58 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:58 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:58 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:58 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:58 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:58 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:58 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:58 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:58 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:58 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:58 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:58 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:58 C SP822139 (Info)] Task 'B15-A: MINDER HINDER' has been completed.
+[22:24:59 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:59 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:59 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:59 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:59 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:59 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:59 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:59 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:59 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:59 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:24:59 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:24:59 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:24:59 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:24:59 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:24:59 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:24:59 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:24:59 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:24:59 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:59 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:59 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:59 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:59 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:59 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:24:59 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:00 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:00 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:00 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:00 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:25:00 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:25:00 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:25:00 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:25:00 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:25:00 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:25:00 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:25:00 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:25:00 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:00 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:00 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:25:00 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:25:00 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:25:00 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:25:00 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:25:00 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:25:00 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:25:00 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:25:00 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:00 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:00 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:00 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:01 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:25:01 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:25:01 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:25:01 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:25:01 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:25:01 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:25:01 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:25:01 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:25:01 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:01 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:01 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:25:01 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:25:01 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:25:01 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:25:01 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:25:01 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:25:01 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:25:01 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:25:01 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:01 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:01 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:01 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:02 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:25:02 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:25:02 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:25:02 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:25:02 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:25:02 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:25:02 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:25:02 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:25:02 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:25:02 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:25:02 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:25:02 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:25:02 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:25:02 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:25:02 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:25:02 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:25:02 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:03 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:25:03 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:25:03 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:25:03 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:25:03 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:25:03 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:25:03 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:25:03 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:25:03 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:03 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:03 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:03 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:25:03 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:25:03 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:25:03 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:25:03 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:25:03 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:25:03 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:25:03 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:25:03 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:03 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:03 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:04 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:04 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:04 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:25:04 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:25:04 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:25:04 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:25:04 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:25:04 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:25:04 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:25:04 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:25:04 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:04 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:04 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:04 C SP822139 (Info)] Task 'B1-B: GOEDKOPER' has been completed.
+[22:25:04 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:25:04 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:25:04 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:25:04 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:25:04 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:25:04 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:25:04 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:25:04 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:25:05 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:05 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:25:05 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:25:05 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:25:05 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:25:05 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:25:05 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:25:05 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:25:05 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:25:05 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:05 S Server240319 (Event)] Event 'Execute Results' fired for client SP526093
+[22:25:05 S Server240319 (Event)] Event 'Execute Results' fired for client SP633212
+[22:25:05 S Server240319 (Event)] Event 'Execute Results' fired for client SP822139
+[22:25:05 S Server240319 (Event)] Event 'Execute Results' fired for client SP873789
+[22:25:05 S Server240319 (Event)] Event 'Execute Results' fired for client SP887686
+[22:25:05 S Server240319 (Event)] Event 'Execute Results' fired for client GM886688
+[22:25:05 S Server240319 (Event)] Event 'Execute Results' fired for client SB791998
+[22:25:05 S Server240319 (Event)] Event broadcast notified 7 client(s), sender: Game404691
+[22:25:05 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:05 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:05 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:05 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:06 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:06 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:06 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:06 C SP822139 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:06 C GM886688 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:06 G Game404691 (Verbose)] Server changed state to 'Finished'
+[22:25:06 S Server240319 (Event)] Event 'Update state event' fired for client GM886688
+[22:25:06 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP526093
+[22:25:06 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP633212
+[22:25:06 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP822139
+[22:25:06 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP873789
+[22:25:06 S Server240319 (Event)] Event 'Update Client State Event' fired for client SP887686
+[22:25:06 S Server240319 (Event)] Event 'Update Client State Event' fired for client GM886688
+[22:25:06 G Game404691 (Verbose)] Changed state of client 'SP526093' to Finished
+[22:25:06 G Game404691 (Verbose)] Changed state of client 'SP633212' to Finished
+[22:25:06 G Game404691 (Verbose)] Changed state of client 'SP822139' to Finished
+[22:25:06 G Game404691 (Verbose)] Changed state of client 'SP873789' to Finished
+[22:25:06 G Game404691 (Verbose)] Changed state of client 'SP887686' to Finished
+[22:25:07 C SP822139 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:25:07 C SP822139 (Verbose)] Changed client state to 'Finished'
+[22:25:07 C SB791998 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:07 C GM886688 (Event)] Received event 'Update state event', sender ID: Game404691
+[22:25:07 C GM886688 (Verbose)] Changed state to 'Finished'
+[22:25:07 C GM886688 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:25:15 C SP887686 (Info)] Task 'B12-B: MINDER HINDER' has been completed.
+[22:25:17 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:17 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:17 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:17 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:17 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:17 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:17 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:17 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:17 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:17 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:17 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:17 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:17 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:20 C SP887686 (Info)] Task 'B12-A: GOEDKOPER' has been completed.
+[22:25:20 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:20 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:20 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:20 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:20 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:20 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:20 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:20 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:25 C SP887686 (Info)] Task 'B12-C: SNELLER KLAAR' has been completed.
+[22:25:25 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:25 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:25 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:25 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:25 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:25 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:25 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:25 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:25 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:25 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:27 C SP887686 (Info)] Unfortunately we have just received word that your task 'B1-C: GOEDKOPER' has been delayed.
+[22:25:27 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:27 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:27 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:27 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:29 C SP887686 (Info)] Task 'B1-C: GOEDKOPER' has been completed.
+[22:25:29 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:29 C SP887686 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:29 C SP887686 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:25:29 C SP887686 (Verbose)] Changed client state to 'Finished'
+[22:25:38 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:38 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:41 C SP526093 (Info)] Task 'B14-A: MINDER HINDER' has been completed.
+[22:25:41 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:41 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:41 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:41 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:41 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:41 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:41 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:41 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:41 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:44 C SP526093 (Info)] Task 'B14-B: SNELLER KLAAR' has been completed.
+[22:25:44 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:44 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:44 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:44 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:44 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:44 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:44 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:44 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:44 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:44 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:44 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:44 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:48 C SP526093 (Info)] Task 'B14-C: GOEDKOPER' has been completed.
+[22:25:49 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:49 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:49 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:49 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:49 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:49 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:49 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:49 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:49 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:49 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:49 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:49 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:49 C SP526093 (Info)] Task 'B1-A: GOEDKOPER' has been completed.
+[22:25:49 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:49 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:49 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:49 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:49 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:49 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:49 C SP526093 (Verbose)] Changed client state to 'Finished'
+[22:25:49 C SP526093 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:25:49 C SP526093 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:59 C SP873789 (Info)] Task 'B13-C: BEPERKTE RISICO'S' has been completed.
+[22:25:59 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:59 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:59 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:59 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:59 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:25:59 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:01 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:01 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:01 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:01 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:01 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:01 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:01 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:01 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:01 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:01 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:01 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:04 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:04 C SP873789 (Info)] Task 'B13-B: MINDER HINDER' has been completed.
+[22:26:04 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:04 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:04 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:04 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:04 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:04 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:04 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:04 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:04 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:04 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:05 C SP873789 (Info)] Unfortunately we have just received word that your task 'B1-E: GOEDKOPER' has been delayed.
+[22:26:05 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:05 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:05 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:05 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:08 C SP873789 (Info)] Task 'B1-E: GOEDKOPER' has been completed.
+[22:26:08 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:08 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:08 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:08 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:08 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:08 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:08 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:08 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:08 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:10 C SP873789 (Info)] Task 'B13-A: SNELLER KLAAR' has been completed.
+[22:26:10 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:11 C SP873789 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:26:11 C SP873789 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:11 C SP873789 (Verbose)] Changed client state to 'Finished'
+[22:26:18 S Server240319 (Verbose)] Client 'SP526093' tries to reconnect
+[22:26:18 S Server240319 (Verbose)] Client 'SP526093' was not flagged for removal
+[22:26:18 S Server240319 (Event)] Reset event map for client 'SP526093'
+[22:26:18 S Server240319 (Verbose)] Client with ID 'SP526093' has reconnected to the server
+[22:26:18 C SP526093 (Event)] Started listening
+[22:26:18 C SP526093 (Info)] Successfully re-connected to main server
+[22:26:18 C SP526093 (Verbose)] Restoring client state
+[22:26:22 C SP526093 (Verbose)] Changed client state to 'Finished'
+[22:26:24 C SP633212 (Info)] Unfortunately we have just received word that your task 'B11-C: GOEDKOPER' has been delayed.
+[22:26:24 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:24 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:26 C SP633212 (Info)] Task 'B11-C: GOEDKOPER' has been completed.
+[22:26:26 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:26 C SP526093 (Info)] Unfortunately we have just received word that your task 'B14-A: MINDER HINDER' has been delayed.
+[22:26:27 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:27 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:27 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:27 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:27 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:27 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:27 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:27 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:27 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:30 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:30 C SP633212 (Info)] Task 'B1-D: BEPERKTE RISICO'S' has been completed.
+[22:26:30 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:30 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:30 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:30 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:30 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:30 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:30 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:30 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:33 C SP633212 (Info)] Task 'B11-B: SNELLER KLAAR' has been completed.
+[22:26:33 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:33 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:33 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:33 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:33 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:33 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:33 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:33 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:33 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:33 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:33 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:33 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:33 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:33 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:35 C SP633212 (Info)] Task 'B11-A: MINDER HINDER' has been completed.
+[22:26:35 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:35 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:35 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:35 C SP633212 (Event)] Received event 'Execute Results', sender ID: Game404691
+[22:26:35 C SP633212 (Event)] Received event 'Update Client State Event', sender ID: Game404691
+[22:26:35 C SP633212 (Verbose)] Changed client state to 'Finished'

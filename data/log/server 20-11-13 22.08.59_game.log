@@ -1,0 +1,28 @@
+Log started Wed Nov 20 22:08:59 CET 2013
+Types of log messages: Game Result Gameplay
+[22:11:41 G Game786460 (Game)] Created trace file 'C:\Users\Joris\Desktop\Almende\Maintenance Planning Game GWT\war\traces\Game786460_20-11-13 22.11.41.log'
+[22:12:02 G Game786460 (Game)] Gamemanager 'GM682414' joined the game!
+[22:12:03 C GM682414 (Game)] Joined the game
+[22:12:45 G Game786460 (Game)] Score board 'SB220927' is now monitoring the game!
+[22:12:45 C SB220927 (Game)] Joined the game
+[22:13:52 G Game786460 (Game)] Player 'SP461780' joined the game
+[22:13:52 G Game786460 (Game)] Service Provider client 'SP461780' joined the game!
+[22:13:52 C SP461780 (Game)] Joined the game
+[22:13:54 G Game786460 (Game)] Player 'SP382376' joined the game
+[22:13:54 G Game786460 (Game)] Service Provider client 'SP382376' joined the game!
+[22:13:54 C SP382376 (Game)] Joined the game
+[22:13:56 G Game786460 (Game)] Player 'SP255224' joined the game
+[22:13:56 G Game786460 (Game)] Service Provider client 'SP255224' joined the game!
+[22:13:56 C SP255224 (Game)] Joined the game
+[22:14:00 G Game786460 (Game)] Player 'SP401519' joined the game
+[22:14:00 G Game786460 (Game)] Service Provider client 'SP401519' joined the game!
+[22:14:00 C SP401519 (Game)] Joined the game
+[22:14:02 G Game786460 (Game)] Player 'SP305725' joined the game
+[22:14:02 G Game786460 (Game)] Service Provider client 'SP305725' joined the game!
+[22:14:02 C SP305725 (Game)] Joined the game
+[22:14:08 G Game786460 (Game)] Assigned portfolio 'Roze' to player 'SP461780'
+[22:14:11 G Game786460 (Game)] Assigned portfolio 'Blauw' to player 'SP382376'
+[22:14:14 G Game786460 (Game)] Assigned portfolio 'Wit' to player 'SP255224'
+[22:14:18 G Game786460 (Game)] Assigned portfolio 'Zwart' to player 'SP401519'
+[22:14:22 G Game786460 (Game)] Assigned portfolio 'Rood' to player 'SP305725'
+[22:14:24 G Game786460 (Game)] The game is ready to start!

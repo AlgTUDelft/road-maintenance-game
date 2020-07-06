@@ -1,0 +1,73 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui"
+  xmlns:c="urn:import:plangame.gwt.client.widgets.controls" 
+	>
+
+  <ui:with type="plangame.gwt.client.resource.ClientResource" field="res" />
+  <ui:with type="plangame.gwt.client.resource.locale.Lang" field="lang" />
+
+  <g:HTMLPanel height="100%" width="97%" styleName="{res.taskinfocss.infopanel}">
+    <g:Label ui:field="lblNoMethod">No method selected</g:Label>
+    <g:ScrollPanel height="100%" width="97%" >
+      <g:HTMLPanel ui:field="pnlCardContainer" height="460px" width="100%" >
+        <g:VerticalPanel ui:field="pnlCard" styleName="{res.taskinfocss.taskcard}">
+    		  <g:Label ui:field="lblTaskName" width="100%" styleName="{res.taskinfocss.taskname}"></g:Label>
+    
+          <g:Label ui:field="lblDesc" styleName="{res.taskinfocss.taskdesc}"></g:Label>
+    
+          <g:Grid styleName="{res.taskinfocss.infogrid}">
+            <g:row>
+              <g:cell styleName="{res.taskinfocss.keylabel}"><ui:text from="{lang.TaskInfo_Asset}" />:</g:cell>
+              <g:customCell styleName="{res.taskinfocss.valuelabel}"><g:Label ui:field="lblAsset"></g:Label></g:customCell>
+            </g:row>
+            <g:row>
+              <g:cell styleName="{res.taskinfocss.keylabel}"><ui:text from="{lang.TaskInfo_Revenue}" />:</g:cell>
+              <g:customCell styleName="{res.taskinfocss.valuelabel}"><g:Label ui:field="lblRevenue"></g:Label></g:customCell>
+            </g:row>
+            <g:row>
+              <g:cell styleName="{res.taskinfocss.keylabel}"><ui:text from="{lang.TaskInfo_IdleTTL}" />:</g:cell>
+              <g:customCell styleName="{res.taskinfocss.valuelabel}"><g:Label ui:field="lblIdleTTL"></g:Label></g:customCell>
+            </g:row>
+            <g:row>
+              <g:customCell styleName="{res.taskinfocss.keylabel}"><g:Label ui:field="lblQualityDemandDesc"><ui:text from="{lang.TaskInfo_QualityDemand}" />:</g:Label></g:customCell>
+              <g:customCell styleName="{res.taskinfocss.valuelabel}"><g:Label ui:field="lblQualityDemand"></g:Label></g:customCell>
+            </g:row>
+          </g:Grid>
+                
+          <g:Label ui:field="lblMethod" styleName="{res.taskinfocss.methodname}"></g:Label>
+          <g:Grid styleName="{res.taskinfocss.infogrid}">
+            <g:row>
+              <g:cell styleName="{res.taskinfocss.keylabel}"><ui:text from="{lang.TaskInfo_MethodDuration}" />:</g:cell>
+              <g:customCell styleName="{res.taskinfocss.valuelabel}"><g:Label ui:field="lblDuration"></g:Label></g:customCell>
+            </g:row>
+            <g:row>
+              <g:cell styleName="{res.taskinfocss.keylabel}"><ui:text from="{lang.TaskInfo_MethodCost}" />:</g:cell>
+              <g:customCell styleName="{res.taskinfocss.valuelabel}"><g:Label ui:field="lblCost"></g:Label></g:customCell>
+            </g:row>
+            <g:row>
+              <g:cell styleName="{res.taskinfocss.keylabel}"><ui:text from="{lang.TaskInfo_MethodDelayDuration}" />:</g:cell>
+              <g:customCell styleName="{res.taskinfocss.valuelabel}"><g:Label ui:field="lblDelayDuration"></g:Label></g:customCell>
+            </g:row>
+            <g:row>
+              <g:cell styleName="{res.taskinfocss.keylabel}"><ui:text from="{lang.TaskInfo_MethodDelayRisk}" />:</g:cell>
+              <g:customCell styleName="{res.taskinfocss.valuelabel}"><g:Label ui:field="lblDelayRisk"></g:Label></g:customCell>
+            </g:row>
+            <g:row>
+              <g:cell styleName="{res.taskinfocss.keylabel}"><ui:text from="{lang.TaskInfo_MethodDelayCost}" />:</g:cell>
+              <g:customCell styleName="{res.taskinfocss.valuelabel}"><g:Label ui:field="lblDelayCost"></g:Label></g:customCell>
+            </g:row>
+            <g:row>
+              <g:cell styleName="{res.taskinfocss.keylabel}"><ui:text from="{lang.TaskInfo_MethodTTL}" />:</g:cell>
+              <g:customCell styleName="{res.taskinfocss.valuelabel}"><g:Label ui:field="lblMethodTTL"></g:Label></g:customCell>
+            </g:row>
+            <g:row>
+              <g:customCell styleName="{res.taskinfocss.keylabel}"><g:Label ui:field="lblQualityImpactDesc"><ui:text from="{lang.TaskInfo_MethodQualityImpact}" />:</g:Label></g:customCell>
+              <g:customCell styleName="{res.taskinfocss.valuelabel}"><g:Label ui:field="lblQualityImpact"></g:Label></g:customCell>
+            </g:row>
+          </g:Grid>      
+        </g:VerticalPanel>
+      </g:HTMLPanel>
+    </g:ScrollPanel>
+  </g:HTMLPanel>
+</ui:UiBinder> 

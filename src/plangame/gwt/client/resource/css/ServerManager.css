@@ -1,0 +1,9 @@
+/** The main tab panel control */
+.tabpanel {
+	height: 600px;
+	width: 800px;
+}
+
+.server-buttons-panel {
+	left-margin: auto;
+}

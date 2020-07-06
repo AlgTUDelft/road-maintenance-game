@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Portfolios>
+  <Portfolio ID="P1" Desc="Porfolio 1" IdleCost="0">
+    <Task AssetID="A82E" ID="T1" Desc="Expand from 2 to 3 lanes" Payment="1340000">
+      <TaskMethod ID="M1" CostFunction="Constant:455000" DelayDuration="6w" DelayRisk="0.16667" Duration="20w"
+        Effect="0.3" Desc="Normal"/>
+      <TaskMethod ID="M2" CostFunction="Constant:480000" DelayDuration="6w" DelayRisk="0.33333" Duration="17w"
+        Effect="0.3" Desc="Fast"/>
+      <TaskMethod ID="M3" CostFunction="Constant:455000" DelayDuration="6w" DelayRisk="0.16667" Duration="20w"
+        Effect="0.3" Desc="Better throughput"/>
+    </Task>
+    <Task AssetID="A84B" ID="T2" Desc="Road surface maintenance" Payment="1000000">
+      <TaskMethod ID="M1" CostFunction="Constant:637500" DelayDuration="3w" DelayRisk="0.16667" Duration="12w"
+        Effect="0.1" Desc="Normal"/>
+      <TaskMethod ID="M2" CostFunction="Constant:710000" DelayDuration="3w" DelayRisk="0.16667" Duration="12w"
+        Effect="0.2" Desc="High quality"/>
+      <TaskMethod ID="M3" CostFunction="Constant:698000" DelayDuration="3w" DelayRisk="0.16667" Duration="10w"
+        Effect="0.1" Desc="Fast"/>
+    </Task>
+    <Task AssetID="A86C" ID="T3" Desc="Tunnel maintenance" Payment="270000">
+      <TaskMethod ID="M1" CostFunction="Constant:116800" DelayDuration="2w" DelayRisk="0.16667" Duration="8w"
+        Effect="0.2" Desc="Normal"/>
+      <TaskMethod ID="M2" CostFunction="Constant:107400" DelayDuration="2w" DelayRisk="0.66667" Duration="8w"
+        Effect="0.15" Desc="Low cost"/>
+      <TaskMethod ID="M3" CostFunction="Constant:122000" DelayDuration="2w" DelayRisk="0.33333" Duration="8w"
+        Effect="0.2" Desc="Better throughput"/>
+    </Task>
+    <Task AssetID="A93D" ID="T4" Desc="Construction TMS" Payment="200000">
+      <TaskMethod ID="M1" CostFunction="Constant:168000" DelayDuration="2w" DelayRisk="0.33333" Duration="5w"
+        Effect="0.3" Desc="Normal"/>
+      <TaskMethod ID="M2" CostFunction="Constant:172000" DelayDuration="2w" DelayRisk="0.16667" Duration="5w"
+        Effect="0.3" Desc="Low risk"/>
+      <TaskMethod ID="M3" CostFunction="Constant:140000" DelayDuration="2w" DelayRisk="0.33333" Duration="5w"
+        Effect="0.2" Desc="Low cost"/>
+    </Task>
+    <Task AssetID="A101A" ID="T5" Desc="Construction bike crossing" Payment="110000">
+      <TaskMethod ID="M1" CostFunction="Constant:72000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.2" Desc="Normal"/>
+      <TaskMethod ID="M2" CostFunction="Constant:75000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.3" Desc="High quality"/>
+      <TaskMethod ID="M3" CostFunction="Constant:72000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.2" Desc="Better throughput"/>
+    </Task>
+  </Portfolio>
+
+  <Portfolio ID="P2" Desc="Portfolio 2" IdleCost="0">
+    <Task AssetID="A80C" ID="T1" Desc="Expand from 2 to 3 lanes" Payment="1340000">
+      <TaskMethod ID="M1" CostFunction="Constant:455000" DelayDuration="6w" DelayRisk="0.16667" Duration="20w"
+        Effect="0.6" Desc="Normal"/>
+      <TaskMethod ID="M2" CostFunction="Constant:480000" DelayDuration="6w" DelayRisk="0.33333" Duration="17w"
+        Effect="0.6" Desc="Fast"/>
+      <TaskMethod ID="M3" CostFunction="Constant:455000" DelayDuration="6w" DelayRisk="0.16667" Duration="20w"
+        Effect="0.6" Desc="Better throughput"/>
+    </Task>
+    <Task AssetID="A83D" ID="T2" Desc="Road surface maintenance" Payment="1000000">
+      <TaskMethod ID="M1" CostFunction="Constant:637500" DelayDuration="3w" DelayRisk="0.16667" Duration="12w"
+        Effect="0.5" Desc="Normal"/>
+      <TaskMethod ID="M2" CostFunction="Constant:710000" DelayDuration="3w" DelayRisk="0.16667" Duration="12w"
+        Effect="0.8" Desc="High quality"/>
+      <TaskMethod ID="M3" CostFunction="Constant:698000" DelayDuration="3w" DelayRisk="0.16667" Duration="10w"
+        Effect="0.4" Desc="Fast"/>
+    </Task>
+    <Task AssetID="A86H" ID="T3" Desc="Tunnel maintenance" Payment="270000">
+      <TaskMethod ID="M1" CostFunction="Constant:116800" DelayDuration="2w" DelayRisk="0.16667" Duration="8w"
+        Effect="0.6" Desc="Normal"/>
+      <TaskMethod ID="M2" CostFunction="Constant:107400" DelayDuration="2w" DelayRisk="0.66667" Duration="8w"
+        Effect="0.6" Desc="Low cost"/>
+      <TaskMethod ID="M3" CostFunction="Constant:122000" DelayDuration="2w" DelayRisk="0.33333" Duration="8w"
+        Effect="0.6" Desc="Better throughput"/>
+    </Task>
+    <Task AssetID="A93G" ID="T4" Desc="Construction TMS" Payment="200000">
+      <TaskMethod ID="M1" CostFunction="Constant:168000" DelayDuration="2w" DelayRisk="0.33333" Duration="5w"
+        Effect="0.4" Desc="Normal"/>
+      <TaskMethod ID="M2" CostFunction="Constant:172000" DelayDuration="2w" DelayRisk="0.16667" Duration="5w"
+        Effect="0.4" Desc="Low risk"/>
+      <TaskMethod ID="M3" CostFunction="Constant:140000" DelayDuration="2w" DelayRisk="0.33333" Duration="5w"
+        Effect="0.2" Desc="Low cost"/>
+    </Task>
+    <Task AssetID="A97B" ID="T5" Desc="Construction bike crossing" Payment="110000">
+      <TaskMethod ID="M1" CostFunction="Constant:72000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.3" Desc="Normal"/>
+      <TaskMethod ID="M2" CostFunction="Constant:75000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.5" Desc="High quality"/>
+      <TaskMethod ID="M3" CostFunction="Constant:72000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.3" Desc="Better throughput"/>
+    </Task>
+  </Portfolio>
+  
+  <Portfolio ID="P3" Desc="Portfolio 3" IdleCost="0">
+    <Task AssetID="A80F" ID="T1" Desc="Expand from 2 to 3 lanes" Payment="1340000">
+      <TaskMethod ID="M1" CostFunction="Constant:455000" DelayDuration="6w" DelayRisk="0.16667" Duration="20w"
+        Effect="0.6" Desc="Normal"/>
+      <TaskMethod ID="M2" CostFunction="Constant:480000" DelayDuration="6w" DelayRisk="0.33333" Duration="17w"
+        Effect="0.6" Desc="Fast"/>
+      <TaskMethod ID="M3" CostFunction="Constant:455000" DelayDuration="6w" DelayRisk="0.16667" Duration="20w"
+        Effect="0.6" Desc="Better throughput"/>
+    </Task>
+    <Task AssetID="A82C" ID="T2" Desc="Road surface maintenance" Payment="1000000">
+      <TaskMethod ID="M1" CostFunction="Constant:637500" DelayDuration="3w" DelayRisk="0.16667" Duration="12w"
+        Effect="0.5" Desc="Normal"/>
+      <TaskMethod ID="M2" CostFunction="Constant:710000" DelayDuration="3w" DelayRisk="0.16667" Duration="12w"
+        Effect="0.8" Desc="High quality"/>
+      <TaskMethod ID="M3" CostFunction="Constant:698000" DelayDuration="3w" DelayRisk="0.16667" Duration="10w"
+        Effect="0.4" Desc="Fast"/>
+    </Task>
+    <Task AssetID="A83G" ID="T3" Desc="Tunnel maintenance" Payment="270000">
+      <TaskMethod ID="M1" CostFunction="Constant:116800" DelayDuration="2w" DelayRisk="0.16667" Duration="8w"
+        Effect="0.6" Desc="Normal"/>
+      <TaskMethod ID="M2" CostFunction="Constant:107400" DelayDuration="2w" DelayRisk="0.66667" Duration="8w"
+        Effect="0.6" Desc="Low cost"/>
+      <TaskMethod ID="M3" CostFunction="Constant:122000" DelayDuration="2w" DelayRisk="0.33333" Duration="8w"
+        Effect="0.6" Desc="Better throughput"/>
+    </Task>
+    <Task AssetID="A84A" ID="T4" Desc="Construction TMS" Payment="200000">
+      <TaskMethod ID="M1" CostFunction="Constant:168000" DelayDuration="2w" DelayRisk="0.33333" Duration="5w"
+        Effect="0.4" Desc="Normal"/>
+      <TaskMethod ID="M2" CostFunction="Constant:172000" DelayDuration="2w" DelayRisk="0.16667" Duration="5w"
+        Effect="0.4" Desc="Low risk"/>
+      <TaskMethod ID="M3" CostFunction="Constant:140000" DelayDuration="2w" DelayRisk="0.33333" Duration="5w"
+        Effect="0.2" Desc="Low cost"/>
+    </Task>
+    <Task AssetID="A92B" ID="T5" Desc="Construction bike crossing" Payment="110000">
+      <TaskMethod ID="M1" CostFunction="Constant:72000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.3" Desc="Normal"/>
+      <TaskMethod ID="M2" CostFunction="Constant:75000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.5" Desc="High quality"/>
+      <TaskMethod ID="M3" CostFunction="Constant:72000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.3" Desc="Better throughput"/>
+    </Task>
+  </Portfolio>
+  
+  <Portfolio ID="P4" Desc="Portfolio 4" IdleCost="0">
+		<Task AssetID="A80H" ID="T1" Desc="Expand from 2 to 3 lanes" Payment="1340000">
+      <TaskMethod ID="M1" CostFunction="Constant:450500" DelayDuration="6w" DelayRisk="0.16667" Duration="20w"
+        Effect="0.6" Desc="Normal"/>
+      <TaskMethod ID="M2" CostFunction="Constant:480000" DelayDuration="6w" DelayRisk="0.33333" Duration="17w"
+        Effect="0.6" Desc="Fast"/>
+      <TaskMethod ID="M3" CostFunction="Constant:455000" DelayDuration="6w" DelayRisk="0.16667" Duration="20w"
+        Effect="0.6" Desc="Better throughput"/>
+    </Task>
+    <Task AssetID="A82F" ID="T2" Desc="Road surface maintenance" Payment="1000000">
+      <TaskMethod ID="M1" CostFunction="Constant:637500" DelayDuration="3w" DelayRisk="0.16667" Duration="12w"
+        Effect="0.5" Desc="Normal"/>
+      <TaskMethod ID="M2" CostFunction="Constant:710000" DelayDuration="3w" DelayRisk="0.16667" Duration="12w"
+        Effect="0.8" Desc="High quality"/>
+      <TaskMethod ID="M3" CostFunction="Constant:698000" DelayDuration="3w" DelayRisk="0.16667" Duration="10w"
+        Effect="0.4" Desc="Fast"/>
+    </Task>
+    <Task AssetID="A83F" ID="T3" Desc="Tunnel maintenance" Payment="270000">
+      <TaskMethod ID="M1" CostFunction="Constant:116800" DelayDuration="2w" DelayRisk="0.16667" Duration="8w"
+        Effect="0.6" Desc="Normal"/>
+      <TaskMethod ID="M2" CostFunction="Constant:107400" DelayDuration="2w" DelayRisk="0.66667" Duration="8w"
+        Effect="0.6" Desc="Low cost"/>
+      <TaskMethod ID="M3" CostFunction="Constant:122000" DelayDuration="2w" DelayRisk="0.33333" Duration="8w"
+        Effect="0.6" Desc="Better throughput"/>
+    </Task>
+    <Task AssetID="A93C" ID="T4" Desc="Construction TMS" Payment="200000">
+      <TaskMethod ID="M1" CostFunction="Constant:168000" DelayDuration="2w" DelayRisk="0.33333" Duration="5w"
+        Effect="0.4" Desc="Normal"/>
+      <TaskMethod ID="M2" CostFunction="Constant:172000" DelayDuration="2w" DelayRisk="0.16667" Duration="5w"
+        Effect="0.4" Desc="Low risk"/>
+      <TaskMethod ID="M3" CostFunction="Constant:140000" DelayDuration="2w" DelayRisk="0.33333" Duration="5w"
+        Effect="0.2" Desc="Low cost"/>
+    </Task>
+    <Task AssetID="A101C" ID="T5" Desc="Construction bike crossing" Payment="110000">
+      <TaskMethod ID="M1" CostFunction="Constant:72000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.3" Desc="Normal"/>
+      <TaskMethod ID="M2" CostFunction="Constant:75000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.5" Desc="High quality"/>
+      <TaskMethod ID="M3" CostFunction="Constant:72000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.3" Desc="Better throughput"/>
+    </Task>
+  </Portfolio>
+
+  <Portfolio ID="P5" Desc="Portfolio 5" IdleCost="0">
+    <Task AssetID="A80D" ID="T1" Desc="Expand from 2 to 3 lanes" Payment="1340000">
+      <TaskMethod ID="M1" CostFunction="Constant:910000" DelayDuration="6w" DelayRisk="0.16667" Duration="20w"
+        Effect="0.4" Desc="Normal"/>
+      <TaskMethod ID="M2" CostFunction="Constant:984000" DelayDuration="6w" DelayRisk="0.33333" Duration="17w"
+        Effect="0.4" Desc="Fast"/>
+      <TaskMethod ID="M3" CostFunction="Constant:910000" DelayDuration="6w" DelayRisk="0.16667" Duration="20w"
+        Effect="0.4" Desc="Better throughput"/>
+    </Task>
+    <Task AssetID="A83B" ID="T2" Desc="Road surface maintenance" Payment="1000000">
+      <TaskMethod ID="M1" CostFunction="Constant:637500" DelayDuration="3w" DelayRisk="0.16667" Duration="12w"
+        Effect="0.5" Desc="Normal"/>
+      <TaskMethod ID="M2" CostFunction="Constant:710000" DelayDuration="3w" DelayRisk="0.16667" Duration="12w"
+        Effect="0.8" Desc="High quality"/>
+      <TaskMethod ID="M3" CostFunction="Constant:698000" DelayDuration="3w" DelayRisk="0.16667" Duration="10w"
+        Effect="0.4" Desc="Fast"/>
+    </Task>
+    <Task AssetID="A85B" ID="T3" Desc="Tunnel maintenance" Payment="270000">
+      <TaskMethod ID="M1" CostFunction="Constant:116800" DelayDuration="2w" DelayRisk="0.16667" Duration="8w"
+        Effect="0.6" Desc="Normal"/>
+      <TaskMethod ID="M2" CostFunction="Constant:107400" DelayDuration="2w" DelayRisk="0.66667" Duration="8w"
+        Effect="0.6" Desc="Low cost"/>
+      <TaskMethod ID="M3" CostFunction="Constant:122000" DelayDuration="2w" DelayRisk="0.33333" Duration="8w"
+        Effect="0.6" Desc="Better throughput"/>
+    </Task>
+    <Task AssetID="A99B" ID="T4" Desc="Construction TMS" Payment="200000">
+      <TaskMethod ID="M1" CostFunction="Constant:168000" DelayDuration="2w" DelayRisk="0.33333" Duration="5w"
+        Effect="0.4" Desc="Normal"/>
+      <TaskMethod ID="M2" CostFunction="Constant:172000" DelayDuration="2w" DelayRisk="0.16667" Duration="5w"
+        Effect="0.4" Desc="Low risk"/>
+      <TaskMethod ID="M3" CostFunction="Constant:140000" DelayDuration="2w" DelayRisk="0.33333" Duration="5w"
+        Effect="0.2" Desc="Low cost"/>
+    </Task>
+    <Task AssetID="A101B" ID="T5" Desc="Construction bike crossing" Payment="110000">
+      <TaskMethod ID="M1" CostFunction="Constant:72000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.3" Desc="Normal"/>
+      <TaskMethod ID="M2" CostFunction="Constant:75000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.5" Desc="High quality"/>
+      <TaskMethod ID="M3" CostFunction="Constant:72000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.3" Desc="Better throughput"/>
+    </Task>
+  </Portfolio>
+</Portfolios>

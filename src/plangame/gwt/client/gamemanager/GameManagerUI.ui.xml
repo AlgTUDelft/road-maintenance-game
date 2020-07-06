@@ -1,0 +1,49 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui"
+  xmlns:ctrl="urn:import:plangame.gwt.client.widgets.controller" 
+  xmlns:help="urn:import:plangame.gwt.client.widgets.help" 
+  xmlns:map="urn:import:plangame.gwt.client.widgets.map"
+  xmlns:plan="urn:import:plangame.gwt.client.widgets.plan"
+  xmlns:pmgr="urn:import:plangame.gwt.client.widgets.playermanager">
+
+  
+  <ui:with type="plangame.gwt.client.resource.GMResource" field="res" />  
+  <ui:with type="plangame.gwt.client.resource.locale.Lang" field="lang"></ui:with>
+  
+	<g:HTMLPanel width="100%" height="100%">
+    <table width="100%" height="100%">
+      <tr>
+        <td width="70%">
+          <table width="100%" height="100%">
+            <tr><td colspan="2">
+              <g:TabLayoutPanel ui:field="tabMain" addStyleNames="{res.gmcss.tabpanel}" barHeight="32" barUnit="PX">
+                <g:tab>
+                  <g:header><ui:text from="{lang.GM_TabClients}" /></g:header>
+                  <pmgr:PlayerManagerWidget ui:field="wdPlayers" height="320px" width="780px" />
+                </g:tab>
+                <g:tab>
+                  <g:header><ui:text from="{lang.GM_TabPlanning}" /></g:header>
+                  <plan:PlanWidget addStyleNames="{res.gmcss.plan}"  width="780px" height="320px" ui:field="wdPlan" />
+                </g:tab>
+              </g:TabLayoutPanel>            
+            </td></tr>
+            <tr>
+              <td><map:MapWidget ui:field="wdMap" styleName="{res.gmcss.map}" /></td>
+            </tr>
+          </table>
+        </td>
+        <td width="*">
+          <table width="150px" height="480px">
+            <tr><td>
+              <ctrl:ControlWidget ui:field="wdController" />
+            </td></tr>
+            <tr><td>
+              <help:HelpWidget ui:field="wdHelp" />
+            </td></tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </g:HTMLPanel>
+</ui:UiBinder> 

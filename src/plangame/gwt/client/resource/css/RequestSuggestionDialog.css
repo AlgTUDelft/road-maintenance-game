@@ -1,0 +1,16 @@
+/**
+ * CSS for the task/plan suggestion dialog
+ */
+ 
+/** The dialog title */
+.title {
+	font-weight: bold;
+	width: 300px;
+}
+
+/** The description */
+.desc {
+	heigth : 80px;
+	width: 300px;
+	margin-bottom: 10px;
+} 

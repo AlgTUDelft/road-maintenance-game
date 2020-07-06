@@ -1,0 +1,39 @@
+Log started Mon Feb 03 12:38:55 CET 2014
+Types of log messages: Game Result Gameplay
+[13:00:13 G Game316635 (Game)] Created trace file '/host/Users/Joris/Desktop/Almende/Maintenance Planning Game GWT/war/traces/Game316635_3-2-14 13.00.12.log'
+[13:01:08 G Game316635 (Game)] Gamemanager 'GM274708' joined the game!
+[13:01:08 C GM274708 (Game)] Joined the game
+[13:01:45 G Game316635 (Game)] Player 'SP620643' joined the game
+[13:01:45 G Game316635 (Game)] Service Provider client 'SP620643' joined the game!
+[13:01:45 C SP620643 (Game)] Joined the game
+[13:02:50 G Game316635 (Game)] Player 'SP147046' joined the game
+[13:02:50 G Game316635 (Game)] Service Provider client 'SP147046' joined the game!
+[13:02:50 C SP147046 (Game)] Joined the game
+[13:03:09 G Game316635 (Game)] Player 'SP145111' joined the game
+[13:03:09 G Game316635 (Game)] Service Provider client 'SP145111' joined the game!
+[13:03:09 C SP145111 (Game)] Joined the game
+[13:03:19 G Game316635 (Game)] Player 'SP95942' joined the game
+[13:03:19 G Game316635 (Game)] Service Provider client 'SP95942' joined the game!
+[13:03:19 C SP95942 (Game)] Joined the game
+[13:03:28 G Game316635 (Game)] Player 'SP596819' joined the game
+[13:03:28 G Game316635 (Game)] Service Provider client 'SP596819' joined the game!
+[13:03:28 C SP596819 (Game)] Joined the game
+[13:04:31 G Game316635 (Game)] Assigned portfolio 'Rood' to player 'SP620643'
+[13:04:35 G Game316635 (Game)] Assigned portfolio 'Blauw' to player 'SP147046'
+[13:04:39 G Game316635 (Game)] Assigned portfolio 'Roze' to player 'SP145111'
+[13:04:44 G Game316635 (Game)] Assigned portfolio 'Zwart' to player 'SP95942'
+[13:04:51 G Game316635 (Game)] Assigned portfolio 'Wit' to player 'SP596819'
+[13:04:54 G Game316635 (Game)] The game is ready to start!
+[13:07:43 G Game316635 (Game)] The game is ready to start!
+[13:07:43 G Game316635 (Game)] Forced game state to change to 'Starting' (from 'Idle')
+[13:08:25 G Game316635 (Game)] The game is ready to start!
+[13:08:25 G Game316635 (Game)] Forced game state to change to 'Starting' (from 'Idle')
+[13:08:55 G Game316635 (Game)] The game is ready to start!
+[13:08:55 G Game316635 (Game)] Forced game state to change to 'Starting' (from 'Idle')
+[13:11:29 G Game316635 (Game)] Starting a new plan round
+[13:16:50 G Game316635 (Game)] Player SP620643 has submitted his plan
+[13:17:46 G Game316635 (Game)] Player SP147046 has submitted his plan
+[13:18:37 G Game316635 (Game)] Player SP145111 has submitted his plan
+[13:19:29 G Game316635 (Game)] Player SP95942 has submitted his plan
+[13:20:42 G Game316635 (Game)] Player SP596819 has submitted his plan
+[13:20:42 G Game316635 (Game)] All players have submitted their plans, starting accept/decline round

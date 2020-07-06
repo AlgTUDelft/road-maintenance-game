@@ -1,0 +1,63 @@
+/**
+ * General css for all client views
+ */
+ 
+/* Main page style */
+html, body {
+	padding: 0px;
+	spacing: 0px;
+	margin: 0px;
+	height: 98%;
+	width: 100%;
+	/* overflow: hidden; */
+}
+
+
+/** Table border collapse */
+table, tr, th, td {
+	border-collapse: collapse;
+}
+
+/** All widgets */
+.widget {
+	height: 100%;
+	width: 100%;
+}
+ 
+/** Debug for panels */
+.debugpanel {
+	background: green;
+	border: 2px solid blue;
+}
+
+/** Buttons of the controller */
+@external controlbutton, controlbutton-disconnect;
+.controlbutton {
+	width: 90%;
+	height: 30px;
+	margin-top: 15px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.controlbutton-disconnect {
+	margin-top: 60px;
+}
+
+/** Hyperlabels */
+@external hyperlabel, hyperlabel-clickable, hyperlabel-disabled, hyperlabel-hoover;
+.hyperlabel {
+	cursor: auto;
+}
+
+.hyperlabel-clickable {	
+	color: blue;
+	cursor: pointer;
+}
+
+.hyperlabel-disabled {
+	color: grey;
+}
+.hyperlabel-hoover {
+	color: red;
+}

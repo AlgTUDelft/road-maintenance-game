@@ -1,0 +1,120 @@
+Log started Thu Sep 18 17:17:51 CEST 2014
+Types of log messages: Game Result Gameplay
+[17:18:27 G Game945917 (Game)] Created trace file 'C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\game\traces\Game945917_18-9-14 17.18.27.log'
+[17:18:32 G Game945917 (Game)] Gamemanager 'GM422795' joined the game!
+[17:18:32 C GM422795 (Game)] Joined the game
+[17:18:41 G Game945917 (Game)] Score board 'SB999298' is now monitoring the game!
+[17:18:41 C SB999298 (Game)] Joined the game
+[18:48:41 G Game945917 (Game)] Player 'SP949132' joined the game
+[18:48:41 G Game945917 (Game)] Service Provider client 'SP949132' joined the game!
+[18:48:41 C SP949132 (Game)] Joined the game
+[18:53:13 G Game945917 (Game)] Player 'SP778870' joined the game
+[18:53:13 G Game945917 (Game)] Service Provider client 'SP778870' joined the game!
+[18:53:13 C SP778870 (Game)] Joined the game
+[18:53:21 G Game945917 (Game)] Assigned portfolio 'Zwart' to player 'SP949132'
+[18:53:25 G Game945917 (Game)] Assigned portfolio 'Rood' to player 'SP778870'
+[18:53:37 G Game945917 (Game)] Player 'SP382289' joined the game
+[18:53:37 G Game945917 (Game)] Service Provider client 'SP382289' joined the game!
+[18:53:38 C SP382289 (Game)] Joined the game
+[18:53:43 G Game945917 (Game)] Player 'SP372239' joined the game
+[18:53:43 G Game945917 (Game)] Service Provider client 'SP372239' joined the game!
+[18:53:43 C SP372239 (Game)] Joined the game
+[18:53:50 G Game945917 (Game)] Player 'SP898599' joined the game
+[18:53:50 G Game945917 (Game)] Service Provider client 'SP898599' joined the game!
+[18:53:50 G Game945917 (Game)] Assigned portfolio 'Blauw' to player 'SP382289'
+[18:53:51 C SP898599 (Game)] Joined the game
+[18:53:57 G Game945917 (Game)] Assigned portfolio 'Roze' to player 'SP898599'
+[18:54:01 G Game945917 (Game)] Assigned portfolio 'Wit' to player 'SP372239'
+[18:54:02 G Game945917 (Game)] The game is ready to start!
+[18:56:20 G Game945917 (Game)] Starting a new plan round
+[19:14:57 G Game945917 (Game)] Player SP372239 has submitted his plan
+[19:15:00 G Game945917 (Game)] Player SP382289 has submitted his plan
+[19:15:04 G Game945917 (Game)] Player SP898599 has submitted his plan
+[19:20:08 G Game945917 (Game)] Player SP949132 has submitted his plan
+[19:20:55 G Game945917 (Game)] Player SP778870 has submitted his plan
+[19:20:55 G Game945917 (Game)] All players have submitted their plans, starting accept/decline round
+[19:27:02 G Game945917 (Game)] All players have responded to the joint plan, the plan has been declined
+[19:40:56 G Game945917 (Game)] Player SP949132 has submitted his plan
+[19:40:57 G Game945917 (Game)] Player SP778870 has submitted his plan
+[19:41:02 G Game945917 (Game)] Player SP372239 has submitted his plan
+[19:41:25 G Game945917 (Game)] Player SP898599 has submitted his plan
+[19:42:20 G Game945917 (Game)] Player SP382289 has submitted his plan
+[19:42:20 G Game945917 (Game)] All players have submitted their plans, starting accept/decline round
+[19:43:50 G Game945917 (Game)] All players have responded to the joint plan, the plan has been declined
+[19:55:11 G Game945917 (Game)] Player SP382289 has submitted his plan
+[19:56:35 G Game945917 (Game)] Player SP949132 has submitted his plan
+[19:56:59 G Game945917 (Game)] Player SP898599 has submitted his plan
+[19:57:58 G Game945917 (Game)] Player SP778870 has submitted his plan
+[19:58:11 G Game945917 (Game)] Player SP372239 has submitted his plan
+[19:58:11 G Game945917 (Game)] All players have submitted their plans, starting accept/decline round
+[19:59:24 G Game945917 (Game)] All players have responded to the joint plan, the plan has been declined
+[20:02:51 G Game945917 (Game)] Player SP778870 has submitted his plan
+[20:06:27 G Game945917 (Game)] Player SP898599 has submitted his plan
+[20:07:40 G Game945917 (Game)] Player SP949132 has submitted his plan
+[20:08:09 G Game945917 (Game)] Player SP382289 has submitted his plan
+[20:09:38 G Game945917 (Game)] Player SP372239 has submitted his plan
+[20:09:38 G Game945917 (Game)] All players have submitted their plans, starting accept/decline round
+[20:12:16 G Game945917 (Game)] All players have responded to the joint plan, the plan has been accepted
+[20:12:49 G Game945917 (Game)] Starting execution of the joint plan!
+[20:12:49 G Game945917 (Game)] Joint plan has been executed in week week 2
+[20:12:51 G Game945917 (Game)] Joint plan has been executed in week week 3
+[20:12:53 G Game945917 (Game)] Joint plan has been executed in week week 4
+[20:12:55 G Game945917 (Game)] Joint plan has been executed in week week 5
+[20:12:57 G Game945917 (Game)] Joint plan has been executed in week week 6
+[20:12:59 G Game945917 (Game)] Joint plan has been executed in week week 7
+[20:13:01 G Game945917 (Game)] Joint plan has been executed in week week 8
+[20:13:03 G Game945917 (Game)] Joint plan has been executed in week week 9
+[20:13:36 G Game945917 (Game)] Joint plan has been executed in week week 10
+[20:14:14 G Game945917 (Game)] Joint plan has been executed in week week 11
+[20:14:16 G Game945917 (Game)] Joint plan has been executed in week week 12
+[20:14:30 G Game945917 (Game)] Joint plan has been executed in week week 13
+[20:14:32 G Game945917 (Game)] Joint plan has been executed in week week 14
+[20:15:39 G Game945917 (Game)] Game manager interrupted execution (week 14)!
+[20:15:43 G Game945917 (Game)] Forced game state to change to 'Planning' (from 'Executing')
+[20:15:48 G Game945917 (Game)] Player SP372239 has submitted his plan
+[20:15:54 G Game945917 (Game)] Player SP382289 has submitted his plan
+[20:15:56 G Game945917 (Game)] Player SP898599 has submitted his plan
+[20:15:59 G Game945917 (Game)] Player SP778870 has submitted his plan
+[20:16:21 G Game945917 (Game)] Player SP949132 has submitted his plan
+[20:16:21 G Game945917 (Game)] All players have submitted their plans, starting accept/decline round
+[20:17:04 G Game945917 (Game)] All players have responded to the joint plan, the plan has been accepted
+[20:17:12 G Game945917 (Game)] Starting execution of the joint plan!
+[20:17:12 G Game945917 (Game)] Joint plan has been executed in week week 15
+[20:17:13 G Game945917 (Game)] Joint plan has been executed in week week 16
+[20:17:14 G Game945917 (Game)] Joint plan has been executed in week week 17
+[20:17:15 G Game945917 (Game)] Joint plan has been executed in week week 18
+[20:17:16 G Game945917 (Game)] Joint plan has been executed in week week 19
+[20:17:17 G Game945917 (Game)] Joint plan has been executed in week week 20
+[20:17:18 G Game945917 (Game)] Joint plan has been executed in week week 21
+[20:17:19 G Game945917 (Game)] Joint plan has been executed in week week 22
+[20:18:00 G Game945917 (Game)] Joint plan has been executed in week week 23
+[20:18:31 G Game945917 (Game)] Joint plan has been executed in week week 24
+[20:18:32 G Game945917 (Game)] Joint plan has been executed in week week 25
+[20:18:33 G Game945917 (Game)] Joint plan has been executed in week week 26
+[20:18:57 G Game945917 (Game)] Joint plan has been executed in week week 27
+[20:18:58 G Game945917 (Game)] Joint plan has been executed in week week 28
+[20:18:59 G Game945917 (Game)] Joint plan has been executed in week week 29
+[20:19:21 G Game945917 (Game)] Joint plan has been executed in week week 30
+[20:19:22 G Game945917 (Game)] Joint plan has been executed in week week 31
+[20:19:23 G Game945917 (Game)] Joint plan has been executed in week week 32
+[20:19:55 G Game945917 (Game)] Joint plan has been executed in week week 33
+[20:19:56 G Game945917 (Game)] Joint plan has been executed in week week 34
+[20:19:57 G Game945917 (Game)] Joint plan has been executed in week week 35
+[20:19:58 G Game945917 (Game)] Joint plan has been executed in week week 36
+[20:19:59 G Game945917 (Game)] Joint plan has been executed in week week 37
+[20:20:00 G Game945917 (Game)] Joint plan has been executed in week week 38
+[20:20:01 G Game945917 (Game)] Joint plan has been executed in week week 39
+[20:20:23 G Game945917 (Game)] Joint plan has been executed in week week 40
+[20:20:24 G Game945917 (Game)] Joint plan has been executed in week week 41
+[20:20:40 G Game945917 (Game)] Joint plan has been executed in week week 42
+[20:20:41 G Game945917 (Game)] Joint plan has been executed in week week 43
+[20:20:42 G Game945917 (Game)] Joint plan has been executed in week week 44
+[20:20:43 G Game945917 (Game)] Joint plan has been executed in week week 45
+[20:21:07 G Game945917 (Game)] Joint plan has been executed in week week 46
+[20:21:08 G Game945917 (Game)] Joint plan has been executed in week week 47
+[20:21:09 G Game945917 (Game)] Joint plan has been executed in week week 48
+[20:21:10 G Game945917 (Game)] Joint plan has been executed in week week 49
+[20:21:50 G Game945917 (Game)] Joint plan has been executed in week week 50
+[20:21:51 G Game945917 (Game)] Joint plan has been executed in week week 51
+[20:22:23 G Game945917 (Game)] Joint plan has been executed in week week 52
+[20:22:24 G Game945917 (Game)] The game has been finished!

@@ -1,0 +1,2249 @@
+Log started Fri Oct 18 15:18:31 CEST 2013
+Types of log messages: Event Info Warning Error Verbose System
+[15:18:31 S Server206791 (Info)] Server started
+[15:19:45 S Server206791 (Event)] Added client 'SM953103' to event map
+[15:19:45 S Server206791 (Info)] Client 'SM953103' connected to the server
+[15:19:45 S Server206791 (Verbose)] Requested game server list
+[15:19:45 C SM953103 (Info)] Successfully connected to main server
+[15:19:45 C SM953103 (Event)] Started listening
+[15:20:10 G GameAlmende (Verbose)] Server changed state to 'Initialising'
+[15:20:10 G GameAlmende (Info)] Game file 'webapps/game/games/lvo/game.xml' loaded
+[15:20:10 G GameAlmende (Info)] Gameserver 'GameAlmende' now active
+[15:20:10 S Server206791 (Info)] Game server with ID 'GameAlmende' has been created
+[15:20:14 C null (Verbose)] Changed state to 'Initialising'
+[15:20:14 S Server206791 (Event)] Added client 'GM247722' to event map
+[15:20:14 S Server206791 (Info)] Client 'GM247722' connected to the server
+[15:20:14 C GM247722 (Event)] Started listening
+[15:20:14 C GM247722 (Info)] Successfully connected to main server
+[15:20:14 S Server206791 (Verbose)] Requested game server list
+[15:20:15 C GM247722 (Verbose)] Changed state to 'Initialising'
+[15:20:16 C GM247722 (Info)] Successfully joined game server '[GameAlmende] Spel LVO dag (0 / 5)'
+[15:20:20 S Server206791 (Event)] Added client 'SB266185' to event map
+[15:20:20 S Server206791 (Info)] Client 'SB266185' connected to the server
+[15:20:20 C SB266185 (Event)] Started listening
+[15:20:20 C SB266185 (Info)] Successfully connected to main server
+[15:20:20 S Server206791 (Verbose)] Requested game server list
+[15:20:24 C SB266185 (Info)] Successfully joined game server '[GameAlmende] Spel LVO dag (0 / 5)'
+[15:23:27 S Server206791 (Verbose)] Client 'SP649181' tries to reconnect
+[15:23:27 S Server206791 (Verbose)] Session with client 'SP649181' is expired
+[15:23:27 S Server206791 (Event)] Added client 'SP442935' to event map
+[15:23:27 S Server206791 (Info)] Client 'SP442935' connected to the server
+[15:23:27 C SP442935 (Event)] Started listening
+[15:23:27 C SP442935 (Info)] Successfully connected to main server
+[15:23:27 S Server206791 (Verbose)] Requested game server list
+[15:23:53 S Server206791 (Event)] Added client 'SP155939' to event map
+[15:23:53 S Server206791 (Info)] Client 'SP155939' connected to the server
+[15:23:53 C SP155939 (Event)] Started listening
+[15:23:53 C SP155939 (Info)] Successfully connected to main server
+[15:23:53 S Server206791 (Verbose)] Requested game server list
+[15:23:59 S Server206791 (Event)] Added client 'SP643126' to event map
+[15:23:59 S Server206791 (Info)] Client 'SP643126' connected to the server
+[15:23:59 C SP643126 (Event)] Started listening
+[15:23:59 C SP643126 (Info)] Successfully connected to main server
+[15:23:59 S Server206791 (Verbose)] Requested game server list
+[15:24:27 S Server206791 (Event)] Added client 'SP868345' to event map
+[15:24:27 S Server206791 (Info)] Client 'SP868345' connected to the server
+[15:24:27 C SP868345 (Event)] Started listening
+[15:24:27 C SP868345 (Info)] Successfully connected to main server
+[15:24:27 S Server206791 (Verbose)] Requested game server list
+[15:26:29 S Server206791 (Event)] Added client 'SP80240' to event map
+[15:26:29 S Server206791 (Info)] Client 'SP80240' connected to the server
+[15:26:29 C SP80240 (Event)] Started listening
+[15:26:29 C SP80240 (Info)] Successfully connected to main server
+[15:26:29 S Server206791 (Verbose)] Requested game server list
+[15:26:50 S Server206791 (Event)] Added client 'SP890631' to event map
+[15:26:50 S Server206791 (Info)] Client 'SP890631' connected to the server
+[15:26:50 C SP890631 (Event)] Started listening
+[15:26:50 C SP890631 (Info)] Successfully connected to main server
+[15:26:50 S Server206791 (Verbose)] Requested game server list
+[15:27:14 S Server206791 (Event)] Added client 'SP849255' to event map
+[15:27:14 S Server206791 (Info)] Client 'SP849255' connected to the server
+[15:27:14 C SP849255 (Event)] Started listening
+[15:27:14 C SP849255 (Info)] Successfully connected to main server
+[15:27:15 S Server206791 (Verbose)] Requested game server list
+[15:42:25 S Server206791 (Event)] Event 'Join Game' fired for client SB266185
+[15:42:25 S Server206791 (Event)] Event 'Join Game' fired for client GM247722
+[15:42:25 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[15:42:25 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[15:42:25 G GameAlmende (Verbose)] Changed state of client 'SP849255' to AwaitingPortfolio
+[15:42:25 C GM247722 (Event)] Received event 'Join Game', sender ID: GameAlmende
+[15:42:25 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:42:26 C SB266185 (Event)] Received event 'Join Game', sender ID: GameAlmende
+[15:42:36 C SP849255 (Info)] Successfully joined game server '[GameAlmende] Spel LVO dag (1 / 5)'
+[15:42:36 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:42:36 C SP849255 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[15:43:56 S Server206791 (Event)] Event 'Assign Portfolio Event' fired for client SP849255
+[15:43:56 S Server206791 (Event)] Event 'Assign Portfolio Event' fired for client SB266185
+[15:43:56 S Server206791 (Event)] Event 'Assign Portfolio Event' fired for client GM247722
+[15:43:56 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[15:43:56 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[15:43:56 G GameAlmende (Verbose)] Changed state of client 'SP849255' to WaitingToStart
+[15:43:56 C SP849255 (Event)] Received event 'Assign Portfolio Event', sender ID: GameAlmende
+[15:43:56 C GM247722 (Event)] Received event 'Assign Portfolio Event', sender ID: GameAlmende
+[15:43:56 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:43:56 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:43:56 C SP849255 (Verbose)] Changed client state to 'WaitingToStart'
+[15:43:57 C SB266185 (Event)] Received event 'Assign Portfolio Event', sender ID: GameAlmende
+[15:44:07 S Server206791 (Event)] Event 'Join Game' fired for client SB266185
+[15:44:07 S Server206791 (Event)] Event 'Join Game' fired for client GM247722
+[15:44:07 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP80240
+[15:44:07 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[15:44:07 G GameAlmende (Verbose)] Changed state of client 'SP80240' to AwaitingPortfolio
+[15:44:07 C GM247722 (Event)] Received event 'Join Game', sender ID: GameAlmende
+[15:44:07 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:44:08 C SB266185 (Event)] Received event 'Join Game', sender ID: GameAlmende
+[15:44:11 C SP80240 (Info)] Successfully joined game server '[GameAlmende] Spel LVO dag (2 / 5)'
+[15:44:11 C SP80240 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:44:11 C SP80240 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[15:44:15 S Server206791 (Event)] Event 'Assign Portfolio Event' fired for client SP80240
+[15:44:15 S Server206791 (Event)] Event 'Assign Portfolio Event' fired for client SB266185
+[15:44:15 S Server206791 (Event)] Event 'Assign Portfolio Event' fired for client GM247722
+[15:44:15 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP80240
+[15:44:15 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[15:44:15 G GameAlmende (Verbose)] Changed state of client 'SP80240' to WaitingToStart
+[15:44:15 C SP80240 (Event)] Received event 'Assign Portfolio Event', sender ID: GameAlmende
+[15:44:15 C GM247722 (Event)] Received event 'Assign Portfolio Event', sender ID: GameAlmende
+[15:44:15 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:44:15 C SP80240 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:44:15 C SP80240 (Verbose)] Changed client state to 'WaitingToStart'
+[15:44:16 C SB266185 (Event)] Received event 'Assign Portfolio Event', sender ID: GameAlmende
+[15:44:39 S Server206791 (Event)] Event 'Join Game' fired for client SB266185
+[15:44:39 S Server206791 (Event)] Event 'Join Game' fired for client GM247722
+[15:44:39 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP643126
+[15:44:39 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[15:44:39 G GameAlmende (Verbose)] Changed state of client 'SP643126' to AwaitingPortfolio
+[15:44:39 C GM247722 (Event)] Received event 'Join Game', sender ID: GameAlmende
+[15:44:39 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:44:40 C SB266185 (Event)] Received event 'Join Game', sender ID: GameAlmende
+[15:44:41 S Server206791 (Event)] Event 'Join Game' fired for client SB266185
+[15:44:41 S Server206791 (Event)] Event 'Join Game' fired for client GM247722
+[15:44:41 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP890631
+[15:44:41 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[15:44:41 G GameAlmende (Verbose)] Changed state of client 'SP890631' to AwaitingPortfolio
+[15:44:41 C GM247722 (Event)] Received event 'Join Game', sender ID: GameAlmende
+[15:44:41 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:44:42 C SP890631 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:44:42 C SP890631 (Info)] Successfully joined game server '[GameAlmende] Spel LVO dag (4 / 5)'
+[15:44:42 C SP890631 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[15:44:42 C SB266185 (Event)] Received event 'Join Game', sender ID: GameAlmende
+[15:44:42 C SP643126 (Info)] Successfully joined game server '[GameAlmende] Spel LVO dag (3 / 5)'
+[15:44:43 C SP643126 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:44:43 C SP643126 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[15:44:49 S Server206791 (Event)] Event 'Assign Portfolio Event' fired for client SP643126
+[15:44:49 S Server206791 (Event)] Event 'Assign Portfolio Event' fired for client SB266185
+[15:44:49 S Server206791 (Event)] Event 'Assign Portfolio Event' fired for client GM247722
+[15:44:49 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP643126
+[15:44:49 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[15:44:49 G GameAlmende (Verbose)] Changed state of client 'SP643126' to WaitingToStart
+[15:44:49 C SP643126 (Event)] Received event 'Assign Portfolio Event', sender ID: GameAlmende
+[15:44:49 C GM247722 (Event)] Received event 'Assign Portfolio Event', sender ID: GameAlmende
+[15:44:49 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:44:49 C SP643126 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:44:49 C SP643126 (Verbose)] Changed client state to 'WaitingToStart'
+[15:44:50 C SB266185 (Event)] Received event 'Assign Portfolio Event', sender ID: GameAlmende
+[15:44:58 S Server206791 (Event)] Event 'Assign Portfolio Event' fired for client SP890631
+[15:44:58 S Server206791 (Event)] Event 'Assign Portfolio Event' fired for client SB266185
+[15:44:58 S Server206791 (Event)] Event 'Assign Portfolio Event' fired for client GM247722
+[15:44:58 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP890631
+[15:44:58 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[15:44:58 G GameAlmende (Verbose)] Changed state of client 'SP890631' to WaitingToStart
+[15:44:58 C GM247722 (Event)] Received event 'Assign Portfolio Event', sender ID: GameAlmende
+[15:44:58 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:44:59 C SB266185 (Event)] Received event 'Assign Portfolio Event', sender ID: GameAlmende
+[15:45:03 S Server206791 (Event)] Event 'Join Game' fired for client SB266185
+[15:45:03 S Server206791 (Event)] Event 'Join Game' fired for client GM247722
+[15:45:03 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP868345
+[15:45:03 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[15:45:03 G GameAlmende (Verbose)] Changed state of client 'SP868345' to AwaitingPortfolio
+[15:45:03 C SB266185 (Event)] Received event 'Join Game', sender ID: GameAlmende
+[15:45:03 C GM247722 (Event)] Received event 'Join Game', sender ID: GameAlmende
+[15:45:03 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:45:04 S Server206791 (Event)] Added client 'SP686801' to event map
+[15:45:04 S Server206791 (Info)] Client 'SP686801' connected to the server
+[15:45:05 C SP686801 (Event)] Started listening
+[15:45:05 C SP686801 (Info)] Successfully connected to main server
+[15:45:05 S Server206791 (Verbose)] Requested game server list
+[15:45:07 C SP868345 (Info)] Successfully joined game server '[GameAlmende] Spel LVO dag (5 / 5)'
+[15:45:07 C SP868345 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:45:07 C SP868345 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[15:45:11 S Server206791 (Event)] Event 'Assign Portfolio Event' fired for client SP868345
+[15:45:11 S Server206791 (Event)] Event 'Assign Portfolio Event' fired for client SB266185
+[15:45:11 S Server206791 (Event)] Event 'Assign Portfolio Event' fired for client GM247722
+[15:45:11 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP868345
+[15:45:11 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[15:45:11 G GameAlmende (Verbose)] Changed state of client 'SP868345' to WaitingToStart
+[15:45:11 C SP868345 (Event)] Received event 'Assign Portfolio Event', sender ID: GameAlmende
+[15:45:12 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:45:12 C GM247722 (Event)] Received event 'Assign Portfolio Event', sender ID: GameAlmende
+[15:45:12 C SP868345 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:45:12 C SP868345 (Verbose)] Changed client state to 'WaitingToStart'
+[15:45:12 S Server206791 (Verbose)] Requested game server list
+[15:45:12 C SB266185 (Event)] Received event 'Assign Portfolio Event', sender ID: GameAlmende
+[15:45:15 G GameAlmende (Verbose)] Server changed state to 'Starting'
+[15:45:15 S Server206791 (Event)] Event 'Update state event' fired for client GM247722
+[15:45:15 S Server206791 (Event)] Event 'Start game event' fired for client SP643126
+[15:45:15 S Server206791 (Event)] Event 'Start game event' fired for client SP80240
+[15:45:15 S Server206791 (Event)] Event 'Start game event' fired for client SP849255
+[15:45:15 S Server206791 (Event)] Event 'Start game event' fired for client SP868345
+[15:45:15 S Server206791 (Event)] Event 'Start game event' fired for client SP890631
+[15:45:15 S Server206791 (Event)] Event 'Start game event' fired for client GM247722
+[15:45:15 S Server206791 (Event)] Event 'Start game event' fired for client SB266185
+[15:45:15 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[15:45:15 G GameAlmende (Verbose)] Server changed state to 'Idle'
+[15:45:15 S Server206791 (Event)] Event 'Update state event' fired for client GM247722
+[15:45:15 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP643126
+[15:45:15 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP80240
+[15:45:15 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[15:45:15 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP868345
+[15:45:15 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP890631
+[15:45:15 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[15:45:15 G GameAlmende (Verbose)] Changed state of client 'SP643126' to Idle
+[15:45:15 G GameAlmende (Verbose)] Changed state of client 'SP80240' to Idle
+[15:45:15 G GameAlmende (Verbose)] Changed state of client 'SP849255' to Idle
+[15:45:15 G GameAlmende (Verbose)] Changed state of client 'SP868345' to Idle
+[15:45:15 G GameAlmende (Verbose)] Changed state of client 'SP890631' to Idle
+[15:45:15 C GM247722 (Event)] Received event 'Update state event', sender ID: GameAlmende
+[15:45:15 C GM247722 (Verbose)] Changed state to 'Starting'
+[15:45:15 C GM247722 (Event)] Received event 'Update state event', sender ID: GameAlmende
+[15:45:15 C GM247722 (Event)] Received event 'Start game event', sender ID: GameAlmende
+[15:45:15 C GM247722 (Verbose)] Changed state to 'Idle'
+[15:45:15 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:45:16 C SP643126 (Event)] Received event 'Start game event', sender ID: GameAlmende
+[15:45:16 C SP80240 (Event)] Received event 'Start game event', sender ID: GameAlmende
+[15:45:16 C SP849255 (Event)] Received event 'Start game event', sender ID: GameAlmende
+[15:45:16 C SP868345 (Event)] Received event 'Start game event', sender ID: GameAlmende
+[15:45:16 C SB266185 (Event)] Received event 'Start game event', sender ID: GameAlmende
+[15:45:21 C SP80240 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:45:21 C SP80240 (Verbose)] Changed client state to 'Idle'
+[15:45:21 C SP868345 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:45:21 C SP868345 (Verbose)] Changed client state to 'Idle'
+[15:45:21 C SP643126 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:45:21 C SP643126 (Verbose)] Changed client state to 'Idle'
+[15:45:23 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:45:23 C SP849255 (Verbose)] Changed client state to 'Idle'
+[15:45:24 G GameAlmende (Info)] Cannot join the game because it is already running
+[15:45:27 C SP686801 (Info)] Failed to join the game: Cannot join the game because it is already running.
+[15:45:27 S Server206791 (Verbose)] Requested game server list
+[15:45:48 S Server206791 (Verbose)] Requested game server list
+[15:45:50 S Server206791 (Verbose)] Requested game server list
+[15:46:27 S Server206791 (Event)] Added client 'SP792082' to event map
+[15:46:27 S Server206791 (Info)] Client 'SP792082' connected to the server
+[15:46:28 C SP792082 (Event)] Started listening
+[15:46:28 C SP792082 (Info)] Successfully connected to main server
+[15:46:28 S Server206791 (Verbose)] Requested game server list
+[15:46:39 S Server206791 (Verbose)] Client '' tries to reconnect
+[15:46:39 S Server206791 (Verbose)] Session with client '' is expired
+[15:46:39 S Server206791 (Event)] Added client 'SP788513' to event map
+[15:46:39 S Server206791 (Info)] Client 'SP788513' connected to the server
+[15:46:39 C SP788513 (Event)] Started listening
+[15:46:39 C SP788513 (Info)] Successfully connected to main server
+[15:46:39 S Server206791 (Verbose)] Requested game server list
+[15:47:01 S Server206791 (Verbose)] Client 'SP890631' tries to reconnect
+[15:47:01 S Server206791 (Verbose)] Client 'SP890631' was not flagged for removal
+[15:47:01 S Server206791 (Event)] Reset event map for client 'SP890631'
+[15:47:01 S Server206791 (Verbose)] Client with ID 'SP890631' has reconnected to the server
+[15:47:01 C SP890631 (Event)] Started listening
+[15:47:01 C SP890631 (Info)] Successfully re-connected to main server
+[15:47:01 C SP890631 (Verbose)] Restoring client state
+[15:47:05 C SP890631 (Verbose)] Changed client state to 'Idle'
+[15:47:26 S Server206791 (Verbose)] Client 'SP643126' tries to reconnect
+[15:47:26 S Server206791 (Verbose)] Client 'SP643126' was not flagged for removal
+[15:47:26 S Server206791 (Event)] Reset event map for client 'SP643126'
+[15:47:26 S Server206791 (Verbose)] Client with ID 'SP643126' has reconnected to the server
+[15:47:26 C SP643126 (Info)] Successfully re-connected to main server
+[15:47:26 C SP643126 (Event)] Started listening
+[15:47:26 C SP643126 (Verbose)] Restoring client state
+[15:47:30 C SP643126 (Verbose)] Changed client state to 'Idle'
+[15:52:16 G GameAlmende (Verbose)] Server changed state to 'Planning'
+[15:52:16 S Server206791 (Event)] Event 'Update state event' fired for client GM247722
+[15:52:16 S Server206791 (Event)] Event 'Plan' fired for client SP643126
+[15:52:16 S Server206791 (Event)] Event 'Plan' fired for client SP80240
+[15:52:16 S Server206791 (Event)] Event 'Plan' fired for client SP849255
+[15:52:16 S Server206791 (Event)] Event 'Plan' fired for client SP868345
+[15:52:16 S Server206791 (Event)] Event 'Plan' fired for client SP890631
+[15:52:16 S Server206791 (Event)] Event broadcast notified 5 client(s), sender: GameAlmende
+[15:52:16 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP643126
+[15:52:16 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP80240
+[15:52:16 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[15:52:16 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP868345
+[15:52:16 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP890631
+[15:52:16 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[15:52:16 G GameAlmende (Verbose)] Changed state of client 'SP643126' to InPlanning
+[15:52:16 G GameAlmende (Verbose)] Changed state of client 'SP80240' to InPlanning
+[15:52:16 G GameAlmende (Verbose)] Changed state of client 'SP849255' to InPlanning
+[15:52:16 G GameAlmende (Verbose)] Changed state of client 'SP868345' to InPlanning
+[15:52:16 G GameAlmende (Verbose)] Changed state of client 'SP890631' to InPlanning
+[15:52:16 C SP868345 (Event)] Received event 'Plan', sender ID: GameAlmende
+[15:52:16 C SP80240 (Event)] Received event 'Plan', sender ID: GameAlmende
+[15:52:16 C SP890631 (Event)] Received event 'Plan', sender ID: GameAlmende
+[15:52:16 C SP643126 (Event)] Received event 'Plan', sender ID: GameAlmende
+[15:52:16 C SP849255 (Event)] Received event 'Plan', sender ID: GameAlmende
+[15:52:16 C GM247722 (Event)] Received event 'Update state event', sender ID: GameAlmende
+[15:52:16 C GM247722 (Verbose)] Changed state to 'Planning'
+[15:52:16 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:52:18 C SP868345 (Info)] A new plan round is starting.
+[15:52:18 C SP868345 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:52:18 C SP868345 (Verbose)] Changed client state to 'InPlanning'
+[15:52:19 C SP849255 (Info)] A new plan round is starting.
+[15:52:19 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:52:19 C SP849255 (Verbose)] Changed client state to 'InPlanning'
+[15:52:21 C SP80240 (Info)] A new plan round is starting.
+[15:52:21 C SP80240 (Verbose)] Changed client state to 'InPlanning'
+[15:52:21 C SP80240 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:52:22 C SP890631 (Info)] A new plan round is starting.
+[15:52:22 C SP890631 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:52:22 C SP890631 (Verbose)] Changed client state to 'InPlanning'
+[15:52:23 C SP643126 (Info)] A new plan round is starting.
+[15:52:23 C SP643126 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[15:52:23 C SP643126 (Verbose)] Changed client state to 'InPlanning'
+[15:53:16 S Server206791 (Verbose)] Client 'SP868345' tries to reconnect
+[15:53:16 S Server206791 (Verbose)] Client 'SP868345' was not flagged for removal
+[15:53:16 S Server206791 (Event)] Reset event map for client 'SP868345'
+[15:53:16 S Server206791 (Verbose)] Client with ID 'SP868345' has reconnected to the server
+[15:53:17 C SP868345 (Event)] Started listening
+[15:53:17 C SP868345 (Info)] Successfully re-connected to main server
+[15:53:17 C SP868345 (Verbose)] Restoring client state
+[15:53:20 C SP868345 (Verbose)] Changed client state to 'InPlanning'
+[15:53:50 S Server206791 (Verbose)] Client 'SB266185' tries to reconnect
+[15:53:50 S Server206791 (Verbose)] Client 'SB266185' was not flagged for removal
+[15:53:50 S Server206791 (Event)] Reset event map for client 'SB266185'
+[15:53:50 S Server206791 (Verbose)] Client with ID 'SB266185' has reconnected to the server
+[15:53:50 C SB266185 (Event)] Started listening
+[15:53:50 C SB266185 (Info)] Successfully re-connected to main server
+[15:53:50 C SB266185 (Verbose)] Restoring client state
+[15:54:09 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[15:54:09 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[15:55:39 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[15:55:39 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[15:56:31 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[15:56:32 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[15:56:41 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[15:56:41 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[15:57:05 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[15:57:05 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[15:57:29 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[15:57:29 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[15:57:38 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[15:57:38 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[15:58:47 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[15:58:47 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[15:58:54 S Server206791 (Verbose)] Client 'SP868345' tries to reconnect
+[15:58:54 S Server206791 (Verbose)] Client 'SP868345' was not flagged for removal
+[15:58:54 S Server206791 (Event)] Reset event map for client 'SP868345'
+[15:58:54 S Server206791 (Verbose)] Client with ID 'SP868345' has reconnected to the server
+[15:58:54 C SP868345 (Event)] Started listening
+[15:58:54 C SP868345 (Info)] Successfully re-connected to main server
+[15:58:54 C SP868345 (Verbose)] Restoring client state
+[15:58:58 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[15:58:58 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[15:58:58 C SP868345 (Verbose)] Changed client state to 'InPlanning'
+[15:59:13 C SP849255 (Info)] The current plan cannot be submitted, it contains the following errors:
+
+- Methods 'B14-A: MINDER HINDER' and 'B14-B: MINDER HINDER' overlap in their regular durations.
+- Methods 'B14-A: MINDER HINDER' and 'B14-C: MINDER HINDER' overlap in their regular durations.
+- Methods 'B14-B: MINDER HINDER' and 'B14-C: MINDER HINDER' overlap in their regular durations.
+[15:59:44 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[15:59:44 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[15:59:58 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[15:59:59 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:00:17 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:00:17 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:00:43 C SP849255 (Info)] The current plan cannot be submitted, it contains the following errors:
+
+- Methods 'B14-A: MINDER HINDER' and 'B14-B: MINDER HINDER' overlap in their regular durations.
+[16:00:51 S Server206791 (Verbose)] Client 'SP849255' tries to reconnect
+[16:00:51 S Server206791 (Verbose)] Client 'SP849255' was not flagged for removal
+[16:00:51 S Server206791 (Event)] Reset event map for client 'SP849255'
+[16:00:51 S Server206791 (Verbose)] Client with ID 'SP849255' has reconnected to the server
+[16:00:52 C SP849255 (Event)] Started listening
+[16:00:52 C SP849255 (Info)] Successfully re-connected to main server
+[16:00:52 C SP849255 (Verbose)] Restoring client state
+[16:00:58 C SP849255 (Verbose)] Changed client state to 'InPlanning'
+[16:01:03 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:01:03 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:01:08 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:01:08 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:01:35 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:01:36 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:02:29 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:02:29 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:02:31 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:02:32 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:02:36 C SP849255 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[16:02:36 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[16:02:36 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:02:36 G GameAlmende (Verbose)] Changed state of client 'SP849255' to Submitted
+[16:02:36 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:02:36 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:02:36 C SP849255 (Verbose)] Changed client state to 'Submitted'
+[16:02:44 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:02:44 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:03:14 C SP80240 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[16:03:14 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP80240
+[16:03:14 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:03:14 G GameAlmende (Verbose)] Changed state of client 'SP80240' to Submitted
+[16:03:14 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:03:14 C SP80240 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:03:14 C SP80240 (Verbose)] Changed client state to 'Submitted'
+[16:03:15 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:03:15 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:03:24 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:03:24 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:03:34 C SP890631 (Info)] The current plan cannot be submitted, it contains the following errors:
+
+- Methods 'B1-B: SNELLER KLAAR' and 'B15-A: SNELLER KLAAR' overlap in their regular durations.
+- Methods 'B1-B: SNELLER KLAAR' and 'B15-B: GOEDKOPER' overlap in their regular durations.
+- Methods 'B1-B: SNELLER KLAAR' and 'B15-C: SNELLER KLAAR' overlap in their regular durations.
+- Methods 'B15-A: SNELLER KLAAR' and 'B15-B: GOEDKOPER' overlap in their regular durations.
+- Methods 'B15-A: SNELLER KLAAR' and 'B15-C: SNELLER KLAAR' overlap in their regular durations.
+- Methods 'B15-B: GOEDKOPER' and 'B15-C: SNELLER KLAAR' overlap in their regular durations.
+[16:03:35 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:03:35 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:04:26 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:04:26 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:04:43 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:04:43 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:04:58 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:04:58 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:05:03 C SP868345 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[16:05:03 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP868345
+[16:05:03 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:05:03 G GameAlmende (Verbose)] Changed state of client 'SP868345' to Submitted
+[16:05:04 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:05:04 C SP868345 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:05:04 C SP868345 (Verbose)] Changed client state to 'Submitted'
+[16:05:17 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:05:18 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:05:46 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:05:46 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:06:05 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:06:05 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:06:14 S Server206791 (Verbose)] Client 'SP890631' tries to reconnect
+[16:06:14 S Server206791 (Verbose)] Client 'SP890631' was not flagged for removal
+[16:06:14 S Server206791 (Event)] Reset event map for client 'SP890631'
+[16:06:14 S Server206791 (Verbose)] Client with ID 'SP890631' has reconnected to the server
+[16:06:14 C SP890631 (Event)] Started listening
+[16:06:14 C SP890631 (Info)] Successfully re-connected to main server
+[16:06:14 C SP890631 (Verbose)] Restoring client state
+[16:06:18 C SP890631 (Verbose)] Changed client state to 'InPlanning'
+[16:06:35 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:06:36 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:07:04 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:07:04 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:07:48 C SP890631 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[16:07:48 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP890631
+[16:07:48 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:07:48 G GameAlmende (Verbose)] Changed state of client 'SP890631' to Submitted
+[16:07:48 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:07:49 C SP890631 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:07:49 C SP890631 (Verbose)] Changed client state to 'Submitted'
+[16:08:30 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:08:30 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:08:39 C SP643126 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[16:08:40 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP643126
+[16:08:40 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:08:40 G GameAlmende (Verbose)] Changed state of client 'SP643126' to Submitted
+[16:08:40 G GameAlmende (Verbose)] Server changed state to 'Accept'
+[16:08:40 S Server206791 (Event)] Event 'Update state event' fired for client GM247722
+[16:08:40 S Server206791 (Event)] Event 'Accept join plan event' fired for client SP643126
+[16:08:40 S Server206791 (Event)] Event 'Accept join plan event' fired for client SP80240
+[16:08:40 S Server206791 (Event)] Event 'Accept join plan event' fired for client SP849255
+[16:08:40 S Server206791 (Event)] Event 'Accept join plan event' fired for client SP868345
+[16:08:40 S Server206791 (Event)] Event 'Accept join plan event' fired for client SP890631
+[16:08:40 S Server206791 (Event)] Event 'Accept join plan event' fired for client SB266185
+[16:08:40 S Server206791 (Event)] Event broadcast notified 6 client(s), sender: GameAlmende
+[16:08:40 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP643126
+[16:08:40 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP80240
+[16:08:40 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[16:08:40 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP868345
+[16:08:40 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP890631
+[16:08:40 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:08:40 G GameAlmende (Verbose)] Changed state of client 'SP643126' to Accepting
+[16:08:40 G GameAlmende (Verbose)] Changed state of client 'SP80240' to Accepting
+[16:08:40 G GameAlmende (Verbose)] Changed state of client 'SP849255' to Accepting
+[16:08:40 G GameAlmende (Verbose)] Changed state of client 'SP868345' to Accepting
+[16:08:40 G GameAlmende (Verbose)] Changed state of client 'SP890631' to Accepting
+[16:08:40 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:08:40 C GM247722 (Event)] Received event 'Update state event', sender ID: GameAlmende
+[16:08:40 C GM247722 (Verbose)] Changed state to 'Accept'
+[16:08:40 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:08:40 C SP643126 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:08:40 C SP643126 (Verbose)] Changed client state to 'Submitted'
+[16:08:40 C SP643126 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[16:08:40 C SP890631 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[16:08:40 C SP868345 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[16:08:40 C SP849255 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[16:08:43 C SB266185 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[16:08:44 C SP80240 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[16:08:55 C SP868345 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[16:08:55 C SP868345 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:08:55 C SP868345 (Verbose)] Changed client state to 'Accepting'
+[16:08:57 C SP643126 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[16:08:57 C SP643126 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:08:57 C SP643126 (Verbose)] Changed client state to 'Accepting'
+[16:09:01 C SP890631 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[16:09:01 C SP890631 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:09:01 C SP890631 (Verbose)] Changed client state to 'Accepting'
+[16:09:03 S Server206791 (Verbose)] Client 'SP80240' tries to reconnect
+[16:09:03 S Server206791 (Verbose)] Client 'SP80240' was not flagged for removal
+[16:09:03 S Server206791 (Event)] Reset event map for client 'SP80240'
+[16:09:03 S Server206791 (Verbose)] Client with ID 'SP80240' has reconnected to the server
+[16:09:03 C SP80240 (Event)] Started listening
+[16:09:03 C SP80240 (Info)] Successfully re-connected to main server
+[16:09:03 C SP80240 (Verbose)] Restoring client state
+[16:09:11 C SP80240 (Verbose)] Changed client state to 'Accepting'
+[16:10:29 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP643126
+[16:10:29 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:10:29 G GameAlmende (Verbose)] Changed state of client 'SP643126' to Declined
+[16:10:29 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client SP643126
+[16:10:29 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client SP80240
+[16:10:29 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client SP849255
+[16:10:29 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client SP868345
+[16:10:29 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client SP890631
+[16:10:29 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client GM247722
+[16:10:29 S Server206791 (Event)] Event broadcast notified 6 client(s), sender: GameAlmende
+[16:10:29 G GameAlmende (Verbose)] Server changed state to 'Planning'
+[16:10:29 S Server206791 (Event)] Event 'Update state event' fired for client GM247722
+[16:10:29 S Server206791 (Event)] Event 'Plan' fired for client SP643126
+[16:10:29 S Server206791 (Event)] Event 'Plan' fired for client SP80240
+[16:10:29 S Server206791 (Event)] Event 'Plan' fired for client SP849255
+[16:10:29 S Server206791 (Event)] Event 'Plan' fired for client SP868345
+[16:10:29 S Server206791 (Event)] Event 'Plan' fired for client SP890631
+[16:10:29 S Server206791 (Event)] Event broadcast notified 5 client(s), sender: GameAlmende
+[16:10:29 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP643126
+[16:10:29 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP80240
+[16:10:29 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[16:10:29 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP868345
+[16:10:29 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP890631
+[16:10:29 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:10:29 G GameAlmende (Verbose)] Changed state of client 'SP643126' to InPlanning
+[16:10:29 G GameAlmende (Verbose)] Changed state of client 'SP80240' to InPlanning
+[16:10:29 G GameAlmende (Verbose)] Changed state of client 'SP849255' to InPlanning
+[16:10:29 G GameAlmende (Verbose)] Changed state of client 'SP868345' to InPlanning
+[16:10:29 G GameAlmende (Verbose)] Changed state of client 'SP890631' to InPlanning
+[16:10:29 C SP643126 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:10:29 C SP643126 (Verbose)] Changed client state to 'Declined'
+[16:10:29 C SP643126 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[16:10:29 C SP890631 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[16:10:30 C SP80240 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[16:10:30 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:10:30 C GM247722 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[16:10:30 C GM247722 (Verbose)] Changed state to 'Planning'
+[16:10:30 C GM247722 (Event)] Received event 'Update state event', sender ID: GameAlmende
+[16:10:30 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:10:30 C SP868345 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[16:10:32 C SP890631 (Info)] The joint plan was not accepted, please submit a new plan.
+[16:10:32 C SP890631 (Event)] Received event 'Plan', sender ID: GameAlmende
+[16:10:33 C SP643126 (Info)] The joint plan was not accepted, please submit a new plan.
+[16:10:33 C SP643126 (Event)] Received event 'Plan', sender ID: GameAlmende
+[16:10:33 C SP80240 (Info)] The joint plan was not accepted, please submit a new plan.
+[16:10:33 C SP80240 (Event)] Received event 'Plan', sender ID: GameAlmende
+[16:10:33 C SP868345 (Info)] The joint plan was not accepted, please submit a new plan.
+[16:10:33 C SP868345 (Event)] Received event 'Plan', sender ID: GameAlmende
+[16:10:36 C SP890631 (Info)] A new plan round is starting.
+[16:10:36 C SP890631 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:10:36 C SP890631 (Verbose)] Changed client state to 'InPlanning'
+[16:10:37 C SP80240 (Info)] A new plan round is starting.
+[16:10:37 C SP80240 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:10:37 C SP80240 (Verbose)] Changed client state to 'InPlanning'
+[16:10:37 C SP643126 (Info)] A new plan round is starting.
+[16:10:37 C SP643126 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:10:37 C SP643126 (Verbose)] Changed client state to 'InPlanning'
+[16:10:38 C SP868345 (Info)] A new plan round is starting.
+[16:10:38 C SP868345 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:10:38 C SP868345 (Verbose)] Changed client state to 'InPlanning'
+[16:11:27 C SP849255 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[16:11:27 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:11:27 C SP849255 (Verbose)] Changed client state to 'Accepting'
+[16:11:28 C SP849255 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[16:11:32 C SP849255 (Info)] The joint plan was not accepted, please submit a new plan.
+[16:11:32 C SP849255 (Event)] Received event 'Plan', sender ID: GameAlmende
+[16:11:35 C SP849255 (Info)] A new plan round is starting.
+[16:11:35 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:11:35 C SP849255 (Verbose)] Changed client state to 'InPlanning'
+[16:13:21 C SP868345 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[16:13:22 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP868345
+[16:13:22 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:13:22 G GameAlmende (Verbose)] Changed state of client 'SP868345' to Submitted
+[16:13:22 C SP868345 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:13:22 C SP868345 (Verbose)] Changed client state to 'Submitted'
+[16:13:22 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:13:40 C SP80240 (Info)] There is no method selected
+[16:13:43 C SP80240 (Info)] There is no method selected
+[16:14:54 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:14:54 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:15:09 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:15:09 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:15:41 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:15:41 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:15:47 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:15:48 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:17:12 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:17:12 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:17:56 C SP80240 (Info)] There is no method selected
+[16:19:18 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:19:18 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:20:19 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:20:19 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:22:37 C SP80240 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[16:22:38 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP80240
+[16:22:38 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:22:38 G GameAlmende (Verbose)] Changed state of client 'SP80240' to Submitted
+[16:22:38 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:22:38 C SP80240 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:22:38 C SP80240 (Verbose)] Changed client state to 'Submitted'
+[16:22:57 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:22:57 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:23:41 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:23:41 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:24:36 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:24:36 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:24:38 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:24:38 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:24:50 C SP643126 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[16:24:51 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP643126
+[16:24:51 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:24:51 G GameAlmende (Verbose)] Changed state of client 'SP643126' to Submitted
+[16:24:51 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:24:51 C SP643126 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:24:51 C SP643126 (Verbose)] Changed client state to 'Submitted'
+[16:25:24 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:25:24 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:25:47 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:25:47 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:25:55 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:25:55 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:25:58 C SP890631 (Info)] The current plan cannot be submitted, it contains the following errors:
+
+- Methods 'B15-B: SNELLER KLAAR' and 'B15-C: SNELLER KLAAR' overlap in their regular durations.
+[16:26:43 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:26:44 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:26:47 C SP890631 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[16:26:47 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP890631
+[16:26:47 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:26:47 G GameAlmende (Verbose)] Changed state of client 'SP890631' to Submitted
+[16:26:47 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:26:48 C SP890631 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:26:48 C SP890631 (Verbose)] Changed client state to 'Submitted'
+[16:27:43 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:27:43 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:28:22 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:28:22 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:28:46 C SP849255 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[16:28:47 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[16:28:47 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:28:47 G GameAlmende (Verbose)] Changed state of client 'SP849255' to Submitted
+[16:28:47 G GameAlmende (Verbose)] Server changed state to 'Accept'
+[16:28:47 S Server206791 (Event)] Event 'Update state event' fired for client GM247722
+[16:28:47 S Server206791 (Event)] Event 'Accept join plan event' fired for client SP643126
+[16:28:47 S Server206791 (Event)] Event 'Accept join plan event' fired for client SP80240
+[16:28:47 S Server206791 (Event)] Event 'Accept join plan event' fired for client SP849255
+[16:28:47 S Server206791 (Event)] Event 'Accept join plan event' fired for client SP868345
+[16:28:47 S Server206791 (Event)] Event 'Accept join plan event' fired for client SP890631
+[16:28:47 S Server206791 (Event)] Event 'Accept join plan event' fired for client SB266185
+[16:28:47 S Server206791 (Event)] Event broadcast notified 6 client(s), sender: GameAlmende
+[16:28:47 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP643126
+[16:28:47 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP80240
+[16:28:47 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[16:28:47 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP868345
+[16:28:47 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP890631
+[16:28:47 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:28:47 G GameAlmende (Verbose)] Changed state of client 'SP643126' to Accepting
+[16:28:47 G GameAlmende (Verbose)] Changed state of client 'SP80240' to Accepting
+[16:28:47 G GameAlmende (Verbose)] Changed state of client 'SP849255' to Accepting
+[16:28:47 G GameAlmende (Verbose)] Changed state of client 'SP868345' to Accepting
+[16:28:47 G GameAlmende (Verbose)] Changed state of client 'SP890631' to Accepting
+[16:28:48 C SP868345 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[16:28:48 C SP80240 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[16:28:48 C SP643126 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[16:28:48 C SP890631 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[16:28:48 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:28:48 C SP849255 (Verbose)] Changed client state to 'Submitted'
+[16:28:48 C SP849255 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[16:28:50 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:28:50 C GM247722 (Event)] Received event 'Update state event', sender ID: GameAlmende
+[16:28:50 C GM247722 (Verbose)] Changed state to 'Accept'
+[16:28:50 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:28:50 C SB266185 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[16:29:03 C SP868345 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[16:29:03 C SP868345 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:29:03 C SP868345 (Verbose)] Changed client state to 'Accepting'
+[16:29:13 C SP80240 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[16:29:13 C SP80240 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:29:13 C SP80240 (Verbose)] Changed client state to 'Accepting'
+[16:29:22 C SP643126 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[16:29:22 C SP643126 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:29:22 C SP643126 (Verbose)] Changed client state to 'Accepting'
+[16:29:28 C SP890631 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[16:29:28 C SP890631 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:29:28 C SP890631 (Verbose)] Changed client state to 'Accepting'
+[16:29:35 C SP849255 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[16:29:35 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:29:35 C SP849255 (Verbose)] Changed client state to 'Accepting'
+[16:29:53 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[16:29:53 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:29:53 G GameAlmende (Verbose)] Changed state of client 'SP849255' to Accepted
+[16:29:53 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:29:53 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:29:53 C SP849255 (Verbose)] Changed client state to 'Accepted'
+[16:30:12 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP80240
+[16:30:12 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:30:12 G GameAlmende (Verbose)] Changed state of client 'SP80240' to Declined
+[16:30:12 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client SP643126
+[16:30:12 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client SP80240
+[16:30:12 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client SP849255
+[16:30:12 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client SP868345
+[16:30:12 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client SP890631
+[16:30:12 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client GM247722
+[16:30:12 S Server206791 (Event)] Event broadcast notified 6 client(s), sender: GameAlmende
+[16:30:12 G GameAlmende (Verbose)] Server changed state to 'Planning'
+[16:30:12 S Server206791 (Event)] Event 'Update state event' fired for client GM247722
+[16:30:12 S Server206791 (Event)] Event 'Plan' fired for client SP643126
+[16:30:12 S Server206791 (Event)] Event 'Plan' fired for client SP80240
+[16:30:12 S Server206791 (Event)] Event 'Plan' fired for client SP849255
+[16:30:12 S Server206791 (Event)] Event 'Plan' fired for client SP868345
+[16:30:12 S Server206791 (Event)] Event 'Plan' fired for client SP890631
+[16:30:12 S Server206791 (Event)] Event broadcast notified 5 client(s), sender: GameAlmende
+[16:30:12 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP643126
+[16:30:12 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP80240
+[16:30:12 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[16:30:12 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP868345
+[16:30:12 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP890631
+[16:30:12 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:30:12 G GameAlmende (Verbose)] Changed state of client 'SP643126' to InPlanning
+[16:30:12 G GameAlmende (Verbose)] Changed state of client 'SP80240' to InPlanning
+[16:30:12 G GameAlmende (Verbose)] Changed state of client 'SP849255' to InPlanning
+[16:30:12 G GameAlmende (Verbose)] Changed state of client 'SP868345' to InPlanning
+[16:30:12 G GameAlmende (Verbose)] Changed state of client 'SP890631' to InPlanning
+[16:30:12 C SP80240 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:30:12 C SP80240 (Verbose)] Changed client state to 'Declined'
+[16:30:12 C SP80240 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[16:30:12 C SP849255 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[16:30:12 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:30:12 C GM247722 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[16:30:12 C GM247722 (Event)] Received event 'Update state event', sender ID: GameAlmende
+[16:30:12 C GM247722 (Verbose)] Changed state to 'Planning'
+[16:30:12 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:30:12 C SP868345 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[16:30:12 C SP643126 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[16:30:12 C SP890631 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[16:30:13 C SP80240 (Info)] The joint plan was not accepted, please submit a new plan.
+[16:30:13 C SP80240 (Event)] Received event 'Plan', sender ID: GameAlmende
+[16:30:14 C SP890631 (Info)] The joint plan was not accepted, please submit a new plan.
+[16:30:14 C SP890631 (Event)] Received event 'Plan', sender ID: GameAlmende
+[16:30:14 C SP868345 (Info)] The joint plan was not accepted, please submit a new plan.
+[16:30:14 C SP868345 (Event)] Received event 'Plan', sender ID: GameAlmende
+[16:30:15 C SP80240 (Info)] A new plan round is starting.
+[16:30:15 C SP80240 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:30:15 C SP80240 (Verbose)] Changed client state to 'InPlanning'
+[16:30:16 C SP643126 (Info)] The joint plan was not accepted, please submit a new plan.
+[16:30:16 C SP643126 (Event)] Received event 'Plan', sender ID: GameAlmende
+[16:30:16 C SP868345 (Info)] A new plan round is starting.
+[16:30:16 C SP868345 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:30:16 C SP868345 (Verbose)] Changed client state to 'InPlanning'
+[16:30:17 C SP890631 (Info)] A new plan round is starting.
+[16:30:17 C SP890631 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:30:17 C SP890631 (Verbose)] Changed client state to 'InPlanning'
+[16:30:17 C SP643126 (Info)] A new plan round is starting.
+[16:30:17 C SP849255 (Info)] The joint plan was not accepted, please submit a new plan.
+[16:30:17 C SP643126 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:30:17 C SP849255 (Event)] Received event 'Plan', sender ID: GameAlmende
+[16:30:17 C SP643126 (Verbose)] Changed client state to 'InPlanning'
+[16:30:19 C SP849255 (Info)] A new plan round is starting.
+[16:30:19 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:30:19 C SP849255 (Verbose)] Changed client state to 'InPlanning'
+[16:32:27 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:32:27 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:33:09 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:33:10 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:33:35 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:33:35 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:34:01 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:34:01 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:34:18 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:34:18 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:34:21 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:34:21 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:34:49 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:34:49 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:35:00 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:35:00 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:35:00 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:35:01 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:35:03 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:35:04 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:35:25 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:35:26 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:35:35 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:35:35 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:36:21 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:36:21 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:36:55 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:36:55 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:37:19 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:37:19 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:37:31 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:37:32 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:37:59 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:37:59 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:38:06 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:38:06 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:38:43 C SP890631 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[16:38:44 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP890631
+[16:38:44 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:38:44 G GameAlmende (Verbose)] Changed state of client 'SP890631' to Submitted
+[16:38:44 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:38:44 C SP890631 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:38:44 C SP890631 (Verbose)] Changed client state to 'Submitted'
+[16:38:46 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:38:46 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:38:56 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:38:56 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:39:05 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:39:05 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:39:29 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:39:29 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:39:51 C SP643126 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[16:39:52 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP643126
+[16:39:52 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:39:52 G GameAlmende (Verbose)] Changed state of client 'SP643126' to Submitted
+[16:39:52 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:39:52 C SP643126 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:39:52 C SP643126 (Verbose)] Changed client state to 'Submitted'
+[16:40:04 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:40:05 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:40:12 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:40:12 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:41:08 C SP80240 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[16:41:09 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP80240
+[16:41:09 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:41:09 G GameAlmende (Verbose)] Changed state of client 'SP80240' to Submitted
+[16:41:09 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:41:09 C SP80240 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:41:09 C SP80240 (Verbose)] Changed client state to 'Submitted'
+[16:41:19 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:41:19 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:41:43 C SP849255 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[16:41:44 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[16:41:44 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:41:44 G GameAlmende (Verbose)] Changed state of client 'SP849255' to Submitted
+[16:41:45 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:41:45 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:41:45 C SP849255 (Verbose)] Changed client state to 'Submitted'
+[16:42:00 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:42:00 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:43:24 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:43:24 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:43:33 C SP868345 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[16:43:34 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP868345
+[16:43:34 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:43:34 G GameAlmende (Verbose)] Changed state of client 'SP868345' to Submitted
+[16:43:34 G GameAlmende (Verbose)] Server changed state to 'Accept'
+[16:43:34 S Server206791 (Event)] Event 'Update state event' fired for client GM247722
+[16:43:34 S Server206791 (Event)] Event 'Accept join plan event' fired for client SP643126
+[16:43:34 S Server206791 (Event)] Event 'Accept join plan event' fired for client SP80240
+[16:43:34 S Server206791 (Event)] Event 'Accept join plan event' fired for client SP849255
+[16:43:34 S Server206791 (Event)] Event 'Accept join plan event' fired for client SP868345
+[16:43:34 S Server206791 (Event)] Event 'Accept join plan event' fired for client SP890631
+[16:43:34 S Server206791 (Event)] Event 'Accept join plan event' fired for client SB266185
+[16:43:34 S Server206791 (Event)] Event broadcast notified 6 client(s), sender: GameAlmende
+[16:43:34 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP643126
+[16:43:34 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP80240
+[16:43:34 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[16:43:34 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP868345
+[16:43:34 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP890631
+[16:43:34 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:43:34 G GameAlmende (Verbose)] Changed state of client 'SP643126' to Accepting
+[16:43:34 G GameAlmende (Verbose)] Changed state of client 'SP80240' to Accepting
+[16:43:34 G GameAlmende (Verbose)] Changed state of client 'SP849255' to Accepting
+[16:43:34 G GameAlmende (Verbose)] Changed state of client 'SP868345' to Accepting
+[16:43:34 G GameAlmende (Verbose)] Changed state of client 'SP890631' to Accepting
+[16:43:34 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:43:34 C GM247722 (Event)] Received event 'Update state event', sender ID: GameAlmende
+[16:43:34 C GM247722 (Verbose)] Changed state to 'Accept'
+[16:43:34 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:43:35 C SP643126 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[16:43:35 C SP80240 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[16:43:35 C SP849255 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[16:43:35 C SP890631 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[16:43:35 C SP868345 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:43:35 C SP868345 (Verbose)] Changed client state to 'Submitted'
+[16:43:35 C SP868345 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[16:43:37 C SB266185 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[16:43:51 C SP643126 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[16:43:51 C SP643126 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:43:51 C SP643126 (Verbose)] Changed client state to 'Accepting'
+[16:43:52 C SP80240 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[16:43:52 C SP80240 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:43:52 C SP80240 (Verbose)] Changed client state to 'Accepting'
+[16:43:55 C SP868345 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[16:43:55 C SP868345 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:43:55 C SP868345 (Verbose)] Changed client state to 'Accepting'
+[16:44:06 C SP890631 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[16:44:06 C SP890631 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:44:06 C SP890631 (Verbose)] Changed client state to 'Accepting'
+[16:44:15 C SP849255 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[16:44:15 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:44:15 C SP849255 (Verbose)] Changed client state to 'Accepting'
+[16:44:41 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[16:44:41 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:44:41 G GameAlmende (Verbose)] Changed state of client 'SP849255' to Declined
+[16:44:41 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client SP643126
+[16:44:41 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client SP80240
+[16:44:41 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client SP849255
+[16:44:41 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client SP868345
+[16:44:41 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client SP890631
+[16:44:41 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client GM247722
+[16:44:41 S Server206791 (Event)] Event broadcast notified 6 client(s), sender: GameAlmende
+[16:44:41 G GameAlmende (Verbose)] Server changed state to 'Planning'
+[16:44:41 S Server206791 (Event)] Event 'Update state event' fired for client GM247722
+[16:44:41 S Server206791 (Event)] Event 'Plan' fired for client SP643126
+[16:44:41 S Server206791 (Event)] Event 'Plan' fired for client SP80240
+[16:44:41 S Server206791 (Event)] Event 'Plan' fired for client SP849255
+[16:44:41 S Server206791 (Event)] Event 'Plan' fired for client SP868345
+[16:44:41 S Server206791 (Event)] Event 'Plan' fired for client SP890631
+[16:44:41 S Server206791 (Event)] Event broadcast notified 5 client(s), sender: GameAlmende
+[16:44:41 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP643126
+[16:44:41 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP80240
+[16:44:41 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[16:44:41 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP868345
+[16:44:41 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP890631
+[16:44:41 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:44:41 G GameAlmende (Verbose)] Changed state of client 'SP643126' to InPlanning
+[16:44:41 G GameAlmende (Verbose)] Changed state of client 'SP80240' to InPlanning
+[16:44:41 G GameAlmende (Verbose)] Changed state of client 'SP849255' to InPlanning
+[16:44:41 G GameAlmende (Verbose)] Changed state of client 'SP868345' to InPlanning
+[16:44:41 G GameAlmende (Verbose)] Changed state of client 'SP890631' to InPlanning
+[16:44:41 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:44:41 C SP643126 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[16:44:41 C SP849255 (Verbose)] Changed client state to 'Declined'
+[16:44:41 C SP868345 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[16:44:41 C SP849255 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[16:44:41 C SP80240 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[16:44:41 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:44:41 C GM247722 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[16:44:41 C GM247722 (Verbose)] Changed state to 'Planning'
+[16:44:41 C GM247722 (Event)] Received event 'Update state event', sender ID: GameAlmende
+[16:44:41 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:44:41 C SP890631 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[16:44:43 C SP849255 (Info)] The joint plan was not accepted, please submit a new plan.
+[16:44:43 C SP849255 (Event)] Received event 'Plan', sender ID: GameAlmende
+[16:44:44 C SP643126 (Info)] The joint plan was not accepted, please submit a new plan.
+[16:44:44 C SP890631 (Info)] The joint plan was not accepted, please submit a new plan.
+[16:44:44 C SP890631 (Event)] Received event 'Plan', sender ID: GameAlmende
+[16:44:44 C SP643126 (Event)] Received event 'Plan', sender ID: GameAlmende
+[16:44:44 C SP849255 (Info)] A new plan round is starting.
+[16:44:44 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:44:44 C SP849255 (Verbose)] Changed client state to 'InPlanning'
+[16:44:45 C SP868345 (Info)] The joint plan was not accepted, please submit a new plan.
+[16:44:45 C SP868345 (Event)] Received event 'Plan', sender ID: GameAlmende
+[16:44:45 C SP890631 (Info)] A new plan round is starting.
+[16:44:45 C SP890631 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:44:45 C SP890631 (Verbose)] Changed client state to 'InPlanning'
+[16:44:45 C SP643126 (Info)] A new plan round is starting.
+[16:44:45 C SP643126 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:44:45 C SP643126 (Verbose)] Changed client state to 'InPlanning'
+[16:44:47 C SP868345 (Info)] A new plan round is starting.
+[16:44:47 C SP868345 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:44:47 C SP868345 (Verbose)] Changed client state to 'InPlanning'
+[16:44:47 C SP80240 (Info)] The joint plan was not accepted, please submit a new plan.
+[16:44:47 C SP80240 (Event)] Received event 'Plan', sender ID: GameAlmende
+[16:44:49 C SP80240 (Info)] A new plan round is starting.
+[16:44:49 C SP80240 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:44:49 C SP80240 (Verbose)] Changed client state to 'InPlanning'
+[16:47:50 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:47:50 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:48:28 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:48:28 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:49:48 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:49:48 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:49:49 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:49:50 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:50:06 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:50:06 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:50:18 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:50:18 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:50:54 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:50:54 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:51:11 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:51:11 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:51:37 C SP868345 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[16:51:38 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP868345
+[16:51:38 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:51:38 G GameAlmende (Verbose)] Changed state of client 'SP868345' to Submitted
+[16:51:38 C SP868345 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:51:38 C SP868345 (Verbose)] Changed client state to 'Submitted'
+[16:51:38 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:51:39 C SP890631 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => no
+[16:52:01 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:52:01 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:52:07 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:52:07 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:52:36 C SP849255 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[16:52:37 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[16:52:37 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:52:37 G GameAlmende (Verbose)] Changed state of client 'SP849255' to Submitted
+[16:52:37 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:52:37 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:52:37 C SP849255 (Verbose)] Changed client state to 'Submitted'
+[16:52:46 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:52:46 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:53:18 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[16:53:18 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[16:53:24 C SP643126 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[16:53:25 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP643126
+[16:53:25 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:53:25 G GameAlmende (Verbose)] Changed state of client 'SP643126' to Submitted
+[16:53:26 C SP643126 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:53:26 C SP643126 (Verbose)] Changed client state to 'Submitted'
+[16:53:26 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:54:13 C SP80240 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[16:54:14 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP80240
+[16:54:14 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:54:14 G GameAlmende (Verbose)] Changed state of client 'SP80240' to Submitted
+[16:54:14 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:54:14 C SP80240 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:54:15 C SP80240 (Verbose)] Changed client state to 'Submitted'
+[16:54:32 C SP890631 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[16:54:33 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP890631
+[16:54:33 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:54:33 G GameAlmende (Verbose)] Changed state of client 'SP890631' to Submitted
+[16:54:33 G GameAlmende (Verbose)] Server changed state to 'Accept'
+[16:54:33 S Server206791 (Event)] Event 'Update state event' fired for client GM247722
+[16:54:33 S Server206791 (Event)] Event 'Accept join plan event' fired for client SP643126
+[16:54:33 S Server206791 (Event)] Event 'Accept join plan event' fired for client SP80240
+[16:54:33 S Server206791 (Event)] Event 'Accept join plan event' fired for client SP849255
+[16:54:33 S Server206791 (Event)] Event 'Accept join plan event' fired for client SP868345
+[16:54:33 S Server206791 (Event)] Event 'Accept join plan event' fired for client SP890631
+[16:54:33 S Server206791 (Event)] Event 'Accept join plan event' fired for client SB266185
+[16:54:33 S Server206791 (Event)] Event broadcast notified 6 client(s), sender: GameAlmende
+[16:54:33 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP643126
+[16:54:33 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP80240
+[16:54:33 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[16:54:33 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP868345
+[16:54:33 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP890631
+[16:54:33 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:54:33 G GameAlmende (Verbose)] Changed state of client 'SP643126' to Accepting
+[16:54:33 G GameAlmende (Verbose)] Changed state of client 'SP80240' to Accepting
+[16:54:33 G GameAlmende (Verbose)] Changed state of client 'SP849255' to Accepting
+[16:54:33 G GameAlmende (Verbose)] Changed state of client 'SP868345' to Accepting
+[16:54:33 G GameAlmende (Verbose)] Changed state of client 'SP890631' to Accepting
+[16:54:33 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:54:33 C GM247722 (Event)] Received event 'Update state event', sender ID: GameAlmende
+[16:54:33 C GM247722 (Verbose)] Changed state to 'Accept'
+[16:54:33 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:54:33 C SP868345 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[16:54:33 C SP80240 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[16:54:33 C SP849255 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[16:54:33 C SP643126 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[16:54:34 C SP890631 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:54:34 C SP890631 (Verbose)] Changed client state to 'Submitted'
+[16:54:34 C SP890631 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[16:54:36 C SB266185 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[16:54:48 C SP868345 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[16:54:48 C SP868345 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:54:48 C SP868345 (Verbose)] Changed client state to 'Accepting'
+[16:54:48 C SP890631 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[16:54:48 C SP890631 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:54:49 C SP890631 (Verbose)] Changed client state to 'Accepting'
+[16:54:49 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP868345
+[16:54:49 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:54:49 G GameAlmende (Verbose)] Changed state of client 'SP868345' to Accepted
+[16:54:49 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:54:50 C SP868345 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:54:50 C SP868345 (Verbose)] Changed client state to 'Accepted'
+[16:54:51 C SP643126 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[16:54:51 C SP643126 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:54:51 C SP643126 (Verbose)] Changed client state to 'Accepting'
+[16:54:55 C SP849255 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[16:54:55 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:54:55 C SP849255 (Verbose)] Changed client state to 'Accepting'
+[16:55:01 C SP80240 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[16:55:01 C SP80240 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:55:01 C SP80240 (Verbose)] Changed client state to 'Accepting'
+[16:55:02 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP643126
+[16:55:02 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:55:02 G GameAlmende (Verbose)] Changed state of client 'SP643126' to Accepted
+[16:55:02 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:55:02 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[16:55:02 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:55:02 G GameAlmende (Verbose)] Changed state of client 'SP849255' to Accepted
+[16:55:02 C SP643126 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:55:02 C SP643126 (Verbose)] Changed client state to 'Accepted'
+[16:55:02 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:55:03 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:55:03 C SP849255 (Verbose)] Changed client state to 'Accepted'
+[16:55:05 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP80240
+[16:55:05 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:55:05 G GameAlmende (Verbose)] Changed state of client 'SP80240' to Accepted
+[16:55:05 C SP80240 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:55:05 C SP80240 (Verbose)] Changed client state to 'Accepted'
+[16:55:05 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:56:16 S Server206791 (Verbose)] Client 'SP890631' tries to reconnect
+[16:56:16 S Server206791 (Verbose)] Client 'SP890631' was not flagged for removal
+[16:56:16 S Server206791 (Event)] Reset event map for client 'SP890631'
+[16:56:16 S Server206791 (Verbose)] Client with ID 'SP890631' has reconnected to the server
+[16:56:16 C SP890631 (Event)] Started listening
+[16:56:16 C SP890631 (Info)] Successfully re-connected to main server
+[16:56:16 C SP890631 (Verbose)] Restoring client state
+[16:56:26 C SP890631 (Verbose)] Changed client state to 'Accepting'
+[16:56:31 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP890631
+[16:56:31 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:56:31 G GameAlmende (Verbose)] Changed state of client 'SP890631' to Accepted
+[16:56:31 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client SP643126
+[16:56:31 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client SP80240
+[16:56:31 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client SP849255
+[16:56:31 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client SP868345
+[16:56:31 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client SP890631
+[16:56:31 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client GM247722
+[16:56:31 S Server206791 (Event)] Event broadcast notified 6 client(s), sender: GameAlmende
+[16:56:31 G GameAlmende (Verbose)] Server changed state to 'Idle'
+[16:56:31 S Server206791 (Event)] Event 'Update state event' fired for client GM247722
+[16:56:31 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP643126
+[16:56:31 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP80240
+[16:56:31 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[16:56:31 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP868345
+[16:56:31 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP890631
+[16:56:31 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:56:31 G GameAlmende (Verbose)] Changed state of client 'SP643126' to Idle
+[16:56:31 G GameAlmende (Verbose)] Changed state of client 'SP80240' to Idle
+[16:56:31 G GameAlmende (Verbose)] Changed state of client 'SP849255' to Idle
+[16:56:31 G GameAlmende (Verbose)] Changed state of client 'SP868345' to Idle
+[16:56:31 G GameAlmende (Verbose)] Changed state of client 'SP890631' to Idle
+[16:56:31 C SP80240 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[16:56:31 C SP868345 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[16:56:31 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:56:31 C GM247722 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[16:56:31 C GM247722 (Event)] Received event 'Update state event', sender ID: GameAlmende
+[16:56:31 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:56:31 C GM247722 (Verbose)] Changed state to 'Idle'
+[16:56:31 C SP890631 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:56:31 C SP849255 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[16:56:31 C SP890631 (Verbose)] Changed client state to 'Accepted'
+[16:56:31 C SP890631 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[16:56:31 C SP643126 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[16:56:33 C SP890631 (Info)] All players have accepted the joint plan!
+[16:56:33 C SP890631 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:56:33 C SP890631 (Verbose)] Changed client state to 'Idle'
+[16:56:33 C SP80240 (Info)] All players have accepted the joint plan!
+[16:56:33 C SP80240 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:56:33 C SP80240 (Verbose)] Changed client state to 'Idle'
+[16:56:35 C SP868345 (Info)] All players have accepted the joint plan!
+[16:56:35 C SP868345 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:56:35 C SP868345 (Verbose)] Changed client state to 'Idle'
+[16:56:35 C SP643126 (Info)] All players have accepted the joint plan!
+[16:56:35 C SP643126 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:56:35 C SP643126 (Verbose)] Changed client state to 'Idle'
+[16:56:36 C SP849255 (Info)] All players have accepted the joint plan!
+[16:56:36 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:56:36 C SP849255 (Verbose)] Changed client state to 'Idle'
+[16:58:41 G GameAlmende (Verbose)] Server changed state to 'Executing'
+[16:58:41 S Server206791 (Event)] Event 'Update state event' fired for client GM247722
+[16:58:41 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP643126
+[16:58:41 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP80240
+[16:58:41 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[16:58:41 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP868345
+[16:58:41 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP890631
+[16:58:41 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[16:58:41 G GameAlmende (Verbose)] Changed state of client 'SP643126' to Executing
+[16:58:41 G GameAlmende (Verbose)] Changed state of client 'SP80240' to Executing
+[16:58:41 G GameAlmende (Verbose)] Changed state of client 'SP849255' to Executing
+[16:58:41 G GameAlmende (Verbose)] Changed state of client 'SP868345' to Executing
+[16:58:41 G GameAlmende (Verbose)] Changed state of client 'SP890631' to Executing
+[16:58:41 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[16:58:41 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[16:58:41 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[16:58:41 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[16:58:41 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[16:58:41 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[16:58:41 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[16:58:41 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[16:58:42 C GM247722 (Event)] Received event 'Update state event', sender ID: GameAlmende
+[16:58:42 C GM247722 (Verbose)] Changed state to 'Executing'
+[16:58:42 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:58:42 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:42 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:42 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:58:42 C SP849255 (Verbose)] Changed client state to 'Executing'
+[16:58:42 C SP890631 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:58:42 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:42 C SP890631 (Verbose)] Changed client state to 'Executing'
+[16:58:42 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:42 C SP80240 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:58:42 C SP80240 (Verbose)] Changed client state to 'Executing'
+[16:58:42 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:42 C SP643126 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:58:42 C SP643126 (Verbose)] Changed client state to 'Executing'
+[16:58:42 C SP868345 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[16:58:42 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:42 C SP868345 (Verbose)] Changed client state to 'Executing'
+[16:58:42 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:42 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[16:58:42 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[16:58:42 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[16:58:42 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[16:58:42 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[16:58:42 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[16:58:42 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[16:58:42 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[16:58:43 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:43 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:43 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:43 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:43 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:43 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:43 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:43 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[16:58:43 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[16:58:43 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[16:58:43 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[16:58:43 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[16:58:43 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[16:58:43 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[16:58:43 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[16:58:44 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:44 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:44 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:44 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:44 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:44 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:44 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:44 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[16:58:44 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[16:58:44 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[16:58:44 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[16:58:44 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[16:58:44 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[16:58:44 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[16:58:44 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[16:58:45 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:45 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:45 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:45 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:45 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:45 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:45 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:45 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[16:58:45 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[16:58:45 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[16:58:45 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[16:58:45 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[16:58:45 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[16:58:45 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[16:58:45 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[16:58:45 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:46 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:46 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:46 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:46 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:46 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:46 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:58:46 S Server206791 (Event)] Event 'Process delay pending methods event' fired for client GM247722
+[16:58:47 C GM247722 (Event)] Received event 'Process delay pending methods event', sender ID: GameAlmende
+[16:59:19 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[16:59:19 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[16:59:19 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[16:59:19 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[16:59:19 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[16:59:19 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[16:59:19 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[16:59:19 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[16:59:20 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:59:20 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:59:20 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:59:20 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:59:20 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:59:20 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:59:20 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[16:59:24 C GM247722 (Info)] Failed to execute the current plan round
+
+- Methods 'B1-A: MINDER HINDER' and 'B14-C: MINDER HINDER' overlap in their regular durations.
+[16:59:27 C SP890631 (Info)] Unfortunately we have just received word that your task 'B1-B: SNELLER KLAAR' has been delayed.
+[16:59:28 C SP849255 (Info)] Unfortunately we have just received word that your task 'B14-C: MINDER HINDER' has been delayed.
+[17:00:01 G GameAlmende (Verbose)] Server changed state to 'Planning'
+[17:00:01 S Server206791 (Event)] Event 'Update state event' fired for client GM247722
+[17:00:01 S Server206791 (Event)] Event 'Plan' fired for client SP643126
+[17:00:01 S Server206791 (Event)] Event 'Plan' fired for client SP80240
+[17:00:01 S Server206791 (Event)] Event 'Plan' fired for client SP849255
+[17:00:01 S Server206791 (Event)] Event 'Plan' fired for client SP868345
+[17:00:01 S Server206791 (Event)] Event 'Plan' fired for client SP890631
+[17:00:01 S Server206791 (Event)] Event broadcast notified 5 client(s), sender: GameAlmende
+[17:00:01 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP643126
+[17:00:01 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP80240
+[17:00:01 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[17:00:01 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP868345
+[17:00:01 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP890631
+[17:00:01 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[17:00:01 G GameAlmende (Verbose)] Changed state of client 'SP643126' to InPlanning
+[17:00:01 G GameAlmende (Verbose)] Changed state of client 'SP80240' to InPlanning
+[17:00:01 G GameAlmende (Verbose)] Changed state of client 'SP849255' to InPlanning
+[17:00:01 G GameAlmende (Verbose)] Changed state of client 'SP868345' to InPlanning
+[17:00:01 G GameAlmende (Verbose)] Changed state of client 'SP890631' to InPlanning
+[17:00:01 C SP849255 (Event)] Received event 'Plan', sender ID: GameAlmende
+[17:00:01 C SP643126 (Event)] Received event 'Plan', sender ID: GameAlmende
+[17:00:01 C GM247722 (Event)] Received event 'Update state event', sender ID: GameAlmende
+[17:00:01 C GM247722 (Verbose)] Changed state to 'Planning'
+[17:00:01 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:00:01 C SP890631 (Event)] Received event 'Plan', sender ID: GameAlmende
+[17:00:02 C SP80240 (Event)] Received event 'Plan', sender ID: GameAlmende
+[17:00:02 C SP868345 (Event)] Received event 'Plan', sender ID: GameAlmende
+[17:00:04 C SP890631 (Info)] A new plan round is starting.
+[17:00:04 C SP890631 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:00:04 C SP890631 (Verbose)] Changed client state to 'InPlanning'
+[17:00:06 C SP868345 (Info)] A new plan round is starting.
+[17:00:06 C SP868345 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:00:06 C SP868345 (Verbose)] Changed client state to 'InPlanning'
+[17:00:06 C SP80240 (Info)] A new plan round is starting.
+[17:00:06 C SP80240 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:00:06 C SP80240 (Verbose)] Changed client state to 'InPlanning'
+[17:00:08 C SP849255 (Info)] A new plan round is starting.
+[17:00:08 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:00:08 C SP849255 (Verbose)] Changed client state to 'InPlanning'
+[17:00:09 C SP80240 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[17:00:10 C SP643126 (Info)] A new plan round is starting.
+[17:00:10 C SP643126 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:00:10 C SP643126 (Verbose)] Changed client state to 'InPlanning'
+[17:00:10 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP80240
+[17:00:10 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[17:00:10 G GameAlmende (Verbose)] Changed state of client 'SP80240' to Submitted
+[17:00:11 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:00:11 C SP890631 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[17:00:11 C SP80240 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:00:11 C SP80240 (Verbose)] Changed client state to 'Submitted'
+[17:00:11 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP890631
+[17:00:11 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[17:00:11 G GameAlmende (Verbose)] Changed state of client 'SP890631' to Submitted
+[17:00:11 C SP890631 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:00:11 C SP890631 (Verbose)] Changed client state to 'Submitted'
+[17:00:12 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:00:14 C SP868345 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[17:00:15 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP868345
+[17:00:15 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[17:00:15 G GameAlmende (Verbose)] Changed state of client 'SP868345' to Submitted
+[17:00:15 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:00:15 C SP868345 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:00:15 C SP868345 (Verbose)] Changed client state to 'Submitted'
+[17:00:21 C SP643126 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[17:00:23 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP643126
+[17:00:23 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[17:00:23 G GameAlmende (Verbose)] Changed state of client 'SP643126' to Submitted
+[17:00:23 C SP643126 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:00:23 C SP643126 (Verbose)] Changed client state to 'Submitted'
+[17:00:23 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:02:07 S Server206791 (Verbose)] Client 'SP890631' tries to reconnect
+[17:02:07 S Server206791 (Verbose)] Client 'SP890631' was not flagged for removal
+[17:02:07 S Server206791 (Event)] Reset event map for client 'SP890631'
+[17:02:07 S Server206791 (Verbose)] Client with ID 'SP890631' has reconnected to the server
+[17:02:08 C SP890631 (Event)] Started listening
+[17:02:08 C SP890631 (Info)] Successfully re-connected to main server
+[17:02:08 C SP890631 (Verbose)] Restoring client state
+[17:02:17 C SP890631 (Verbose)] Changed client state to 'Submitted'
+[17:02:30 S Server206791 (Event)] Event 'Plan change event' fired for client SB266185
+[17:02:30 C SB266185 (Event)] Received event 'Plan change event', sender ID: GameAlmende
+[17:02:35 C SP849255 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[17:02:36 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[17:02:36 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[17:02:36 G GameAlmende (Verbose)] Changed state of client 'SP849255' to Submitted
+[17:02:36 G GameAlmende (Verbose)] Server changed state to 'Accept'
+[17:02:36 S Server206791 (Event)] Event 'Update state event' fired for client GM247722
+[17:02:36 S Server206791 (Event)] Event 'Accept join plan event' fired for client SP643126
+[17:02:36 S Server206791 (Event)] Event 'Accept join plan event' fired for client SP80240
+[17:02:36 S Server206791 (Event)] Event 'Accept join plan event' fired for client SP849255
+[17:02:36 S Server206791 (Event)] Event 'Accept join plan event' fired for client SP868345
+[17:02:36 S Server206791 (Event)] Event 'Accept join plan event' fired for client SP890631
+[17:02:36 S Server206791 (Event)] Event 'Accept join plan event' fired for client SB266185
+[17:02:36 S Server206791 (Event)] Event broadcast notified 6 client(s), sender: GameAlmende
+[17:02:36 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP643126
+[17:02:36 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP80240
+[17:02:36 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[17:02:36 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP868345
+[17:02:36 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP890631
+[17:02:36 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[17:02:36 G GameAlmende (Verbose)] Changed state of client 'SP643126' to Accepting
+[17:02:36 G GameAlmende (Verbose)] Changed state of client 'SP80240' to Accepting
+[17:02:36 G GameAlmende (Verbose)] Changed state of client 'SP849255' to Accepting
+[17:02:36 G GameAlmende (Verbose)] Changed state of client 'SP868345' to Accepting
+[17:02:36 G GameAlmende (Verbose)] Changed state of client 'SP890631' to Accepting
+[17:02:37 C SP643126 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[17:02:37 C SP890631 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[17:02:37 C SP868345 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[17:02:37 C SP80240 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[17:02:37 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:02:37 C SP849255 (Verbose)] Changed client state to 'Submitted'
+[17:02:37 C SP849255 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[17:02:38 C SB266185 (Event)] Received event 'Accept join plan event', sender ID: GameAlmende
+[17:02:38 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:02:38 C GM247722 (Event)] Received event 'Update state event', sender ID: GameAlmende
+[17:02:38 C GM247722 (Verbose)] Changed state to 'Accept'
+[17:02:38 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:02:48 C SP890631 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[17:02:48 C SP890631 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:02:48 C SP890631 (Verbose)] Changed client state to 'Accepting'
+[17:02:50 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP890631
+[17:02:50 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[17:02:50 G GameAlmende (Verbose)] Changed state of client 'SP890631' to Accepted
+[17:02:50 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:02:50 C SP890631 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:02:50 C SP890631 (Verbose)] Changed client state to 'Accepted'
+[17:02:52 C SP868345 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[17:02:52 C SP868345 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:02:52 C SP868345 (Verbose)] Changed client state to 'Accepting'
+[17:02:53 C SP80240 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[17:02:53 C SP80240 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:02:53 C SP80240 (Verbose)] Changed client state to 'Accepting'
+[17:02:54 C SP643126 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[17:02:54 C SP643126 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:02:54 C SP643126 (Verbose)] Changed client state to 'Accepting'
+[17:02:54 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP868345
+[17:02:54 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[17:02:54 G GameAlmende (Verbose)] Changed state of client 'SP868345' to Accepted
+[17:02:54 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:02:54 C SP868345 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:02:54 C SP868345 (Verbose)] Changed client state to 'Accepted'
+[17:02:55 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP80240
+[17:02:55 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[17:02:55 G GameAlmende (Verbose)] Changed state of client 'SP80240' to Accepted
+[17:02:55 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:02:56 C SP80240 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:02:56 C SP80240 (Verbose)] Changed client state to 'Accepted'
+[17:02:58 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP643126
+[17:02:58 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[17:02:58 G GameAlmende (Verbose)] Changed state of client 'SP643126' to Accepted
+[17:02:58 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:02:59 C SP643126 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:02:59 C SP643126 (Verbose)] Changed client state to 'Accepted'
+[17:03:00 C SP849255 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[17:03:00 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:03:00 C SP849255 (Verbose)] Changed client state to 'Accepting'
+[17:03:51 S Server206791 (Verbose)] Client 'SP849255' tries to reconnect
+[17:03:51 S Server206791 (Verbose)] Client 'SP849255' was not flagged for removal
+[17:03:51 S Server206791 (Event)] Reset event map for client 'SP849255'
+[17:03:51 S Server206791 (Verbose)] Client with ID 'SP849255' has reconnected to the server
+[17:03:51 C SP849255 (Event)] Started listening
+[17:03:51 C SP849255 (Info)] Successfully re-connected to main server
+[17:03:51 C SP849255 (Verbose)] Restoring client state
+[17:04:04 C SP849255 (Verbose)] Changed client state to 'Accepting'
+[17:04:12 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[17:04:12 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[17:04:12 G GameAlmende (Verbose)] Changed state of client 'SP849255' to Accepted
+[17:04:12 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client SP643126
+[17:04:12 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client SP80240
+[17:04:12 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client SP849255
+[17:04:12 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client SP868345
+[17:04:12 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client SP890631
+[17:04:12 S Server206791 (Event)] Event 'Plan accepted/declined event' fired for client GM247722
+[17:04:12 S Server206791 (Event)] Event broadcast notified 6 client(s), sender: GameAlmende
+[17:04:12 G GameAlmende (Verbose)] Server changed state to 'Idle'
+[17:04:12 S Server206791 (Event)] Event 'Update state event' fired for client GM247722
+[17:04:12 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP643126
+[17:04:12 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP80240
+[17:04:12 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[17:04:12 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP868345
+[17:04:12 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP890631
+[17:04:12 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[17:04:12 G GameAlmende (Verbose)] Changed state of client 'SP643126' to Idle
+[17:04:12 G GameAlmende (Verbose)] Changed state of client 'SP80240' to Idle
+[17:04:12 G GameAlmende (Verbose)] Changed state of client 'SP849255' to Idle
+[17:04:12 G GameAlmende (Verbose)] Changed state of client 'SP868345' to Idle
+[17:04:12 G GameAlmende (Verbose)] Changed state of client 'SP890631' to Idle
+[17:04:12 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:04:12 C GM247722 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[17:04:12 C GM247722 (Event)] Received event 'Update state event', sender ID: GameAlmende
+[17:04:12 C GM247722 (Verbose)] Changed state to 'Idle'
+[17:04:12 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:04:13 C SP868345 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[17:04:13 C SP643126 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[17:04:13 C SP890631 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[17:04:13 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:04:13 C SP849255 (Verbose)] Changed client state to 'Accepted'
+[17:04:13 C SP849255 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[17:04:13 C SP80240 (Event)] Received event 'Plan accepted/declined event', sender ID: GameAlmende
+[17:04:15 C SP80240 (Info)] All players have accepted the joint plan!
+[17:04:15 C SP80240 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:04:15 C SP80240 (Verbose)] Changed client state to 'Idle'
+[17:04:16 C SP868345 (Info)] All players have accepted the joint plan!
+[17:04:16 C SP868345 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:04:16 C SP868345 (Verbose)] Changed client state to 'Idle'
+[17:04:17 C SP890631 (Info)] All players have accepted the joint plan!
+[17:04:17 C SP890631 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:04:17 C SP890631 (Verbose)] Changed client state to 'Idle'
+[17:04:18 C SP643126 (Info)] All players have accepted the joint plan!
+[17:04:18 C SP643126 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:04:18 C SP643126 (Verbose)] Changed client state to 'Idle'
+[17:04:19 C SP849255 (Info)] All players have accepted the joint plan!
+[17:04:19 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:04:19 C SP849255 (Verbose)] Changed client state to 'Idle'
+[17:04:29 G GameAlmende (Verbose)] Server changed state to 'Executing'
+[17:04:29 S Server206791 (Event)] Event 'Update state event' fired for client GM247722
+[17:04:29 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP643126
+[17:04:29 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP80240
+[17:04:29 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[17:04:29 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP868345
+[17:04:29 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP890631
+[17:04:29 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[17:04:29 G GameAlmende (Verbose)] Changed state of client 'SP643126' to Executing
+[17:04:29 G GameAlmende (Verbose)] Changed state of client 'SP80240' to Executing
+[17:04:29 G GameAlmende (Verbose)] Changed state of client 'SP849255' to Executing
+[17:04:29 G GameAlmende (Verbose)] Changed state of client 'SP868345' to Executing
+[17:04:29 G GameAlmende (Verbose)] Changed state of client 'SP890631' to Executing
+[17:04:29 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:04:29 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:04:29 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:04:29 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:04:29 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:04:29 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:04:29 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:04:29 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:04:29 C SP643126 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:04:29 C SP643126 (Verbose)] Changed client state to 'Executing'
+[17:04:29 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:29 S Server206791 (Event)] Event 'Process delay pending methods event' fired for client GM247722
+[17:04:29 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:29 C SP890631 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:04:29 C SP890631 (Verbose)] Changed client state to 'Executing'
+[17:04:29 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:29 C GM247722 (Event)] Received event 'Update state event', sender ID: GameAlmende
+[17:04:29 C GM247722 (Verbose)] Changed state to 'Executing'
+[17:04:29 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:04:29 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:29 C SP868345 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:04:29 C SP868345 (Verbose)] Changed client state to 'Executing'
+[17:04:29 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:29 C GM247722 (Event)] Received event 'Process delay pending methods event', sender ID: GameAlmende
+[17:04:29 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:04:29 C SP849255 (Verbose)] Changed client state to 'Executing'
+[17:04:29 C SP80240 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:04:29 C SP80240 (Verbose)] Changed client state to 'Executing'
+[17:04:29 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:29 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:38 C SP849255 (Info)] Task 'B14-C: MINDER HINDER' has been completed.
+[17:04:48 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:04:48 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:04:48 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:04:48 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:04:48 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:04:48 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:04:48 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:04:48 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:04:48 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:48 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:04:48 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:04:48 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:04:48 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:04:48 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:04:48 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:04:48 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:04:48 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:04:48 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:48 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:48 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:49 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:49 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:49 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:04:49 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:04:49 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:04:49 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:04:49 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:04:49 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:04:49 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:04:49 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:04:49 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:49 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:49 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:49 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:49 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:49 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:04:49 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:04:49 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:04:49 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:04:49 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:04:49 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:04:49 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:04:49 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:04:49 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:49 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:50 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:04:50 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:04:50 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:04:50 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:04:50 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:04:50 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:04:50 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:04:50 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:04:50 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:50 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:50 S Server206791 (Event)] Event 'Process delay pending methods event' fired for client GM247722
+[17:04:50 C GM247722 (Event)] Received event 'Process delay pending methods event', sender ID: GameAlmende
+[17:04:51 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:51 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:51 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:51 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:52 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:52 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:52 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:52 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:54 C SP868345 (Info)] Task 'B11-A: GOEDKOPER' has been completed.
+[17:04:54 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:54 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:54 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:54 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:55 C SP890631 (Info)] Task 'B1-B: SNELLER KLAAR' has been completed.
+[17:04:55 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:55 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:55 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:55 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:55 C SP643126 (Info)] Task 'B13-A: GOEDKOPER' has been completed.
+[17:04:56 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:56 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:56 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:04:56 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:10 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:05:10 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:05:10 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:05:10 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:05:10 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:05:10 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:05:10 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:05:10 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:05:11 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:11 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:11 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:11 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:05:11 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:05:11 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:05:11 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:05:11 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:05:11 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:05:11 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:05:11 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:05:11 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:11 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:11 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:05:11 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:05:11 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:05:11 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:05:11 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:05:11 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:05:11 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:05:11 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:05:11 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:11 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:12 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:05:12 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:05:12 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:05:12 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:05:12 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:05:12 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:05:12 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:05:12 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:05:12 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:12 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:12 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:12 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:12 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:12 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:12 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:12 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:12 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:12 S Server206791 (Event)] Event 'Process delay pending methods event' fired for client GM247722
+[17:05:12 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:12 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:12 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:12 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:12 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:12 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:12 C GM247722 (Event)] Received event 'Process delay pending methods event', sender ID: GameAlmende
+[17:05:13 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:13 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:13 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:14 C SP80240 (Info)] Task 'B12-B: GOEDKOPER' has been completed.
+[17:05:14 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:14 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:14 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:41 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:05:41 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:05:41 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:05:41 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:05:41 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:05:41 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:05:41 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:05:41 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:05:41 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:05:41 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:05:41 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:05:41 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:05:41 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:05:41 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:05:41 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:05:41 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:05:41 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:41 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:41 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:41 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:41 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:42 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:42 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:42 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:42 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:42 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:05:42 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:05:42 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:05:42 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:05:42 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:05:42 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:05:42 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:05:42 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:05:42 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:42 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:42 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:05:42 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:05:42 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:05:42 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:05:42 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:05:42 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:05:42 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:05:42 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:05:43 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:43 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:43 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:05:43 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:05:43 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:05:43 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:05:43 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:05:43 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:05:43 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:05:43 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:05:43 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:43 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:43 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:05:43 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:05:43 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:05:43 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:05:43 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:05:43 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:05:43 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:05:43 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:05:44 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:44 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:44 S Server206791 (Event)] Event 'Process delay pending methods event' fired for client GM247722
+[17:05:44 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:44 C GM247722 (Event)] Received event 'Process delay pending methods event', sender ID: GameAlmende
+[17:05:44 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:44 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:44 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:44 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:45 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:45 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:45 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:45 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:45 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:45 C SP890631 (Info)] Task 'B15-C: SNELLER KLAAR' has been completed.
+[17:05:46 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:46 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:46 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:46 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:46 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:48 C SP643126 (Info)] Unfortunately we have just received word that your task 'B13-C: GOEDKOPER' has been delayed.
+[17:05:49 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:49 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:51 C SP643126 (Info)] Task 'B13-C: GOEDKOPER' has been completed.
+[17:05:51 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:51 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:51 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:57 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:05:57 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:05:57 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:05:57 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:05:57 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:05:57 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:05:57 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:05:57 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:05:57 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:57 S Server206791 (Event)] Event 'Process delay pending methods event' fired for client GM247722
+[17:05:57 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:57 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:57 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:57 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:57 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:05:57 C GM247722 (Event)] Received event 'Process delay pending methods event', sender ID: GameAlmende
+[17:05:59 C SP849255 (Info)] Task 'B1-A: SNELLER KLAAR' has been completed.
+[17:06:00 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:00 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:00 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:00 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:00 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:00 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:01 C SP890631 (Info)] Unfortunately we have just received word that your task 'B15-A: SNELLER KLAAR' has been delayed.
+[17:06:10 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:06:10 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:06:10 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:06:10 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:06:10 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:06:10 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:06:10 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:06:10 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:06:10 S Server206791 (Event)] Event 'Process delay pending methods event' fired for client GM247722
+[17:06:11 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:11 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:11 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:11 C GM247722 (Event)] Received event 'Process delay pending methods event', sender ID: GameAlmende
+[17:06:11 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:11 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:11 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:11 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:14 C SP868345 (Info)] Unfortunately we have just received word that your task 'B1-D: SNELLER KLAAR' has been delayed.
+[17:06:16 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:06:16 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:06:16 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:06:16 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:06:16 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:06:16 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:06:16 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:06:16 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:06:16 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:16 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:16 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:06:16 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:06:16 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:06:16 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:06:16 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:06:16 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:06:16 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:06:16 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:06:16 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:16 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:16 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:16 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:16 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:17 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:17 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:17 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:06:17 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:06:17 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:06:17 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:06:17 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:06:17 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:06:17 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:06:17 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:06:17 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:17 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:17 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:06:17 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:06:17 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:06:17 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:06:17 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:06:17 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:06:17 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:06:17 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:06:18 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:18 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:06:18 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:06:18 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:06:18 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:06:18 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:06:18 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:06:18 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:06:18 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:06:18 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:18 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:18 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:18 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:18 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:18 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:06:18 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:06:18 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:06:18 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:06:18 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:06:18 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:06:18 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:06:18 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:06:18 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:18 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:18 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:18 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:18 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:18 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:19 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:19 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:19 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:19 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:06:19 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:06:19 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:06:19 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:06:19 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:06:19 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:06:19 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:06:19 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:06:19 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:19 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:19 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:06:19 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:06:19 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:06:19 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:06:19 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:06:19 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:06:19 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:06:19 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:06:19 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:19 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:19 C SP890631 (Info)] Task 'B15-A: SNELLER KLAAR' has been completed.
+[17:06:19 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:20 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:20 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:20 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:20 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:20 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:20 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:20 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:20 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:20 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:20 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:20 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:06:20 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:06:20 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:06:20 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:06:20 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:06:20 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:06:20 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:06:20 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:06:20 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:20 C SP868345 (Info)] Task 'B1-D: SNELLER KLAAR' has been completed.
+[17:06:20 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:20 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:20 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:20 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:20 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:06:20 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:06:20 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:06:20 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:06:20 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:06:20 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:06:20 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:06:20 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:06:20 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:20 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:20 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:20 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:20 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:20 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:20 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:20 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:21 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:21 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:21 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:21 C SP80240 (Info)] Task 'B12-A: GOEDKOPER' has been completed.
+[17:06:21 S Server206791 (Event)] Event 'Process delay pending methods event' fired for client GM247722
+[17:06:21 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:21 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:21 C GM247722 (Event)] Received event 'Process delay pending methods event', sender ID: GameAlmende
+[17:06:21 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:21 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:21 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:21 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:21 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:21 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:21 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:21 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:21 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:21 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:06:21 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:10 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:07:10 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:07:10 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:07:10 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:07:10 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:07:10 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:07:10 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:07:10 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:07:11 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:11 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:07:11 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:07:11 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:07:11 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:07:11 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:07:11 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:07:11 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:07:11 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:07:11 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:11 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:11 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:11 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:11 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:11 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:11 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:07:11 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:07:11 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:07:11 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:07:11 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:07:11 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:07:11 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:07:11 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:07:12 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:12 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:12 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:12 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:12 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:07:12 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:07:12 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:07:12 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:07:12 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:07:12 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:07:12 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:07:12 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:07:12 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:12 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:12 S Server206791 (Event)] Event 'Process delay pending methods event' fired for client GM247722
+[17:07:13 C GM247722 (Event)] Received event 'Process delay pending methods event', sender ID: GameAlmende
+[17:07:14 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:14 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:14 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:14 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:14 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:14 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:17 C SP643126 (Info)] Task 'B13-B: GOEDKOPER' has been completed.
+[17:07:17 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:17 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:17 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:17 C SP80240 (Info)] Task 'B1-C: GOEDKOPER' has been completed.
+[17:07:18 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:18 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:18 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:18 C SP849255 (Info)] Task 'B14-A: MINDER HINDER' has been completed.
+[17:07:18 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:18 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:18 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:32 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:07:32 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:07:32 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:07:32 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:07:32 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:07:32 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:07:32 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:07:32 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:07:33 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:33 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:07:33 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:07:33 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:07:33 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:07:33 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:07:33 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:07:33 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:07:33 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:07:33 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:33 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:33 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:33 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:33 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:33 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:33 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:07:33 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:07:33 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:07:33 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:07:33 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:07:33 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:07:33 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:07:33 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:07:34 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:34 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:34 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:07:34 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:07:34 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:07:34 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:07:34 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:07:34 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:07:34 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:07:34 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:07:34 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:34 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:34 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:07:34 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:07:34 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:07:34 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:07:34 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:07:34 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:07:34 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:07:34 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:07:34 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:34 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:34 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:34 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:34 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:35 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:35 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:35 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:35 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:35 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:35 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:35 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:35 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:35 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:35 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:07:35 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:07:35 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:07:35 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:07:35 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:07:35 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:07:35 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:07:35 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:07:35 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:35 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:35 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:35 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:35 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:35 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:35 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:35 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:35 S Server206791 (Event)] Event 'Process delay pending methods event' fired for client GM247722
+[17:07:35 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:35 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:35 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:35 C GM247722 (Event)] Received event 'Process delay pending methods event', sender ID: GameAlmende
+[17:07:35 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:36 C SP868345 (Info)] Unfortunately we have just received word that your task 'B11-B: GOEDKOPER' has been delayed.
+[17:07:36 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:36 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:36 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:36 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:37 C SP868345 (Info)] Task 'B11-B: GOEDKOPER' has been completed.
+[17:07:37 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:46 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:07:46 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:07:46 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:07:46 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:07:46 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:07:46 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:07:46 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:07:46 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:07:46 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:07:46 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:07:46 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:07:46 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:07:46 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:07:46 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:07:46 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:07:46 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:07:46 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:46 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:47 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:47 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:47 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:47 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:47 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:47 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:07:47 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:07:47 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:07:47 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:07:47 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:07:47 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:07:47 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:07:47 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:07:47 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:47 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:47 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:47 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:47 S Server206791 (Event)] Event 'Process delay pending methods event' fired for client GM247722
+[17:07:47 C GM247722 (Event)] Received event 'Process delay pending methods event', sender ID: GameAlmende
+[17:07:48 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:48 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:48 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:48 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:48 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:48 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:48 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:48 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:49 C SP80240 (Info)] Unfortunately we have just received word that your task 'B12-C: GOEDKOPER' has been delayed.
+[17:07:49 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:49 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:07:51 C SP80240 (Info)] Task 'B12-C: GOEDKOPER' has been completed.
+[17:08:07 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:08:07 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:08:07 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:08:07 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:08:07 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:08:07 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:08:07 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:08:07 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:08:07 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:07 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:07 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:08:07 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:08:07 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:08:07 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:08:07 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:08:07 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:08:07 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:08:07 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:08:07 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:07 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:07 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:07 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:07 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:07 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:07 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:08 S Server206791 (Event)] Event 'Process delay pending methods event' fired for client GM247722
+[17:08:08 C GM247722 (Event)] Received event 'Process delay pending methods event', sender ID: GameAlmende
+[17:08:08 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:09 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:09 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:09 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:13 C SP643126 (Info)] Task 'B1-E: GOEDKOPER' has been completed.
+[17:08:14 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:28 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:08:28 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:08:28 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:08:28 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:08:28 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:08:28 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:08:28 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:08:28 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:08:28 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:28 S Server206791 (Event)] Event 'Execute Results' fired for client SP643126
+[17:08:28 S Server206791 (Event)] Event 'Execute Results' fired for client SP80240
+[17:08:28 S Server206791 (Event)] Event 'Execute Results' fired for client SP849255
+[17:08:28 S Server206791 (Event)] Event 'Execute Results' fired for client SP868345
+[17:08:28 S Server206791 (Event)] Event 'Execute Results' fired for client SP890631
+[17:08:28 S Server206791 (Event)] Event 'Execute Results' fired for client GM247722
+[17:08:28 S Server206791 (Event)] Event 'Execute Results' fired for client SB266185
+[17:08:28 S Server206791 (Event)] Event broadcast notified 7 client(s), sender: GameAlmende
+[17:08:28 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:28 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:29 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:29 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:29 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:29 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:29 G GameAlmende (Verbose)] Server changed state to 'Finished'
+[17:08:29 S Server206791 (Event)] Event 'Update state event' fired for client GM247722
+[17:08:29 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP643126
+[17:08:29 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP80240
+[17:08:29 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP849255
+[17:08:29 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP868345
+[17:08:29 S Server206791 (Event)] Event 'Update Client State Event' fired for client SP890631
+[17:08:29 S Server206791 (Event)] Event 'Update Client State Event' fired for client GM247722
+[17:08:29 G GameAlmende (Verbose)] Changed state of client 'SP643126' to Finished
+[17:08:29 G GameAlmende (Verbose)] Changed state of client 'SP80240' to Finished
+[17:08:29 G GameAlmende (Verbose)] Changed state of client 'SP849255' to Finished
+[17:08:29 G GameAlmende (Verbose)] Changed state of client 'SP868345' to Finished
+[17:08:29 G GameAlmende (Verbose)] Changed state of client 'SP890631' to Finished
+[17:08:29 C SB266185 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:29 C GM247722 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:29 C GM247722 (Event)] Received event 'Update state event', sender ID: GameAlmende
+[17:08:29 C GM247722 (Verbose)] Changed state to 'Finished'
+[17:08:29 C GM247722 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:08:31 C SP643126 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:31 C SP643126 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:08:31 C SP643126 (Verbose)] Changed client state to 'Finished'
+[17:08:31 C SP80240 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:31 C SP80240 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:08:32 C SP80240 (Verbose)] Changed client state to 'Finished'
+[17:08:33 C SP890631 (Info)] Unfortunately we have just received word that your task 'B15-B: SNELLER KLAAR' has been delayed.
+[17:08:33 C SP868345 (Info)] Task 'B11-C: GOEDKOPER' has been completed.
+[17:08:33 C SP890631 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:33 C SP890631 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:08:33 C SP890631 (Verbose)] Changed client state to 'Finished'
+[17:08:33 C SP868345 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:08:33 C SP868345 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:08:33 C SP868345 (Verbose)] Changed client state to 'Finished'
+[17:10:07 C SP849255 (Info)] Task 'B14-B: MINDER HINDER' has been completed.
+[17:10:07 C SP849255 (Event)] Received event 'Execute Results', sender ID: GameAlmende
+[17:10:07 C SP849255 (Event)] Received event 'Update Client State Event', sender ID: GameAlmende
+[17:10:07 C SP849255 (Verbose)] Changed client state to 'Finished'

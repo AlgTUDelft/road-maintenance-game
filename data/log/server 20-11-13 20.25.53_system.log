@@ -1,0 +1,1539 @@
+Log started Wed Nov 20 20:25:53 CET 2013
+Types of log messages: Event Info Warning Error Verbose System
+[20:25:53 S Server329859 (Info)] Server started
+[20:25:53 G Testgame (Verbose)] Server changed state to 'Initialising'
+[20:25:53 G Testgame (Info)] Game file 'C:\Users\Joris\Desktop\Almende\Maintenance Planning Game GWT\war\games\roersteden\game.xml' loaded
+[20:25:53 G Testgame (Info)] Gameserver 'Testgame' now active
+[20:25:53 S Server329859 (Info)] Game server with ID 'Testgame' has been created
+[20:26:31 S Server329859 (Verbose)] Client 'SM342926' tries to reconnect
+[20:26:31 S Server329859 (Verbose)] Session with client 'SM342926' is expired
+[20:26:31 S Server329859 (Event)] Added client 'SM957103' to event map
+[20:26:31 S Server329859 (Info)] Client 'SM957103' connected to the server
+[20:26:34 C SM957103 (Event)] Started listening
+[20:26:34 S Server329859 (Verbose)] Requested game server list
+[20:26:34 C SM957103 (Info)] Successfully connected to main server
+[20:26:35 S Server329859 (Verbose)] Client 'SB431264' tries to reconnect
+[20:26:35 S Server329859 (Verbose)] Session with client 'SB431264' is expired
+[20:26:38 C null (Verbose)] Changed state to 'Initialising'
+[20:26:38 S Server329859 (Event)] Added client 'SB510487' to event map
+[20:26:38 S Server329859 (Info)] Client 'SB510487' connected to the server
+[20:26:38 S Server329859 (Verbose)] Client 'GM891847' tries to reconnect
+[20:26:38 S Server329859 (Verbose)] Session with client 'GM891847' is expired
+[20:26:38 C SB510487 (Info)] Successfully connected to main server
+[20:26:38 C SB510487 (Event)] Started listening
+[20:26:38 S Server329859 (Event)] Added client 'GM607029' to event map
+[20:26:38 S Server329859 (Info)] Client 'GM607029' connected to the server
+[20:26:38 C GM607029 (Event)] Started listening
+[20:26:38 C GM607029 (Info)] Successfully connected to main server
+[20:26:38 C SB510487 (Info)] Successfully joined game server '[Testgame] Spel LVO dag (0 / 5)'
+[20:26:38 C GM607029 (Verbose)] Changed state to 'Initialising'
+[20:26:38 C GM607029 (Info)] Successfully joined game server '[Testgame] Spel LVO dag (0 / 5)'
+[20:27:46 S Server329859 (Verbose)] Client 'SP351058' tries to reconnect
+[20:27:46 S Server329859 (Verbose)] Session with client 'SP351058' is expired
+[20:27:48 S Server329859 (Verbose)] Client 'SP433643' tries to reconnect
+[20:27:48 S Server329859 (Event)] Added client 'SP724799' to event map
+[20:27:48 S Server329859 (Verbose)] Session with client 'SP433643' is expired
+[20:27:48 S Server329859 (Info)] Client 'SP724799' connected to the server
+[20:27:48 S Server329859 (Event)] Added client 'SP345094' to event map
+[20:27:48 S Server329859 (Info)] Client 'SP345094' connected to the server
+[20:27:48 C SP724799 (Event)] Started listening
+[20:27:48 C SP724799 (Info)] Successfully connected to main server
+[20:27:48 S Server329859 (Event)] Event 'Join Game' fired for client SB510487
+[20:27:48 S Server329859 (Event)] Event 'Join Game' fired for client GM607029
+[20:27:48 S Server329859 (Event)] Event 'Assign Portfolio Event' fired for client SP724799
+[20:27:48 S Server329859 (Event)] Event 'Assign Portfolio Event' fired for client SB510487
+[20:27:48 S Server329859 (Event)] Event 'Assign Portfolio Event' fired for client GM607029
+[20:27:48 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP724799
+[20:27:48 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:27:48 G Testgame (Verbose)] Changed state of client 'SP724799' to WaitingToStart
+[20:27:54 C SP345094 (Event)] Started listening
+[20:27:54 C SP345094 (Info)] Successfully connected to main server
+[20:27:54 S Server329859 (Event)] Event 'Join Game' fired for client SB510487
+[20:27:54 S Server329859 (Event)] Event 'Join Game' fired for client GM607029
+[20:27:54 S Server329859 (Event)] Event 'Assign Portfolio Event' fired for client SP345094
+[20:27:54 S Server329859 (Event)] Event 'Assign Portfolio Event' fired for client SB510487
+[20:27:54 S Server329859 (Event)] Event 'Assign Portfolio Event' fired for client GM607029
+[20:27:54 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP345094
+[20:27:54 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:27:54 G Testgame (Verbose)] Changed state of client 'SP345094' to WaitingToStart
+[20:27:57 C SP724799 (Info)] Successfully joined game server '[Testgame] Spel LVO dag (1 / 5)'
+[20:27:57 S Server329859 (Verbose)] Client 'SP674092' tries to reconnect
+[20:27:57 S Server329859 (Verbose)] Session with client 'SP674092' is expired
+[20:27:57 S Server329859 (Verbose)] Client 'SP776572' tries to reconnect
+[20:27:57 S Server329859 (Verbose)] Session with client 'SP776572' is expired
+[20:27:58 C SP345094 (Info)] Successfully joined game server '[Testgame] Spel LVO dag (2 / 5)'
+[20:27:58 S Server329859 (Verbose)] Client 'SP343152' tries to reconnect
+[20:27:58 S Server329859 (Verbose)] Session with client 'SP343152' is expired
+[20:27:59 C SP345094 (Event)] Received event 'Assign Portfolio Event', sender ID: Testgame
+[20:27:59 C SP345094 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:27:59 C SP345094 (Verbose)] Changed client state to 'WaitingToStart'
+[20:27:59 C SP724799 (Event)] Received event 'Assign Portfolio Event', sender ID: Testgame
+[20:27:59 C SP724799 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:27:59 C SP724799 (Verbose)] Changed client state to 'WaitingToStart'
+[20:27:59 C SB510487 (Event)] Received event 'Join Game', sender ID: Testgame
+[20:27:59 C SB510487 (Event)] Received event 'Assign Portfolio Event', sender ID: Testgame
+[20:27:59 C SB510487 (Event)] Received event 'Assign Portfolio Event', sender ID: Testgame
+[20:27:59 C SB510487 (Event)] Received event 'Join Game', sender ID: Testgame
+[20:27:59 C GM607029 (Event)] Received event 'Join Game', sender ID: Testgame
+[20:27:59 C GM607029 (Event)] Received event 'Assign Portfolio Event', sender ID: Testgame
+[20:27:59 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:27:59 C GM607029 (Event)] Received event 'Assign Portfolio Event', sender ID: Testgame
+[20:27:59 C GM607029 (Event)] Received event 'Join Game', sender ID: Testgame
+[20:27:59 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:27:59 S Server329859 (Event)] Added client 'SP382371' to event map
+[20:27:59 S Server329859 (Info)] Client 'SP382371' connected to the server
+[20:27:59 S Server329859 (Event)] Added client 'SP673219' to event map
+[20:27:59 S Server329859 (Info)] Client 'SP673219' connected to the server
+[20:27:59 S Server329859 (Event)] Added client 'SP808651' to event map
+[20:27:59 S Server329859 (Info)] Client 'SP808651' connected to the server
+[20:27:59 C SP382371 (Info)] Successfully connected to main server
+[20:27:59 C SP382371 (Event)] Started listening
+[20:27:59 S Server329859 (Event)] Event 'Join Game' fired for client SB510487
+[20:27:59 S Server329859 (Event)] Event 'Join Game' fired for client GM607029
+[20:27:59 S Server329859 (Event)] Event 'Assign Portfolio Event' fired for client SP382371
+[20:27:59 S Server329859 (Event)] Event 'Assign Portfolio Event' fired for client SB510487
+[20:27:59 S Server329859 (Event)] Event 'Assign Portfolio Event' fired for client GM607029
+[20:27:59 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP382371
+[20:27:59 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:27:59 G Testgame (Verbose)] Changed state of client 'SP382371' to WaitingToStart
+[20:27:59 C SP673219 (Event)] Started listening
+[20:27:59 C SP673219 (Info)] Successfully connected to main server
+[20:27:59 S Server329859 (Event)] Event 'Join Game' fired for client SB510487
+[20:27:59 S Server329859 (Event)] Event 'Join Game' fired for client GM607029
+[20:27:59 S Server329859 (Event)] Event 'Assign Portfolio Event' fired for client SP673219
+[20:27:59 S Server329859 (Event)] Event 'Assign Portfolio Event' fired for client SB510487
+[20:27:59 S Server329859 (Event)] Event 'Assign Portfolio Event' fired for client GM607029
+[20:27:59 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP673219
+[20:27:59 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:27:59 G Testgame (Verbose)] Changed state of client 'SP673219' to WaitingToStart
+[20:27:59 S Server329859 (Event)] Event 'Join Game' fired for client SB510487
+[20:27:59 S Server329859 (Event)] Event 'Join Game' fired for client GM607029
+[20:27:59 S Server329859 (Event)] Event 'Assign Portfolio Event' fired for client SP808651
+[20:27:59 S Server329859 (Event)] Event 'Assign Portfolio Event' fired for client SB510487
+[20:27:59 S Server329859 (Event)] Event 'Assign Portfolio Event' fired for client GM607029
+[20:27:59 C SP808651 (Event)] Started listening
+[20:27:59 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP808651
+[20:27:59 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:27:59 G Testgame (Verbose)] Changed state of client 'SP808651' to WaitingToStart
+[20:27:59 C SP808651 (Info)] Successfully connected to main server
+[20:28:00 C SP382371 (Info)] Successfully joined game server '[Testgame] Spel LVO dag (3 / 5)'
+[20:28:00 C SP673219 (Info)] Successfully joined game server '[Testgame] Spel LVO dag (4 / 5)'
+[20:28:00 C SP808651 (Info)] Successfully joined game server '[Testgame] Spel LVO dag (5 / 5)'
+[20:28:01 C SP382371 (Event)] Received event 'Assign Portfolio Event', sender ID: Testgame
+[20:28:01 C SP382371 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:28:01 C SP382371 (Verbose)] Changed client state to 'WaitingToStart'
+[20:28:01 C SP673219 (Event)] Received event 'Assign Portfolio Event', sender ID: Testgame
+[20:28:01 C SP673219 (Verbose)] Changed client state to 'WaitingToStart'
+[20:28:01 C SP673219 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:28:01 C SP808651 (Event)] Received event 'Assign Portfolio Event', sender ID: Testgame
+[20:28:01 C SP808651 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:28:01 C SP808651 (Verbose)] Changed client state to 'WaitingToStart'
+[20:28:01 C SB510487 (Event)] Received event 'Join Game', sender ID: Testgame
+[20:28:01 C SB510487 (Event)] Received event 'Join Game', sender ID: Testgame
+[20:28:01 C SB510487 (Event)] Received event 'Assign Portfolio Event', sender ID: Testgame
+[20:28:01 C SB510487 (Event)] Received event 'Assign Portfolio Event', sender ID: Testgame
+[20:28:01 C SB510487 (Event)] Received event 'Assign Portfolio Event', sender ID: Testgame
+[20:28:01 C SB510487 (Event)] Received event 'Join Game', sender ID: Testgame
+[20:28:01 C GM607029 (Event)] Received event 'Join Game', sender ID: Testgame
+[20:28:01 C GM607029 (Event)] Received event 'Assign Portfolio Event', sender ID: Testgame
+[20:28:01 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:28:01 C GM607029 (Event)] Received event 'Join Game', sender ID: Testgame
+[20:28:01 C GM607029 (Event)] Received event 'Assign Portfolio Event', sender ID: Testgame
+[20:28:01 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:28:01 C GM607029 (Event)] Received event 'Join Game', sender ID: Testgame
+[20:28:01 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:28:01 C GM607029 (Event)] Received event 'Assign Portfolio Event', sender ID: Testgame
+[20:28:09 G Testgame (Verbose)] Server changed state to 'Starting'
+[20:28:09 S Server329859 (Event)] Event 'Update state event' fired for client GM607029
+[20:28:09 C GM607029 (Event)] Received event 'Update state event', sender ID: Testgame
+[20:28:09 C GM607029 (Verbose)] Changed state to 'Starting'
+[20:28:09 S Server329859 (Event)] Event 'Start game event' fired for client SP345094
+[20:28:09 S Server329859 (Event)] Event 'Start game event' fired for client SP382371
+[20:28:09 S Server329859 (Event)] Event 'Start game event' fired for client SP673219
+[20:28:09 S Server329859 (Event)] Event 'Start game event' fired for client SP724799
+[20:28:09 S Server329859 (Event)] Event 'Start game event' fired for client SP808651
+[20:28:09 S Server329859 (Event)] Event 'Start game event' fired for client GM607029
+[20:28:09 S Server329859 (Event)] Event 'Start game event' fired for client SB510487
+[20:28:09 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:09 G Testgame (Verbose)] Server changed state to 'Idle'
+[20:28:09 S Server329859 (Event)] Event 'Update state event' fired for client GM607029
+[20:28:09 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP345094
+[20:28:09 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP382371
+[20:28:09 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP673219
+[20:28:09 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP724799
+[20:28:09 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP808651
+[20:28:09 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:28:09 G Testgame (Verbose)] Changed state of client 'SP345094' to Idle
+[20:28:09 G Testgame (Verbose)] Changed state of client 'SP382371' to Idle
+[20:28:09 G Testgame (Verbose)] Changed state of client 'SP673219' to Idle
+[20:28:09 G Testgame (Verbose)] Changed state of client 'SP724799' to Idle
+[20:28:09 G Testgame (Verbose)] Changed state of client 'SP808651' to Idle
+[20:28:17 C SP345094 (Event)] Received event 'Start game event', sender ID: Testgame
+[20:28:17 C SP345094 (Verbose)] Changed client state to 'Idle'
+[20:28:17 C SP345094 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:28:17 C SP724799 (Event)] Received event 'Start game event', sender ID: Testgame
+[20:28:17 C SP724799 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:28:17 C SP724799 (Verbose)] Changed client state to 'Idle'
+[20:28:17 C SP673219 (Event)] Received event 'Start game event', sender ID: Testgame
+[20:28:17 C SP673219 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:28:17 C SP673219 (Verbose)] Changed client state to 'Idle'
+[20:28:23 C GM607029 (Event)] Received event 'Start game event', sender ID: Testgame
+[20:28:23 C GM607029 (Event)] Received event 'Update state event', sender ID: Testgame
+[20:28:23 C GM607029 (Verbose)] Changed state to 'Idle'
+[20:28:23 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:28:23 C SP808651 (Event)] Received event 'Start game event', sender ID: Testgame
+[20:28:23 C SP808651 (Verbose)] Changed client state to 'Idle'
+[20:28:23 C SP808651 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:28:23 C SB510487 (Event)] Received event 'Start game event', sender ID: Testgame
+[20:28:23 C SP382371 (Event)] Received event 'Start game event', sender ID: Testgame
+[20:28:23 C SP382371 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:28:23 C SP382371 (Verbose)] Changed client state to 'Idle'
+[20:28:33 G Testgame (Verbose)] Server changed state to 'Executing'
+[20:28:33 S Server329859 (Event)] Event 'Update state event' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:28:33 G Testgame (Verbose)] Changed state of client 'SP345094' to Executing
+[20:28:33 G Testgame (Verbose)] Changed state of client 'SP382371' to Executing
+[20:28:33 G Testgame (Verbose)] Changed state of client 'SP673219' to Executing
+[20:28:33 G Testgame (Verbose)] Changed state of client 'SP724799' to Executing
+[20:28:33 G Testgame (Verbose)] Changed state of client 'SP808651' to Executing
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:28:33 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:28:33 G Testgame (Verbose)] Server changed state to 'Idle'
+[20:28:33 S Server329859 (Event)] Event 'Update state event' fired for client GM607029
+[20:28:33 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP345094
+[20:28:33 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP382371
+[20:28:33 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP673219
+[20:28:33 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP724799
+[20:28:33 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP808651
+[20:28:33 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:28:33 G Testgame (Verbose)] Changed state of client 'SP345094' to Idle
+[20:28:33 G Testgame (Verbose)] Changed state of client 'SP382371' to Idle
+[20:28:33 G Testgame (Verbose)] Changed state of client 'SP673219' to Idle
+[20:28:33 G Testgame (Verbose)] Changed state of client 'SP724799' to Idle
+[20:28:33 G Testgame (Verbose)] Changed state of client 'SP808651' to Idle
+[20:28:33 C SP673219 (Verbose)] Changed client state to 'Executing'
+[20:28:33 C SP673219 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:28:33 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:33 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:33 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:33 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:33 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:33 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:33 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:33 C GM607029 (Info)] Failed to execute the current plan round
+
+- Methods 'B11-A: GOEDKOPER' and 'B1-D: GOEDKOPER' overlap in their regular durations.
+[20:28:36 C SP724799 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Verbose)] Changed client state to 'Executing'
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Info)] Unfortunately we have just received word that your task 'B11-C: MINDER HINDER' has been delayed.
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Info)] Task 'B11-C: MINDER HINDER' has been completed.
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Info)] Unfortunately we have just received word that your task 'B1-D: GOEDKOPER' has been delayed.
+[20:28:36 C SP724799 (Verbose)] Changed client state to 'Idle'
+[20:28:36 C SP724799 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Update state event', sender ID: Testgame
+[20:28:36 C GM607029 (Verbose)] Changed state to 'Executing'
+[20:28:36 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Update state event', sender ID: Testgame
+[20:28:37 C GM607029 (Verbose)] Changed state to 'Idle'
+[20:28:37 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:36 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:37 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:28:50 C SP808651 (Verbose)] Changed client state to 'Executing'
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Info)] Unfortunately we have just received word that your task 'B12-B: SNELLER KLAAR' has been delayed.
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Info)] Task 'B12-B: SNELLER KLAAR' has been completed.
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Info)] Task 'B1-C: SNELLER KLAAR' has been completed.
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Verbose)] Changed client state to 'Idle'
+[20:28:50 C SP345094 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:28:50 C SP808651 (Info)] Unfortunately we have just received word that your task 'B1-C: SNELLER KLAAR' has been delayed.
+[20:28:50 C SP345094 (Verbose)] Changed client state to 'Executing'
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP808651 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP345094 (Info)] Task 'B13-A: BEPERKTE RISICO'S' has been completed.
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP345094 (Info)] Task 'B13-B: BEPERKTE RISICO'S' has been completed.
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP345094 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP345094 (Verbose)] Changed client state to 'Idle'
+[20:28:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Verbose)] Changed client state to 'Executing'
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Info)] Task 'B14-A: MINDER HINDER' has been completed.
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP382371 (Verbose)] Changed client state to 'Idle'
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP673219 (Info)] Task 'B15-B: MINDER HINDER' has been completed.
+[20:28:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP673219 (Info)] Task 'B15-A: SNELLER KLAAR' has been completed.
+[20:28:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP673219 (Verbose)] Changed client state to 'Idle'
+[20:28:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SP673219 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:28:59 G Testgame (Verbose)] Server changed state to 'Planning'
+[20:28:59 S Server329859 (Event)] Event 'Update state event' fired for client GM607029
+[20:28:59 S Server329859 (Event)] Event 'Plan' fired for client SP345094
+[20:28:59 S Server329859 (Event)] Event 'Plan' fired for client SP382371
+[20:28:59 S Server329859 (Event)] Event 'Plan' fired for client SP673219
+[20:28:59 S Server329859 (Event)] Event 'Plan' fired for client SP724799
+[20:28:59 S Server329859 (Event)] Event 'Plan' fired for client SP808651
+[20:28:59 S Server329859 (Event)] Event broadcast notified 5 client(s), sender: Testgame
+[20:28:59 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP345094
+[20:28:59 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP382371
+[20:28:59 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP673219
+[20:28:59 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP724799
+[20:28:59 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP808651
+[20:28:59 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:28:59 G Testgame (Verbose)] Changed state of client 'SP345094' to InPlanning
+[20:28:59 G Testgame (Verbose)] Changed state of client 'SP382371' to InPlanning
+[20:28:59 G Testgame (Verbose)] Changed state of client 'SP673219' to InPlanning
+[20:28:59 G Testgame (Verbose)] Changed state of client 'SP724799' to InPlanning
+[20:28:59 G Testgame (Verbose)] Changed state of client 'SP808651' to InPlanning
+[20:28:59 C GM607029 (Verbose)] Changed state to 'Planning'
+[20:28:59 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:28:59 C GM607029 (Event)] Received event 'Update state event', sender ID: Testgame
+[20:28:59 C SP724799 (Event)] Received event 'Plan', sender ID: Testgame
+[20:28:59 C SP724799 (Info)] A new plan round is starting.
+[20:28:59 C SP724799 (Verbose)] Changed client state to 'InPlanning'
+[20:28:59 C SP724799 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:00 C SP808651 (Event)] Received event 'Plan', sender ID: Testgame
+[20:29:00 C SP808651 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:00 C SP808651 (Info)] A new plan round is starting.
+[20:29:00 C SP808651 (Verbose)] Changed client state to 'InPlanning'
+[20:29:00 C SP345094 (Event)] Received event 'Plan', sender ID: Testgame
+[20:29:00 C SP345094 (Info)] A new plan round is starting.
+[20:29:00 C SP345094 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:00 C SP345094 (Verbose)] Changed client state to 'InPlanning'
+[20:29:00 C SP382371 (Event)] Received event 'Plan', sender ID: Testgame
+[20:29:00 C SP382371 (Info)] A new plan round is starting.
+[20:29:00 C SP382371 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:00 C SP382371 (Verbose)] Changed client state to 'InPlanning'
+[20:29:00 C SP673219 (Event)] Received event 'Plan', sender ID: Testgame
+[20:29:00 C SP673219 (Info)] A new plan round is starting.
+[20:29:00 C SP673219 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:00 C SP673219 (Verbose)] Changed client state to 'InPlanning'
+[20:29:08 S Server329859 (Event)] Event 'Plan change event' fired for client SB510487
+[20:29:09 C SB510487 (Event)] Received event 'Plan change event', sender ID: Testgame
+[20:29:13 S Server329859 (Event)] Event 'Plan change event' fired for client SB510487
+[20:29:13 C SP724799 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[20:29:13 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP724799
+[20:29:13 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:29:13 G Testgame (Verbose)] Changed state of client 'SP724799' to Submitted
+[20:29:14 C SP724799 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:14 C SP724799 (Verbose)] Changed client state to 'Submitted'
+[20:29:14 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:14 C SB510487 (Event)] Received event 'Plan change event', sender ID: Testgame
+[20:29:15 C SP345094 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[20:29:15 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP345094
+[20:29:15 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:29:15 G Testgame (Verbose)] Changed state of client 'SP345094' to Submitted
+[20:29:15 C SP345094 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:15 C SP345094 (Verbose)] Changed client state to 'Submitted'
+[20:29:15 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:16 C SP382371 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[20:29:16 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP382371
+[20:29:16 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:29:16 G Testgame (Verbose)] Changed state of client 'SP382371' to Submitted
+[20:29:16 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:16 C SP382371 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:16 C SP382371 (Verbose)] Changed client state to 'Submitted'
+[20:29:17 C SP673219 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[20:29:17 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP673219
+[20:29:17 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:29:17 G Testgame (Verbose)] Changed state of client 'SP673219' to Submitted
+[20:29:17 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:17 C SP673219 (Verbose)] Changed client state to 'Submitted'
+[20:29:17 C SP673219 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:18 C SP808651 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[20:29:18 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP808651
+[20:29:18 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:29:18 G Testgame (Verbose)] Changed state of client 'SP808651' to Submitted
+[20:29:18 G Testgame (Verbose)] Server changed state to 'Accept'
+[20:29:18 S Server329859 (Event)] Event 'Update state event' fired for client GM607029
+[20:29:18 S Server329859 (Event)] Event 'Accept join plan event' fired for client SP345094
+[20:29:18 S Server329859 (Event)] Event 'Accept join plan event' fired for client SP382371
+[20:29:18 S Server329859 (Event)] Event 'Accept join plan event' fired for client SP673219
+[20:29:18 S Server329859 (Event)] Event 'Accept join plan event' fired for client SP724799
+[20:29:18 S Server329859 (Event)] Event 'Accept join plan event' fired for client SP808651
+[20:29:18 S Server329859 (Event)] Event 'Accept join plan event' fired for client SB510487
+[20:29:18 S Server329859 (Event)] Event broadcast notified 6 client(s), sender: Testgame
+[20:29:18 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP345094
+[20:29:18 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP382371
+[20:29:18 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP673219
+[20:29:18 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP724799
+[20:29:18 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP808651
+[20:29:18 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:29:18 G Testgame (Verbose)] Changed state of client 'SP345094' to Accepting
+[20:29:18 G Testgame (Verbose)] Changed state of client 'SP382371' to Accepting
+[20:29:18 G Testgame (Verbose)] Changed state of client 'SP673219' to Accepting
+[20:29:18 G Testgame (Verbose)] Changed state of client 'SP724799' to Accepting
+[20:29:18 G Testgame (Verbose)] Changed state of client 'SP808651' to Accepting
+[20:29:22 C SP345094 (Event)] Received event 'Accept join plan event', sender ID: Testgame
+[20:29:22 C SP345094 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[20:29:22 C SP345094 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:22 C SP345094 (Verbose)] Changed client state to 'Accepting'
+[20:29:22 C SP724799 (Event)] Received event 'Accept join plan event', sender ID: Testgame
+[20:29:22 C SP724799 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:22 C SP724799 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[20:29:22 C SP724799 (Verbose)] Changed client state to 'Accepting'
+[20:29:27 C GM607029 (Event)] Received event 'Update state event', sender ID: Testgame
+[20:29:27 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:27 C GM607029 (Verbose)] Changed state to 'Accept'
+[20:29:27 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:27 C SP808651 (Event)] Received event 'Accept join plan event', sender ID: Testgame
+[20:29:27 C SP808651 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:27 C SP808651 (Verbose)] Changed client state to 'Submitted'
+[20:29:27 C SP808651 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[20:29:27 C SP808651 (Verbose)] Changed client state to 'Accepting'
+[20:29:27 C SP808651 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:27 C SP673219 (Event)] Received event 'Accept join plan event', sender ID: Testgame
+[20:29:27 C SP673219 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[20:29:27 C SP673219 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:27 C SP673219 (Verbose)] Changed client state to 'Accepting'
+[20:29:27 C SB510487 (Event)] Received event 'Accept join plan event', sender ID: Testgame
+[20:29:27 C SP382371 (Event)] Received event 'Accept join plan event', sender ID: Testgame
+[20:29:27 C SP382371 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:27 C SP382371 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[20:29:27 C SP382371 (Verbose)] Changed client state to 'Accepting'
+[20:29:29 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP808651
+[20:29:29 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:29:29 G Testgame (Verbose)] Changed state of client 'SP808651' to Accepted
+[20:29:29 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:29 C SP808651 (Verbose)] Changed client state to 'Accepted'
+[20:29:29 C SP808651 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:30 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP673219
+[20:29:30 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:29:30 G Testgame (Verbose)] Changed state of client 'SP673219' to Accepted
+[20:29:30 C SP673219 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:30 C SP673219 (Verbose)] Changed client state to 'Accepted'
+[20:29:30 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:31 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP382371
+[20:29:31 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:29:31 G Testgame (Verbose)] Changed state of client 'SP382371' to Accepted
+[20:29:31 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:31 C SP382371 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:31 C SP382371 (Verbose)] Changed client state to 'Accepted'
+[20:29:32 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP345094
+[20:29:32 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:29:32 G Testgame (Verbose)] Changed state of client 'SP345094' to Accepted
+[20:29:32 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:32 C SP345094 (Verbose)] Changed client state to 'Accepted'
+[20:29:32 C SP345094 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:33 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP724799
+[20:29:33 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:29:33 G Testgame (Verbose)] Changed state of client 'SP724799' to Accepted
+[20:29:33 S Server329859 (Event)] Event 'Plan accepted/declined event' fired for client SP345094
+[20:29:33 S Server329859 (Event)] Event 'Plan accepted/declined event' fired for client SP382371
+[20:29:33 S Server329859 (Event)] Event 'Plan accepted/declined event' fired for client SP673219
+[20:29:33 S Server329859 (Event)] Event 'Plan accepted/declined event' fired for client SP724799
+[20:29:33 S Server329859 (Event)] Event 'Plan accepted/declined event' fired for client SP808651
+[20:29:33 S Server329859 (Event)] Event 'Plan accepted/declined event' fired for client GM607029
+[20:29:33 S Server329859 (Event)] Event broadcast notified 6 client(s), sender: Testgame
+[20:29:33 G Testgame (Verbose)] Server changed state to 'Idle'
+[20:29:33 S Server329859 (Event)] Event 'Update state event' fired for client GM607029
+[20:29:33 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP345094
+[20:29:33 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP382371
+[20:29:33 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP673219
+[20:29:33 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP724799
+[20:29:33 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP808651
+[20:29:33 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:29:33 G Testgame (Verbose)] Changed state of client 'SP345094' to Idle
+[20:29:33 G Testgame (Verbose)] Changed state of client 'SP382371' to Idle
+[20:29:33 G Testgame (Verbose)] Changed state of client 'SP673219' to Idle
+[20:29:33 G Testgame (Verbose)] Changed state of client 'SP724799' to Idle
+[20:29:33 G Testgame (Verbose)] Changed state of client 'SP808651' to Idle
+[20:29:33 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:33 C GM607029 (Event)] Received event 'Plan accepted/declined event', sender ID: Testgame
+[20:29:33 C GM607029 (Verbose)] Changed state to 'Idle'
+[20:29:33 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:33 C GM607029 (Event)] Received event 'Update state event', sender ID: Testgame
+[20:29:33 C SP724799 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:33 C SP724799 (Verbose)] Changed client state to 'Accepted'
+[20:29:33 C SP724799 (Event)] Received event 'Plan accepted/declined event', sender ID: Testgame
+[20:29:33 C SP724799 (Info)] All players have accepted the joint plan!
+[20:29:33 C SP724799 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:33 C SP724799 (Verbose)] Changed client state to 'Idle'
+[20:29:34 C SP673219 (Event)] Received event 'Plan accepted/declined event', sender ID: Testgame
+[20:29:34 C SP673219 (Info)] All players have accepted the joint plan!
+[20:29:34 C SP673219 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:34 C SP382371 (Event)] Received event 'Plan accepted/declined event', sender ID: Testgame
+[20:29:34 C SP382371 (Verbose)] Changed client state to 'Idle'
+[20:29:34 C SP673219 (Verbose)] Changed client state to 'Idle'
+[20:29:34 C SP382371 (Info)] All players have accepted the joint plan!
+[20:29:34 C SP382371 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:34 C SP345094 (Event)] Received event 'Plan accepted/declined event', sender ID: Testgame
+[20:29:34 C SP345094 (Verbose)] Changed client state to 'Idle'
+[20:29:34 C SP345094 (Info)] All players have accepted the joint plan!
+[20:29:34 C SP345094 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:34 C SP808651 (Event)] Received event 'Plan accepted/declined event', sender ID: Testgame
+[20:29:34 C SP808651 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:34 C SP808651 (Info)] All players have accepted the joint plan!
+[20:29:34 C SP808651 (Verbose)] Changed client state to 'Idle'
+[20:29:39 G Testgame (Verbose)] Server changed state to 'Executing'
+[20:29:39 S Server329859 (Event)] Event 'Update state event' fired for client GM607029
+[20:29:39 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP345094
+[20:29:39 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP382371
+[20:29:39 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP673219
+[20:29:39 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP724799
+[20:29:39 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP808651
+[20:29:39 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:29:39 G Testgame (Verbose)] Changed state of client 'SP345094' to Executing
+[20:29:39 G Testgame (Verbose)] Changed state of client 'SP382371' to Executing
+[20:29:39 G Testgame (Verbose)] Changed state of client 'SP673219' to Executing
+[20:29:39 G Testgame (Verbose)] Changed state of client 'SP724799' to Executing
+[20:29:39 G Testgame (Verbose)] Changed state of client 'SP808651' to Executing
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:29:39 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:29:39 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:29:39 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:29:39 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:29:39 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:29:39 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:29:39 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:29:39 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:29:39 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:29:39 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:29:39 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:29:39 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:29:39 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:29:39 G Testgame (Verbose)] Server changed state to 'Idle'
+[20:29:39 S Server329859 (Event)] Event 'Update state event' fired for client GM607029
+[20:29:39 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP345094
+[20:29:39 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP382371
+[20:29:39 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP673219
+[20:29:39 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP724799
+[20:29:39 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP808651
+[20:29:39 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:29:39 G Testgame (Verbose)] Changed state of client 'SP345094' to Idle
+[20:29:39 G Testgame (Verbose)] Changed state of client 'SP382371' to Idle
+[20:29:39 G Testgame (Verbose)] Changed state of client 'SP673219' to Idle
+[20:29:39 G Testgame (Verbose)] Changed state of client 'SP724799' to Idle
+[20:29:39 G Testgame (Verbose)] Changed state of client 'SP808651' to Idle
+[20:29:39 C GM607029 (Info)] Failed to execute the current plan round
+
+- Methods 'B11-A: GOEDKOPER' and 'B11-B: SNELLER KLAAR' overlap in their regular durations.
+[20:29:39 C GM607029 (Event)] Received event 'Update state event', sender ID: Testgame
+[20:29:39 C GM607029 (Verbose)] Changed state to 'Executing'
+[20:29:39 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:39 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:39 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:39 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:39 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:39 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:39 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:39 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:39 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:39 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:39 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:39 C GM607029 (Event)] Received event 'Update state event', sender ID: Testgame
+[20:29:39 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:39 C GM607029 (Verbose)] Changed state to 'Idle'
+[20:29:39 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:39 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:41 C SP724799 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:41 C SP724799 (Verbose)] Changed client state to 'Executing'
+[20:29:41 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:41 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:41 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:41 C SP724799 (Info)] Task 'B1-D: GOEDKOPER' has been completed.
+[20:29:41 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:41 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:41 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:41 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:41 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:41 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:41 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:41 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:41 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:41 C SP724799 (Info)] Unfortunately we have just received word that your task 'B11-A: GOEDKOPER' has been delayed.
+[20:29:41 C SP724799 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:41 C SP724799 (Verbose)] Changed client state to 'Idle'
+[20:29:50 C SP345094 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:50 C SP345094 (Verbose)] Changed client state to 'Executing'
+[20:29:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP345094 (Info)] Task 'B1-E: SNELLER KLAAR' has been completed.
+[20:29:50 C SP345094 (Verbose)] Changed client state to 'Idle'
+[20:29:50 C SP382371 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP382371 (Verbose)] Changed client state to 'Executing'
+[20:29:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP382371 (Info)] Task 'B14-B: GOEDKOPER' has been completed.
+[20:29:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP382371 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP345094 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP673219 (Verbose)] Changed client state to 'Executing'
+[20:29:50 C SP673219 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP673219 (Info)] Task 'B1-B: GOEDKOPER' has been completed.
+[20:29:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP673219 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:50 C SP673219 (Verbose)] Changed client state to 'Idle'
+[20:29:50 C SP808651 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:50 C SP808651 (Verbose)] Changed client state to 'Executing'
+[20:29:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP808651 (Info)] Task 'B12-C: GOEDKOPER' has been completed.
+[20:29:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP808651 (Verbose)] Changed client state to 'Idle'
+[20:29:50 C SP808651 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:50 C SP382371 (Verbose)] Changed client state to 'Idle'
+[20:29:50 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:50 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:29:58 G Testgame (Verbose)] Server changed state to 'Planning'
+[20:29:58 S Server329859 (Event)] Event 'Update state event' fired for client GM607029
+[20:29:58 S Server329859 (Event)] Event 'Plan' fired for client SP345094
+[20:29:58 S Server329859 (Event)] Event 'Plan' fired for client SP382371
+[20:29:58 S Server329859 (Event)] Event 'Plan' fired for client SP673219
+[20:29:58 S Server329859 (Event)] Event 'Plan' fired for client SP724799
+[20:29:58 S Server329859 (Event)] Event 'Plan' fired for client SP808651
+[20:29:58 S Server329859 (Event)] Event broadcast notified 5 client(s), sender: Testgame
+[20:29:58 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP345094
+[20:29:58 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP382371
+[20:29:58 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP673219
+[20:29:58 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP724799
+[20:29:58 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP808651
+[20:29:58 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:29:58 G Testgame (Verbose)] Changed state of client 'SP345094' to InPlanning
+[20:29:58 G Testgame (Verbose)] Changed state of client 'SP382371' to InPlanning
+[20:29:58 G Testgame (Verbose)] Changed state of client 'SP673219' to InPlanning
+[20:29:58 G Testgame (Verbose)] Changed state of client 'SP724799' to InPlanning
+[20:29:58 G Testgame (Verbose)] Changed state of client 'SP808651' to InPlanning
+[20:29:58 C SP724799 (Event)] Received event 'Plan', sender ID: Testgame
+[20:29:58 C SP724799 (Info)] A new plan round is starting.
+[20:29:58 C SP724799 (Verbose)] Changed client state to 'InPlanning'
+[20:29:58 C SP724799 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:58 C GM607029 (Event)] Received event 'Update state event', sender ID: Testgame
+[20:29:58 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:58 C GM607029 (Verbose)] Changed state to 'Planning'
+[20:29:59 C SP382371 (Event)] Received event 'Plan', sender ID: Testgame
+[20:29:59 C SP382371 (Info)] A new plan round is starting.
+[20:29:59 C SP382371 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:59 C SP382371 (Verbose)] Changed client state to 'InPlanning'
+[20:29:59 C SP345094 (Event)] Received event 'Plan', sender ID: Testgame
+[20:29:59 C SP345094 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:59 C SP345094 (Info)] A new plan round is starting.
+[20:29:59 C SP345094 (Verbose)] Changed client state to 'InPlanning'
+[20:29:59 C SP673219 (Event)] Received event 'Plan', sender ID: Testgame
+[20:29:59 C SP673219 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:59 C SP673219 (Info)] A new plan round is starting.
+[20:29:59 C SP673219 (Verbose)] Changed client state to 'InPlanning'
+[20:29:59 C SP808651 (Info)] A new plan round is starting.
+[20:29:59 C SP808651 (Event)] Received event 'Plan', sender ID: Testgame
+[20:29:59 C SP808651 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:29:59 C SP808651 (Verbose)] Changed client state to 'InPlanning'
+[20:30:02 S Server329859 (Event)] Event 'Plan change event' fired for client SB510487
+[20:30:03 C SB510487 (Event)] Received event 'Plan change event', sender ID: Testgame
+[20:30:04 C SP724799 (Info)] You have not planned all tasks of your portfolio, are you sure you want to submit the plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[20:30:04 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP724799
+[20:30:04 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:30:04 G Testgame (Verbose)] Changed state of client 'SP724799' to Submitted
+[20:30:04 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:04 C SP724799 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:04 C SP724799 (Verbose)] Changed client state to 'Submitted'
+[20:30:05 C SP345094 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[20:30:05 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP345094
+[20:30:05 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:30:05 G Testgame (Verbose)] Changed state of client 'SP345094' to Submitted
+[20:30:05 C SP345094 (Verbose)] Changed client state to 'Submitted'
+[20:30:05 C SP345094 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:06 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:06 C SP382371 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[20:30:06 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP382371
+[20:30:06 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:30:06 G Testgame (Verbose)] Changed state of client 'SP382371' to Submitted
+[20:30:07 C SP382371 (Verbose)] Changed client state to 'Submitted'
+[20:30:07 C SP382371 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:07 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:07 C SP673219 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[20:30:07 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP673219
+[20:30:07 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:30:07 G Testgame (Verbose)] Changed state of client 'SP673219' to Submitted
+[20:30:08 C SP673219 (Verbose)] Changed client state to 'Submitted'
+[20:30:08 C SP673219 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:08 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:08 C SP808651 (Info)] Are you sure you want to submit the current plan? After submitting you cannot make any more changes, until all players have submitted. => yes
+[20:30:09 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP808651
+[20:30:09 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:30:09 G Testgame (Verbose)] Changed state of client 'SP808651' to Submitted
+[20:30:09 G Testgame (Verbose)] Server changed state to 'Accept'
+[20:30:09 S Server329859 (Event)] Event 'Update state event' fired for client GM607029
+[20:30:09 S Server329859 (Event)] Event 'Accept join plan event' fired for client SP345094
+[20:30:09 S Server329859 (Event)] Event 'Accept join plan event' fired for client SP382371
+[20:30:09 S Server329859 (Event)] Event 'Accept join plan event' fired for client SP673219
+[20:30:09 S Server329859 (Event)] Event 'Accept join plan event' fired for client SP724799
+[20:30:09 S Server329859 (Event)] Event 'Accept join plan event' fired for client SP808651
+[20:30:09 S Server329859 (Event)] Event 'Accept join plan event' fired for client SB510487
+[20:30:09 S Server329859 (Event)] Event broadcast notified 6 client(s), sender: Testgame
+[20:30:09 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP345094
+[20:30:09 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP382371
+[20:30:09 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP673219
+[20:30:09 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP724799
+[20:30:09 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP808651
+[20:30:09 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:30:09 G Testgame (Verbose)] Changed state of client 'SP345094' to Accepting
+[20:30:09 G Testgame (Verbose)] Changed state of client 'SP382371' to Accepting
+[20:30:09 G Testgame (Verbose)] Changed state of client 'SP673219' to Accepting
+[20:30:09 G Testgame (Verbose)] Changed state of client 'SP724799' to Accepting
+[20:30:09 G Testgame (Verbose)] Changed state of client 'SP808651' to Accepting
+[20:30:16 C SP673219 (Event)] Received event 'Accept join plan event', sender ID: Testgame
+[20:30:16 C SP673219 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[20:30:16 C SP673219 (Verbose)] Changed client state to 'Accepting'
+[20:30:16 C GM607029 (Verbose)] Changed state to 'Accept'
+[20:30:16 C GM607029 (Event)] Received event 'Update state event', sender ID: Testgame
+[20:30:16 C SP673219 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:16 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:16 C SP382371 (Event)] Received event 'Accept join plan event', sender ID: Testgame
+[20:30:16 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:16 C SP382371 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[20:30:16 C SP382371 (Verbose)] Changed client state to 'Accepting'
+[20:30:16 C SP382371 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:16 C SP345094 (Event)] Received event 'Accept join plan event', sender ID: Testgame
+[20:30:16 C SP345094 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:16 C SP345094 (Verbose)] Changed client state to 'Accepting'
+[20:30:16 C SP724799 (Event)] Received event 'Accept join plan event', sender ID: Testgame
+[20:30:16 C SP345094 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[20:30:16 C SP724799 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[20:30:16 C SP808651 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:16 C SP724799 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:16 C SP724799 (Verbose)] Changed client state to 'Accepting'
+[20:30:16 C SP808651 (Verbose)] Changed client state to 'Submitted'
+[20:30:16 C SP808651 (Info)] All players have submitted their plans, please accept or decline the joint plan.
+[20:30:16 C SP808651 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:16 C SP808651 (Event)] Received event 'Accept join plan event', sender ID: Testgame
+[20:30:16 C SP808651 (Verbose)] Changed client state to 'Accepting'
+[20:30:16 C SB510487 (Event)] Received event 'Accept join plan event', sender ID: Testgame
+[20:30:17 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP724799
+[20:30:17 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:30:17 G Testgame (Verbose)] Changed state of client 'SP724799' to Accepted
+[20:30:17 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:17 C SP724799 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:17 C SP724799 (Verbose)] Changed client state to 'Accepted'
+[20:30:20 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP345094
+[20:30:20 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:30:20 G Testgame (Verbose)] Changed state of client 'SP345094' to Accepted
+[20:30:20 C SP345094 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:20 C SP345094 (Verbose)] Changed client state to 'Accepted'
+[20:30:20 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:21 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP382371
+[20:30:21 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:30:21 G Testgame (Verbose)] Changed state of client 'SP382371' to Accepted
+[20:30:21 C SP382371 (Verbose)] Changed client state to 'Accepted'
+[20:30:21 C SP382371 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:22 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:22 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP673219
+[20:30:22 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:30:22 G Testgame (Verbose)] Changed state of client 'SP673219' to Accepted
+[20:30:22 C SP673219 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:22 C SP673219 (Verbose)] Changed client state to 'Accepted'
+[20:30:23 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:23 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP808651
+[20:30:23 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:30:23 G Testgame (Verbose)] Changed state of client 'SP808651' to Accepted
+[20:30:23 S Server329859 (Event)] Event 'Plan accepted/declined event' fired for client SP345094
+[20:30:23 S Server329859 (Event)] Event 'Plan accepted/declined event' fired for client SP382371
+[20:30:23 S Server329859 (Event)] Event 'Plan accepted/declined event' fired for client SP673219
+[20:30:23 S Server329859 (Event)] Event 'Plan accepted/declined event' fired for client SP724799
+[20:30:23 S Server329859 (Event)] Event 'Plan accepted/declined event' fired for client SP808651
+[20:30:23 S Server329859 (Event)] Event 'Plan accepted/declined event' fired for client GM607029
+[20:30:23 S Server329859 (Event)] Event broadcast notified 6 client(s), sender: Testgame
+[20:30:23 G Testgame (Verbose)] Server changed state to 'Idle'
+[20:30:23 S Server329859 (Event)] Event 'Update state event' fired for client GM607029
+[20:30:23 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP345094
+[20:30:23 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP382371
+[20:30:23 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP673219
+[20:30:23 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP724799
+[20:30:23 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP808651
+[20:30:23 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:30:23 G Testgame (Verbose)] Changed state of client 'SP345094' to Idle
+[20:30:23 G Testgame (Verbose)] Changed state of client 'SP382371' to Idle
+[20:30:23 G Testgame (Verbose)] Changed state of client 'SP673219' to Idle
+[20:30:23 G Testgame (Verbose)] Changed state of client 'SP724799' to Idle
+[20:30:23 G Testgame (Verbose)] Changed state of client 'SP808651' to Idle
+[20:30:23 C SP808651 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:23 C SP808651 (Verbose)] Changed client state to 'Accepted'
+[20:30:23 C SP808651 (Info)] All players have accepted the joint plan!
+[20:30:23 C SP808651 (Event)] Received event 'Plan accepted/declined event', sender ID: Testgame
+[20:30:23 C SP808651 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:23 C SP808651 (Verbose)] Changed client state to 'Idle'
+[20:30:23 C GM607029 (Event)] Received event 'Plan accepted/declined event', sender ID: Testgame
+[20:30:23 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:23 C GM607029 (Verbose)] Changed state to 'Idle'
+[20:30:23 C GM607029 (Event)] Received event 'Update state event', sender ID: Testgame
+[20:30:23 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:24 C SP345094 (Event)] Received event 'Plan accepted/declined event', sender ID: Testgame
+[20:30:24 C SP345094 (Info)] All players have accepted the joint plan!
+[20:30:24 C SP345094 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:24 C SP345094 (Verbose)] Changed client state to 'Idle'
+[20:30:24 C SP724799 (Event)] Received event 'Plan accepted/declined event', sender ID: Testgame
+[20:30:24 C SP724799 (Info)] All players have accepted the joint plan!
+[20:30:24 C SP724799 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:24 C SP724799 (Verbose)] Changed client state to 'Idle'
+[20:30:24 C SP673219 (Event)] Received event 'Plan accepted/declined event', sender ID: Testgame
+[20:30:24 C SP673219 (Info)] All players have accepted the joint plan!
+[20:30:24 C SP673219 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:24 C SP673219 (Verbose)] Changed client state to 'Idle'
+[20:30:24 C SP382371 (Event)] Received event 'Plan accepted/declined event', sender ID: Testgame
+[20:30:24 C SP382371 (Info)] All players have accepted the joint plan!
+[20:30:24 C SP382371 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:24 C SP382371 (Verbose)] Changed client state to 'Idle'
+[20:30:28 G Testgame (Verbose)] Server changed state to 'Executing'
+[20:30:28 S Server329859 (Event)] Event 'Update state event' fired for client GM607029
+[20:30:28 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP345094
+[20:30:28 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP382371
+[20:30:28 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP673219
+[20:30:28 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP724799
+[20:30:28 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP808651
+[20:30:28 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:30:28 G Testgame (Verbose)] Changed state of client 'SP345094' to Executing
+[20:30:28 G Testgame (Verbose)] Changed state of client 'SP382371' to Executing
+[20:30:28 G Testgame (Verbose)] Changed state of client 'SP673219' to Executing
+[20:30:28 G Testgame (Verbose)] Changed state of client 'SP724799' to Executing
+[20:30:28 G Testgame (Verbose)] Changed state of client 'SP808651' to Executing
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:30:28 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:30:28 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:30:28 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:30:28 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:30:28 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:30:28 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:30:28 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:30:28 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:30:28 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:30:28 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:30:28 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP345094
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP382371
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP673219
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP724799
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SP808651
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client GM607029
+[20:30:28 S Server329859 (Event)] Event 'Execute Results' fired for client SB510487
+[20:30:28 S Server329859 (Event)] Event broadcast notified 7 client(s), sender: Testgame
+[20:30:28 G Testgame (Verbose)] Server changed state to 'Finished'
+[20:30:28 S Server329859 (Event)] Event 'Update state event' fired for client GM607029
+[20:30:28 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP345094
+[20:30:28 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP382371
+[20:30:28 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP673219
+[20:30:28 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP724799
+[20:30:28 S Server329859 (Event)] Event 'Update Client State Event' fired for client SP808651
+[20:30:28 S Server329859 (Event)] Event 'Update Client State Event' fired for client GM607029
+[20:30:28 G Testgame (Verbose)] Changed state of client 'SP345094' to Finished
+[20:30:28 G Testgame (Verbose)] Changed state of client 'SP382371' to Finished
+[20:30:28 G Testgame (Verbose)] Changed state of client 'SP673219' to Finished
+[20:30:28 G Testgame (Verbose)] Changed state of client 'SP724799' to Finished
+[20:30:28 G Testgame (Verbose)] Changed state of client 'SP808651' to Finished
+[20:30:32 C SP808651 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:32 C SP808651 (Verbose)] Changed client state to 'Executing'
+[20:30:32 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:32 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:32 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:32 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:32 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:32 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:32 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:32 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:32 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:32 C SP808651 (Info)] Unfortunately we have just received word that your task 'B12-A: MINDER HINDER' has been delayed.
+[20:30:32 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:32 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:32 C SP808651 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:32 C SP808651 (Info)] Task 'B12-A: MINDER HINDER' has been completed.
+[20:30:32 C SP808651 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:32 C SP808651 (Verbose)] Changed client state to 'Finished'
+[20:30:45 C GM607029 (Event)] Received event 'Update state event', sender ID: Testgame
+[20:30:45 C GM607029 (Verbose)] Changed state to 'Executing'
+[20:30:45 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:45 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:45 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:45 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:45 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:45 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:45 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:45 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:45 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:45 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:45 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:45 C GM607029 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:45 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:45 C GM607029 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:45 C GM607029 (Event)] Received event 'Update state event', sender ID: Testgame
+[20:30:45 C GM607029 (Verbose)] Changed state to 'Finished'
+[20:30:45 C SP724799 (Verbose)] Changed client state to 'Executing'
+[20:30:45 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:45 C SP724799 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:45 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:45 C SP724799 (Info)] Task 'B11-A: GOEDKOPER' has been completed.
+[20:30:45 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:45 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:45 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:45 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:45 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP345094 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:46 C SP345094 (Verbose)] Changed client state to 'Executing'
+[20:30:46 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP724799 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:46 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP724799 (Verbose)] Changed client state to 'Finished'
+[20:30:46 C SP724799 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP345094 (Info)] Task 'B13-C: GOEDKOPER' has been completed.
+[20:30:46 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP345094 (Verbose)] Changed client state to 'Finished'
+[20:30:46 C SP345094 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:46 C SP345094 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP345094 (Info)] Unfortunately we have just received word that your task 'B13-C: GOEDKOPER' has been delayed.
+[20:30:46 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP673219 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:46 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP673219 (Verbose)] Changed client state to 'Executing'
+[20:30:46 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP673219 (Info)] Task 'B15-C: GOEDKOPER' has been completed.
+[20:30:46 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SB510487 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP673219 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP673219 (Verbose)] Changed client state to 'Finished'
+[20:30:46 C SP382371 (Verbose)] Changed client state to 'Executing'
+[20:30:46 C SP382371 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:46 C SP673219 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:46 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP382371 (Info)] Task 'B1-A: GOEDKOPER' has been completed.
+[20:30:46 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP382371 (Info)] Task 'B14-C: SNELLER KLAAR' has been completed.
+[20:30:46 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP382371 (Event)] Received event 'Update Client State Event', sender ID: Testgame
+[20:30:46 C SP382371 (Verbose)] Changed client state to 'Finished'
+[20:30:46 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame
+[20:30:46 C SP382371 (Event)] Received event 'Execute Results', sender ID: Testgame

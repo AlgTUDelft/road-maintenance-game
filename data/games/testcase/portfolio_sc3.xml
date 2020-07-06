@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Portfolios>
+  <Portfolio ID="P1" Desc="Portfolio 1" Tasks="" />
+  <Portfolio ID="P2" Desc="Portfolio 2" Tasks="" />
+  <Portfolio ID="P3" Desc="Portfolio 3" Tasks="" />
+  <Portfolio ID="P4" Desc="Portfolio 4" Tasks="" />
+</Portfolios>

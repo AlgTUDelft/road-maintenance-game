@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tasks>
+  <Task ID="T1" Desc="T1 (A101A)" AssetID="A101A" LongDesc="Er is op de verharding 0,4 km Langscheuren, dat moet worden geasfalteerd. En er zijn 3 Rijdekken, 4 Voegovergangen, 1 Oplegging die moeten worden vervangen." Payment=" 243236.76" QualityDemand="31" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 301061.5681" QualityImpact="34" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 239851.8633" QualityImpact="21" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 301061.5681" QualityImpact="44" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 239851.8633" QualityImpact="31" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 295552.6946" QualityImpact="44" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 234342.9899" QualityImpact="31" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T2" Desc="T2 (A101B)" AssetID="A101B" LongDesc=" En er zijn 3 Rijdekken, 1 Voegovergang,  die moeten worden vervangen." Payment=" 27373.76" QualityDemand="36" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 57717.9477" QualityImpact="38" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 25597.4992" QualityImpact="26" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 57717.9477" QualityImpact="48" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 25597.4992" QualityImpact="36" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 54827.1073" QualityImpact="48" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 22706.6588" QualityImpact="36" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T3" Desc="T3 (A101C)" AssetID="A101C" LongDesc="Er is op de verharding 0,2 km Dwarsscheuren, 0,2 km Langscheuren, 4,6 km Dwarshelling, dat moet worden geasfalteerd. En er zijn 1 Rijdek, 2 Voegovergangen,  die moeten worden vervangen." Payment=" 2213626.52" QualityDemand="20" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 1494168.61253333" QualityImpact="22" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 693604.3002" QualityImpact="10" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 1494168.61253333" QualityImpact="32" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 693604.3002" QualityImpact="20" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 2133176.73665" QualityImpact="32" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 932330.2681" QualityImpact="20" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T4" Desc="T4 (A80A)" AssetID="A80A" LongDesc="Er is op de verharding 0,9 km Dwarsscheuren, 1,1 km Langscheuren, 5,7 km Stroefheid, dat moet worden geasfalteerd. " Payment=" 3339715.59" QualityDemand="27" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 2082665.90136667" QualityImpact="29" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 1056491.06133333" QualityImpact="17" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 3123998.85205" QualityImpact="39" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 1584736.592" QualityImpact="27" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 5970930.4973" QualityImpact="39" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 2892405.9772" QualityImpact="27" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T5" Desc="T5 (A80B)" AssetID="A80B" LongDesc="Er is op de verharding 0,1 km Dwarsscheuren, 0,2 km Langscheuren, dat moet worden geasfalteerd. En er zijn 2 Rijdekken,  die moeten worden vervangen." Payment=" 204838.73" QualityDemand="31" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 249783.3758" QualityImpact="33" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 202207.8007" QualityImpact="21" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 249783.3758" QualityImpact="43" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 202207.8007" QualityImpact="31" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 245501.5741" QualityImpact="43" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 197925.9989" QualityImpact="31" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T6" Desc="T6 (A80C)" AssetID="A80C" LongDesc="Er is op de verharding 2,1 km Dwarsscheuren, 2,7 km Langscheuren, 28,7 km Stroefheid, 1,9 km Dwarshelling, dat moet worden geasfalteerd. En er zijn 3 Rijdekken, 1 Betonconstructie, 2 Staalconserveringen, 6 Voegovergangen, 2 Opleggingen die moeten worden vervangen." Payment=" 15472672.31" QualityDemand="27" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 2084174.55348" QualityImpact="29" Duration="15w" DelayDuration="4w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 969891.642346667" QualityImpact="17" Duration="15w" DelayDuration="4w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 2233044.16444286" QualityImpact="39" Duration="14w" DelayDuration="4w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 1039169.6168" QualityImpact="27" Duration="14w" DelayDuration="4w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 3719792.046525" QualityImpact="39" Duration="8w" DelayDuration="2w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 1630511.58815" QualityImpact="27" Duration="8w" DelayDuration="2w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T7" Desc="T7 (A80D)" AssetID="A80D" LongDesc="Er is op de verharding 0,7 km Dwarsscheuren, 1,2 km Langscheuren, 6,6 km Stroefheid, dat moet worden geasfalteerd. En er zijn 2 Rijdekken, 2 Voegovergangen, 1 Oplegging die moeten worden vervangen." Payment=" 3715491.71" QualityDemand="27" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 2351728.03076667" QualityImpact="29" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 1173331.93243333" QualityImpact="17" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 2351728.03076667" QualityImpact="39" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 1173331.93243333" QualityImpact="27" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 3368508.57285" QualityImpact="39" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 1600914.42535" QualityImpact="27" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T8" Desc="T8 (A80E)" AssetID="A80E" LongDesc="Er is op de verharding 0,4 km Langscheuren, dat moet worden geasfalteerd. En er zijn 1 Rijdek, 1 Voegovergang, 1 Oplegging die moeten worden vervangen." Payment=" 183573.09" QualityDemand="28" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 202217.0848" QualityImpact="30" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 182481.7246" QualityImpact="18" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 202217.0848" QualityImpact="40" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 182481.7246" QualityImpact="28" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 200440.9024" QualityImpact="40" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 180705.5422" QualityImpact="28" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T9" Desc="T9 (A80F)" AssetID="A80F" LongDesc="Er is op de verharding 0,6 km Dwarsscheuren, 1,1 km Langscheuren, dat moet worden geasfalteerd. En er zijn 2 Rijdekken, 2 Voegovergangen, 2 Opleggingen die moeten worden vervangen." Payment=" 768723.93" QualityDemand="28" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 454724.285" QualityImpact="30" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 380243.1587" QualityImpact="18" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 454724.285" QualityImpact="40" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 380243.1587" QualityImpact="28" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 896041.9673" QualityImpact="40" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 747079.7147" QualityImpact="28" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T10" Desc="T10 (A80G)" AssetID="A80G" LongDesc="Er is op de verharding 0,5 km Dwarsscheuren, 0,7 km Langscheuren, dat moet worden geasfalteerd. " Payment=" 520475.16" QualityDemand="27" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 577690.416" QualityImpact="29" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 517125.9447" QualityImpact="17" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 577690.416" QualityImpact="39" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 517125.9447" QualityImpact="27" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 572239.6136" QualityImpact="39" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 511675.1423" QualityImpact="27" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T11" Desc="T11 (A80H)" AssetID="A80H" LongDesc="Er is op de verharding 0,2 km Dwarsscheuren, 0,3 km Langscheuren, dat moet worden geasfalteerd. " Payment=" 216864.65" QualityDemand="27" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 226560.5687" QualityImpact="29" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 216297.079" QualityImpact="17" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 226560.5687" QualityImpact="39" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 216297.079" QualityImpact="27" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 225636.8546" QualityImpact="39" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 215373.365" QualityImpact="27" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T12" Desc="T12 (A80I)" AssetID="A80I" LongDesc="Er is op de verharding 0,1 km Langscheuren, dat moet worden geasfalteerd. En er zijn 1 Rijdek, 1 Betonconstructie, 2 Voegovergangen,  die moeten worden vervangen." Payment=" 59209.12" QualityDemand="31" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 77230.5445" QualityImpact="33" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 58154.198" QualityImpact="21" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 77230.5445" QualityImpact="43" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 58154.198" QualityImpact="31" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 75513.6734" QualityImpact="43" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 56437.3269" QualityImpact="31" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T13" Desc="T13 (A82A)" AssetID="A82A" LongDesc="Er is op de verharding 0,2 km Dwarsscheuren, 0,6 km Langscheuren, dat moet worden geasfalteerd. En er zijn 1 Voegovergang,  die moeten worden vervangen." Payment=" 350972.29" QualityDemand="28" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 377693.2641" QualityImpact="30" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 349408.1216" QualityImpact="18" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 377693.2641" QualityImpact="40" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 349408.1216" QualityImpact="28" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 375147.6013" QualityImpact="40" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 346862.4588" QualityImpact="28" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T14" Desc="T14 (A82B)" AssetID="A82B" LongDesc="Er is op de verharding 0,1 km Dwarsscheuren, 0,9 km Langscheuren, dat moet worden geasfalteerd. En er zijn 1 Rijdek, 2 Voegovergangen,  die moeten worden vervangen." Payment=" 450990.94" QualityDemand="29" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 509309.4856" QualityImpact="31" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 447577.1414" QualityImpact="19" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 509309.4856" QualityImpact="41" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 447577.1414" QualityImpact="29" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 503753.5746" QualityImpact="41" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 442021.2304" QualityImpact="29" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T15" Desc="T15 (A82C)" AssetID="A82C" LongDesc="Er is op de verharding 0,1 km Dwarsscheuren, 0,2 km Langscheuren, dat moet worden geasfalteerd. En er zijn 1 Rijdek, 1 Voegovergang,  die moeten worden vervangen." Payment=" 142994.93" QualityDemand="31" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 160509.1716" QualityImpact="33" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 141969.6971" QualityImpact="21" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 160509.1716" QualityImpact="43" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 141969.6971" QualityImpact="31" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 158840.6189" QualityImpact="43" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 140301.1443" QualityImpact="31" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T16" Desc="T16 (A82D)" AssetID="A82D" LongDesc="Er is op de verharding 0,4 km Dwarsscheuren, 1 km Langscheuren, dat moet worden geasfalteerd. En er zijn 1 Rijdek,  die moeten worden vervangen." Payment=" 614467.65" QualityDemand="28" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 691158.9457" QualityImpact="30" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 609978.3638" QualityImpact="18" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 691158.9457" QualityImpact="40" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 609978.3638" QualityImpact="28" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 683852.6934" QualityImpact="40" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 602672.1114" QualityImpact="28" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T17" Desc="T17 (A82E)" AssetID="A82E" LongDesc="Er is op de verharding 12,2 km Rafeling, 0,9 km Dwarsscheuren, 1,7 km Langscheuren, dat moet worden geasfalteerd. En er zijn 2 Rijdekken, 1 Betonconstructie, 1 Voegovergang,  die moeten worden vervangen." Payment=" 6438012.95" QualityDemand="34" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 2514148.82038" QualityImpact="36" Duration="5w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 1215804.12854" QualityImpact="24" Duration="5w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 2514148.82038" QualityImpact="46" Duration="5w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 1215804.12854" QualityImpact="34" Duration="5w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 5993244.4953" QualityImpact="46" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 2747382.7657" QualityImpact="34" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T18" Desc="T18 (A82F)" AssetID="A82F" LongDesc="Er is op de verharding 4,1 km Rafeling, 0,4 km Dwarsscheuren, 1 km Langscheuren, 1,7 km Langsonvlakheid, dat moet worden geasfalteerd. En er zijn 2 Rijdekken, 1 Betonconstructie, 1 Staalconservering, 2 Voegovergangen,  die moeten worden vervangen." Payment=" 3277506.74" QualityDemand="34" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 1576553.3308" QualityImpact="36" Duration="4w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 775053.75865" QualityImpact="24" Duration="4w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 1576553.3308" QualityImpact="46" Duration="4w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 775053.75865" QualityImpact="34" Duration="4w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 2005891.15906667" QualityImpact="46" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 937225.0629" QualityImpact="34" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T19" Desc="T19 (A83A)" AssetID="A83A" LongDesc="Er is op de verharding 0,1 km Dwarsscheuren, 1,2 km Rijspoordiepte, 0,7 km Langscheuren, 0,9 km Langsonvlakheid, dat moet worden geasfalteerd. En er zijn 3 Rijdekken, 1 Betonconstructie, 1 Staalconservering, 2 Voegovergangen,  die moeten worden vervangen." Payment=" 1429387.64" QualityDemand="33" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 530698.79572" QualityImpact="35" Duration="5w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 271546.40054" QualityImpact="23" Duration="5w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 530698.79572" QualityImpact="45" Duration="5w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 271546.40054" QualityImpact="33" Duration="5w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 634218.8502" QualityImpact="45" Duration="4w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 310278.356225" QualityImpact="33" Duration="4w" DelayDuration="1w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T20" Desc="T20 (A83B)" AssetID="A83B" LongDesc="Er is op de verharding 9,9 km Rafeling, 0,1 km Dwarsscheuren, 17 km Rijspoordiepte, 0,8 km Langscheuren, dat moet worden geasfalteerd. En er zijn 1 Rijdek, 1 Voegovergang,  die moeten worden vervangen." Payment=" 12068513.26" QualityDemand="36" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 3130644.7968875" QualityImpact="38" Duration="8w" DelayDuration="2w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 1413612.2581" QualityImpact="26" Duration="8w" DelayDuration="2w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 3130644.7968875" QualityImpact="48" Duration="8w" DelayDuration="2w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 1413612.2581" QualityImpact="36" Duration="8w" DelayDuration="2w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 7936298.31573333" QualityImpact="48" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 3357544.87896667" QualityImpact="36" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T21" Desc="T21 (A83C)" AssetID="A83C" LongDesc="Er is op de verharding 22,5 km Rafeling, 0,1 km Dwarsscheuren, 4,7 km Rijspoordiepte, 0,4 km Langscheuren, dat moet worden geasfalteerd. En er zijn 4 Rijdekken, 4 Voegovergangen,  die moeten worden vervangen." Payment=" 12061692.21" QualityDemand="36" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 2800076.45223333" QualityImpact="38" Duration="9w" DelayDuration="2w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 1254730.38586667" QualityImpact="26" Duration="9w" DelayDuration="2w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 3150086.0087625" QualityImpact="48" Duration="8w" DelayDuration="2w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 1411571.6841" QualityImpact="36" Duration="8w" DelayDuration="2w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 7982985.9188" QualityImpact="48" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 3346947.71966667" QualityImpact="36" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T22" Desc="T22 (A83D)" AssetID="A83D" LongDesc="Er is op de verharding 6,9 km Rafeling, 0,3 km Langscheuren, dat moet worden geasfalteerd. " Payment=" 3122850.93" QualityDemand="36" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 3222268.2985" QualityImpact="38" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 1464204.5391" QualityImpact="26" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 3222268.2985" QualityImpact="48" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 1464204.5391" QualityImpact="36" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 6128085.1203" QualityImpact="48" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 2611957.6015" QualityImpact="36" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T23" Desc="T23 (A83E)" AssetID="A83E" LongDesc="Er is op de verharding 0,5 km Langscheuren, dat moet worden geasfalteerd. " Payment=" 216864.65" QualityDemand="27" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 228534.4283" QualityImpact="29" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 216181.535" QualityImpact="17" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 228534.4283" QualityImpact="39" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 216181.535" QualityImpact="27" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 227422.6679" QualityImpact="39" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 215069.7746" QualityImpact="27" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T24" Desc="T24 (A83F)" AssetID="A83F" LongDesc="Er is op de verharding 7,9 km Rafeling, 0,4 km Langscheuren, dat moet worden geasfalteerd. En er zijn 1 Rijdek, 1 Staalconservering, 3 Voegovergangen,  die moeten worden vervangen." Payment=" 3673163.05" QualityDemand="35" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 1890016.321725" QualityImpact="37" Duration="4w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 861408.7646" QualityImpact="25" Duration="4w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 1890016.321725" QualityImpact="47" Duration="4w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 861408.7646" QualityImpact="35" Duration="4w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 3594883.28315" QualityImpact="47" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 1537668.1689" QualityImpact="35" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T25" Desc="T25 (A83G)" AssetID="A83G" LongDesc="Er is op de verharding 0,1 km Dwarsscheuren, 0,1 km Langscheuren, dat moet worden geasfalteerd. En er zijn 2 Rijdekken, 2 Voegovergangen,  die moeten worden vervangen." Payment=" 113291.45" QualityDemand="33" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 144558.0907" QualityImpact="35" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 111461.1915" QualityImpact="23" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 144558.0907" QualityImpact="45" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 111461.1915" QualityImpact="33" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 141579.3697" QualityImpact="45" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 108482.4705" QualityImpact="33" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T26" Desc="T26 (A83H)" AssetID="A83H" LongDesc="Er is op de verharding 0,2 km Langscheuren, 0,1 km Langsonvlakheid, dat moet worden geasfalteerd. " Payment=" 130118.79" QualityDemand="30" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 180065.4412" QualityImpact="32" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 127195.0578" QualityImpact="20" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 180065.4412" QualityImpact="42" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 127195.0578" QualityImpact="30" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 175307.1067" QualityImpact="42" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 122436.7233" QualityImpact="30" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T27" Desc="T27 (A84A)" AssetID="A84A" LongDesc="Er is op de verharding 0,5 km Langscheuren, 1,5 km Langsonvlakheid, dat moet worden geasfalteerd. En er zijn 3 Rijdekken, 4 Voegovergangen,  die moeten worden vervangen." Payment=" 903890.55" QualityDemand="34" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 838568.9718" QualityImpact="36" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 429313.44435" QualityImpact="24" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 838568.9718" QualityImpact="46" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 429313.44435" QualityImpact="34" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 1603471.9487" QualityImpact="46" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 784960.8937" QualityImpact="34" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T28" Desc="T28 (A84B)" AssetID="A84B" LongDesc="Er is op de verharding 0,6 km Dwarsscheuren, 1,1 km Langscheuren, 0,1 km Langsonvlakheid, dat moet worden geasfalteerd. En er zijn 2 Rijdekken, 1 Staalconservering, 2 Voegovergangen,  die moeten worden vervangen." Payment=" 902228.59" QualityDemand="29" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 396981.657766667" QualityImpact="31" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 295109.323233333" QualityImpact="19" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 396981.657766667" QualityImpact="41" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 295109.323233333" QualityImpact="29" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 581719.72145" QualityImpact="41" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 428911.2197" QualityImpact="29" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T29" Desc="T29 (A84C)" AssetID="A84C" LongDesc="Er is op de verharding 0,1 km Langscheuren, dat moet worden geasfalteerd. En er zijn 2 Betonconstructies, 2 Voegovergangen,  die moeten worden vervangen." Payment=" 59947.78" QualityDemand="29" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 78788.0193" QualityImpact="31" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 58844.927" QualityImpact="19" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 78788.0193" QualityImpact="41" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 58844.927" QualityImpact="29" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 76993.141" QualityImpact="41" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 57050.0487" QualityImpact="29" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T30" Desc="T30 (A84D)" AssetID="A84D" LongDesc="Er is op de verharding 0,1 km Dwarsscheuren, dat moet worden geasfalteerd. " Payment=" 43372.93" QualityDemand="27" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 44746.6296" QualityImpact="29" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 43292.5176" QualityImpact="17" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 44746.6296" QualityImpact="39" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 43292.5176" QualityImpact="27" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 44615.7595" QualityImpact="39" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 43161.6475" QualityImpact="27" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T31" Desc="T31 (A85A)" AssetID="A85A" LongDesc="Er is op de verharding 0,1 km Dwarsscheuren, dat moet worden geasfalteerd. En er zijn 1 Staalconservering,  die moeten worden vervangen." Payment=" 91221.05" QualityDemand="26" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 145635.0457" QualityImpact="28" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 88035.8124" QualityImpact="16" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 145635.0457" QualityImpact="38" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 88035.8124" QualityImpact="26" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 140451.1147" QualityImpact="38" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 82851.8814" QualityImpact="26" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T32" Desc="T32 (A85B)" AssetID="A85B" LongDesc="Er is op de verharding 0,2 km Dwarsscheuren, 0,3 km Langscheuren, dat moet worden geasfalteerd. En er zijn 3 Rijdekken, 1 Betonconstructie, 1 Voegovergang,  die moeten worden vervangen." Payment=" 241433.78" QualityDemand="30" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 278364.9156" QualityImpact="32" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 239271.9384" QualityImpact="20" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 278364.9156" QualityImpact="42" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 239271.9384" QualityImpact="30" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 274846.5477" QualityImpact="42" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 235753.5704" QualityImpact="30" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T33" Desc="T33 (A85C)" AssetID="A85C" LongDesc="Er is op de verharding 0,1 km Langscheuren, dat moet worden geasfalteerd. En er zijn 1 Betonconstructie, 1 Voegovergang,  die moeten worden vervangen." Payment=" 48522.85" QualityDemand="28" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 54698.398" QualityImpact="30" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 48161.3513" QualityImpact="18" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 54698.398" QualityImpact="40" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 48161.3513" QualityImpact="28" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 54110.0638" QualityImpact="40" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 47573.0171" QualityImpact="28" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T34" Desc="T34 (A86A)" AssetID="A86A" LongDesc="Er is op de verharding 4,2 km Rijspoordiepte, 0,3 km Langscheuren, dat moet worden geasfalteerd. En er zijn 1 Rijdek, 1 Voegovergang,  die moeten worden vervangen." Payment=" 1964941.3" QualityDemand="35" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 2001534.14535" QualityImpact="37" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 922817.6265" QualityImpact="25" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 2001534.14535" QualityImpact="47" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 922817.6265" QualityImpact="35" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 3808899.3173" QualityImpact="47" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 1651466.2796" QualityImpact="35" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T35" Desc="T35 (A86B)" AssetID="A86B" LongDesc="Er is op de verharding 1,7 km Rafeling, 0,1 km Dwarsscheuren, 26,9 km Rijspoordiepte, 0,2 km Langscheuren, dat moet worden geasfalteerd. En er zijn 2 Rijdekken, 1 Voegovergang, 1 Oplegging die moeten worden vervangen." Payment=" 12557094.21" QualityDemand="36" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 2926200.82764444" QualityImpact="38" Duration="9w" DelayDuration="2w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 1305614.25238889" QualityImpact="26" Duration="9w" DelayDuration="2w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 3291975.9311" QualityImpact="48" Duration="8w" DelayDuration="2w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 1468816.0339375" QualityImpact="36" Duration="8w" DelayDuration="2w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 8341044.1076" QualityImpact="48" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 3479284.38183333" QualityImpact="36" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T36" Desc="T36 (A86C)" AssetID="A86C" LongDesc="Er is op de verharding 7,1 km Rafeling, 0,2 km Dwarsscheuren, 0,3 km Rijspoordiepte, 0,4 km Langscheuren, dat moet worden geasfalteerd. En er zijn 1 Rijdek, 1 Staalconservering, 1 Voegovergang,  die moeten worden vervangen." Payment=" 3493835.76" QualityDemand="35" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 1772821.766525" QualityImpact="37" Duration="4w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 820812.846725" QualityImpact="25" Duration="4w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 1772821.766525" QualityImpact="47" Duration="4w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 820812.846725" QualityImpact="35" Duration="4w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 3374281.9275" QualityImpact="47" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 1470264.0879" QualityImpact="35" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T37" Desc="T37 (A86D)" AssetID="A86D" LongDesc="Er is op de verharding 0,4 km Dwarsscheuren, 1 km Langscheuren, dat moet worden geasfalteerd. En er zijn 1 Rijdek, 1 Staalconservering, 3 Voegovergangen, 1 Oplegging die moeten worden vervangen." Payment=" 664856.27" QualityDemand="28" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 265801.346933333" QualityImpact="30" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 219032.4359" QualityImpact="18" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 265801.346933333" QualityImpact="40" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 219032.4359" QualityImpact="28" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 261592.144933333" QualityImpact="40" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 214823.2339" QualityImpact="28" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T38" Desc="T38 (A86E)" AssetID="A86E" LongDesc="Er is op de verharding 1,2 km Langscheuren, dat moet worden geasfalteerd. En er zijn 3 Rijdekken, 3 Voegovergangen, 2 Opleggingen die moeten worden vervangen." Payment=" 563902.9" QualityDemand="29" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 339630.5337" QualityImpact="31" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 278575.0836" QualityImpact="19" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 339630.5337" QualityImpact="41" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 278575.0836" QualityImpact="29" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 668271.0864" QualityImpact="41" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 546160.1862" QualityImpact="29" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T39" Desc="T39 (A86F)" AssetID="A86F" LongDesc="Er is op de verharding 0,4 km Langscheuren, dat moet worden geasfalteerd. En er zijn 1 Rijdek,  die moeten worden vervangen." Payment=" 180799.37" QualityDemand="29" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 196368.6582" QualityImpact="31" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 179887.989" QualityImpact="19" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 196368.6582" QualityImpact="41" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 179887.989" QualityImpact="29" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 194885.398" QualityImpact="41" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 178404.7288" QualityImpact="29" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T40" Desc="T40 (A86G)" AssetID="A86G" LongDesc="Er is op de verharding 0,4 km Dwarsscheuren, 0,8 km Langscheuren, dat moet worden geasfalteerd. En er zijn 1 Voegovergang,  die moeten worden vervangen." Payment=" 526261.59" QualityDemand="28" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 584529.7533" QualityImpact="30" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 522850.7406" QualityImpact="18" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 584529.7533" QualityImpact="40" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 522850.7406" QualityImpact="28" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 578978.6421" QualityImpact="40" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 517299.6295" QualityImpact="28" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T41" Desc="T41 (A86H)" AssetID="A86H" LongDesc="Er is op de verharding 0,3 km Dwarsscheuren, 0,9 km Langscheuren, dat moet worden geasfalteerd. En er zijn 1 Rijdek, 3 Voegovergangen,  die moeten worden vervangen." Payment=" 541394.39" QualityDemand="29" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 614757.0212" QualityImpact="31" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 537099.9542" QualityImpact="19" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 614757.0212" QualityImpact="41" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 537099.9542" QualityImpact="29" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 607767.8851" QualityImpact="41" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 530110.8182" QualityImpact="29" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T42" Desc="T42 (A92A)" AssetID="A92A" LongDesc="Er is op de verharding 0,8 km Langscheuren, dat moet worden geasfalteerd. En er zijn 2 Rijdekken, 2 Voegovergangen,  die moeten worden vervangen." Payment=" 397117.41" QualityDemand="30" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 241283.1173" QualityImpact="32" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 196057.74175" QualityImpact="20" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 241283.1173" QualityImpact="42" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 196057.74175" QualityImpact="30" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 237212.8335" QualityImpact="42" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 191987.45795" QualityImpact="30" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T43" Desc="T43 (A92B)" AssetID="A92B" LongDesc="Er is op de verharding 0,4 km Dwarsscheuren, 2,2 km Langscheuren, dat moet worden geasfalteerd. En er zijn 8 Rijdekken, 2 Voegovergangen,  die moeten worden vervangen." Payment=" 1209543.71" QualityDemand="30" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 516059.642766667" QualityImpact="32" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 396573.661933333" QualityImpact="20" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 516059.642766667" QualityImpact="42" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 396573.661933333" QualityImpact="30" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 757958.85675" QualityImpact="42" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 578729.88545" QualityImpact="30" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T44" Desc="T44 (A93A)" AssetID="A93A" LongDesc=" En er zijn 2 Voegovergangen,  die moeten worden vervangen." Payment=" 33831.14" QualityDemand="36" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 71333.4218" QualityImpact="38" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 31635.8651" QualityImpact="26" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 71333.4218" QualityImpact="48" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 31635.8651" QualityImpact="36" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 67760.6417" QualityImpact="48" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 28063.085" QualityImpact="36" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T45" Desc="T45 (A93B)" AssetID="A93B" LongDesc="Er is op de verharding 0,2 km Dwarsscheuren, 1 km Langscheuren, dat moet worden geasfalteerd. En er zijn 7 Rijdekken, 2 Betonconstructies, 2 Staalconserveringen, 3 Voegovergangen,  die moeten worden vervangen." Payment=" 647015.92" QualityDemand="30" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 209865.499125" QualityImpact="32" Duration="4w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 158937.6711" QualityImpact="20" Duration="4w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 209865.499125" QualityImpact="42" Duration="4w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 158937.6711" QualityImpact="30" Duration="4w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 273709.326133333" QualityImpact="42" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 205805.555466667" QualityImpact="30" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T46" Desc="T46 (A93C)" AssetID="A93C" LongDesc="Er is op de verharding 0,8 km Langscheuren, dat moet worden geasfalteerd. En er zijn 1 Rijdek, 2 Betonconstructies, 4 Voegovergangen,  die moeten worden vervangen." Payment=" 372110.96" QualityDemand="29" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 429839.7924" QualityImpact="31" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 368731.6815" QualityImpact="19" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 429839.7924" QualityImpact="41" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 368731.6815" QualityImpact="29" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 424340.0624" QualityImpact="41" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 363231.9515" QualityImpact="29" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T47" Desc="T47 (A93D)" AssetID="A93D" LongDesc="Er is op de verharding 0,4 km Langscheuren, dat moet worden geasfalteerd. En er zijn 2 Rijdekken, 1 Voegovergang,  die moeten worden vervangen." Payment=" 265863.14" QualityDemand="31" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 160906.20385" QualityImpact="33" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 131294.016" QualityImpact="21" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 160906.20385" QualityImpact="43" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 131294.016" QualityImpact="31" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 158241.10695" QualityImpact="43" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 128628.9191" QualityImpact="31" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T48" Desc="T48 (A93E)" AssetID="A93E" LongDesc="Er is op de verharding 0,4 km Langscheuren, dat moet worden geasfalteerd. En er zijn 1 Rijdek,  die moeten worden vervangen." Payment=" 180616.3" QualityDemand="29" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 195982.6526" QualityImpact="31" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 179716.7983" QualityImpact="19" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 195982.6526" QualityImpact="41" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 179716.7983" QualityImpact="29" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 194518.7257" QualityImpact="41" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 178252.8714" QualityImpact="29" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T49" Desc="T49 (A93F)" AssetID="A93F" LongDesc="Er is op de verharding 0,6 km Langscheuren, dat moet worden geasfalteerd. " Payment=" 260237.58" QualityDemand="27" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 277042.0608" QualityImpact="29" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 259253.8944" QualityImpact="17" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 277042.0608" QualityImpact="39" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 259253.8944" QualityImpact="27" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 275441.1258" QualityImpact="39" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 257652.9594" QualityImpact="27" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T50" Desc="T50 (A93G)" AssetID="A93G" LongDesc="Er is op de verharding 0,4 km Dwarsscheuren, 1,8 km Langscheuren, dat moet worden geasfalteerd. En er zijn 1 Voegovergang,  die moeten worden vervangen." Payment=" 960200.1" QualityDemand="27" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 1140065.8791" QualityImpact="29" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 949671.2786" QualityImpact="17" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 1140065.8791" QualityImpact="39" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 949671.2786" QualityImpact="27" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 1122930.365" QualityImpact="39" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 932535.7646" QualityImpact="27" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T51" Desc="T51 (A93H)" AssetID="A93H" LongDesc="Er is op de verharding 0,2 km Langscheuren, dat moet worden geasfalteerd. En er zijn 2 Rijdekken, 3 Betonconstructies, 1 Staalconservering, 7 Voegovergangen,  die moeten worden vervangen." Payment=" 230983.27" QualityDemand="31" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 78547.91562" QualityImpact="33" Duration="5w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 44302.9049" QualityImpact="21" Duration="5w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 78547.91562" QualityImpact="43" Duration="5w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 44302.9049" QualityImpact="31" Duration="5w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 75465.86466" QualityImpact="43" Duration="5w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 41220.85394" QualityImpact="31" Duration="5w" DelayDuration="1w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T52" Desc="T52 (A93I)" AssetID="A93I" LongDesc="Er is op de verharding 0,6 km Langscheuren, dat moet worden geasfalteerd. En er zijn 2 Rijdekken, 1 Staalconservering, 2 Voegovergangen,  die moeten worden vervangen." Payment=" 356222.58" QualityDemand="30" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 159809.2491" QualityImpact="32" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 116336.835533333" QualityImpact="20" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 239713.87365" QualityImpact="42" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 174505.2533" QualityImpact="30" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 233845.0978" QualityImpact="42" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 168636.47745" QualityImpact="30" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T53" Desc="T53 (A93J)" AssetID="A93J" LongDesc="Er is op de verharding 0,2 km Rafeling, dat moet worden geasfalteerd. " Payment=" 86745.86" QualityDemand="36" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 182904.8333" QualityImpact="38" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 81116.9924" QualityImpact="26" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 182904.8333" QualityImpact="48" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 81116.9924" QualityImpact="36" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 173743.9277" QualityImpact="48" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 71956.0867" QualityImpact="36" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T54" Desc="T54 (A96A)" AssetID="A96A" LongDesc="Er is op de verharding 0,2 km Dwarsscheuren, dat moet worden geasfalteerd. En er zijn 1 Voegovergang,  die moeten worden vervangen." Payment=" 90734.71" QualityDemand="30" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 100651.2033" QualityImpact="32" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 90154.2272" QualityImpact="20" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 100651.2033" QualityImpact="42" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 90154.2272" QualityImpact="30" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 99706.4755" QualityImpact="42" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 89209.4994" QualityImpact="30" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T55" Desc="T55 (A96B)" AssetID="A96B" LongDesc="Er is op de verharding 0,2 km Langscheuren, dat moet worden geasfalteerd. En er zijn 1 Staalconservering,  die moeten worden vervangen." Payment=" 95718.07" QualityDemand="26" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 107531.0521" QualityImpact="28" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 95026.5723" QualityImpact="16" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 107531.0521" QualityImpact="38" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 95026.5723" QualityImpact="26" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 106405.649" QualityImpact="38" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 93901.1691" QualityImpact="26" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T56" Desc="T56 (A97A)" AssetID="A97A" LongDesc="Er is op de verharding 8,9 km Rafeling, 0,5 km Dwarsscheuren, 0,8 km Langscheuren, dat moet worden geasfalteerd. En er zijn 1 Staalconservering,  die moeten worden vervangen." Payment=" 4511219.22" QualityDemand="35" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 2225310.884625" QualityImpact="37" Duration="4w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 1063559.979975" QualityImpact="25" Duration="4w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 2225310.884625" QualityImpact="47" Duration="4w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 1063559.979975" QualityImpact="35" Duration="4w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 4241506.6064" QualityImpact="47" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 1918004.7971" QualityImpact="35" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T57" Desc="T57 (A97B)" AssetID="A97B" LongDesc="Er is op de verharding 0,2 km Dwarsscheuren, 0,6 km Langscheuren, dat moet worden geasfalteerd. " Payment=" 346983.44" QualityDemand="27" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 369282.7193" QualityImpact="29" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 345678.1048" QualityImpact="17" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 369282.7193" QualityImpact="39" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 345678.1048" QualityImpact="27" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 367158.304" QualityImpact="39" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 343553.6895" QualityImpact="27" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T58" Desc="T58 (A99A)" AssetID="A99A" LongDesc="Er is op de verharding 0,2 km Langscheuren, dat moet worden geasfalteerd. " Payment=" 86745.86" QualityDemand="27" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 88613.0245" QualityImpact="29" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 86636.5616" QualityImpact="17" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 88613.0245" QualityImpact="39" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 86636.5616" QualityImpact="27" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 88435.1429" QualityImpact="39" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 86458.6799" QualityImpact="27" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T59" Desc="T59 (A99B)" AssetID="A99B" LongDesc="Er is op de verharding 0,2 km Langscheuren, dat moet worden geasfalteerd. En er zijn 3 Rijdekken, 6 Voegovergangen, 3 Opleggingen die moeten worden vervangen." Payment=" 160855.43" QualityDemand="31" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 81624.6891333333" QualityImpact="33" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 51979.0741666667" QualityImpact="21" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 81624.6891333333" QualityImpact="43" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 51979.0741666667" QualityImpact="31" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 118434.8757" QualityImpact="43" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 73966.4532" QualityImpact="31" Duration="2w" DelayDuration="1w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T60" Desc="T60 (A99C)" AssetID="A99C" LongDesc="Er is op de verharding 0,6 km Langscheuren, dat moet worden geasfalteerd. En er zijn 7 Rijdekken, 2 Betonconstructies, 9 Voegovergangen, 5 Opleggingen die moeten worden vervangen." Payment=" 353097.94" QualityDemand="30" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 157613.1337" QualityImpact="32" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 115362.873966667" QualityImpact="20" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 157613.1337" QualityImpact="42" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 115362.873966667" QualityImpact="30" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 153810.6103" QualityImpact="42" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 111560.3506" QualityImpact="30" Duration="3w" DelayDuration="1w" DelayRisk=" .166667" />
+  </Task>
+  <Task ID="T61" Desc="T61 (A99D)" AssetID="A99D" LongDesc=" En er zijn 2 Rijdekken, 2 Voegovergangen, 2 Opleggingen die moeten worden vervangen." Payment=" 25479.21" QualityDemand="30" >
+    <Method ID="M1" Desc="Hoge Kwaliteit; Afsluitingsvrij" CostFunction="Constant: 53723.2631" QualityImpact="32" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M2" Desc="Conform; Afsluitingsvrij" CostFunction="Constant: 23825.885" QualityImpact="20" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M3" Desc="Hoge Kwaliteit; Nachtafsluiting" CostFunction="Constant: 53723.2631" QualityImpact="42" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M4" Desc="Conform; Nachtafsluiting" CostFunction="Constant: 23825.885" QualityImpact="30" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M5" Desc="Hoge Kwaliteit; Grote Afsluiting" CostFunction="Constant: 51032.4991" QualityImpact="42" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+    <Method ID="M6" Desc="Conform; Grote Afsluiting" CostFunction="Constant: 21135.121" QualityImpact="30" Duration="1w" DelayDuration="0w" DelayRisk=" .166667" />
+  </Task>
+</Tasks>

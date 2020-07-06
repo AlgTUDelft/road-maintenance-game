@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Infrastructure>
+  <Assets Filename="assets.xml" />
+
+  <TTLModel>  
+    <AssetRules Filename="asset_ttl.xml" />
+    <NetworkRules Filename="network_ttl.xml" />
+  </TTLModel>
+  
+  <Graph Filename="network.svg.xml" />
+</Infrastructure>

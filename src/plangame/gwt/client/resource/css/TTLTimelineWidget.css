@@ -1,0 +1,56 @@
+/** The main panel */
+.mainpanel {
+	margin: auto;
+	margin-top: 15px;
+}
+
+/** Panel for legend entry */
+.legend-entry {
+	width: 95%;
+	height: 30px;
+	margin: 5px;
+	margin-right: auto;
+}
+
+/** The colour box */
+.legend-colour {
+	width: 20px;
+	height: 20px;
+	border: 1px solid black;
+	margin: 5px;
+}
+
+/** The legend caption text */
+.legend-text {
+	width: 90%;
+	margin: auto;
+	margin-right: 5px;
+}
+
+/** Legend caption text when the plot is not drawn */
+.legend-text-notdrawn {
+	text-decoration: line-through;
+}
+
+/** X axis labels */
+.xaxis-label {
+	font-size: 8pt;
+}
+
+/** X axis caption */
+.xaxis-caption {
+	
+}
+
+/** Y axis labels */
+.yaxis-label {
+	font-size: 8pt;
+	text-align: right;
+}
+
+/** Y axis caption */
+.yaxis-caption {
+	-webkit-transform: rotate(-90deg); 
+	-moz-transform: rotate(-90deg);
+	filter: literal("progid:DXImageTransform.Microsoft.BasicImage(rotation=3)");	
+}

@@ -1,0 +1,13 @@
+[20-11-13 22:11:41] TraceInfo|VersionNumber|V1
+[20-11-13 22:11:41] GameLoaded|GameFile|games/roersteden/game.xml|MaxPlayers|5
+[20-11-13 22:13:52] PlayerAdded|PlayerID|SP461780
+[20-11-13 22:13:54] PlayerAdded|PlayerID|SP382376
+[20-11-13 22:13:56] PlayerAdded|PlayerID|SP255224
+[20-11-13 22:14:00] PlayerAdded|PlayerID|SP401519
+[20-11-13 22:14:02] PlayerAdded|PlayerID|SP305725
+[20-11-13 22:14:08] PortfolioAssigned|PlayerID|SP461780|PortfolioID|P1
+[20-11-13 22:14:11] PortfolioAssigned|PlayerID|SP382376|PortfolioID|P2
+[20-11-13 22:14:14] PortfolioAssigned|PlayerID|SP255224|PortfolioID|P3
+[20-11-13 22:14:18] PortfolioAssigned|PlayerID|SP401519|PortfolioID|P4
+[20-11-13 22:14:22] PortfolioAssigned|PlayerID|SP305725|PortfolioID|P5
+[20-11-13 22:14:24] GameStarted|NumPlayers|5|GamePeriod|52

@@ -1,0 +1,60 @@
+/** CSS for the start game dialog */
+/* The dialog */
+.mainpanel {
+	height: 400px;
+	width: 600px;
+}
+
+/** The title panel */
+.titlepanel {
+	height: 40px;
+	width: 580px;
+	margin: 10px;
+}
+
+/* The results title text */
+.resultstitle {
+	width: 400px;
+	font-size: large;
+	font-weight: bold;
+}
+
+/** The table header texts */
+.tableheader {
+	width: 580px;
+	font-weight: bold;
+	font-style: italic;
+	margin: 0px auto;
+}
+
+/** The tables */
+.table {
+	margin-bottom: 20px;
+}
+
+/** The total network TTL label */
+.totalttl {
+	width: 400px;
+	font-size: larger;
+	font-weight: bold;
+	font-style: italic;
+	margin: 0px auto;
+}
+
+/** The total network TTL label */
+.totalttlvalue {
+	width: 150px;
+	font-size: larger;
+	font-weight: bold;
+	font-style: italic;
+	text-align: right;
+	margin: 0px auto;
+}
+
+/** The ok button */
+.ok {
+	margin: auto;
+	margin-top: 20px;
+	width: 250px;
+	height: 40px;
+}

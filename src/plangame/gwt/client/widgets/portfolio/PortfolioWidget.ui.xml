@@ -1,0 +1,20 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui" >
+
+	<g:HorizontalPanel styleName="pfPanel">
+		<g:VerticalPanel height="100%" width="100%" verticalAlignment="middle" horizontalAlignment="center">
+			<g:ScrollPanel height="100px">
+				<!-- Task list -->
+				<g:VerticalPanel ui:field="pnlTasks" styleName="pfPanelTasklist" width="100%">
+				</g:VerticalPanel>
+			</g:ScrollPanel>
+		</g:VerticalPanel>
+		
+		<g:VerticalPanel height="100%" width="100%" verticalAlignment="middle" horizontalAlignment="center">
+			<!-- Task details -->
+			<g:VerticalPanel ui:field="pnlDetails" styleName="pfPanelTaskdetails">
+			</g:VerticalPanel>
+		</g:VerticalPanel>
+	</g:HorizontalPanel>	
+</ui:UiBinder> 

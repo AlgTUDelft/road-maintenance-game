@@ -1,0 +1,82 @@
+/** CSS for the start game dialog */
+/* The dialog */
+.mainpanel {
+	height: 400px;
+	width: 600px;
+}
+
+/** The title panel */
+.titlepanel {
+	height: 40px;
+	width: 580px;
+	margin: 10px;
+}
+
+/* The welcome title text */
+.welcometitle {
+	width: 400px;
+	font-size: large;
+	font-weight: bold;
+}
+
+/* Colour label */
+.colourlabel {
+	width: 150px;
+	text-align: right;
+	font-weight: bold;
+	padding-right: 10px;
+	padding-top: 5px;
+}
+
+/* Colour DIV */
+.colourdiv {
+	width: 30px;
+	height: 30px;
+	border: 1px solid black;
+	margin: auto;
+}
+
+/** The info panel */
+.infopanel {
+	width: 580px;
+	height: 300px;
+	margin: 10px;
+}
+
+/* The welcome text */
+.welcometext {
+	height: 300px;
+	width: 280px;
+	margin-right: 20px;
+	text-align: justify;
+}
+
+/** The map label */
+.maplabel {
+	height: 20px;
+	width: 300px;
+	text-align: center;
+	font-weight: bold;
+}
+
+/** The actual map */
+.map {
+	margin-left: 10px
+}
+
+/* The button panel */
+.buttonpanel {
+	width: 580px;
+	margin: 10px;
+}
+
+.buttonpanel td {
+	text-align: center;
+}
+
+/** The start button */
+.startbutton {
+	margin: auto;
+	width: 250px;
+	height: 40px;
+}

@@ -1,0 +1,12 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui"
+	xmlns:c="urn:import:plangame.gwt.client.widgets.controls">
+  
+  <ui:with type="plangame.gwt.client.resource.ClientResource" field="res" />
+  
+  <g:VerticalPanel ui:field="pnlMain" styleName="{res.mechcss.mainpanel}">
+    <g:Grid ui:field="grid" />
+  </g:VerticalPanel>
+  
+</ui:UiBinder> 

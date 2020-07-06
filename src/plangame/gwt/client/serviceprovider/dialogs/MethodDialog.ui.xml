@@ -1,0 +1,265 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+	<ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'
+    xmlns:g='urn:import:com.google.gwt.user.client.ui'
+    xmlns:c="urn:import:plangame.gwt.client.widgets.controls"
+    xmlns:m="urn:import:plangame.gwt.client.widgets.map"
+    xmlns:t="urn:import:plangame.gwt.client.widgets.ttltimeline">
+ 
+    <ui:with type="plangame.gwt.client.resource.ClientResource" field="res"></ui:with>
+    <ui:with type="plangame.gwt.client.resource.locale.Lang" field="lang" />
+
+  <g:VerticalPanel styleName="{res.methoddialogcss.mainpanel}">
+    <!-- Select task -->
+    <c:StepPanel ui:field="pnlStepTask" styleName="methoddialog-steppanel" stepTitle="{lang.MethodDialog_StepTask}">
+      <g:HorizontalPanel width="100%">
+        <c:DataListBox ui:field="lstTasks" styleName="{res.methoddialogcss.datalist}" />
+      </g:HorizontalPanel>
+      <g:HorizontalPanel ui:field="pnlTaskInfo" styleName="{res.methoddialogcss.taskcontainer}">
+        <g:VerticalPanel styleName="{res.methoddialogcss.taskinfo}">
+          <g:Label ui:field="lblTaskName" styleName="{res.methoddialogcss.taskname}" />
+          <g:HTML ui:field="lblTaskDesc" styleName="{res.methoddialogcss.taskdesc}" />
+        </g:VerticalPanel>
+        <m:MapWidget ui:field="wdMap" styleName="{res.methoddialogcss.map}"/>
+      </g:HorizontalPanel>  
+    </c:StepPanel>
+
+    <!-- Select method -->
+    <c:StepPanel ui:field="pnlStepMethod" styleName="methoddialog-steppanel" stepTitle="{lang.MethodDialog_StepMethod}">
+      <g:HorizontalPanel width="100%">
+        <c:DataListBox ui:field="lstMethods" styleName="{res.methoddialogcss.datalist}" />
+      </g:HorizontalPanel>
+      
+      <g:HorizontalPanel ui:field="pnlMethod" styleName="{res.methoddialogcss.methodcontainer}">
+        <g:VerticalPanel styleName="{res.methoddialogcss.methodinfo}">
+          <g:Label ui:field="lblMethodName" styleName="{res.methoddialogcss.methodname}" />
+          <g:HTML ui:field="lblMethodDesc" styleName="{res.methoddialogcss.methoddesc}" />
+        </g:VerticalPanel>
+ 
+        <g:VerticalPanel>           
+          <g:Label text="{lang.MethodDialog_CostTitle}" styleName="{res.methoddialogcss.gridtitle}" />      
+          <g:Grid ui:field="gdMethod" styleName="{res.methoddialogcss.methodgrid}">  
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.methodgridlabel}"><ui:text from="{lang.MethodDialog_Duration}" />:</g:cell>
+              <g:customCell styleName="{res.methoddialogcss.methodgridvalue}"><g:Label ui:field="lblDuration"></g:Label></g:customCell>
+              <g:cell styleName="{res.methoddialogcss.methodgridop}"> </g:cell>
+            </g:row>
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.methodgridlabel}"><ui:text from="{lang.MethodDialog_DelayProbability}" />:</g:cell>
+              <g:customCell styleName="{res.methoddialogcss.methodgridvalue}"><g:Label ui:field="lblDelayRisk"></g:Label></g:customCell>
+              <g:cell styleName="{res.methoddialogcss.methodgridop}"> </g:cell>
+            </g:row>
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.methodgridlabel}"><ui:text from="{lang.MethodDialog_DelayDuration}" />:</g:cell>
+              <g:customCell styleName="{res.methoddialogcss.methodgridvalue}"><g:Label ui:field="lblDelayDuration"></g:Label></g:customCell>
+              <g:cell styleName="{res.methoddialogcss.methodgridop}"> </g:cell>
+            </g:row>
+            <g:row><g:cell colSpan="3" height="3px"> </g:cell> </g:row>
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.methodgridlabel}"><ui:text from="{lang.MethodDialog_Revenue}" />:</g:cell>
+              <g:customCell styleName="{res.methoddialogcss.methodgridvalue}"><g:Label ui:field="lblRevenue"></g:Label></g:customCell>
+              <g:cell styleName="{res.methoddialogcss.methodgridop}"> </g:cell>
+            </g:row>          
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.methodgridlabel}"><ui:text from="{lang.MethodDialog_Cost}" />:</g:cell>
+              <g:customCell styleName="{res.methoddialogcss.methodgridvalue}"><g:Label ui:field="lblCost"></g:Label></g:customCell>
+              <g:cell styleName="{res.methoddialogcss.methodgridop}">-</g:cell>
+            </g:row>
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.methodgridlabel}"><ui:text from="{lang.MethodDialog_ProfitExRisk}" />:</g:cell>
+              <g:customCell styleName="{res.methoddialogcss.methodgridvalue} {res.methoddialogcss.methodgridtotal}"><g:Label ui:field="lblProfitExRisk"></g:Label></g:customCell>
+              <g:cell styleName="{res.methoddialogcss.methodgridop}"> </g:cell>
+            </g:row>
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.methodgridifdelayed}" colSpan="3"><ui:text from="{lang.MethodDialog_IfDelayed}" /></g:cell>
+            </g:row>          
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.methodgridlabel}"><ui:text from="{lang.MethodDialog_DelayCost}" />:</g:cell>
+              <g:customCell styleName="{res.methoddialogcss.methodgridvalue}"><g:Label ui:field="lblDelayCost"></g:Label></g:customCell>
+              <g:cell styleName="{res.methoddialogcss.methodgridop}">-</g:cell>
+            </g:row>
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.methodgridlabel}"><ui:text from="{lang.MethodDialog_ProfitIncRisk}" />:</g:cell>
+              <g:customCell styleName="{res.methoddialogcss.methodgridvalue} {res.methoddialogcss.methodgridtotal}"><g:Label ui:field="lblProfitIncRisk"></g:Label></g:customCell>
+              <g:cell styleName="{res.methoddialogcss.methodgridop}"> </g:cell>
+            </g:row>
+            <g:row><g:cell colSpan="3" height="3px"> </g:cell> </g:row>
+            <!-- 
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.methodgridlabel}"><ui:text from="{lang.MethodDialog_TTLImpactAvg}" />:</g:cell>
+              <g:customCell styleName="{res.methoddialogcss.methodgridvalue}"><g:Label ui:field="lblTTL"></g:Label></g:customCell>
+            </g:row>
+             -->
+          </g:Grid>
+        </g:VerticalPanel>
+      </g:HorizontalPanel>
+    </c:StepPanel>
+    
+    <!-- Select time -->
+    <c:StepPanel ui:field="pnlStepTime" styleName="methoddialog-steppanel" stepTitle="{lang.MethodDialog_StepTime}">      
+      <g:HorizontalPanel styleName="{res.methoddialogcss.planpanel}">
+        <g:VerticalPanel ui:field="pnlPlan" styleName="{res.methoddialogcss.timegraph}">
+          <c:NumberSelect ui:field="numWeek" styleName="{res.methoddialogcss.numweek}" />
+          <t:TTLTimelineWidget ui:field="wdPlot" styleName="{res.methoddialogcss.plots}" />
+        </g:VerticalPanel>
+
+        <g:VerticalPanel>
+          <g:Label text="{lang.MethodDialog_TTLTitle}" styleName="{res.methoddialogcss.gridtitle}" />      
+          <g:Grid ui:field="gdTime" styleName="{res.methoddialogcss.methodgrid}" width="220px">  
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.methodgridlabel}"><ui:text from="{lang.MethodDialog_TTLIndividual}" />:</g:cell>
+              <g:customCell styleName="{res.methoddialogcss.methodgridvalue}"><g:Label ui:field="lblTTLIndiv"></g:Label></g:customCell>
+              <g:cell styleName="{res.methoddialogcss.methodgridop}"> </g:cell>
+            </g:row>
+            <g:row>
+              <g:customCell styleName="{res.methoddialogcss.methodgridlabel}"><g:Label ui:field="lblTTLNetworkBestDesc"> <ui:text from="{lang.MethodDialog_TTLNetworkBest}" />:</g:Label></g:customCell>
+              <g:customCell styleName="{res.methoddialogcss.methodgridvalue}"><g:Label ui:field="lblTTLNetworkBest"></g:Label></g:customCell>
+              <g:cell styleName="{res.methoddialogcss.methodgridop}"> </g:cell>
+            </g:row>
+            <g:row>
+              <g:customCell styleName="{res.methoddialogcss.methodgridlabel}"><g:Label ui:field="lblTTLNetworkWorstDesc"> <ui:text from="{lang.MethodDialog_TTLNetworkWorst}" />:</g:Label></g:customCell>
+              <g:customCell styleName="{res.methoddialogcss.methodgridvalue}"><g:Label ui:field="lblTTLNetworkWorst"></g:Label></g:customCell>
+              <g:cell styleName="{res.methoddialogcss.methodgridop}">+</g:cell>
+            </g:row>
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.methodgridlabel}"><ui:text from="{lang.MethodDialog_TotalTTLExRisk}" />:</g:cell>
+              <g:customCell styleName="{res.methoddialogcss.methodgridvalue} {res.methoddialogcss.methodgridtotal}"><g:Label ui:field="lblTTLTotalNoDelay"></g:Label></g:customCell>
+              <g:cell styleName="{res.methoddialogcss.methodgridop}"> </g:cell>
+            </g:row>
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.methodgridifdelayed}" colSpan="3"><ui:text from="{lang.MethodDialog_IfDelayed}" /></g:cell>
+            </g:row>              
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.methodgridlabel}"><ui:text from="{lang.MethodDialog_TTLIndividualDelay}" />:</g:cell>
+              <g:customCell styleName="{res.methoddialogcss.methodgridvalue}"><g:Label ui:field="lblTTLIndivDelay"></g:Label></g:customCell>
+              <g:cell styleName="{res.methoddialogcss.methodgridop}"> </g:cell>
+            </g:row>
+            <g:row>
+              <g:customCell styleName="{res.methoddialogcss.methodgridlabel}"><g:Label ui:field="lblTTLNetworkBestDelayDesc"> <ui:text from="{lang.MethodDialog_TTLNetworkBestDelay}" />:</g:Label></g:customCell>
+              <g:customCell styleName="{res.methoddialogcss.methodgridvalue}"><g:Label ui:field="lblTTLNetworkBestDelay"></g:Label></g:customCell>
+              <g:cell styleName="{res.methoddialogcss.methodgridop}"> </g:cell>
+            </g:row>
+            <g:row>
+              <g:customCell styleName="{res.methoddialogcss.methodgridlabel}"><g:Label ui:field="lblTTLNetworkWorstDelayDesc"> <ui:text from="{lang.MethodDialog_TTLNetworkWorstDelay}" />:</g:Label></g:customCell>
+              <g:customCell styleName="{res.methoddialogcss.methodgridvalue}"><g:Label ui:field="lblTTLNetworkWorstDelay"></g:Label></g:customCell>
+              <g:cell styleName="{res.methoddialogcss.methodgridop}">+</g:cell>
+            </g:row>
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.methodgridlabel}"><ui:text from="{lang.MethodDialog_TotalTTLIncRisk}" />:</g:cell>
+              <g:customCell styleName="{res.methoddialogcss.methodgridvalue} {res.methoddialogcss.methodgridtotal}"><g:Label ui:field="lblTTLTotalDelay"></g:Label></g:customCell>
+              <g:cell styleName="{res.methoddialogcss.methodgridop}">+</g:cell>
+            </g:row>
+            <g:row><g:cell colSpan="3" height="3px"> </g:cell> </g:row>
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.methodgridlabel}"><ui:text from="{lang.MethodDialog_TotalTTLPaymentExRisk}" />:</g:cell>
+              <g:customCell styleName="{res.methoddialogcss.methodgridvalue}"><g:Label ui:field="lblTTLPaymentNoDelay"></g:Label></g:customCell>
+              <g:cell styleName="{res.methoddialogcss.methodgridop}"> </g:cell>
+            </g:row>
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.methodgridlabel}"><ui:text from="{lang.MethodDialog_TotalTTLPaymentIncRisk}" />:</g:cell>
+              <g:customCell styleName="{res.methoddialogcss.methodgridvalue}"><g:Label ui:field="lblTTLPaymentDelay"></g:Label></g:customCell>
+              <g:cell styleName="{res.methoddialogcss.methodgridop}"> </g:cell>
+            </g:row>
+          </g:Grid>
+        </g:VerticalPanel>      
+      </g:HorizontalPanel>
+    </c:StepPanel>
+    
+    <!--  Confirmation step -->
+    <c:StepPanel ui:field="pnlStepConfirm" styleName="methoddialog-steppanel" stepTitle="{lang.MethodDialog_StepConfirm}">
+      <g:HorizontalPanel styleName="{res.methoddialogcss.confirmpanel}" >
+        <g:VerticalPanel>
+          <g:Label text="{lang.MethodDialog_ConfirmMethodTitle}" styleName="{res.methoddialogcss.gridtitle}" />      
+          <g:Grid ui:field="gdChoices" styleName="{res.methoddialogcss.methodgrid}" width="220px">  
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.methodgridlabel}"><ui:text from="{lang.MethodDialog_ConfirmTask}" />:</g:cell>
+              <g:customCell styleName="{res.methoddialogcss.methodgridvalue}"><g:Label ui:field="lblConfirmTask"></g:Label></g:customCell>
+            </g:row>
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.methodgridlabel}"><ui:text from="{lang.MethodDialog_ConfirmMethod}" />:</g:cell>
+              <g:customCell styleName="{res.methoddialogcss.methodgridvalue}"><g:Label ui:field="lblConfirmMethod"></g:Label></g:customCell>
+            </g:row>
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.methodgridlabel}"><ui:text from="{lang.MethodDialog_ConfirmTime}" />:</g:cell>
+              <g:customCell styleName="{res.methoddialogcss.methodgridvalue}"><g:Label ui:field="lblConfirmTime"></g:Label></g:customCell>
+            </g:row>
+          </g:Grid>
+        </g:VerticalPanel>    
+        <g:VerticalPanel>
+          <g:Label text="{lang.MethodDialog_ConfirmCostTitle}" styleName="{res.methoddialogcss.gridtitle}" />      
+          <g:Grid ui:field="gdExpectedCost" styleName="{res.methoddialogcss.confirmgrid}">  
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.confirmgridheader} {res.methoddialogcss.confirmgridlabel}"> </g:cell>
+              <g:cell styleName="{res.methoddialogcss.confirmgridvalue} {res.methoddialogcss.confirmgridheader}"><ui:text from="{lang.MethodDialog_ConfirmRegular}" /></g:cell>
+              <g:cell styleName="{res.methoddialogcss.confirmgridheader}"><ui:text from="{lang.MethodDialog_ConfirmDelayed}" /></g:cell>
+              <g:cell styleName="{res.methoddialogcss.confirmgridheader} {res.methoddialogcss.confirmgridtotalcol}"><ui:text from="{lang.MethodDialog_ConfirmTotal}" /></g:cell>
+            </g:row>
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.confirmgridlabel}"><ui:text from="{lang.MethodDialog_Revenue}" /></g:cell>
+              <g:customCell styleName="{res.methoddialogcss.confirmgridvalue}"><g:Label ui:field="lblConfirmRevenueRegular"></g:Label></g:customCell>
+              <g:customCell styleName="{res.methoddialogcss.confirmgridvalue}"><g:Label ui:field="lblConfirmRevenueDelayed"></g:Label></g:customCell>
+              <g:customCell styleName="{res.methoddialogcss.confirmgridvalue} {res.methoddialogcss.confirmgridtotalcol}"><g:Label ui:field="lblConfirmRevenueTotal"></g:Label></g:customCell>
+            </g:row>
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.confirmgridlabel}"><ui:text from="{lang.MethodDialog_Cost}" /></g:cell>
+              <g:customCell styleName="{res.methoddialogcss.confirmgridvalue}"><g:Label ui:field="lblConfirmCostRegular"></g:Label></g:customCell>
+              <g:customCell styleName="{res.methoddialogcss.confirmgridvalue}"><g:Label ui:field="lblConfirmCostDelayed"></g:Label></g:customCell>
+              <g:customCell styleName="{res.methoddialogcss.confirmgridvalue} {res.methoddialogcss.confirmgridtotalcol}"><g:Label ui:field="lblConfirmCostTotal"></g:Label></g:customCell>
+            </g:row>
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.confirmgridlabel}"><ui:text from="{lang.MethodDialog_ConfirmPayment}" /></g:cell>
+              <g:customCell styleName="{res.methoddialogcss.confirmgridvalue}"><g:Label ui:field="lblConfirmPaymentRegular"></g:Label></g:customCell>
+              <g:customCell styleName="{res.methoddialogcss.confirmgridvalue}"><g:Label ui:field="lblConfirmPaymentDelayed"></g:Label></g:customCell>
+              <g:customCell styleName="{res.methoddialogcss.confirmgridvalue} {res.methoddialogcss.confirmgridtotalcol}"><g:Label ui:field="lblConfirmPaymentTotal"></g:Label></g:customCell>
+            </g:row>
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.confirmgridlabel} {res.methoddialogcss.confirmgridtotalrow}"><ui:text from="{lang.MethodDialog_ConfirmTotal}" /></g:cell>
+              <g:customCell styleName="{res.methoddialogcss.confirmgridvalue} {res.methoddialogcss.confirmgridtotalrow}"><g:Label ui:field="lblConfirmTotalCostRegular"></g:Label></g:customCell>
+              <g:customCell styleName="{res.methoddialogcss.confirmgridvalue} {res.methoddialogcss.confirmgridtotalrow}"><g:Label ui:field="lblConfirmTotalCostDelayed"></g:Label></g:customCell>
+              <g:customCell styleName="{res.methoddialogcss.confirmgridvalue} {res.methoddialogcss.confirmgridtotalrow} {res.methoddialogcss.confirmgridtotalcol}"><g:Label ui:field="lblConfirmTotalCostTotal"></g:Label></g:customCell>
+            </g:row>
+          </g:Grid>
+
+          <g:Label text="{lang.MethodDialog_ConfirmTTLTitle}" styleName="{res.methoddialogcss.gridtitle}" />      
+          <g:Grid ui:field="gdExpectedTTL" styleName="{res.methoddialogcss.confirmgrid}">  
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.confirmgridheader} {res.methoddialogcss.confirmgridlabel}"> </g:cell>
+              <g:cell styleName="{res.methoddialogcss.confirmgridvalue} {res.methoddialogcss.confirmgridheader}"><ui:text from="{lang.MethodDialog_ConfirmRegular}" /></g:cell>
+              <g:cell styleName="{res.methoddialogcss.confirmgridheader}"><ui:text from="{lang.MethodDialog_ConfirmDelayed}" /></g:cell>
+              <g:cell styleName="{res.methoddialogcss.confirmgridheader} {res.methoddialogcss.confirmgridtotalcol}"><ui:text from="{lang.MethodDialog_ConfirmTotal}" /></g:cell>
+            </g:row>
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.confirmgridlabel}"><ui:text from="{lang.MethodDialog_TTLIndividual}" /></g:cell>
+              <g:customCell styleName="{res.methoddialogcss.confirmgridvalue}"><g:Label ui:field="lblConfirmTTLIndivRegular"></g:Label></g:customCell>
+              <g:customCell styleName="{res.methoddialogcss.confirmgridvalue}"><g:Label ui:field="lblConfirmTTLIndivDelayed"></g:Label></g:customCell>
+              <g:customCell styleName="{res.methoddialogcss.confirmgridvalue} {res.methoddialogcss.confirmgridtotalcol}"><g:Label ui:field="lblConfirmTTLIndivTotal"></g:Label></g:customCell>
+            </g:row>
+            <g:row>
+              <g:customCell styleName="{res.methoddialogcss.confirmgridlabel}"><g:Label ui:field="lblConfirmNetworkBestDesc"><ui:text from="{lang.MethodDialog_TTLNetworkBest}" /></g:Label></g:customCell>
+              <g:customCell styleName="{res.methoddialogcss.confirmgridvalue}"><g:Label ui:field="lblConfirmNetworkBestRegular"></g:Label></g:customCell>
+              <g:customCell styleName="{res.methoddialogcss.confirmgridvalue}"><g:Label ui:field="lblConfirmNetworkBestDelayed"></g:Label></g:customCell>
+              <g:customCell styleName="{res.methoddialogcss.confirmgridvalue} {res.methoddialogcss.confirmgridtotalcol}"><g:Label ui:field="lblConfirmNetworkBestTotal"></g:Label></g:customCell>
+            </g:row>
+            <g:row>
+              <g:customCell styleName="{res.methoddialogcss.confirmgridlabel}"><g:Label ui:field="lblConfirmNetworkWorstDesc"><ui:text from="{lang.MethodDialog_TTLNetworkWorst}" /></g:Label></g:customCell>
+              <g:customCell styleName="{res.methoddialogcss.confirmgridvalue}"><g:Label ui:field="lblConfirmNetworkWorstRegular"></g:Label></g:customCell>
+              <g:customCell styleName="{res.methoddialogcss.confirmgridvalue}"><g:Label ui:field="lblConfirmNetworkWorstDelayed"></g:Label></g:customCell>
+              <g:customCell styleName="{res.methoddialogcss.confirmgridvalue} {res.methoddialogcss.confirmgridtotalcol}"><g:Label ui:field="lblConfirmNetworkWorstTotal"></g:Label></g:customCell>
+            </g:row>
+            <g:row>
+              <g:cell styleName="{res.methoddialogcss.confirmgridlabel} {res.methoddialogcss.confirmgridtotalrow}"><ui:text from="{lang.MethodDialog_ConfirmTotal}" /></g:cell>
+              <g:customCell styleName="{res.methoddialogcss.confirmgridvalue} {res.methoddialogcss.confirmgridtotalrow}"><g:Label ui:field="lblConfirmTotalTTLRegular"></g:Label></g:customCell>
+              <g:customCell styleName="{res.methoddialogcss.confirmgridvalue} {res.methoddialogcss.confirmgridtotalrow}"><g:Label ui:field="lblConfirmTotalTTLDelayed"></g:Label></g:customCell>
+              <g:customCell styleName="{res.methoddialogcss.confirmgridvalue} {res.methoddialogcss.confirmgridtotalrow} {res.methoddialogcss.confirmgridtotalcol}"><g:Label ui:field="lblConfirmTotalTTLTotal"></g:Label></g:customCell>
+            </g:row>
+          </g:Grid>
+        </g:VerticalPanel>                    
+      </g:HorizontalPanel>
+    </c:StepPanel>
+    
+    <!-- Dialog buttons -->
+    <g:HorizontalPanel width="100%" styleName="{res.methoddialogcss.buttonpanel}">
+      <g:Button ui:field="btnCancel" text="{lang.Dialog_Cancel}" />
+      <g:Button ui:field="btnOK" />
+    </g:HorizontalPanel>    
+  </g:VerticalPanel>
+</ui:UiBinder>

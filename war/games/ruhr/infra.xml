@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Infrastructure>
+  <Assets Filename="assets.xml" />
+
+  <TTLModel>  
+    <AssetRules Filename="asset_ttl.xml" />
+      
+    <NetworkRules Type="Binary">
+      <MethodRules>
+        <Rule Method="P1.T1.M1" Factor="1.5"/>
+        <Rule Method="P1.T1.M2" Factor="1.5"/>
+        <Rule Method="P1.T1.M3" Factor="1.5"/>
+        <Rule Method="P1.T2.M1" Factor="1.5"/>
+        <Rule Method="P1.T2.M2" Factor="1.5"/>
+        <Rule Method="P1.T2.M3" Factor="1.5"/>
+        <Rule Method="P1.T3.M1" Factor="1.5"/>
+        <Rule Method="P1.T3.M2" Factor="1.5"/>
+        <Rule Method="P1.T3.M3" Factor="1.5"/>
+    		<Rule Method="P1.T4.M1" Factor="1.5"/>
+        <Rule Method="P1.T4.M2" Factor="1.5"/>
+        <Rule Method="P1.T4.M3" Factor="1.5"/>
+        <Rule Method="P1.T5.M1" Factor="1.5"/>
+        <Rule Method="P1.T5.M2" Factor="1.5"/>
+        <Rule Method="P1.T5.M3" Factor="1.5"/>
+        <Rule Method="P2.T1.M1" Factor="1.5"/>
+        <Rule Method="P2.T1.M2" Factor="1.5"/>
+        <Rule Method="P2.T1.M3" Factor="1.5"/>
+        <Rule Method="P2.T2.M1" Factor="1.5"/>
+        <Rule Method="P2.T2.M2" Factor="1.5"/>
+        <Rule Method="P2.T2.M3" Factor="1.5"/>
+        <Rule Method="P2.T3.M1" Factor="1.5"/>
+        <Rule Method="P2.T3.M2" Factor="1.5"/>
+        <Rule Method="P2.T3.M3" Factor="1.5"/>
+    		<Rule Method="P2.T4.M1" Factor="1.5"/>
+        <Rule Method="P2.T4.M2" Factor="1.5"/>
+        <Rule Method="P2.T4.M3" Factor="1.5"/>
+        <Rule Method="P2.T5.M1" Factor="1.5"/>
+        <Rule Method="P2.T5.M2" Factor="1.5"/>
+        <Rule Method="P2.T5.M3" Factor="1.5"/>
+        <Rule Method="P3.T1.M1" Factor="1.5"/>
+        <Rule Method="P3.T1.M2" Factor="1.5"/>
+        <Rule Method="P3.T1.M3" Factor="1.5"/>
+        <Rule Method="P3.T2.M1" Factor="1.5"/>
+        <Rule Method="P3.T2.M2" Factor="1.5"/>
+        <Rule Method="P3.T2.M3" Factor="1.5"/>
+        <Rule Method="P3.T3.M1" Factor="1.5"/>
+        <Rule Method="P3.T3.M2" Factor="1.5"/>
+        <Rule Method="P3.T3.M3" Factor="1.5"/>
+    		<Rule Method="P3.T4.M1" Factor="1.5"/>
+        <Rule Method="P3.T4.M2" Factor="1.5"/>
+        <Rule Method="P3.T4.M3" Factor="1.5"/>
+        <Rule Method="P3.T5.M1" Factor="1.5"/>
+        <Rule Method="P3.T5.M2" Factor="1.5"/>
+        <Rule Method="P3.T5.M3" Factor="1.5"/>
+        <Rule Method="P4.T1.M1" Factor="1.5"/>
+        <Rule Method="P4.T1.M2" Factor="1.5"/>
+        <Rule Method="P4.T1.M3" Factor="1.5"/>
+        <Rule Method="P4.T2.M1" Factor="1.5"/>
+        <Rule Method="P4.T2.M2" Factor="1.5"/>
+        <Rule Method="P4.T2.M3" Factor="1.5"/>
+        <Rule Method="P4.T3.M1" Factor="1.5"/>
+        <Rule Method="P4.T3.M2" Factor="1.5"/>
+        <Rule Method="P4.T3.M3" Factor="1.5"/>
+    		<Rule Method="P4.T4.M1" Factor="1.5"/>
+        <Rule Method="P4.T4.M2" Factor="1.5"/>
+        <Rule Method="P4.T4.M3" Factor="1.5"/>
+        <Rule Method="P4.T5.M1" Factor="1.5"/>
+        <Rule Method="P4.T5.M2" Factor="1.5"/>
+        <Rule Method="P4.T5.M3" Factor="1.5"/>
+        <Rule Method="P5.T1.M1" Factor="1.5"/>
+        <Rule Method="P5.T1.M2" Factor="1.5"/>
+        <Rule Method="P5.T1.M3" Factor="1.5"/>
+        <Rule Method="P5.T2.M1" Factor="1.5"/>
+        <Rule Method="P5.T2.M2" Factor="1.5"/>
+        <Rule Method="P5.T2.M3" Factor="1.5"/>
+        <Rule Method="P5.T3.M1" Factor="1.5"/>
+        <Rule Method="P5.T3.M2" Factor="1.5"/>
+        <Rule Method="P5.T3.M3" Factor="1.5"/>
+    		<Rule Method="P5.T4.M1" Factor="1.5"/>
+        <Rule Method="P5.T4.M2" Factor="1.5"/>
+        <Rule Method="P5.T4.M3" Factor="1.5"/>
+        <Rule Method="P5.T5.M1" Factor="1.5"/>
+        <Rule Method="P5.T5.M2" Factor="1.5"/>
+        <Rule Method="P5.T5.M3" Factor="1.5"/>
+      </MethodRules>    
+    
+      <CombinationRules>
+        <Rule Factor="1.5" Assets="A82C;A80C"/>
+        <Rule Factor="1.25" Assets="A82C;A80D"/>
+        <Rule Factor="1.5" Assets="A82E;A80C"/>
+        <Rule Factor="1.5" Assets="A82E;A80D"/>
+        <Rule Factor="1.25" Assets="A82F;A80C"/>
+        <Rule Factor="1.25" Assets="A82F;A80D"/>
+        <Rule Factor="0.8" Assets="A83G;A83B"/>
+        <Rule Factor="1.25" Assets="A84A;A83D"/>
+        <Rule Factor="1.25" Assets="A84B;A83B"/>
+        <Rule Factor="0.8" Assets="A85B;A80H"/>
+        <Rule Factor="1.5" Assets="A85B;A83F"/>
+        <Rule Factor="1.5" Assets="A86C;A83B"/>
+        <Rule Factor="1.25" Assets="A93C;A84A"/>
+        <Rule Factor="1.5" Assets="A93G;A82E"/>
+        <Rule Factor="0.8" Assets="A97B;A80C"/>
+        <Rule Factor="0.8" Assets="A97B;A80D"/>
+        <Rule Factor="1.5" Assets="A97B;A80F"/>
+        <Rule Factor="1.5" Assets="A97B;A82F"/>
+        <Rule Factor="1.5" Assets="A99B;A93D"/>
+        <Rule Factor="0.8" Assets="A101A;A80C"/>
+        <Rule Factor="1.5" Assets="A101A;A80F"/>
+        <Rule Factor="0.8" Assets="A101C;A80C"/>
+        <Rule Factor="1.5" Assets="A101C;A82E"/>
+        <Rule Factor="0.8" Assets="A101C;A97B"/>
+      </CombinationRules>
+    </NetworkRules>
+  </TTLModel>
+  
+  <Graph Filename="ruhrgebiet.svg.xml" />
+</Infrastructure>

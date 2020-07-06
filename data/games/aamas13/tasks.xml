@@ -1,0 +1,490 @@
+<Tasks>
+  <Task ID="T1" Desc="A101A (T1)" AssetID="A101A" LongDesc="Regarding pavements, there are 0,2 miles of Long Cracks, which require repaving. Regarding Bridges, there are 3 Bridge Decks, 4 Expansion Joints, 1 Bridge Bearing which require replacement." Payment="48134.8833" TTLClass="32.77 (Extreme)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:13364.1189" TTLImpact="3.22" QualityImpact="6.9800" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:14700.5308" TTLImpact="2.57" QualityImpact="6.9800" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:5345.6475" TTLImpact="3.54" QualityImpact="5.4050" Duration="3w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:20046.1783" TTLImpact="3.54" QualityImpact="6.4550" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:17373.3545" TTLImpact="3.22" QualityImpact="8.5550" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:14700.5308" TTLImpact="3.22" QualityImpact="6.9800" Duration="3w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T2" Desc="A101B (T2)" AssetID="A101B" LongDesc=" Regarding Bridges, there are 3 Bridge Decks, 1 Expansion Joint,  which require replacement." Payment="25259.2959" TTLClass="15.55 (Moderate)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:10519.4469" TTLImpact="0.59" QualityImpact="7.7300" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:11571.3916" TTLImpact="0.47" QualityImpact="7.7300" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:4207.7788" TTLImpact="0.65" QualityImpact="5.9300" Duration="2w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:21038.8938" TTLImpact="0.65" QualityImpact="7.1300" Duration="1w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:13675.2809" TTLImpact="0.59" QualityImpact="9.5300" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:11571.3916" TTLImpact="0.59" QualityImpact="7.7300" Duration="2w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T3" Desc="A101C (T3)" AssetID="A101C" LongDesc="Regarding pavements, there are 0,1 miles of Transverse Cracks, 0,1 miles of Long Cracks, 2,9 miles of Transverse Slope, which require repaving. Regarding Bridges, there are 1 Bridge Deck, 2 Expansion Joints,  which require replacement." Payment="1888674.5139" TTLClass="10.38 (Moderate)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:524369.6246" TTLImpact="5.36" QualityImpact="5.0130" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:576806.5871" TTLImpact="4.29" QualityImpact="5.0130" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:209747.8498" TTLImpact="5.89" QualityImpact="4.0281" Duration="3w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:786554.4369" TTLImpact="5.89" QualityImpact="4.6847" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:681680.5120" TTLImpact="5.36" QualityImpact="5.9979" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:576806.5871" TTLImpact="5.36" QualityImpact="5.0130" Duration="3w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T4" Desc="A80A (T4)" AssetID="A80A" LongDesc="Regarding pavements, there are 0,6 miles of Transverse Cracks, 0,7 miles of Long Cracks, 3,5 miles of Roughness, which require repaving. " Payment="2420930.1329" TTLClass="4.34 (Low)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:672144.5202" TTLImpact="2.12" QualityImpact="6.2300" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:739358.9722" TTLImpact="1.70" QualityImpact="6.2300" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:268857.8081" TTLImpact="2.34" QualityImpact="4.8800" Duration="3w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:1008216.7803" TTLImpact="2.34" QualityImpact="5.7800" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:873787.8763" TTLImpact="2.12" QualityImpact="7.5800" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:739358.9722" TTLImpact="2.12" QualityImpact="6.2300" Duration="3w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T5" Desc="A80B (T5)" AssetID="A80B" LongDesc="Regarding pavements, there are 0,1 miles of Transverse Cracks, 0,1 miles of Long Cracks, which require repaving. Regarding Bridges, there are 2 Bridge Decks,  which require replacement." Payment="37413.0993" TTLClass="7.58 (Low)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:15581.0009" TTLImpact="4.84" QualityImpact="6.8300" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:17139.1009" TTLImpact="3.87" QualityImpact="6.8300" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:6232.4003" TTLImpact="5.33" QualityImpact="5.3000" Duration="2w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:31162.0017" TTLImpact="5.33" QualityImpact="6.3200" Duration="1w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:20255.3011" TTLImpact="4.84" QualityImpact="8.3600" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:17139.1009" TTLImpact="4.84" QualityImpact="6.8300" Duration="2w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T6" Desc="A80C (T6)" AssetID="A80C" LongDesc="Regarding pavements, there are 1,3 miles of Transverse Cracks, 1,7 miles of Long Cracks, 17,8 miles of Roughness, 1,2 miles of Transverse Slope, which require repaving. Regarding Bridges, there are 3 Bridge Decks, 1 Concrete Structure, 2 Steel corrosions, 6 Expansion Joints, 2 Bridge Bearings which require replacement." Payment="13143964.2200" TTLClass="31.98 (Extreme)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:729855.3068" TTLImpact="18.78" QualityImpact="6.1761" Duration="15w" DelayDuration="4w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:752663.2851" TTLImpact="15.02" QualityImpact="6.1761" Duration="16w" DelayDuration="4w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:291942.1227" TTLImpact="20.65" QualityImpact="4.8423" Duration="15w" DelayDuration="8w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:1094782.9602" TTLImpact="20.65" QualityImpact="5.7315" Duration="10w" DelayDuration="4w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:889511.1552" TTLImpact="18.78" QualityImpact="7.5099" Duration="16w" DelayDuration="4w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:802840.8375" TTLImpact="18.78" QualityImpact="6.1761" Duration="15w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T7" Desc="A80D (T7)" AssetID="A80D" LongDesc="Regarding pavements, there are 0,4 miles of Transverse Cracks, 0,7 miles of Long Cracks, 4,1 miles of Roughness, which require repaving. Regarding Bridges, there are 2 Bridge Decks, 2 Expansion Joints, 1 Bridge Bearing which require replacement." Payment="2780047.3289" TTLClass="21.25 (Heavy)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:578887.0833" TTLImpact="2.38" QualityImpact="6.2800" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:636775.7916" TTLImpact="1.91" QualityImpact="6.2800" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:231554.8333" TTLImpact="2.62" QualityImpact="4.9150" Duration="4w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:771849.4444" TTLImpact="2.62" QualityImpact="5.8250" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:752553.2083" TTLImpact="2.38" QualityImpact="7.6450" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:636775.7916" TTLImpact="2.38" QualityImpact="6.2800" Duration="4w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T8" Desc="A80E (T8)" AssetID="A80E" LongDesc="Regarding pavements, there are 0,2 miles of Long Cracks, which require repaving. Regarding Bridges, there are 1 Bridge Deck, 1 Expansion Joint, 1 Bridge Bearing which require replacement." Payment="15519.7491" TTLClass="10.83 (Moderate)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:6463.3305" TTLImpact="0.91" QualityImpact="6.4443" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:7109.6635" TTLImpact="0.73" QualityImpact="6.4443" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:2585.3322" TTLImpact="1.00" QualityImpact="5.0300" Duration="2w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:12926.6609" TTLImpact="1.00" QualityImpact="5.9729" Duration="1w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:8402.3296" TTLImpact="0.91" QualityImpact="7.8586" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:7109.6635" TTLImpact="0.91" QualityImpact="6.4443" Duration="2w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T9" Desc="A80F (T9)" AssetID="A80F" LongDesc="Regarding pavements, there are 0,4 miles of Transverse Cracks, 0,7 miles of Long Cracks, which require repaving. Regarding Bridges, there are 2 Bridge Decks, 2 Expansion Joints, 2 Bridge Bearings which require replacement." Payment="117142.8727" TTLClass="16.76 (Moderate)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:32523.4251" TTLImpact="0.67" QualityImpact="6.3604" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:35775.7677" TTLImpact="0.54" QualityImpact="6.3604" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:13009.3701" TTLImpact="0.74" QualityImpact="4.9713" Duration="3w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:48785.1377" TTLImpact="0.74" QualityImpact="5.8974" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:42280.4527" TTLImpact="0.67" QualityImpact="7.7496" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:35775.7677" TTLImpact="0.67" QualityImpact="6.3604" Duration="3w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T10" Desc="A80G (T10)" AssetID="A80G" LongDesc="Regarding pavements, there are 0,3 miles of Transverse Cracks, 0,4 miles of Long Cracks, which require repaving. " Payment="47627.4762" TTLClass="11.77 (Moderate)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:39669.7287" TTLImpact="0.14" QualityImpact="6.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:43636.7015" TTLImpact="0.11" QualityImpact="6.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:15867.8915" TTLImpact="0.16" QualityImpact="4.8800" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:39669.7287" TTLImpact="0.16" QualityImpact="5.7800" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:51570.6473" TTLImpact="0.14" QualityImpact="7.5800" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:43636.7015" TTLImpact="0.14" QualityImpact="6.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T11" Desc="A80H (T11)" AssetID="A80H" LongDesc="Regarding pavements, there are 0,1 miles of Transverse Cracks, 0,2 miles of Long Cracks, which require repaving. " Payment="8071.1364" TTLClass="5.39 (Low)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:6722.5857" TTLImpact="0.08" QualityImpact="6.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:7394.8443" TTLImpact="0.06" QualityImpact="6.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:2689.0343" TTLImpact="0.08" QualityImpact="4.8800" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:6722.5857" TTLImpact="0.08" QualityImpact="5.7800" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:8739.3614" TTLImpact="0.08" QualityImpact="7.5800" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:7394.8443" TTLImpact="0.08" QualityImpact="6.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T12" Desc="A80I (T12)" AssetID="A80I" LongDesc="Regarding pavements, there are 0,1 miles of Long Cracks, which require repaving. Regarding Bridges, there are 1 Bridge Deck, 1 Concrete Structure, 2 Expansion Joints,  which require replacement." Payment="15001.5054" TTLClass="4.17 (Low)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:6247.5035" TTLImpact="0.65" QualityImpact="6.9633" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:6872.2538" TTLImpact="0.52" QualityImpact="6.9633" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:2499.0014" TTLImpact="0.72" QualityImpact="5.3933" Duration="2w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:12495.0070" TTLImpact="0.72" QualityImpact="6.4400" Duration="1w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:8121.7545" TTLImpact="0.65" QualityImpact="8.5333" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:6872.2538" TTLImpact="0.65" QualityImpact="6.9633" Duration="2w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T13" Desc="A82A (T13)" AssetID="A82A" LongDesc="Regarding pavements, there are 0,1 miles of Transverse Cracks, 0,4 miles of Long Cracks, which require repaving. Regarding Bridges, there are 1 Expansion Joint,  which require replacement." Payment="22243.2380" TTLClass="4.02 (Low)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:18526.7683" TTLImpact="0.58" QualityImpact="6.3967" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:20379.4451" TTLImpact="0.46" QualityImpact="6.3967" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:7410.7073" TTLImpact="0.64" QualityImpact="4.9967" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:18526.7683" TTLImpact="0.64" QualityImpact="5.9300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:24084.7988" TTLImpact="0.58" QualityImpact="7.7967" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:20379.4451" TTLImpact="0.58" QualityImpact="6.3967" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T14" Desc="A82B (T14)" AssetID="A82B" LongDesc="Regarding pavements, there are 0,1 miles of Transverse Cracks, 0,6 miles of Long Cracks, which require repaving. Regarding Bridges, there are 1 Bridge Deck, 2 Expansion Joints,  which require replacement." Payment="48545.8834" TTLClass="15.03 (Moderate)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:20217.3427" TTLImpact="1.22" QualityImpact="6.5762" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:22239.0770" TTLImpact="0.98" QualityImpact="6.5762" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:8086.9371" TTLImpact="1.34" QualityImpact="5.1223" Duration="2w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:40434.6855" TTLImpact="1.34" QualityImpact="6.0915" Duration="1w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:26282.5456" TTLImpact="1.22" QualityImpact="8.0300" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:22239.0770" TTLImpact="1.22" QualityImpact="6.5762" Duration="2w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T15" Desc="A82C (T15)" AssetID="A82C" LongDesc="Regarding pavements, there are 0,1 miles of Transverse Cracks, 0,1 miles of Long Cracks, which require repaving. Regarding Bridges, there are 1 Bridge Deck, 1 Expansion Joint,  which require replacement." Payment="14579.3130" TTLClass="7.96 (Low)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:12143.3558" TTLImpact="0.95" QualityImpact="6.8300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:13357.6914" TTLImpact="0.76" QualityImpact="6.8300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:4857.3423" TTLImpact="1.05" QualityImpact="5.3000" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:12143.3558" TTLImpact="1.05" QualityImpact="6.3200" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:15786.3626" TTLImpact="0.95" QualityImpact="8.3600" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:13357.6914" TTLImpact="0.95" QualityImpact="6.8300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T16" Desc="A82D (T16)" AssetID="A82D" LongDesc="Regarding pavements, there are 0,2 miles of Transverse Cracks, 0,6 miles of Long Cracks, which require repaving. Regarding Bridges, there are 1 Bridge Deck,  which require replacement." Payment="63839.8414" TTLClass="8.78 (Low)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:53173.2812" TTLImpact="0.82" QualityImpact="6.3300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:58490.6093" TTLImpact="0.65" QualityImpact="6.3300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:21269.3125" TTLImpact="0.90" QualityImpact="4.9500" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:53173.2812" TTLImpact="0.90" QualityImpact="5.8700" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:69125.2655" TTLImpact="0.82" QualityImpact="7.7100" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:58490.6093" TTLImpact="0.82" QualityImpact="6.3300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T17" Desc="A82E (T17)" AssetID="A82E" LongDesc="Regarding pavements, there are 7,6 miles of Fretting, 0,6 miles of Transverse Cracks, 1,1 miles of Long Cracks, which require repaving. Regarding Bridges, there are 2 Bridge Decks, 1 Concrete Structure, 1 Expansion Joint,  which require replacement." Payment="5105045.8863" TTLClass="14.45 (Moderate)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:850415.7732" TTLImpact="4.06" QualityImpact="7.4581" Duration="5w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:779547.7921" TTLImpact="3.25" QualityImpact="7.4581" Duration="6w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:340166.3093" TTLImpact="4.47" QualityImpact="5.7396" Duration="5w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:1063019.7164" TTLImpact="4.47" QualityImpact="6.8853" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:921283.7543" TTLImpact="4.06" QualityImpact="9.1765" Duration="6w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:935457.3505" TTLImpact="4.06" QualityImpact="7.4581" Duration="5w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T18" Desc="A82F (T18)" AssetID="A82F" LongDesc="Regarding pavements, there are 2,5 miles of Fretting, 0,2 miles of Transverse Cracks, 0,6 miles of Long Cracks, 1,1 miles of Longitudinal Unevenness, which require repaving. Regarding Bridges, there are 2 Bridge Decks, 1 Concrete Structure, 1 Steel corrosion, 2 Expansion Joints,  which require replacement." Payment="2521174.6121" TTLClass="19.41 (Moderate)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:419985.7758" TTLImpact="7.31" QualityImpact="7.4052" Duration="5w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:384986.9612" TTLImpact="5.85" QualityImpact="7.4052" Duration="6w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:167994.3103" TTLImpact="8.04" QualityImpact="5.7026" Duration="5w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:524982.2198" TTLImpact="8.04" QualityImpact="6.8377" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:454984.5905" TTLImpact="7.31" QualityImpact="9.1078" Duration="6w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:461984.3534" TTLImpact="7.31" QualityImpact="7.4052" Duration="5w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T19" Desc="A83A (T19)" AssetID="A83A" LongDesc="Regarding pavements, there are 0,1 miles of Transverse Cracks, 0,7 miles of Rutting Depth, 0,4 miles of Long Cracks, 0,6 miles of Longitudinal Unevenness, which require repaving. Regarding Bridges, there are 3 Bridge Decks, 1 Concrete Structure, 1 Steel corrosion, 2 Expansion Joints,  which require replacement." Payment="1018978.1475" TTLClass="17.83 (Moderate)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:169744.8188" TTLImpact="7.88" QualityImpact="7.2763" Duration="5w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:155599.4173" TTLImpact="6.30" QualityImpact="7.2763" Duration="6w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:67897.9275" TTLImpact="8.66" QualityImpact="5.6124" Duration="5w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:212181.0235" TTLImpact="8.66" QualityImpact="6.7217" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:183890.2204" TTLImpact="7.88" QualityImpact="8.9402" Duration="6w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:186719.3007" TTLImpact="7.88" QualityImpact="7.2763" Duration="5w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T20" Desc="A83B (T20)" AssetID="A83B" LongDesc="Regarding pavements, there are 6,2 miles of Fretting, 0,1 miles of Transverse Cracks, 10,6 miles of Rutting Depth, 0,5 miles of Long Cracks, which require repaving. Regarding Bridges, there are 1 Bridge Deck, 1 Expansion Joint,  which require replacement." Payment="10802098.9542" TTLClass="13.13 (Moderate)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:1124656.3129" TTLImpact="3.22" QualityImpact="7.6818" Duration="8w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:1099663.9504" TTLImpact="2.57" QualityImpact="7.6818" Duration="9w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:449862.5252" TTLImpact="3.54" QualityImpact="5.8963" Duration="8w" DelayDuration="4w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:1499541.7505" TTLImpact="3.54" QualityImpact="7.0866" Duration="6w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:1299602.8505" TTLImpact="3.22" QualityImpact="9.4673" Duration="9w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:1237121.9442" TTLImpact="3.22" QualityImpact="7.6818" Duration="8w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T21" Desc="A83C (T21)" AssetID="A83C" LongDesc="Regarding pavements, there are 14,0 miles of Fretting, 0,1 miles of Transverse Cracks, 2,9 miles of Rutting Depth, 0,2 miles of Long Cracks, which require repaving. Regarding Bridges, there are 4 Bridge Decks, 4 Expansion Joints,  which require replacement." Payment="10937243.9626" TTLClass="20.55 (Heavy)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:1012201.6735" TTLImpact="7.59" QualityImpact="7.7037" Duration="9w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:1002079.6567" TTLImpact="6.07" QualityImpact="7.7037" Duration="10w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:404880.6694" TTLImpact="8.35" QualityImpact="5.9116" Duration="9w" DelayDuration="4w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:1518302.5102" TTLImpact="8.35" QualityImpact="7.1063" Duration="6w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:1184275.9580" TTLImpact="7.59" QualityImpact="9.4958" Duration="10w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:1113421.8408" TTLImpact="7.59" QualityImpact="7.7037" Duration="9w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T22" Desc="A83D (T22)" AssetID="A83D" LongDesc="Regarding pavements, there are 4,3 miles of Fretting, 0,2 miles of Long Cracks, which require repaving. " Payment="2765058.0679" TTLClass="9.55 (Moderate)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:1151531.7624" TTLImpact="0.82" QualityImpact="7.6675" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:1266684.9386" TTLImpact="0.65" QualityImpact="7.6675" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:460612.7050" TTLImpact="0.90" QualityImpact="5.8863" Duration="2w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:2303063.5248" TTLImpact="0.90" QualityImpact="7.0738" Duration="1w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:1496991.2911" TTLImpact="0.82" QualityImpact="9.4488" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:1266684.9386" TTLImpact="0.82" QualityImpact="7.6675" Duration="2w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T23" Desc="A83E (T23)" AssetID="A83E" LongDesc="Regarding pavements, there are 0,3 miles of Long Cracks, which require repaving. " Payment="9714.2288" TTLClass="8.09 (Low)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:8091.1451" TTLImpact="0.05" QualityImpact="6.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:8900.2596" TTLImpact="0.04" QualityImpact="6.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:3236.4580" TTLImpact="0.06" QualityImpact="4.8800" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:8091.1451" TTLImpact="0.06" QualityImpact="5.7800" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:10518.4887" TTLImpact="0.05" QualityImpact="7.5800" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:8900.2596" TTLImpact="0.05" QualityImpact="6.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T24" Desc="A83F (T24)" AssetID="A83F" LongDesc="Regarding pavements, there are 4,9 miles of Fretting, 0,2 miles of Long Cracks, which require repaving. Regarding Bridges, there are 1 Bridge Deck, 1 Steel corrosion, 3 Expansion Joints,  which require replacement." Payment="3235559.1307" TTLClass="15.22 (Moderate)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:673737.9499" TTLImpact="4.40" QualityImpact="7.6391" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:741111.7449" TTLImpact="3.52" QualityImpact="7.6391" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:269495.1800" TTLImpact="4.84" QualityImpact="5.8664" Duration="4w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:898317.2666" TTLImpact="4.84" QualityImpact="7.0482" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:875859.3349" TTLImpact="4.40" QualityImpact="9.4118" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:741111.7449" TTLImpact="4.40" QualityImpact="7.6391" Duration="4w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T25" Desc="A83G (T25)" AssetID="A83G" LongDesc="Regarding pavements, there are 0,1 miles of Transverse Cracks, 0,1 miles of Long Cracks, which require repaving. Regarding Bridges, there are 2 Bridge Decks, 2 Expansion Joints,  which require replacement." Payment="26027.1698" TTLClass="19.68 (Heavy)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:10839.2345" TTLImpact="6.41" QualityImpact="7.2300" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:11923.1579" TTLImpact="5.13" QualityImpact="7.2300" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:4335.6938" TTLImpact="7.05" QualityImpact="5.5800" Duration="2w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:21678.4690" TTLImpact="7.05" QualityImpact="6.6800" Duration="1w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:14091.0048" TTLImpact="6.41" QualityImpact="8.8800" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:11923.1579" TTLImpact="6.41" QualityImpact="7.2300" Duration="2w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T26" Desc="A83H (T26)" AssetID="A83H" LongDesc="Regarding pavements, there are 0,1 miles of Long Cracks, 0,1 miles of Longitudinal Unevenness, which require repaving. " Payment="41576.8994" TTLClass="2.34 (Low)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:34630.1011" TTLImpact="0.08" QualityImpact="6.7300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:38093.1112" TTLImpact="0.07" QualityImpact="6.7300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:13852.0405" TTLImpact="0.09" QualityImpact="5.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:34630.1011" TTLImpact="0.09" QualityImpact="6.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:45019.1315" TTLImpact="0.08" QualityImpact="8.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:38093.1112" TTLImpact="0.08" QualityImpact="6.7300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T27" Desc="A84A (T27)" AssetID="A84A" LongDesc="Regarding pavements, there are 0,3 miles of Long Cracks, 0,9 miles of Longitudinal Unevenness, which require repaving. Regarding Bridges, there are 3 Bridge Decks, 4 Expansion Joints,  which require replacement." Payment="643671.3641" TTLClass="13.11 (Moderate)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:178708.2470" TTLImpact="1.07" QualityImpact="7.4522" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:196579.0717" TTLImpact="0.85" QualityImpact="7.4522" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:71483.2988" TTLImpact="1.17" QualityImpact="5.7356" Duration="3w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:268062.3705" TTLImpact="1.17" QualityImpact="6.8800" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:232320.7211" TTLImpact="1.07" QualityImpact="9.1689" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:196579.0717" TTLImpact="1.07" QualityImpact="7.4522" Duration="3w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T28" Desc="A84B (T28)" AssetID="A84B" LongDesc="Regarding pavements, there are 0,4 miles of Transverse Cracks, 0,7 miles of Long Cracks, 0,1 miles of Longitudinal Unevenness, which require repaving. Regarding Bridges, there are 2 Bridge Decks, 1 Steel corrosion, 2 Expansion Joints,  which require replacement." Payment="240335.0723" TTLClass="30.36 (Extreme)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:66726.3791" TTLImpact="4.10" QualityImpact="6.5343" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:73399.0170" TTLImpact="3.28" QualityImpact="6.5343" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:26690.5516" TTLImpact="4.51" QualityImpact="5.0930" Duration="3w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:100089.5687" TTLImpact="4.51" QualityImpact="6.0539" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:86744.2928" TTLImpact="4.10" QualityImpact="7.9757" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:73399.0170" TTLImpact="4.10" QualityImpact="6.5343" Duration="3w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T29" Desc="A84C (T29)" AssetID="A84C" LongDesc="Regarding pavements, there are 0,1 miles of Long Cracks, which require repaving. Regarding Bridges, there are 2 Concrete Structures, 2 Expansion Joints,  which require replacement." Payment="15683.1082" TTLClass="8.93 (Low)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:6531.3627" TTLImpact="2.78" QualityImpact="6.4967" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:7184.4990" TTLImpact="2.22" QualityImpact="6.4967" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:2612.5451" TTLImpact="3.05" QualityImpact="5.0667" Duration="2w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:13062.7254" TTLImpact="3.05" QualityImpact="6.0200" Duration="1w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:8490.7715" TTLImpact="2.78" QualityImpact="7.9267" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:7184.4990" TTLImpact="2.78" QualityImpact="6.4967" Duration="2w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T30" Desc="A84D (T30)" AssetID="A84D" LongDesc="Regarding pavements, there are 0,1 miles of Transverse Cracks, which require repaving. " Payment="1143.5035" TTLClass="6.47 (Low)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:952.4434" TTLImpact="0.03" QualityImpact="6.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:1047.6877" TTLImpact="0.02" QualityImpact="6.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:380.9773" TTLImpact="0.03" QualityImpact="4.8800" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:952.4434" TTLImpact="0.03" QualityImpact="5.7800" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:1238.1764" TTLImpact="0.03" QualityImpact="7.5800" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:1047.6877" TTLImpact="0.03" QualityImpact="6.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T31" Desc="A85A (T31)" AssetID="A85A" LongDesc="Regarding pavements, there are 0,1 miles of Transverse Cracks, which require repaving. Regarding Bridges, there are 1 Steel corrosion,  which require replacement." Payment="45295.6338" TTLClass="18.87 (Moderate)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:37727.4978" TTLImpact="4.01" QualityImpact="5.9800" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:41500.2476" TTLImpact="3.21" QualityImpact="5.9800" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:15090.9991" TTLImpact="4.41" QualityImpact="4.7050" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:37727.4978" TTLImpact="4.41" QualityImpact="5.5550" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:49045.7471" TTLImpact="4.01" QualityImpact="7.2550" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:41500.2476" TTLImpact="4.01" QualityImpact="5.9800" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T32" Desc="A85B (T32)" AssetID="A85B" LongDesc="Regarding pavements, there are 0,1 miles of Transverse Cracks, 0,2 miles of Long Cracks, which require repaving. Regarding Bridges, there are 3 Bridge Decks, 1 Concrete Structure, 1 Expansion Joint,  which require replacement." Payment="30742.4437" TTLClass="35.02 (Extreme)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:12802.9501" TTLImpact="5.39" QualityImpact="6.7467" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:14083.2451" TTLImpact="4.31" QualityImpact="6.7467" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:5121.1800" TTLImpact="5.93" QualityImpact="5.2417" Duration="2w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:25605.9001" TTLImpact="5.93" QualityImpact="6.2450" Duration="1w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:16643.8351" TTLImpact="5.39" QualityImpact="8.2517" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:14083.2451" TTLImpact="5.39" QualityImpact="6.7467" Duration="2w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T33" Desc="A85C (T33)" AssetID="A85C" LongDesc="Regarding pavements, there are 0,1 miles of Long Cracks, which require repaving. Regarding Bridges, there are 1 Concrete Structure, 1 Expansion Joint,  which require replacement." Payment="5140.6877" TTLClass="5.86 (Low)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:4281.7655" TTLImpact="1.14" QualityImpact="6.4522" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:4709.9421" TTLImpact="0.91" QualityImpact="6.4522" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:1712.7062" TTLImpact="1.26" QualityImpact="5.0356" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:4281.7655" TTLImpact="1.26" QualityImpact="5.9800" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:5566.2952" TTLImpact="1.14" QualityImpact="7.8689" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:4709.9421" TTLImpact="1.14" QualityImpact="6.4522" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T34" Desc="A86A (T34)" AssetID="A86A" LongDesc="Regarding pavements, there are 2,6 miles of Rutting Depth, 0,2 miles of Long Cracks, which require repaving. Regarding Bridges, there are 1 Bridge Deck, 1 Expansion Joint,  which require replacement." Payment="1696590.2388" TTLClass="2.60 (Low)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:706559.3198" TTLImpact="2.52" QualityImpact="7.6343" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:777215.2518" TTLImpact="2.01" QualityImpact="7.6343" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:282623.7279" TTLImpact="2.77" QualityImpact="5.8630" Duration="2w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:1413118.6397" TTLImpact="2.77" QualityImpact="7.0438" Duration="1w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:918527.1158" TTLImpact="2.52" QualityImpact="9.4055" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:777215.2518" TTLImpact="2.52" QualityImpact="7.6343" Duration="2w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T35" Desc="A86B (T35)" AssetID="A86B" LongDesc="Regarding pavements, there are 1,1 miles of Fretting, 0,1 miles of Transverse Cracks, 16,7 miles of Rutting Depth, 0,1 miles of Long Cracks, which require repaving. Regarding Bridges, there are 2 Bridge Decks, 1 Expansion Joint, 1 Bridge Bearing which require replacement." Payment="11469761.4481" TTLClass="19.82 (Heavy)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:1061484.2068" TTLImpact="8.34" QualityImpact="7.7044" Duration="9w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:1050869.3647" TTLImpact="6.68" QualityImpact="7.7044" Duration="10w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:424593.6827" TTLImpact="9.18" QualityImpact="5.9121" Duration="9w" DelayDuration="4w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:1592226.3102" TTLImpact="9.18" QualityImpact="7.1070" Duration="6w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:1241936.5219" TTLImpact="8.34" QualityImpact="9.4967" Duration="10w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:1167632.6275" TTLImpact="8.34" QualityImpact="7.7044" Duration="9w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T36" Desc="A86C (T36)" AssetID="A86C" LongDesc="Regarding pavements, there are 4,4 miles of Fretting, 0,1 miles of Transverse Cracks, 0,2 miles of Rutting Depth, 0,2 miles of Long Cracks, which require repaving. Regarding Bridges, there are 1 Bridge Deck, 1 Steel corrosion, 1 Expansion Joint,  which require replacement." Payment="2994612.6019" TTLClass="28.35 (Heavy)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:623565.8425" TTLImpact="2.69" QualityImpact="7.5975" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:685922.4267" TTLImpact="2.16" QualityImpact="7.5975" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:249426.3370" TTLImpact="2.96" QualityImpact="5.8372" Duration="4w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:831421.1233" TTLImpact="2.96" QualityImpact="7.0107" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:810635.5952" TTLImpact="2.69" QualityImpact="9.3577" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:685922.4267" TTLImpact="2.69" QualityImpact="7.5975" Duration="4w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T37" Desc="A86D (T37)" AssetID="A86D" LongDesc="Regarding pavements, there are 0,2 miles of Transverse Cracks, 0,6 miles of Long Cracks, which require repaving. Regarding Bridges, there are 1 Bridge Deck, 1 Steel corrosion, 3 Expansion Joints, 1 Bridge Bearing which require replacement." Payment="110336.2328" TTLClass="12.98 (Moderate)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:22975.2276" TTLImpact="4.55" QualityImpact="6.4300" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:25272.7503" TTLImpact="3.64" QualityImpact="6.4300" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:9190.0910" TTLImpact="5.00" QualityImpact="5.0200" Duration="4w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:30633.6367" TTLImpact="5.00" QualityImpact="5.9600" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:29867.7958" TTLImpact="4.55" QualityImpact="7.8400" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:25272.7503" TTLImpact="4.55" QualityImpact="6.4300" Duration="4w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T38" Desc="A86E (T38)" AssetID="A86E" LongDesc="Regarding pavements, there are 0,7 miles of Long Cracks, which require repaving. Regarding Bridges, there are 3 Bridge Decks, 3 Expansion Joints, 2 Bridge Bearings which require replacement." Payment="96027.1571" TTLClass="9.62 (Moderate)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:26660.8799" TTLImpact="2.97" QualityImpact="6.5300" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:29326.9679" TTLImpact="2.38" QualityImpact="6.5300" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:10664.3520" TTLImpact="3.27" QualityImpact="5.0900" Duration="3w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:39991.3198" TTLImpact="3.27" QualityImpact="6.0500" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:34659.1438" TTLImpact="2.97" QualityImpact="7.9700" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:29326.9679" TTLImpact="2.97" QualityImpact="6.5300" Duration="3w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T39" Desc="A86F (T39)" AssetID="A86F" LongDesc="Regarding pavements, there are 0,2 miles of Long Cracks, which require repaving. Regarding Bridges, there are 1 Bridge Deck,  which require replacement." Payment="12960.2829" TTLClass="6.09 (Low)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:10794.8383" TTLImpact="0.37" QualityImpact="6.5300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:11874.3222" TTLImpact="0.30" QualityImpact="6.5300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:4317.9353" TTLImpact="0.41" QualityImpact="5.0900" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:10794.8383" TTLImpact="0.41" QualityImpact="6.0500" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:14033.2898" TTLImpact="0.37" QualityImpact="7.9700" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:11874.3222" TTLImpact="0.37" QualityImpact="6.5300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T40" Desc="A86G (T40)" AssetID="A86G" LongDesc="Regarding pavements, there are 0,2 miles of Transverse Cracks, 0,5 miles of Long Cracks, which require repaving. Regarding Bridges, there are 1 Expansion Joint,  which require replacement." Payment="48503.9438" TTLClass="9.89 (Moderate)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:40399.7533" TTLImpact="1.22" QualityImpact="6.3454" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:44439.7286" TTLImpact="0.97" QualityImpact="6.3454" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:16159.9013" TTLImpact="1.34" QualityImpact="4.9608" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:40399.7533" TTLImpact="1.34" QualityImpact="5.8838" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:52519.6793" TTLImpact="1.22" QualityImpact="7.7300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:44439.7286" TTLImpact="1.22" QualityImpact="6.3454" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T41" Desc="A86H (T41)" AssetID="A86H" LongDesc="Regarding pavements, there are 0,2 miles of Transverse Cracks, 0,6 miles of Long Cracks, which require repaving. Regarding Bridges, there are 1 Bridge Deck, 3 Expansion Joints,  which require replacement." Payment="61068.9739" TTLClass="8.62 (Low)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:25432.6894" TTLImpact="0.58" QualityImpact="6.6050" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:27975.9584" TTLImpact="0.46" QualityImpact="6.6050" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:10173.0758" TTLImpact="0.64" QualityImpact="5.1425" Duration="2w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:50865.3789" TTLImpact="0.64" QualityImpact="6.1175" Duration="1w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:33062.4963" TTLImpact="0.58" QualityImpact="8.0675" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:27975.9584" TTLImpact="0.58" QualityImpact="6.6050" Duration="2w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T42" Desc="A92A (T42)" AssetID="A92A" LongDesc="Regarding pavements, there are 0,5 miles of Long Cracks, which require repaving. Regarding Bridges, there are 2 Bridge Decks, 2 Expansion Joints,  which require replacement." Payment="71129.8375" TTLClass="7.07 (Low)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:29622.6210" TTLImpact="4.14" QualityImpact="6.7300" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:32584.8831" TTLImpact="3.31" QualityImpact="6.7300" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:11849.0484" TTLImpact="4.55" QualityImpact="5.2300" Duration="2w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:59245.2420" TTLImpact="4.55" QualityImpact="6.2300" Duration="1w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:38509.4073" TTLImpact="4.14" QualityImpact="8.2300" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:32584.8831" TTLImpact="4.14" QualityImpact="6.7300" Duration="2w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T43" Desc="A92B (T43)" AssetID="A92B" LongDesc="Regarding pavements, there are 0,2 miles of Transverse Cracks, 1,4 miles of Long Cracks, which require repaving. Regarding Bridges, there are 8 Bridge Decks, 2 Expansion Joints,  which require replacement." Payment="281888.8168" TTLClass="35.07 (Extreme)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:46957.9905" TTLImpact="6.67" QualityImpact="6.6467" Duration="5w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:43044.8246" TTLImpact="5.33" QualityImpact="6.6467" Duration="6w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:18783.1962" TTLImpact="7.33" QualityImpact="5.1717" Duration="5w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:58697.4881" TTLImpact="7.33" QualityImpact="6.1550" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:50871.1563" TTLImpact="6.67" QualityImpact="8.1217" Duration="6w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:51653.7895" TTLImpact="6.67" QualityImpact="6.6467" Duration="5w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T44" Desc="A93A (T44)" AssetID="A93A" LongDesc=" Regarding Bridges, there are 2 Expansion Joints,  which require replacement." Payment="31217.8807" TTLClass="2.74 (Low)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:13000.9498" TTLImpact="1.96" QualityImpact="7.7300" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:14301.0448" TTLImpact="1.57" QualityImpact="7.7300" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:5200.3799" TTLImpact="2.16" QualityImpact="5.9300" Duration="2w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:26001.8996" TTLImpact="2.16" QualityImpact="7.1300" Duration="1w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:16901.2348" TTLImpact="1.96" QualityImpact="9.5300" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:14301.0448" TTLImpact="1.96" QualityImpact="7.7300" Duration="2w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T45" Desc="A93B (T45)" AssetID="A93B" LongDesc="Regarding pavements, there are 0,1 miles of Transverse Cracks, 0,6 miles of Long Cracks, which require repaving. Regarding Bridges, there are 7 Bridge Decks, 2 Concrete Structures, 2 Steel corrosions, 3 Expansion Joints,  which require replacement." Payment="160197.1498" TTLClass="17.60 (Moderate)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:22238.4849" TTLImpact="6.12" QualityImpact="6.7044" Duration="6w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:20967.7143" TTLImpact="4.90" QualityImpact="6.7044" Duration="7w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:8895.3940" TTLImpact="6.73" QualityImpact="5.2121" Duration="6w" DelayDuration="4w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:33357.7274" TTLImpact="6.73" QualityImpact="6.2069" Duration="4w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:24780.0260" TTLImpact="6.12" QualityImpact="8.1967" Duration="7w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:24462.3334" TTLImpact="6.12" QualityImpact="6.7044" Duration="6w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T46" Desc="A93C (T46)" AssetID="A93C" LongDesc="Regarding pavements, there are 0,5 miles of Long Cracks, which require repaving. Regarding Bridges, there are 1 Bridge Deck, 2 Concrete Structures, 4 Expansion Joints,  which require replacement." Payment="48054.9907" TTLClass="21.20 (Heavy)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:13341.9376" TTLImpact="1.98" QualityImpact="6.6189" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:14676.1313" TTLImpact="1.58" QualityImpact="6.6189" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:5336.7750" TTLImpact="2.17" QualityImpact="5.1522" Duration="3w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:20012.9063" TTLImpact="2.17" QualityImpact="6.1300" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:17344.5188" TTLImpact="1.98" QualityImpact="8.0856" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:14676.1313" TTLImpact="1.98" QualityImpact="6.6189" Duration="3w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T47" Desc="A93D (T47)" AssetID="A93D" LongDesc="Regarding pavements, there are 0,2 miles of Long Cracks, which require repaving. Regarding Bridges, there are 2 Bridge Decks, 1 Expansion Joint,  which require replacement." Payment="46573.6344" TTLClass="23.24 (Heavy)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:19395.9830" TTLImpact="7.67" QualityImpact="6.8729" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:21335.5813" TTLImpact="6.14" QualityImpact="6.8729" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:7758.3932" TTLImpact="8.44" QualityImpact="5.3300" Duration="2w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:38791.9661" TTLImpact="8.44" QualityImpact="6.3586" Duration="1w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:25214.7779" TTLImpact="7.67" QualityImpact="8.4157" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:21335.5813" TTLImpact="7.67" QualityImpact="6.8729" Duration="2w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T48" Desc="A93E (T48)" AssetID="A93E" LongDesc="Regarding pavements, there are 0,2 miles of Long Cracks, which require repaving. Regarding Bridges, there are 1 Bridge Deck,  which require replacement." Payment="12791.3540" TTLClass="24.76 (Heavy)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:10654.1346" TTLImpact="1.51" QualityImpact="6.5300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:11719.5480" TTLImpact="1.21" QualityImpact="6.5300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:4261.6538" TTLImpact="1.67" QualityImpact="5.0900" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:10654.1346" TTLImpact="1.67" QualityImpact="6.0500" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:13850.3750" TTLImpact="1.51" QualityImpact="7.9700" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:11719.5480" TTLImpact="1.51" QualityImpact="6.5300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T49" Desc="A93F (T49)" AssetID="A93F" LongDesc="Regarding pavements, there are 0,4 miles of Long Cracks, which require repaving. " Payment="13988.4895" TTLClass="6.75 (Low)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:11651.2490" TTLImpact="0.20" QualityImpact="6.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:12816.3739" TTLImpact="0.16" QualityImpact="6.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:4660.4996" TTLImpact="0.22" QualityImpact="4.8800" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:11651.2490" TTLImpact="0.22" QualityImpact="5.7800" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:15146.6237" TTLImpact="0.20" QualityImpact="7.5800" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:12816.3739" TTLImpact="0.20" QualityImpact="6.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T50" Desc="A93G (T50)" AssetID="A93G" LongDesc="Regarding pavements, there are 0,2 miles of Transverse Cracks, 1,1 miles of Long Cracks, which require repaving. Regarding Bridges, there are 1 Expansion Joint,  which require replacement." Payment="149724.9810" TTLClass="18.30 (Moderate)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:124708.4633" TTLImpact="0.33" QualityImpact="6.2952" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:137179.3096" TTLImpact="0.26" QualityImpact="6.2952" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:49883.3853" TTLImpact="0.36" QualityImpact="4.9257" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:124708.4633" TTLImpact="0.36" QualityImpact="5.8387" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:162121.0023" TTLImpact="0.33" QualityImpact="7.6648" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:137179.3096" TTLImpact="0.33" QualityImpact="6.2952" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T51" Desc="A93H (T51)" AssetID="A93H" LongDesc="Regarding pavements, there are 0,1 miles of Long Cracks, which require repaving. Regarding Bridges, there are 2 Bridge Decks, 3 Concrete Structures, 1 Steel corrosion, 7 Expansion Joints,  which require replacement." Payment="134650.1835" TTLClass="23.51 (Heavy)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:18692.0683" TTLImpact="8.68" QualityImpact="6.9300" Duration="6w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:17623.9502" TTLImpact="6.95" QualityImpact="6.9300" Duration="7w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:7476.8273" TTLImpact="9.55" QualityImpact="5.3700" Duration="6w" DelayDuration="4w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:28038.1025" TTLImpact="9.55" QualityImpact="6.4100" Duration="4w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:20828.3047" TTLImpact="8.68" QualityImpact="8.4900" Duration="7w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:20561.2752" TTLImpact="8.68" QualityImpact="6.9300" Duration="6w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T52" Desc="A93I (T52)" AssetID="A93I" LongDesc="Regarding pavements, there are 0,4 miles of Long Cracks, which require repaving. Regarding Bridges, there are 2 Bridge Decks, 1 Steel corrosion, 2 Expansion Joints,  which require replacement." Payment="102559.2052" TTLClass="8.94 (Low)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:28474.4309" TTLImpact="4.10" QualityImpact="6.7300" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:31321.8740" TTLImpact="3.28" QualityImpact="6.7300" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:11389.7724" TTLImpact="4.51" QualityImpact="5.2300" Duration="3w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:42711.6463" TTLImpact="4.51" QualityImpact="6.2300" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:37016.7602" TTLImpact="4.10" QualityImpact="8.2300" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:31321.8740" TTLImpact="4.10" QualityImpact="6.7300" Duration="3w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T53" Desc="A93J (T53)" AssetID="A93J" LongDesc="Regarding pavements, there are 0,1 miles of Fretting, which require repaving. " Payment="80045.2456" TTLClass="2.56 (Low)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:66671.0358" TTLImpact="0.16" QualityImpact="7.7300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:73338.1394" TTLImpact="0.13" QualityImpact="7.7300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:26668.4143" TTLImpact="0.18" QualityImpact="5.9300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:66671.0358" TTLImpact="0.18" QualityImpact="7.1300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:86672.3466" TTLImpact="0.16" QualityImpact="9.5300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:73338.1394" TTLImpact="0.16" QualityImpact="7.7300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T54" Desc="A96A (T54)" AssetID="A96A" LongDesc="Regarding pavements, there are 0,1 miles of Transverse Cracks, which require repaving. Regarding Bridges, there are 1 Expansion Joint,  which require replacement." Payment="8254.7485" TTLClass="5.24 (Low)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:6875.5193" TTLImpact="0.46" QualityImpact="6.7300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:7563.0713" TTLImpact="0.37" QualityImpact="6.7300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:2750.2077" TTLImpact="0.51" QualityImpact="5.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:6875.5193" TTLImpact="0.51" QualityImpact="6.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:8938.1751" TTLImpact="0.46" QualityImpact="8.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:7563.0713" TTLImpact="0.46" QualityImpact="6.7300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T55" Desc="A96B (T55)" AssetID="A96B" LongDesc="Regarding pavements, there are 0,1 miles of Long Cracks, which require repaving. Regarding Bridges, there are 1 Steel corrosion,  which require replacement." Payment="9833.4354" TTLClass="8.35 (Low)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:8190.4343" TTLImpact="1.76" QualityImpact="6.0633" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:9009.4778" TTLImpact="1.41" QualityImpact="6.0633" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:3276.1737" TTLImpact="1.94" QualityImpact="4.7633" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:8190.4343" TTLImpact="1.94" QualityImpact="5.6300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:10647.5646" TTLImpact="1.76" QualityImpact="7.3633" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:9009.4778" TTLImpact="1.76" QualityImpact="6.0633" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T56" Desc="A97A (T56)" AssetID="A97A" LongDesc="Regarding pavements, there are 5,5 miles of Fretting, 0,3 miles of Transverse Cracks, 0,5 miles of Long Cracks, which require repaving. Regarding Bridges, there are 1 Steel corrosion,  which require replacement." Payment="3654371.1166" TTLClass="19.47 (Moderate)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:760946.8425" TTLImpact="3.09" QualityImpact="7.5213" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:837041.5268" TTLImpact="2.47" QualityImpact="7.5213" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:304378.7370" TTLImpact="3.40" QualityImpact="5.7839" Duration="4w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:1014595.7901" TTLImpact="3.40" QualityImpact="6.9421" Duration="3w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:989230.8953" TTLImpact="3.09" QualityImpact="9.2586" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:837041.5268" TTLImpact="3.09" QualityImpact="7.5213" Duration="4w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T57" Desc="A97B (T57)" AssetID="A97B" LongDesc="Regarding pavements, there are 0,1 miles of Transverse Cracks, 0,4 miles of Long Cracks, which require repaving. " Payment="18562.5036" TTLClass="36.57 (Extreme)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:15461.0225" TTLImpact="0.32" QualityImpact="6.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:17007.1247" TTLImpact="0.26" QualityImpact="6.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:6184.4090" TTLImpact="0.36" QualityImpact="4.8800" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:15461.0225" TTLImpact="0.36" QualityImpact="5.7800" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:20099.3292" TTLImpact="0.32" QualityImpact="7.5800" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:17007.1247" TTLImpact="0.32" QualityImpact="6.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T58" Desc="A99A (T58)" AssetID="A99A" LongDesc="Regarding pavements, there are 0,1 miles of Long Cracks, which require repaving. " Payment="1554.2766" TTLClass="9.55 (Moderate)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:1294.5832" TTLImpact="0.04" QualityImpact="6.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:1424.0415" TTLImpact="0.03" QualityImpact="6.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:517.8333" TTLImpact="0.04" QualityImpact="4.8800" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:1294.5832" TTLImpact="0.04" QualityImpact="5.7800" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:1682.9582" TTLImpact="0.04" QualityImpact="7.5800" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:1424.0415" TTLImpact="0.04" QualityImpact="6.2300" Duration="1w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T59" Desc="A99B (T59)" AssetID="A99B" LongDesc="Regarding pavements, there are 0,1 miles of Long Cracks, which require repaving. Regarding Bridges, there are 3 Bridge Decks, 6 Expansion Joints, 3 Bridge Bearings which require replacement." Payment="69939.3123" TTLClass="8.52 (Low)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:11650.7267" TTLImpact="4.77" QualityImpact="6.8729" Duration="5w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:10679.8328" TTLImpact="3.82" QualityImpact="6.8729" Duration="6w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:4660.2907" TTLImpact="5.25" QualityImpact="5.3300" Duration="5w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:14563.4084" TTLImpact="5.25" QualityImpact="6.3586" Duration="4w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:12621.6206" TTLImpact="4.77" QualityImpact="8.4157" Duration="6w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:12815.7994" TTLImpact="4.77" QualityImpact="6.8729" Duration="5w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T60" Desc="A99C (T60)" AssetID="A99C" LongDesc="Regarding pavements, there are 0,4 miles of Long Cracks, which require repaving. Regarding Bridges, there are 7 Bridge Decks, 2 Concrete Structures, 9 Expansion Joints, 5 Bridge Bearings which require replacement." Payment="99675.9255" TTLClass="10.50 (Moderate)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:10377.7200" TTLImpact="2.68" QualityImpact="6.7415" Duration="8w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:10147.1040" TTLImpact="2.15" QualityImpact="6.7415" Duration="9w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:4151.0880" TTLImpact="2.95" QualityImpact="5.2380" Duration="8w" DelayDuration="4w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:13836.9601" TTLImpact="2.95" QualityImpact="6.2403" Duration="6w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:11992.0321" TTLImpact="2.68" QualityImpact="8.2449" Duration="9w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:11415.4920" TTLImpact="2.68" QualityImpact="6.7415" Duration="8w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+  <Task ID="T61" Desc="A99D (T61)" AssetID="A99D" LongDesc=" Regarding Bridges, there are 2 Bridge Decks, 2 Expansion Joints, 2 Bridge Bearings which require replacement." Payment="23511.0889" TTLClass="3.04 (Low)" QualityDemand="6.0000" >
+    <Method ID="M1" Desc="NORMAL" CostFunction="Constant:9791.3913" TTLImpact="1.43" QualityImpact="6.7300" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M2" Desc="LOW TTL" CostFunction="Constant:10770.5305" TTLImpact="1.14" QualityImpact="6.7300" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M3" Desc="LOW COSTS" CostFunction="Constant:3916.5565" TTLImpact="1.57" QualityImpact="5.2300" Duration="2w" DelayDuration="2w" DelayRisk="0.1667" />
+    <Method ID="M4" Desc="SHORT DURATION" CostFunction="Constant:19582.7827" TTLImpact="1.57" QualityImpact="6.2300" Duration="1w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M5" Desc="HIGH QUALITY" CostFunction="Constant:12728.8087" TTLImpact="1.43" QualityImpact="8.2300" Duration="2w" DelayDuration="1w" DelayRisk="0.1667" />
+    <Method ID="M6" Desc="SMALL DELAY" CostFunction="Constant:10770.5305" TTLImpact="1.43" QualityImpact="6.7300" Duration="2w" DelayDuration="0w" DelayRisk="0.1667" />
+  </Task>
+</Tasks>

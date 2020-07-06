@@ -1,0 +1,99 @@
+Log started Wed Nov 20 20:25:53 CET 2013
+Types of log messages: Game Result Gameplay
+[20:25:53 G Testgame (Game)] Created trace file 'C:\Users\Joris\Desktop\Almende\Maintenance Planning Game GWT\war\traces\Testgame_20-11-13 20.25.53.log'
+[20:26:38 G Testgame (Game)] Score board 'SB510487' is now monitoring the game!
+[20:26:38 C SB510487 (Game)] Joined the game
+[20:26:38 G Testgame (Game)] Gamemanager 'GM607029' joined the game!
+[20:26:38 C GM607029 (Game)] Joined the game
+[20:27:48 G Testgame (Game)] Player 'SP724799' joined the game
+[20:27:48 G Testgame (Game)] Assigned portfolio 'Roze' to player 'SP724799'
+[20:27:48 G Testgame (Game)] Service Provider client 'SP724799' joined the game!
+[20:27:54 G Testgame (Game)] Player 'SP345094' joined the game
+[20:27:54 G Testgame (Game)] Assigned portfolio 'Blauw' to player 'SP345094'
+[20:27:54 G Testgame (Game)] Service Provider client 'SP345094' joined the game!
+[20:27:57 C SP724799 (Game)] Joined the game
+[20:27:58 C SP345094 (Game)] Joined the game
+[20:27:59 G Testgame (Game)] Player 'SP382371' joined the game
+[20:27:59 G Testgame (Game)] Assigned portfolio 'Wit' to player 'SP382371'
+[20:27:59 G Testgame (Game)] Service Provider client 'SP382371' joined the game!
+[20:27:59 G Testgame (Game)] Player 'SP673219' joined the game
+[20:27:59 G Testgame (Game)] Assigned portfolio 'Zwart' to player 'SP673219'
+[20:27:59 G Testgame (Game)] Service Provider client 'SP673219' joined the game!
+[20:27:59 G Testgame (Game)] Player 'SP808651' joined the game
+[20:27:59 G Testgame (Game)] Assigned portfolio 'Rood' to player 'SP808651'
+[20:27:59 G Testgame (Game)] Service Provider client 'SP808651' joined the game!
+[20:28:00 C SP382371 (Game)] Joined the game
+[20:28:00 C SP673219 (Game)] Joined the game
+[20:28:00 C SP808651 (Game)] Joined the game
+[20:28:09 G Testgame (Game)] The game is ready to start!
+[20:28:33 G Testgame (Game)] Starting execution of the joint plan!
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 2
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 3
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 4
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 5
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 6
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 7
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 8
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 9
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 10
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 11
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 12
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 13
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 14
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 15
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 16
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 17
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 18
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 19
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 20
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 21
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 22
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 23
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 24
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 25
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 26
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 27
+[20:28:33 G Testgame (Game)] Joint plan has been executed in week week 28
+[20:28:59 G Testgame (Game)] Starting a new plan round
+[20:29:13 G Testgame (Game)] Player SP724799 has submitted his plan
+[20:29:15 G Testgame (Game)] Player SP345094 has submitted his plan
+[20:29:16 G Testgame (Game)] Player SP382371 has submitted his plan
+[20:29:17 G Testgame (Game)] Player SP673219 has submitted his plan
+[20:29:18 G Testgame (Game)] Player SP808651 has submitted his plan
+[20:29:18 G Testgame (Game)] All players have submitted their plans, starting accept/decline round
+[20:29:33 G Testgame (Game)] All players have responded to the joint plan, the plan has been accepted
+[20:29:39 G Testgame (Game)] Starting execution of the joint plan!
+[20:29:39 G Testgame (Game)] Joint plan has been executed in week week 29
+[20:29:39 G Testgame (Game)] Joint plan has been executed in week week 30
+[20:29:39 G Testgame (Game)] Joint plan has been executed in week week 31
+[20:29:39 G Testgame (Game)] Joint plan has been executed in week week 32
+[20:29:39 G Testgame (Game)] Joint plan has been executed in week week 33
+[20:29:39 G Testgame (Game)] Joint plan has been executed in week week 34
+[20:29:39 G Testgame (Game)] Joint plan has been executed in week week 35
+[20:29:39 G Testgame (Game)] Joint plan has been executed in week week 36
+[20:29:39 G Testgame (Game)] Joint plan has been executed in week week 37
+[20:29:39 G Testgame (Game)] Joint plan has been executed in week week 38
+[20:29:39 G Testgame (Game)] Joint plan has been executed in week week 39
+[20:29:39 G Testgame (Game)] Joint plan has been executed in week week 40
+[20:29:58 G Testgame (Game)] Starting a new plan round
+[20:30:04 G Testgame (Game)] Player SP724799 has submitted his plan
+[20:30:05 G Testgame (Game)] Player SP345094 has submitted his plan
+[20:30:06 G Testgame (Game)] Player SP382371 has submitted his plan
+[20:30:07 G Testgame (Game)] Player SP673219 has submitted his plan
+[20:30:09 G Testgame (Game)] Player SP808651 has submitted his plan
+[20:30:09 G Testgame (Game)] All players have submitted their plans, starting accept/decline round
+[20:30:23 G Testgame (Game)] All players have responded to the joint plan, the plan has been accepted
+[20:30:28 G Testgame (Game)] Starting execution of the joint plan!
+[20:30:28 G Testgame (Game)] Joint plan has been executed in week week 41
+[20:30:28 G Testgame (Game)] Joint plan has been executed in week week 42
+[20:30:28 G Testgame (Game)] Joint plan has been executed in week week 43
+[20:30:28 G Testgame (Game)] Joint plan has been executed in week week 44
+[20:30:28 G Testgame (Game)] Joint plan has been executed in week week 45
+[20:30:28 G Testgame (Game)] Joint plan has been executed in week week 46
+[20:30:28 G Testgame (Game)] Joint plan has been executed in week week 47
+[20:30:28 G Testgame (Game)] Joint plan has been executed in week week 48
+[20:30:28 G Testgame (Game)] Joint plan has been executed in week week 49
+[20:30:28 G Testgame (Game)] Joint plan has been executed in week week 50
+[20:30:28 G Testgame (Game)] Joint plan has been executed in week week 51
+[20:30:28 G Testgame (Game)] Joint plan has been executed in week week 52
+[20:30:28 G Testgame (Game)] The game has been finished!

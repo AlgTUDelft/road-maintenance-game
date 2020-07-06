@@ -1,0 +1,64 @@
+/**
+ * CSS rules for all elements within the Service Provider view
+ */
+ 
+/** The main panel */
+.mainpanel {
+ 	width: 920px;
+	height: 500px;
+	border: 1px solid black;
+	margin: 0px auto;
+	margin-top: 5px;
+}
+
+/** Score bar */
+@external scorebar, scorebar-profits, scorebar-ttl;
+.scorebar {
+	width: 100%;
+	background-color: #e0e0e0;
+	border-bottom: 1px solid black;
+	font-weight: bold;
+	height: 20px;
+}
+.scorebar-profits { text-align: right; padding-right: 10px;}
+.scorebar-ttl { text-align: right; padding-right: 10px; }
+
+/* Size of the planning area */
+.planning {
+}
+
+/** Size of the map display */
+.map {
+	padding-left: 30px;
+	padding-right: 10px;
+}
+
+/** The info table */
+.infotable {
+}
+
+/** The control panel bar */
+.controlpanel {
+	border-left: 1px solid black;
+	margin: 0px auto;
+	height: 480px;
+	background-color: #f0f0ff;
+}
+.controlpanel td {
+	text-align: center;
+	vertical-align: middle;
+}
+
+/** The controller widget */
+.controller {
+}
+@external controlbutton;
+.controller .controlbutton {
+	width: 92%;
+	height: 40px;
+}
+
+/** The help widget */
+.help {
+	text-align: justify;
+}

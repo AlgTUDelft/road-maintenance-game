@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Portfolios>
+  <Portfolio ID="P1" Desc="Porfolio 1" IdleCost="0">
+    <Task AssetID="A82E" ID="T1" Desc="Verbreden van 2 naar 3 baans" Payment="1340000">
+      <TaskMethod ID="M1" Cost="45500" DelayDuration="6w" DelayRisk="0.16667" Duration="20w"
+        Effect="0.6" Desc="Normaal"/>
+      <TaskMethod ID="M2" Cost="48000" DelayDuration="6w" DelayRisk="0.33333" Duration="17w"
+        Effect="0.6" Desc="Versneld"/>
+      <TaskMethod ID="M3" Cost="45500" DelayDuration="6w" DelayRisk="0.16667" Duration="20w"
+        Effect="0.6" Desc="Betere doorstroom"/>
+    </Task>
+    <Task AssetID="A84B" ID="T2" Desc="Opnieuw asfalteren" Payment="1000000">
+      <TaskMethod ID="M1" Cost="63750" DelayDuration="3w" DelayRisk="0.16667" Duration="12w"
+        Effect="0.5" Desc="Normaal"/>
+      <TaskMethod ID="M2" Cost="71000" DelayDuration="3w" DelayRisk="0.16667" Duration="12w"
+        Effect="0.8" Desc="Betere kwaliteit"/>
+      <TaskMethod ID="M3" Cost="69800" DelayDuration="3w" DelayRisk="0.16667" Duration="10w"
+        Effect="0.4" Desc="Versneld"/>
+    </Task>
+    <Task AssetID="A86C" ID="T3" Desc="Aanleg spitsstrook" Payment="270000">
+      <TaskMethod ID="M1" Cost="11680" DelayDuration="2w" DelayRisk="0.16667" Duration="8w"
+        Effect="0.6" Desc="Normaal"/>
+      <TaskMethod ID="M2" Cost="10740" DelayDuration="2w" DelayRisk="0.66667" Duration="8w"
+        Effect="0.6" Desc="Goedkoop"/>
+      <TaskMethod ID="M3" Cost="12200" DelayDuration="2w" DelayRisk="0.33333" Duration="8w"
+        Effect="0.6" Desc="Betere doorstroom"/>
+    </Task>
+    <Task AssetID="A93D" ID="T4" Desc="Vervanging DVM" Payment="200000">
+      <TaskMethod ID="M1" Cost="16800" DelayDuration="2w" DelayRisk="0.33333" Duration="5w"
+        Effect="0.4" Desc="Normaal"/>
+      <TaskMethod ID="M2" Cost="17200" DelayDuration="2w" DelayRisk="0.16667" Duration="5w"
+        Effect="0.4" Desc="Laag risico"/>
+      <TaskMethod ID="M3" Cost="14000" DelayDuration="2w" DelayRisk="0.33333" Duration="5w"
+        Effect="0.2" Desc="Goedkoop"/>
+    </Task>
+    <Task AssetID="A101A" ID="T5" Desc="Aanleg fietsbrug" Payment="110000">
+      <TaskMethod ID="M1" Cost="72000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.3" Desc="Normaal"/>
+      <TaskMethod ID="M2" Cost="75000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.5" Desc="Betere kwaliteit"/>
+      <TaskMethod ID="M3" Cost="72000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.3" Desc="Betere doorstroom"/>
+    </Task>
+  </Portfolio>
+
+  <Portfolio ID="P2" Desc="Portfolio 2" IdleCost="0">
+    <Task AssetID="A80C" ID="T1" Desc="Verbreden van 2 naar 3 baans" Payment="1340000">
+      <TaskMethod ID="M1" Cost="45500" DelayDuration="6w" DelayRisk="0.16667" Duration="20w"
+        Effect="0.6" Desc="Normaal"/>
+      <TaskMethod ID="M2" Cost="48000" DelayDuration="6w" DelayRisk="0.33333" Duration="17w"
+        Effect="0.6" Desc="Versneld"/>
+      <TaskMethod ID="M3" Cost="45500" DelayDuration="6w" DelayRisk="0.16667" Duration="20w"
+        Effect="0.6" Desc="Betere doorstroom"/>
+    </Task>
+    <Task AssetID="A83D" ID="T2" Desc="Opnieuw asfalteren" Payment="1000000">
+      <TaskMethod ID="M1" Cost="63750" DelayDuration="3w" DelayRisk="0.16667" Duration="12w"
+        Effect="0.5" Desc="Normaal"/>
+      <TaskMethod ID="M2" Cost="71000" DelayDuration="3w" DelayRisk="0.16667" Duration="12w"
+        Effect="0.8" Desc="Betere kwaliteit"/>
+      <TaskMethod ID="M3" Cost="69800" DelayDuration="3w" DelayRisk="0.16667" Duration="10w"
+        Effect="0.4" Desc="Versneld"/>
+    </Task>
+    <Task AssetID="A86H" ID="T3" Desc="Aanleg spitsstrook" Payment="270000">
+      <TaskMethod ID="M1" Cost="11680" DelayDuration="2w" DelayRisk="0.16667" Duration="8w"
+        Effect="0.6" Desc="Normaal"/>
+      <TaskMethod ID="M2" Cost="10740" DelayDuration="2w" DelayRisk="0.66667" Duration="8w"
+        Effect="0.6" Desc="Goedkoop"/>
+      <TaskMethod ID="M3" Cost="12200" DelayDuration="2w" DelayRisk="0.33333" Duration="8w"
+        Effect="0.6" Desc="Betere doorstroom"/>
+    </Task>
+    <Task AssetID="A93G" ID="T4" Desc="Vervanging DVM" Payment="200000">
+      <TaskMethod ID="M1" Cost="16800" DelayDuration="2w" DelayRisk="0.33333" Duration="5w"
+        Effect="0.4" Desc="Normaal"/>
+      <TaskMethod ID="M2" Cost="17200" DelayDuration="2w" DelayRisk="0.16667" Duration="5w"
+        Effect="0.4" Desc="Laag risico"/>
+      <TaskMethod ID="M3" Cost="14000" DelayDuration="2w" DelayRisk="0.33333" Duration="5w"
+        Effect="0.2" Desc="Goedkoop"/>
+    </Task>
+    <Task AssetID="A97B" ID="T5" Desc="Aanleg fietsbrug" Payment="110000">
+      <TaskMethod ID="M1" Cost="72000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.3" Desc="Normaal"/>
+      <TaskMethod ID="M2" Cost="75000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.5" Desc="Betere kwaliteit"/>
+      <TaskMethod ID="M3" Cost="72000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.3" Desc="Betere doorstroom"/>
+    </Task>
+  </Portfolio>
+  
+  <Portfolio ID="P3" Desc="Portfolio 3" IdleCost="0">
+    <Task AssetID="A80F" ID="T1" Desc="Verbreden van 2 naar 3 baans" Payment="1340000">
+      <TaskMethod ID="M1" Cost="45500" DelayDuration="6w" DelayRisk="0.16667" Duration="20w"
+        Effect="0.6" Desc="Normaal"/>
+      <TaskMethod ID="M2" Cost="48000" DelayDuration="6w" DelayRisk="0.33333" Duration="17w"
+        Effect="0.6" Desc="Versneld"/>
+      <TaskMethod ID="M3" Cost="45500" DelayDuration="6w" DelayRisk="0.16667" Duration="20w"
+        Effect="0.6" Desc="Betere doorstroom"/>
+    </Task>
+    <Task AssetID="A82C" ID="T2" Desc="Opnieuw asfalteren" Payment="1000000">
+      <TaskMethod ID="M1" Cost="63750" DelayDuration="3w" DelayRisk="0.16667" Duration="12w"
+        Effect="0.5" Desc="Normaal"/>
+      <TaskMethod ID="M2" Cost="71000" DelayDuration="3w" DelayRisk="0.16667" Duration="12w"
+        Effect="0.8" Desc="Betere kwaliteit"/>
+      <TaskMethod ID="M3" Cost="69800" DelayDuration="3w" DelayRisk="0.16667" Duration="10w"
+        Effect="0.4" Desc="Versneld"/>
+    </Task>
+    <Task AssetID="A83G" ID="T3" Desc="Aanleg spitsstrook" Payment="270000">
+      <TaskMethod ID="M1" Cost="11680" DelayDuration="2w" DelayRisk="0.16667" Duration="8w"
+        Effect="0.6" Desc="Normaal"/>
+      <TaskMethod ID="M2" Cost="10740" DelayDuration="2w" DelayRisk="0.66667" Duration="8w"
+        Effect="0.6" Desc="Goedkoop"/>
+      <TaskMethod ID="M3" Cost="12200" DelayDuration="2w" DelayRisk="0.33333" Duration="8w"
+        Effect="0.6" Desc="Betere doorstroom"/>
+    </Task>
+    <Task AssetID="A84A" ID="T4" Desc="Vervanging DVM" Payment="200000">
+      <TaskMethod ID="M1" Cost="16800" DelayDuration="2w" DelayRisk="0.33333" Duration="5w"
+        Effect="0.4" Desc="Normaal"/>
+      <TaskMethod ID="M2" Cost="17200" DelayDuration="2w" DelayRisk="0.16667" Duration="5w"
+        Effect="0.4" Desc="Laag risico"/>
+      <TaskMethod ID="M3" Cost="14000" DelayDuration="2w" DelayRisk="0.33333" Duration="5w"
+        Effect="0.2" Desc="Goedkoop"/>
+    </Task>
+    <Task AssetID="A92B" ID="T5" Desc="Aanleg fietsbrug" Payment="110000">
+      <TaskMethod ID="M1" Cost="72000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.3" Desc="Normaal"/>
+      <TaskMethod ID="M2" Cost="75000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.5" Desc="Betere kwaliteit"/>
+      <TaskMethod ID="M3" Cost="72000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.3" Desc="Betere doorstroom"/>
+    </Task>
+  </Portfolio>
+  
+  <Portfolio ID="P4" Desc="Portfolio 4" IdleCost="0">
+		<Task AssetID="A80H" ID="T1" Desc="Verbreden van 2 naar 3 baans" Payment="1340000">
+      <TaskMethod ID="M1" Cost="45500" DelayDuration="6w" DelayRisk="0.16667" Duration="20w"
+        Effect="0.6" Desc="Normaal"/>
+      <TaskMethod ID="M2" Cost="48000" DelayDuration="6w" DelayRisk="0.33333" Duration="17w"
+        Effect="0.6" Desc="Versneld"/>
+      <TaskMethod ID="M3" Cost="45500" DelayDuration="6w" DelayRisk="0.16667" Duration="20w"
+        Effect="0.6" Desc="Betere doorstroom"/>
+    </Task>
+    <Task AssetID="A82F" ID="T2" Desc="Opnieuw asfalteren" Payment="1000000">
+      <TaskMethod ID="M1" Cost="63750" DelayDuration="3w" DelayRisk="0.16667" Duration="12w"
+        Effect="0.5" Desc="Normaal"/>
+      <TaskMethod ID="M2" Cost="71000" DelayDuration="3w" DelayRisk="0.16667" Duration="12w"
+        Effect="0.8" Desc="Betere kwaliteit"/>
+      <TaskMethod ID="M3" Cost="69800" DelayDuration="3w" DelayRisk="0.16667" Duration="10w"
+        Effect="0.4" Desc="Versneld"/>
+    </Task>
+    <Task AssetID="A83F" ID="T3" Desc="Aanleg spitsstrook" Payment="270000">
+      <TaskMethod ID="M1" Cost="11680" DelayDuration="2w" DelayRisk="0.16667" Duration="8w"
+        Effect="0.6" Desc="Normaal"/>
+      <TaskMethod ID="M2" Cost="10740" DelayDuration="2w" DelayRisk="0.66667" Duration="8w"
+        Effect="0.6" Desc="Goedkoop"/>
+      <TaskMethod ID="M3" Cost="12200" DelayDuration="2w" DelayRisk="0.33333" Duration="8w"
+        Effect="0.6" Desc="Betere doorstroom"/>
+    </Task>
+    <Task AssetID="A93C" ID="T4" Desc="Vervanging DVM" Payment="200000">
+      <TaskMethod ID="M1" Cost="16800" DelayDuration="2w" DelayRisk="0.33333" Duration="5w"
+        Effect="0.4" Desc="Normaal"/>
+      <TaskMethod ID="M2" Cost="17200" DelayDuration="2w" DelayRisk="0.16667" Duration="5w"
+        Effect="0.4" Desc="Laag risico"/>
+      <TaskMethod ID="M3" Cost="14000" DelayDuration="2w" DelayRisk="0.33333" Duration="5w"
+        Effect="0.2" Desc="Goedkoop"/>
+    </Task>
+    <Task AssetID="A101C" ID="T5" Desc="Aanleg fietsbrug" Payment="110000">
+      <TaskMethod ID="M1" Cost="72000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.3" Desc="Normaal"/>
+      <TaskMethod ID="M2" Cost="75000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.5" Desc="Betere kwaliteit"/>
+      <TaskMethod ID="M3" Cost="72000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.3" Desc="Betere doorstroom"/>
+    </Task>
+  </Portfolio>
+
+  <Portfolio ID="P5" Desc="Portfolio 5" IdleCost="0">
+    <Task AssetID="A80D" ID="T1" Desc="Verbreden van 2 naar 3 baans" Payment="1340000">
+      <TaskMethod ID="M1" Cost="910000" DelayDuration="6w" DelayRisk="0.16667" Duration="20w"
+        Effect="0.4" Desc="Normaal"/>
+      <TaskMethod ID="M2" Cost="984000" DelayDuration="6w" DelayRisk="0.33333" Duration="17w"
+        Effect="0.4" Desc="Versneld"/>
+      <TaskMethod ID="M3" Cost="910000" DelayDuration="6w" DelayRisk="0.16667" Duration="20w"
+        Effect="0.4" Desc="Betere doorstroom"/>
+    </Task>
+    <Task AssetID="A83B" ID="T2" Desc="Opnieuw asfalteren" Payment="1000000">
+      <TaskMethod ID="M1" Cost="63750" DelayDuration="3w" DelayRisk="0.16667" Duration="12w"
+        Effect="0.5" Desc="Normaal"/>
+      <TaskMethod ID="M2" Cost="71000" DelayDuration="3w" DelayRisk="0.16667" Duration="12w"
+        Effect="0.8" Desc="Betere kwaliteit"/>
+      <TaskMethod ID="M3" Cost="69800" DelayDuration="3w" DelayRisk="0.16667" Duration="10w"
+        Effect="0.4" Desc="Versneld"/>
+    </Task>
+    <Task AssetID="A85B" ID="T3" Desc="Aanleg spitsstrook" Payment="270000">
+      <TaskMethod ID="M1" Cost="11680" DelayDuration="2w" DelayRisk="0.16667" Duration="8w"
+        Effect="0.6" Desc="Normaal"/>
+      <TaskMethod ID="M2" Cost="10740" DelayDuration="2w" DelayRisk="0.66667" Duration="8w"
+        Effect="0.6" Desc="Goedkoop"/>
+      <TaskMethod ID="M3" Cost="12200" DelayDuration="2w" DelayRisk="0.33333" Duration="8w"
+        Effect="0.6" Desc="Betere doorstroom"/>
+    </Task>
+    <Task AssetID="A99B" ID="T4" Desc="Vervanging DVM" Payment="200000">
+      <TaskMethod ID="M1" Cost="16800" DelayDuration="2w" DelayRisk="0.33333" Duration="5w"
+        Effect="0.4" Desc="Normaal"/>
+      <TaskMethod ID="M2" Cost="17200" DelayDuration="2w" DelayRisk="0.16667" Duration="5w"
+        Effect="0.4" Desc="Laag risico"/>
+      <TaskMethod ID="M3" Cost="14000" DelayDuration="2w" DelayRisk="0.33333" Duration="5w"
+        Effect="0.2" Desc="Goedkoop"/>
+    </Task>
+    <Task AssetID="A101B" ID="T5" Desc="Aanleg fietsbrug" Payment="110000">
+      <TaskMethod ID="M1" Cost="72000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.3" Desc="Normaal"/>
+      <TaskMethod ID="M2" Cost="75000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.5" Desc="Betere kwaliteit"/>
+      <TaskMethod ID="M3" Cost="72000" DelayDuration="1w" DelayRisk="0.16667" Duration="2w"
+        Effect="0.3" Desc="Betere doorstroom"/>
+    </Task>
+  </Portfolio>
+</Portfolios>

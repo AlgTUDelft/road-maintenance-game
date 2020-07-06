@@ -1,0 +1,39 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+	<ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'
+    xmlns:g='urn:import:com.google.gwt.user.client.ui'
+    xmlns:c="urn:import:plangame.gwt.client.widgets.controls"
+    xmlns:m="urn:import:plangame.gwt.client.widgets.map" xmlns:s="urn:import:plangame.gwt.client.widgets.scoretable">
+ 
+    <ui:with type="plangame.gwt.client.resource.ClientResource" field="res"></ui:with>
+    <ui:with type="plangame.gwt.client.resource.locale.Lang" field="lang" />
+    
+    <g:VerticalPanel ui:field="pnlMain" styleName="{res.endgamedialogcss.mainpanel}">
+      <!-- Title panel -->
+      <g:HorizontalPanel ui:field="pnlTitle" styleName="{res.endgamedialogcss.titlepanel}">
+        <g:Label ui:field="lblWelcomeTitle" styleName="{res.endgamedialogcss.resultstitle}" text="{lang.EndGameDialog_ResultsTitle}" />
+      </g:HorizontalPanel>
+
+      <!-- Profit score -->
+      <g:VerticalPanel>
+        <g:Label text="{lang.EndGameDialog_ProfitTitle}" styleName="{res.endgamedialogcss.tableheader}" />
+        <s:ScoreTableWidget ui:field="tblProfit" styleName="{res.endgamedialogcss.table}" height="150px" width="98%" />
+      </g:VerticalPanel>      
+
+      <!-- TTL score -->
+      <g:VerticalPanel>
+        <g:Label text="{lang.EndGameDialog_TTLTitle}" styleName="{res.endgamedialogcss.tableheader}" />
+        <s:ScoreTableWidget ui:field="tblTTL" styleName="{res.endgamedialogcss.table}" height="150px" width="98%" />
+      </g:VerticalPanel>      
+      
+      <!-- Network TTL score -->
+      <g:HorizontalPanel>
+        <g:Label text="{lang.EndGameDialog_NetworkTTLTitle}" styleName="{res.endgamedialogcss.totalttl}" />
+        <g:Label ui:field="lblNetworkTTL" styleName="{res.endgamedialogcss.totalttlvalue}" />
+      </g:HorizontalPanel>      
+    
+      <!-- Control panel -->
+      <g:HorizontalPanel styleName="{res.endgamedialogcss.ok}">
+        <g:Button ui:field="btnStart" text="{lang.Dialog_OK}" styleName="{res.endgamedialogcss.ok}" />
+      </g:HorizontalPanel>
+    </g:VerticalPanel>
+</ui:UiBinder>

@@ -1,0 +1,57 @@
+/** The panel containing the task info card */
+.infopanel {
+	text-align: center;
+	vertical-align: middle;
+}
+
+/** The task card */
+.taskcard {
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	height: 90%;
+	background: rgba( 150, 220, 255, 0.2);
+	border: 1px solid black;
+}
+
+/** The task name */
+.taskname {
+	margin-top: 10px;
+	font-size: large;
+	font-weight: bold;
+	text-align: center;
+}
+
+/** Long description text for a task */
+.taskdesc {
+	width: 90%;
+	text-align: justify;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/** The info table */
+.infogrid {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/** The method name */
+.methodname {
+	width: 95%;
+	margin-left: auto;
+	font-weight: bold;
+	font-size: large;
+}
+
+/** The key labels */
+.keylabel {
+	font-weight: bold;
+}
+
+/** The value labels */
+.valuelabel {
+	text-align: right;
+}

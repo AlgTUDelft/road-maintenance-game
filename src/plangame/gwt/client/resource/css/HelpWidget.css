@@ -1,0 +1,17 @@
+/**
+ * CSS for the help widget 
+ */
+ 
+/** Title of the widget */
+.title {
+	width: 90%;
+	font-weight: bold;
+	margin: 0px auto;
+	margin-top: 10px;
+}
+
+.text {
+	width: 90%;
+	margin: auto;
+	font-size: 8pt
+}

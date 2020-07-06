@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Game version="V1">
+  <Infrastructure Filename="infra.xml" />
+  <Tasks Filename="tasks.xml" />
+  <Portfolios Filename="portfolios.xml" />
+  
+  <Options>
+    <Duration Value="52w" />
+  </Options>
+</Game>

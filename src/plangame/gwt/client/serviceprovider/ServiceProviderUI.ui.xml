@@ -1,0 +1,53 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui"
+  xmlns:ctrl="urn:import:plangame.gwt.client.widgets.controller" 
+  xmlns:help="urn:import:plangame.gwt.client.widgets.help" 
+  xmlns:map="urn:import:plangame.gwt.client.widgets.map"
+  xmlns:plan="urn:import:plangame.gwt.client.widgets.plan"
+  xmlns:task="urn:import:plangame.gwt.client.widgets.taskinfo"
+  xmlns:f="urn:import:plangame.gwt.client.widgets.finance" 
+  xmlns:s="urn:import:plangame.gwt.client.widgets.scorebar"
+  xmlns:ttl="urn:import:plangame.gwt.client.widgets.ttl"
+  xmlns:m="urn:import:plangame.gwt.client.widgets.mechanism"
+  xmlns:t="urn:import:plangame.gwt.client.widgets.ttltimeline" xmlns:spo="urn:import:plangame.gwt.client.widgets.controls.spoptions">
+  
+  <ui:with type="plangame.gwt.client.resource.SPResource" field="spres"></ui:with>
+  <ui:with type="plangame.gwt.client.resource.locale.Lang" field="lang"></ui:with>
+  
+  <g:VerticalPanel styleName="{spres.spcss.mainpanel}">
+    <s:ScoreBarWidget ui:field="wdScoreBar" />
+    <g:HorizontalPanel>
+      <g:VerticalPanel>
+        <plan:PlanWidget ui:field="wdPlan" width="800px" height="200px" styleName="{spres.spcss.planning}" />
+        <g:HorizontalPanel>
+          <map:MapWidget ui:field="wdMap" height="250px" width="250px" styleName="{spres.spcss.map}" />
+          <g:HorizontalPanel ui:field="pnlTab" >
+            <g:TabLayoutPanel ui:field="tabMain" addStyleNames="{spres.spcss.infotable}" height="270px" width="500px" barHeight="32" barUnit="PX">
+              <g:tab>
+                <g:header><ui:text from="{lang.SP_FinanceTab}" /></g:header>
+                <f:FinanceWidget ui:field="wdFinance" />
+              </g:tab>
+              <g:tab>
+                <g:header><ui:text from="{lang.SP_TrafficTab}" /></g:header>
+                <ttl:TTLTableWidget ui:field="wdTTL" />
+              </g:tab>
+              <g:tab>
+                <g:header><ui:text from="{lang.SP_PlotsTab}" /></g:header>
+                <t:TTLTimelineWidget ui:field="wdPlot" />
+              </g:tab>
+              <g:tab>
+                <g:header><ui:text from="{lang.SP_OptionsTab}" /></g:header>
+                <spo:SPOptionsWidget ui:field="wdOptions" />
+              </g:tab>
+          </g:TabLayoutPanel>
+          </g:HorizontalPanel>
+        </g:HorizontalPanel>
+      </g:VerticalPanel>
+      <g:VerticalPanel styleName="{spres.spcss.controlpanel}" width="150px">
+        <ctrl:ControlWidget styleName="{spres.spcss.controller}" ui:field="wdController" width="100%" />
+        <help:HelpWidget styleName="{spres.spcss.help}" ui:field="wdHelp" width="100%" />  
+      </g:VerticalPanel>
+    </g:HorizontalPanel>
+  </g:VerticalPanel>
+</ui:UiBinder> 

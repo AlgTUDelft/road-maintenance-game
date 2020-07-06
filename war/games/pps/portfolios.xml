@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Portfolios>
+  <Portfolio ID="P1" Desc="Roze"  Tasks="T4;T7;T16;T18;" />
+  <Portfolio ID="P2" Desc="Blauw"  Tasks="T5;T9;T22;T24;" />
+  <Portfolio ID="P3" Desc="Wit" Tasks="T1;T11;T25;T27;" />
+  <Portfolio ID="P4" Desc="Zwart"   Tasks="T2;T13;T28;T30;" />
+  <Portfolio ID="P5" Desc="Rood"   Tasks="T3;T15;T19;T21;" />
+</Portfolios>

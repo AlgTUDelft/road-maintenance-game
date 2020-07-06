@@ -1,0 +1,8 @@
+/**
+ * CSS for the game state widget 
+ */
+ 
+/** The player status table */
+.playerstate {
+	height: 400px;
+}

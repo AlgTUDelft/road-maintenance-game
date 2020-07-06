@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Game version="V2" Description="AAMAS 2013 Demo Game">
+  <Infrastructure Filename="infra.xml" />
+  <Tasks Filename="tasks.xml" />
+  <Portfolios Filename="portfolio_conflict.xml" />
+  
+  <Options>
+    <Duration Value="52w" />
+  </Options>
+</Game>

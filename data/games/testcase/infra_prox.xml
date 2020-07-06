@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Infrastructure>
+  <Assets Filename="assets.xml" />
+
+  <TTLModel>  
+    <AssetRules Filename="asset_ttl.xml" />
+      
+    <NetworkRules Type="Proximity" Factors="1.5;1.4;1.3;1.2;1.1">
+    </NetworkRules>
+  </TTLModel>
+  
+  <Graph Filename="ruhrgebiet.svg.xml" />
+</Infrastructure>

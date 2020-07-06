@@ -1,0 +1,227 @@
+Log started Wed Nov 20 22:08:59 CET 2013
+Types of log messages: Event Info Warning Error Verbose System
+[22:09:00 S Server26050 (Info)] Server started
+[22:10:45 S Server26050 (Verbose)] Client 'SM957103' tries to reconnect
+[22:10:45 S Server26050 (Verbose)] Session with client 'SM957103' is expired
+[22:10:46 S Server26050 (Event)] Added client 'SM18178' to event map
+[22:10:46 S Server26050 (Info)] Client 'SM18178' connected to the server
+[22:10:46 C SM18178 (Event)] Started listening
+[22:10:46 C SM18178 (Info)] Successfully connected to main server
+[22:10:46 S Server26050 (Verbose)] Requested game server list
+[22:11:41 G Game786460 (Verbose)] Server changed state to 'Initialising'
+[22:11:41 G Game786460 (Info)] Game file 'games/roersteden/game.xml' loaded
+[22:11:41 G Game786460 (Info)] Gameserver 'Game786460' now active
+[22:11:41 S Server26050 (Info)] Game server with ID 'Game786460' has been created
+[22:11:47 C null (Verbose)] Changed state to 'Initialising'
+[22:11:47 S Server26050 (Verbose)] Client 'GM607029' tries to reconnect
+[22:11:47 S Server26050 (Verbose)] Session with client 'GM607029' is expired
+[22:11:47 S Server26050 (Event)] Added client 'GM682414' to event map
+[22:11:47 S Server26050 (Info)] Client 'GM682414' connected to the server
+[22:11:48 C GM682414 (Event)] Started listening
+[22:11:48 C GM682414 (Info)] Successfully connected to main server
+[22:11:48 S Server26050 (Verbose)] Requested game server list
+[22:12:03 C GM682414 (Verbose)] Changed state to 'Initialising'
+[22:12:03 C GM682414 (Info)] Successfully joined game server '[Game786460] Spel LVO dag (0 / 5)'
+[22:12:08 S Server26050 (Verbose)] Client 'SB510487' tries to reconnect
+[22:12:08 S Server26050 (Verbose)] Session with client 'SB510487' is expired
+[22:12:09 S Server26050 (Event)] Added client 'SB220927' to event map
+[22:12:09 S Server26050 (Info)] Client 'SB220927' connected to the server
+[22:12:09 C SB220927 (Event)] Started listening
+[22:12:09 C SB220927 (Info)] Successfully connected to main server
+[22:12:09 S Server26050 (Verbose)] Requested game server list
+[22:12:46 C SB220927 (Info)] Successfully joined game server '[Game786460] Spel LVO dag (0 / 5)'
+[22:12:55 S Server26050 (Verbose)] Client 'SP724799' tries to reconnect
+[22:12:55 S Server26050 (Verbose)] Session with client 'SP724799' is expired
+[22:12:55 S Server26050 (Verbose)] Client 'SP345094' tries to reconnect
+[22:12:55 S Server26050 (Verbose)] Session with client 'SP345094' is expired
+[22:12:55 S Server26050 (Event)] Added client 'SP461780' to event map
+[22:12:55 S Server26050 (Info)] Client 'SP461780' connected to the server
+[22:12:55 S Server26050 (Event)] Added client 'SP382376' to event map
+[22:12:55 S Server26050 (Info)] Client 'SP382376' connected to the server
+[22:12:56 C SP382376 (Event)] Started listening
+[22:12:56 C SP382376 (Info)] Successfully connected to main server
+[22:12:56 S Server26050 (Verbose)] Requested game server list
+[22:12:56 C SP461780 (Event)] Started listening
+[22:12:56 C SP461780 (Info)] Successfully connected to main server
+[22:12:56 S Server26050 (Verbose)] Requested game server list
+[22:12:59 S Server26050 (Verbose)] Client 'SP382371' tries to reconnect
+[22:12:59 S Server26050 (Verbose)] Session with client 'SP382371' is expired
+[22:13:02 S Server26050 (Verbose)] Client 'SP673219' tries to reconnect
+[22:13:02 S Server26050 (Verbose)] Session with client 'SP673219' is expired
+[22:13:02 S Server26050 (Event)] Added client 'SP255224' to event map
+[22:13:02 S Server26050 (Info)] Client 'SP255224' connected to the server
+[22:13:02 S Server26050 (Verbose)] Client 'SP808651' tries to reconnect
+[22:13:02 S Server26050 (Verbose)] Session with client 'SP808651' is expired
+[22:13:02 S Server26050 (Event)] Added client 'SP401519' to event map
+[22:13:02 S Server26050 (Info)] Client 'SP401519' connected to the server
+[22:13:03 C SP255224 (Event)] Started listening
+[22:13:03 C SP255224 (Info)] Successfully connected to main server
+[22:13:03 S Server26050 (Verbose)] Requested game server list
+[22:13:03 S Server26050 (Event)] Added client 'SP305725' to event map
+[22:13:03 S Server26050 (Info)] Client 'SP305725' connected to the server
+[22:13:03 C SP401519 (Event)] Started listening
+[22:13:03 C SP401519 (Info)] Successfully connected to main server
+[22:13:03 S Server26050 (Verbose)] Requested game server list
+[22:13:03 C SP305725 (Event)] Started listening
+[22:13:03 C SP305725 (Info)] Successfully connected to main server
+[22:13:03 S Server26050 (Verbose)] Requested game server list
+[22:13:52 S Server26050 (Event)] Event 'Join Game' fired for client SB220927
+[22:13:52 S Server26050 (Event)] Event 'Join Game' fired for client GM682414
+[22:13:52 S Server26050 (Event)] Event 'Update Client State Event' fired for client SP461780
+[22:13:52 S Server26050 (Event)] Event 'Update Client State Event' fired for client GM682414
+[22:13:52 G Game786460 (Verbose)] Changed state of client 'SP461780' to AwaitingPortfolio
+[22:13:52 C SB220927 (Event)] Received event 'Join Game', sender ID: Game786460
+[22:13:53 C GM682414 (Event)] Received event 'Join Game', sender ID: Game786460
+[22:13:53 C GM682414 (Event)] Received event 'Update Client State Event', sender ID: Game786460
+[22:13:54 S Server26050 (Event)] Event 'Join Game' fired for client SB220927
+[22:13:54 S Server26050 (Event)] Event 'Join Game' fired for client GM682414
+[22:13:54 S Server26050 (Event)] Event 'Update Client State Event' fired for client SP382376
+[22:13:54 S Server26050 (Event)] Event 'Update Client State Event' fired for client GM682414
+[22:13:54 G Game786460 (Verbose)] Changed state of client 'SP382376' to AwaitingPortfolio
+[22:13:54 C SB220927 (Event)] Received event 'Join Game', sender ID: Game786460
+[22:13:55 C GM682414 (Event)] Received event 'Join Game', sender ID: Game786460
+[22:13:55 C GM682414 (Event)] Received event 'Update Client State Event', sender ID: Game786460
+[22:13:56 S Server26050 (Event)] Event 'Join Game' fired for client SB220927
+[22:13:56 S Server26050 (Event)] Event 'Join Game' fired for client GM682414
+[22:13:56 S Server26050 (Event)] Event 'Update Client State Event' fired for client SP255224
+[22:13:56 S Server26050 (Event)] Event 'Update Client State Event' fired for client GM682414
+[22:13:56 G Game786460 (Verbose)] Changed state of client 'SP255224' to AwaitingPortfolio
+[22:13:56 C SB220927 (Event)] Received event 'Join Game', sender ID: Game786460
+[22:13:57 C GM682414 (Event)] Received event 'Join Game', sender ID: Game786460
+[22:13:57 C GM682414 (Event)] Received event 'Update Client State Event', sender ID: Game786460
+[22:13:57 C SP255224 (Info)] Successfully joined game server '[Game786460] Spel LVO dag (3 / 5)'
+[22:13:57 C SP255224 (Event)] Received event 'Update Client State Event', sender ID: Game786460
+[22:13:57 C SP255224 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[22:13:57 C SP382376 (Info)] Successfully joined game server '[Game786460] Spel LVO dag (2 / 5)'
+[22:13:57 C SP382376 (Event)] Received event 'Update Client State Event', sender ID: Game786460
+[22:13:57 C SP382376 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[22:13:58 C SP461780 (Info)] Successfully joined game server '[Game786460] Spel LVO dag (1 / 5)'
+[22:13:58 C SP461780 (Event)] Received event 'Update Client State Event', sender ID: Game786460
+[22:13:58 C SP461780 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[22:14:00 S Server26050 (Event)] Event 'Join Game' fired for client SB220927
+[22:14:00 S Server26050 (Event)] Event 'Join Game' fired for client GM682414
+[22:14:00 S Server26050 (Event)] Event 'Update Client State Event' fired for client SP401519
+[22:14:00 S Server26050 (Event)] Event 'Update Client State Event' fired for client GM682414
+[22:14:00 G Game786460 (Verbose)] Changed state of client 'SP401519' to AwaitingPortfolio
+[22:14:00 C SB220927 (Event)] Received event 'Join Game', sender ID: Game786460
+[22:14:00 C SP401519 (Info)] Successfully joined game server '[Game786460] Spel LVO dag (4 / 5)'
+[22:14:00 C SP401519 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[22:14:00 C SP401519 (Event)] Received event 'Update Client State Event', sender ID: Game786460
+[22:14:01 C GM682414 (Event)] Received event 'Join Game', sender ID: Game786460
+[22:14:01 C GM682414 (Event)] Received event 'Update Client State Event', sender ID: Game786460
+[22:14:02 S Server26050 (Event)] Event 'Join Game' fired for client SB220927
+[22:14:02 S Server26050 (Event)] Event 'Join Game' fired for client GM682414
+[22:14:02 S Server26050 (Event)] Event 'Update Client State Event' fired for client SP305725
+[22:14:02 S Server26050 (Event)] Event 'Update Client State Event' fired for client GM682414
+[22:14:02 G Game786460 (Verbose)] Changed state of client 'SP305725' to AwaitingPortfolio
+[22:14:03 C SB220927 (Event)] Received event 'Join Game', sender ID: Game786460
+[22:14:03 C SP305725 (Info)] Successfully joined game server '[Game786460] Spel LVO dag (5 / 5)'
+[22:14:03 C SP305725 (Event)] Received event 'Update Client State Event', sender ID: Game786460
+[22:14:03 C SP305725 (Verbose)] Changed client state to 'AwaitingPortfolio'
+[22:14:03 C GM682414 (Event)] Received event 'Join Game', sender ID: Game786460
+[22:14:03 C GM682414 (Event)] Received event 'Update Client State Event', sender ID: Game786460
+[22:14:08 S Server26050 (Event)] Event 'Assign Portfolio Event' fired for client SP461780
+[22:14:08 S Server26050 (Event)] Event 'Assign Portfolio Event' fired for client SB220927
+[22:14:08 S Server26050 (Event)] Event 'Assign Portfolio Event' fired for client GM682414
+[22:14:08 S Server26050 (Event)] Event 'Update Client State Event' fired for client SP461780
+[22:14:08 S Server26050 (Event)] Event 'Update Client State Event' fired for client GM682414
+[22:14:08 G Game786460 (Verbose)] Changed state of client 'SP461780' to WaitingToStart
+[22:14:08 C GM682414 (Event)] Received event 'Assign Portfolio Event', sender ID: Game786460
+[22:14:08 C GM682414 (Event)] Received event 'Update Client State Event', sender ID: Game786460
+[22:14:09 C SP461780 (Event)] Received event 'Assign Portfolio Event', sender ID: Game786460
+[22:14:09 C SP461780 (Event)] Received event 'Update Client State Event', sender ID: Game786460
+[22:14:09 C SP461780 (Verbose)] Changed client state to 'WaitingToStart'
+[22:14:09 C SB220927 (Event)] Received event 'Assign Portfolio Event', sender ID: Game786460
+[22:14:11 S Server26050 (Event)] Event 'Assign Portfolio Event' fired for client SP382376
+[22:14:11 S Server26050 (Event)] Event 'Assign Portfolio Event' fired for client SB220927
+[22:14:11 S Server26050 (Event)] Event 'Assign Portfolio Event' fired for client GM682414
+[22:14:11 S Server26050 (Event)] Event 'Update Client State Event' fired for client SP382376
+[22:14:11 S Server26050 (Event)] Event 'Update Client State Event' fired for client GM682414
+[22:14:11 G Game786460 (Verbose)] Changed state of client 'SP382376' to WaitingToStart
+[22:14:12 C GM682414 (Event)] Received event 'Update Client State Event', sender ID: Game786460
+[22:14:12 C GM682414 (Event)] Received event 'Assign Portfolio Event', sender ID: Game786460
+[22:14:12 C SP382376 (Event)] Received event 'Assign Portfolio Event', sender ID: Game786460
+[22:14:12 C SP382376 (Verbose)] Changed client state to 'WaitingToStart'
+[22:14:12 C SP382376 (Event)] Received event 'Update Client State Event', sender ID: Game786460
+[22:14:12 C SB220927 (Event)] Received event 'Assign Portfolio Event', sender ID: Game786460
+[22:14:14 S Server26050 (Event)] Event 'Assign Portfolio Event' fired for client SP255224
+[22:14:14 S Server26050 (Event)] Event 'Assign Portfolio Event' fired for client SB220927
+[22:14:14 S Server26050 (Event)] Event 'Assign Portfolio Event' fired for client GM682414
+[22:14:14 S Server26050 (Event)] Event 'Update Client State Event' fired for client SP255224
+[22:14:14 S Server26050 (Event)] Event 'Update Client State Event' fired for client GM682414
+[22:14:14 G Game786460 (Verbose)] Changed state of client 'SP255224' to WaitingToStart
+[22:14:15 C GM682414 (Event)] Received event 'Update Client State Event', sender ID: Game786460
+[22:14:15 C GM682414 (Event)] Received event 'Assign Portfolio Event', sender ID: Game786460
+[22:14:16 C SB220927 (Event)] Received event 'Assign Portfolio Event', sender ID: Game786460
+[22:14:16 C SP255224 (Event)] Received event 'Assign Portfolio Event', sender ID: Game786460
+[22:14:16 C SP255224 (Event)] Received event 'Update Client State Event', sender ID: Game786460
+[22:14:16 C SP255224 (Verbose)] Changed client state to 'WaitingToStart'
+[22:14:18 S Server26050 (Event)] Event 'Assign Portfolio Event' fired for client SP401519
+[22:14:18 S Server26050 (Event)] Event 'Assign Portfolio Event' fired for client SB220927
+[22:14:18 S Server26050 (Event)] Event 'Assign Portfolio Event' fired for client GM682414
+[22:14:18 S Server26050 (Event)] Event 'Update Client State Event' fired for client SP401519
+[22:14:18 S Server26050 (Event)] Event 'Update Client State Event' fired for client GM682414
+[22:14:18 G Game786460 (Verbose)] Changed state of client 'SP401519' to WaitingToStart
+[22:14:18 C SB220927 (Event)] Received event 'Assign Portfolio Event', sender ID: Game786460
+[22:14:19 C GM682414 (Event)] Received event 'Assign Portfolio Event', sender ID: Game786460
+[22:14:19 C GM682414 (Event)] Received event 'Update Client State Event', sender ID: Game786460
+[22:14:19 C SP401519 (Event)] Received event 'Assign Portfolio Event', sender ID: Game786460
+[22:14:19 C SP401519 (Verbose)] Changed client state to 'WaitingToStart'
+[22:14:19 C SP401519 (Event)] Received event 'Update Client State Event', sender ID: Game786460
+[22:14:22 S Server26050 (Event)] Event 'Assign Portfolio Event' fired for client SP305725
+[22:14:22 S Server26050 (Event)] Event 'Assign Portfolio Event' fired for client SB220927
+[22:14:22 S Server26050 (Event)] Event 'Assign Portfolio Event' fired for client GM682414
+[22:14:22 S Server26050 (Event)] Event 'Update Client State Event' fired for client SP305725
+[22:14:22 S Server26050 (Event)] Event 'Update Client State Event' fired for client GM682414
+[22:14:22 G Game786460 (Verbose)] Changed state of client 'SP305725' to WaitingToStart
+[22:14:22 C GM682414 (Event)] Received event 'Assign Portfolio Event', sender ID: Game786460
+[22:14:22 C GM682414 (Event)] Received event 'Update Client State Event', sender ID: Game786460
+[22:14:22 C SP305725 (Event)] Received event 'Assign Portfolio Event', sender ID: Game786460
+[22:14:22 C SP305725 (Event)] Received event 'Update Client State Event', sender ID: Game786460
+[22:14:22 C SP305725 (Verbose)] Changed client state to 'WaitingToStart'
+[22:14:22 C SB220927 (Event)] Received event 'Assign Portfolio Event', sender ID: Game786460
+[22:14:24 G Game786460 (Verbose)] Server changed state to 'Starting'
+[22:14:24 S Server26050 (Event)] Event 'Update state event' fired for client GM682414
+[22:14:24 S Server26050 (Event)] Event 'Start game event' fired for client SP255224
+[22:14:24 S Server26050 (Event)] Event 'Start game event' fired for client SP305725
+[22:14:24 S Server26050 (Event)] Event 'Start game event' fired for client SP382376
+[22:14:24 S Server26050 (Event)] Event 'Start game event' fired for client SP401519
+[22:14:24 S Server26050 (Event)] Event 'Start game event' fired for client SP461780
+[22:14:24 S Server26050 (Event)] Event 'Start game event' fired for client GM682414
+[22:14:24 S Server26050 (Event)] Event 'Start game event' fired for client SB220927
+[22:14:24 S Server26050 (Event)] Event broadcast notified 7 client(s), sender: Game786460
+[22:14:24 G Game786460 (Verbose)] Server changed state to 'Idle'
+[22:14:24 S Server26050 (Event)] Event 'Update state event' fired for client GM682414
+[22:14:24 S Server26050 (Event)] Event 'Update Client State Event' fired for client SP255224
+[22:14:24 S Server26050 (Event)] Event 'Update Client State Event' fired for client SP305725
+[22:14:24 S Server26050 (Event)] Event 'Update Client State Event' fired for client SP382376
+[22:14:24 S Server26050 (Event)] Event 'Update Client State Event' fired for client SP401519
+[22:14:24 S Server26050 (Event)] Event 'Update Client State Event' fired for client SP461780
+[22:14:24 S Server26050 (Event)] Event 'Update Client State Event' fired for client GM682414
+[22:14:24 G Game786460 (Verbose)] Changed state of client 'SP255224' to Idle
+[22:14:24 G Game786460 (Verbose)] Changed state of client 'SP305725' to Idle
+[22:14:24 G Game786460 (Verbose)] Changed state of client 'SP382376' to Idle
+[22:14:24 G Game786460 (Verbose)] Changed state of client 'SP401519' to Idle
+[22:14:24 G Game786460 (Verbose)] Changed state of client 'SP461780' to Idle
+[22:14:24 C GM682414 (Verbose)] Changed state to 'Starting'
+[22:14:24 C GM682414 (Event)] Received event 'Start game event', sender ID: Game786460
+[22:14:24 C GM682414 (Verbose)] Changed state to 'Idle'
+[22:14:24 C GM682414 (Event)] Received event 'Update state event', sender ID: Game786460
+[22:14:24 C GM682414 (Event)] Received event 'Update state event', sender ID: Game786460
+[22:14:24 C GM682414 (Event)] Received event 'Update Client State Event', sender ID: Game786460
+[22:14:31 C SP305725 (Event)] Received event 'Start game event', sender ID: Game786460
+[22:14:31 C SP305725 (Event)] Received event 'Update Client State Event', sender ID: Game786460
+[22:14:31 C SP305725 (Verbose)] Changed client state to 'Idle'
+[22:14:31 C SP382376 (Event)] Received event 'Start game event', sender ID: Game786460
+[22:14:31 C SP382376 (Verbose)] Changed client state to 'Idle'
+[22:14:31 C SP382376 (Event)] Received event 'Update Client State Event', sender ID: Game786460
+[22:14:33 C SP401519 (Event)] Received event 'Start game event', sender ID: Game786460
+[22:14:33 C SP401519 (Event)] Received event 'Update Client State Event', sender ID: Game786460
+[22:14:33 C SP461780 (Event)] Received event 'Start game event', sender ID: Game786460
+[22:14:33 C SP401519 (Verbose)] Changed client state to 'Idle'
+[22:14:33 C SP461780 (Verbose)] Changed client state to 'Idle'
+[22:14:33 C SP461780 (Event)] Received event 'Update Client State Event', sender ID: Game786460
+[22:14:33 C SP255224 (Event)] Received event 'Start game event', sender ID: Game786460
+[22:14:33 C SP255224 (Event)] Received event 'Update Client State Event', sender ID: Game786460
+[22:14:33 C SP255224 (Verbose)] Changed client state to 'Idle'
+[22:14:33 C SB220927 (Event)] Received event 'Start game event', sender ID: Game786460
